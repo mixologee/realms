@@ -1,0 +1,20 @@
+&R                        Realms of Kuvia
+&c             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+-------------------------------------------------------------------
+News file [&C6&c]. Type NEWS 6 to re-read this article at a later date.
+-------------------------------------------------------------------&n
+
+We have ported over to a new codebase. Please see one of the gods
+for assistance with regain of levels. The eq will not be given back.
+Isntead we will supply you with ore and gems to make some new eq so
+you will not be naked. You can make your eq then improve it at the 
+armorer. If you need help, please read the help smith and help improve 
+files or ask a god. Equipment can be repaired at the blacksmith when
+it has been damaged.

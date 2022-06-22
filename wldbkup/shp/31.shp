@@ -1,0 +1,55 @@
+CircleMUD v3.0 Shop File~
+#3100~
+3109
+3128
+3129
+3127
+-1
+1.25
+0.85
+8
+5
+9
+-1
+%s I don't sell that kind of junk!~
+%s Bah! You thieving scoundrel!  You don't have that!~
+%s Bah, what use does a pirate have for that?!~
+%s Aye, you're too rich for my taste!~
+%s Get out of here you begger!  Come back when you have some loot!~
+%s Aye, that'll be %d coins, land-lubber.~
+%s Argh, I suppose I'll give ye %d for it.~
+0
+0
+3105
+0
+3123
+-1
+0
+28
+0
+0
+#3101~
+3123
+3124
+3125
+-1
+0.01
+1.00
+-1
+%s Sorry, but I don't seem to have that item.~
+%s Sorry, but you don't seem to have that.~
+%s Sorry, but I don't trade in such items.~
+%s Sorry, but I just can't afford that.~
+%s Sorry, but you just don't have the money.~
+%s Thank you very much.  That will be %d coins.~
+%s I suppose I can spare %d coins for that.~
+0
+1
+3111
+0
+-1
+0
+28
+0
+0
+$~

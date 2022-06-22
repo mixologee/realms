@@ -1,0 +1,117 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+                   ::::    ::: :::::::::: :::       :::  :::::::: 
+                  :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+                 :+:+:+  +:+ +:+        +:+       +:+ +:+         
+                +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+               +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+              #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+             ###    #### ##########   ###   ###    ########   
+                                          
+-------------------------------------------------------------------
+News file [&C8&c]. Type NEWS 8 to re-read this article at a later date.
+-------------------------------------------------------------------&n
+
+&YNew Features&n
+
+Weapon and equipment proccing is in!  If anyone needs any weapon or
+equipment to proc let Slurk know.  The information that is needed
+will be listed below.  Currently procs happen on a per condition 
+basis, not on every change of condition, but rather everytime you 
+see the condition of the victim pass on the screen.  I believe 
+currently we see this 2x per round, so theres a chance of proc
+2x per round as it stands now.
+
+Information Needed:
+
+Txt to char
+Txt to vict
+Chance of proc (see below for descript)
+What # >= or <= that the proc may trigger on (see below)
+Damage Amnt (see below)
+Any spells it may apply
+ - duration of spell
+ - spell name
+Equipment Location (HEAD, WIELD, HOLD, etc)
+Equipment Vnum
+
+
+*Chance of Proc and What # to proc at
+  In order to calculate the chance for a proc to happen we need to
+  allow the game to roll the dice, based in the same fashion as 
+  weapon dice.  So if you say you want to have the game roll the
+  dice as a 13d9 (Max90 Avg50 Min10) and the chance of proc is
+  set at >= 50, everytime the dice rolled 50 or above the proc
+  has the ability to trigger.
+
+*Damage Amount
+  This is also rolled as a dice roll of #d#.  We can also roll 
+  it as a random number between # and #, that is up to you.
+
+Below is an example of a test weapon that uses proccing, the 
+code is commented so you can understand it better.
+
+-=-=-=-=-=-=-CODE BELOW-=-=-=-=-=-=-=-=-=-=-
+
+
+if  (GET_EQ(ch, WEAR_WIELD) && 
+    GET_OBJ_VNUM(GET_EQ(ch, WEAR_WIELD)) == 6898) {
+    // The above says, if you are wielding something, and
+    // it is the vnum of 6989 move on to the next step  
+
+    DamAmnt = dice(10,9);
+    // The above is the dice roll for the amount of damage
+    // In this case its (Max90 Avg50 Min10)
+
+    Dice = dice(10, 3);
+    // The above is a second roll to help determine what proc
+    // message you might see, we can set multiple up based
+    // on the # that is rolled from this roll (see below)
+
+    if (DamAmnt >= 60) {
+    // The above says if the 1st roll is a 60 or above to move on
+
+      if (Dice <= 20) {
+      // The above says that if the 2nd roll is 20 or less, show
+      // the below message (at this point we can set a 2nd
+      // damage amnount instead if we wanted to
+
+        act("Bolts of electricity appear from the dagger 
+             striking $n!", FALSE, vict, 0, 0, TO_ROOM);
+        act("Bolts of electricity appear from the dagger 
+             striking you!", FALSE, vict, 0, 0, TO_VICT);
+      }
+      // The above is the attack message seen in the room
+      // and to the victim and ends the 2nd if statment
+
+
+      if (Dice >= 21) {
+      // The above says if the 2nd roll is 21 or greater, show
+      // the below message (again can set another dam #)
+  
+        act("Waves of fire spew forth from the dagger 
+            engulfing $n in flames!", FALSE, vict, 0, 0, TO_ROOM);
+        act("Waves of fire spew forth from the dagger 
+            engulfing you in flames!", FALSE, vict, 0, 0, TO_VICT);
+      }
+      // The aboe is the message for the othe roll, closes if
+    
+
+      GET_HIT(vict) -= DamAmnt;
+      // The above does the damage to the victim based on the
+      // very first roll of 10d9, like stated above, we can
+      // set multiple damage amounts based on rolls if we want
+      // however, do not get out of hand with this!
+
+
+Thats enough for now, if you want procs, hit me up!
+
+Enjoy
+
+&C-S&n

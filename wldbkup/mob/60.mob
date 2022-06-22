@@ -1,0 +1,29 @@
+#6000
+Robot mech~
+T-Mech 420a69~
+A massive battle mech stands here menacingly.
+~
+This beast of a machine is unlike anything you have ever seen. Standing
+roughly 20 feet, it is fully armored and equipped with rockets, sub-machine
+guns, and a large laser on it's shoulder.
+~
+260121 0 0 0 73808 0 0 0 0 E
+32 -30 -10 10d150+30000 30d127+50
+0 1
+8 8 0
+E
+#6001
+snack girl~
+the sexy snack girl~
+A sexy snack girl is minding the counter.
+~
+   This girl spends most of her time relaxing behind the counter.  Hopefully
+she'll put down her magazine long enough to sell you something.  She doesn't get
+paid much, so she doesn't care much either.  
+~
+188426 0 0 0 0 0 0 0 100 E
+20 19 10 1d1+20000 20d20+1
+1000 1
+8 8 2
+E
+$

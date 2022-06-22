@@ -1,0 +1,210 @@
+#2200
+The old man~
+an old, crazy man~
+An old man stands here, peering intently at the old worn coats and jackets.
+~
+The old man is adorned in a tall, black smoking jacket, and silk pajama pants.
+He's holding a lit pipe in one hand, and an ornate black cane in the other.  
+After a moment or two, the left side of his body twitches with an un-natural
+energy.  As he peers up at you, the insane gleam in his eyes sends a shiver down
+your spine.  
+~
+2570 0 0 0 131072 0 0 0 -250 E
+15 -5 4 10d20+635 6d6+20
+1200 130000
+8 8 1
+BareHandAttack: 5
+E
+#2201
+girl ghost twisted~
+the twisted ghost of a little girl~
+The twisted ghost of a little girl
+~
+This spectre of a little girl is a chaotic mirror of her past life.  Always
+twisting into many forms, taking on new expressions, always sad or angry or
+violent.  Tendrils of mist and shadow seem to grasp, and pull at her, and at
+you.  When she catches your eye, you see nothing but blackness, and can not
+shake the feeling of immense sorrow.  
+~
+157722 0 0 0 131072 0 0 0 -500 E
+17 -1 3 5d10+725 6d6+17
+1100 200000
+8 8 2
+BareHandAttack: 9
+E
+#2202
+ghost~
+a shadowy figure~
+A shadowy figure hovers near.
+~
+This shadowy figure seems to flit in and out of view.  It's shape is always
+changing, yet remaining humanoid.  It barely seems to notice your attention,
+reliving whatever life it had in the past.  
+~
+165992 0 0 0 131080 0 0 0 -300 E
+13 5 4 6d10+450 5d5+10
+900 113000
+8 8 0
+BareHandAttack: 2
+E
+#2203
+lumbering hulk~
+a large, lumbering hulk.~
+A large, lumbering hulk stands here, perfectly still.
+~
+What appears to be a strange machine stands here.  It is huge, and humanoid in
+shape.  Instead of hands, though, it has a large sword on one arm, and a shield
+on the other.  At first standing completely still, statuesque, when you turn
+your attention to it, it whirs into life, and begins to attack.  
+~
+2154 0 0 0 16 0 0 0 -500 E
+17 2 4 8d10+625 8d4+18
+2300 115300
+8 8 0
+E
+#2204
+flesh golem~
+the flesh golem~
+What appears to be bits of broken bone, flesh, and innards stands here in a roughly humanoid shape.
+~
+This pile of roughly humanoid, rotted flesh and bone stands here, writhing and
+jerking, convulsing sickeningly.  It's enough to make your stomach turn, as
+liquids and gas excapes from it's many orifices.  As it notices you, it begins
+to shamble towards you, grunting, belching, and moaning the whole time.  
+~
+26666 0 0 0 132096 0 0 0 -750 E
+18 2 6 10d12+600 6d4+15
+9000 225000
+8 8 0
+BareHandAttack: 6
+E
+#2205
+large spider~
+a large spider~
+A large spider hides in the corner.
+~
+This spider is much bigger than his cousins, maybe two feet in length.  It's
+eight eyes seem to be searching, and it's dripping fangs warn of a deadly bite.
+
+~
+40 0 0 0 0 0 0 0 -200 E
+11 -1 5 4d4+350 4d5+15
+900 91000
+8 8 0
+BareHandAttack: 4
+E
+#2206
+blade golem~
+a blade golem~
+What appears to be several limbs attached to many blades stands here, whirring.
+~
+Made of black steel, this automation whirs and clicks, as it passes quickly
+through the room.  Several limbs are attached to many blades, with strange tubes
+and wires jutting out at various places.  
+~
+2152 0 0 0 0 0 0 0 0 E
+18 2 4 5d6+650 5d8+10
+1800 250000
+8 8 0
+BareHandAttack: 3
+E
+#2207
+twisted spectre~
+an incorporeal spectre~
+An incorporeal whisp of blue light floats here, lazily wafting through the room.
+~
+It looks unfinished.  This lonesome spectre seems to be floating through both
+time and space.  It barely notices your existence, as it wanders these lonely
+passages, reliving whatever past life it used to live.  
+~
+2152 0 0 0 132100 0 0 0 0 E
+17 3 3 10d10+525 4d8+10
+1250 185000
+8 8 0
+BareHandAttack: 10
+E
+#2208
+ghastly chef~
+the spectral cook~
+A ghastly chef stands here, solumnly performing the duties of a life from the past.
+~
+A ghastly apparition stands here, opaque, yet not whispy or smoky.  He performs
+the tasks he once performed in life, making the motions of a very practiced
+chef, yet manipulating nothing that you can see.  He barely notices you, until
+you come closer, at which point, his vacant eyes catch yours, and a glimmer of
+hate, and rage, pierces into your soul.  
+~
+2106 0 0 0 131072 0 0 0 -100 E
+17 -3 3 5d10+400 5d6+15
+1300 180000
+8 8 0
+BareHandAttack: 10
+E
+#2209
+huge marble golem~
+the marble golem~
+A huge, towering marble statue stands here.
+~
+As you look closer at the statue, you notice that it's moving.  Bit's of flesh,
+and sinew can be seen connecting various joints and limbs, in a grotesque
+mockery of life, an unnatural combination of flesh and stone.  The statues deep,
+saphire eyes penetrate your soul, and the malice within them can be felt through
+out the room.  
+~
+2106 0 0 0 196624 0 0 0 -300 E
+19 -1 3 10d10+650 4d8+19
+2500 285000
+8 8 0
+BareHandAttack: 9
+E
+#2210
+chain demon~
+a demon of chains~
+A combination of chains and flesh flays about, moving with an unnatural grace.
+~
+You see a unearthly, vaguely humanoid creature here made of metal and flesh.  
+It's limbs and appendages are made of both chains, and bit's of flesh, with
+vital organs visible beneath it's metallic carapace.  It's body is always
+completely reforming itself, with limbs constantly disappearing and reappearing
+into the main part of it's body.  The one constant is the dark red eyes peering
+out from a chain hood, glowing intensely as it closes for battle with you.  
+~
+2106 0 0 0 197648 0 0 0 -350 E
+19 -1 3 6d10+425 4d6+15
+1300 290000
+8 8 0
+BareHandAttack: 2
+E
+#2211
+mad scientist~
+a mad scientist~
+A mad scientist stands here, pondering the unponderable.
+~
+The scientist is very clean cut, with smooth black hair.  He wears a black vinyl
+trench coat, with rubber gloves.  He barely looks up as you enter the room, lost
+somewhere deep in thought.  
+~
+6154 0 0 0 65536 0 0 0 -150 E
+19 -3 5 5d10+650 6d6+17
+1600 295000
+8 8 0
+E
+#2212
+The master~
+the Master~
+The Master stands here, deep in thought.
+~
+A man stands here, pondering the imponderable.  He looks as though he could
+blend into any crowd, with almost nondescript features.  He wears brown
+trousers, which are cut a bit long, and icy, black shoes, gleaming in the
+unnatural light.  His jacket is very fine, and he smiles as he notices you.  It
+is then that you realise that his eyes are nearly all black, with a small rim of
+white around the edges.  
+~
+43066 0 0 0 131072 0 0 0 -500 E
+19 -8 2 16d12+1500 3d8+22
+3600 298000
+8 8 0
+BareHandAttack: 11
+E
+$

@@ -1,0 +1,533 @@
+&G AC
+
+&W"&GAC&W" is your armor class.  It is a number from -100 to 100, roughly
+defined as follows:
+
+
+  &GAC  &WRoughly equivalent to
+&G-----------------------------------------------------------
+  &W100  Naked person
+   0  Very Heavily armored (Plate mail, and "two shields") 
+ -100  Armored battle tank
+
+See also: &GSCORE&n
+#
+&G ALIGNMENT
+
+Alignment &Wmeasures how good or evil you are. 1000 is pure good, -1000 is
+pure evil. This determines what what &Geq &Wyou can wear, and sometimes it
+will also determine if a mob attacks you.&n
+#
+&G AREAS ZONES
+
+   &WThis is a listing of the playable areas available in The Game.
+
+&CLimbo                           &B-- &CDikuMud
+&CHidden Pirate Horde             &B-- &CBluntmaster
+&CPirate School of Hardknocks     &B-- &CBluntmaster
+&CWilderness                      &B-- &GTek &Wand &CBluntmaster 
+&CThe Fighting Pits               &B-- &CBluntmaster
+&CCastle Smoke                    &B-- &CBluntmaster
+&CCastle Blaze                    &B-- &CBluntmaster
+&CThe House Of Tolerance          &B-- &CBluntmaster 
+&CThe Never Ending Party          &B-- &CBluntmaster
+&CThe Pirate Farm                 &B-- &CBluntmaster
+&CPirate Farm Bunkhouses          &B-- &CBluntmaster
+&CPirate Farm Messhall            &B-- &CBluntmaster
+&CThe Lakeside Hotel              &B-- &GTek
+&CThe Chasm                       &B-- &GTek
+&CThe City                        &B-- &GTek
+&CThe City Housing Projects       &B-- &GTek
+&CAncient Sewers of Tek           &B-- &GTek
+&CLowers Sewers of Tek            &B-- &GTek
+&CThe City Sewers                 &B-- &GTek
+&CVictoria                        &B-- &YSilas&n
+&CSilverwood Forest               &B-- &YAlenus&n
+#
+&G BLOOD
+&cEvery time you kill another player, you get blood on your hands. The
+amount of blood varies depending on the level of the players. If you
+are a higher level than the target, you will get more blood than if you
+are equal or lower level. This really only has an affect currently on
+outlaws. If you have blood and are not an outlaw, this will have no real
+affect on you as of yet.
+
+READ ALSO: OUTLAW, NPK, CPK
+#
+&G BOARDS
+
+&WBulletin boards are the forum of inter-player communication on the MUD.
+There are different bulletin boards for different purposes -- for example,
+a standard mortal board, a board for immortals, a board for fun "social"
+messages, etc.  Naturally, not all players may be allowed to read all
+types of boards.
+
+Type "&GLOOK BOARD&W" to see the messages already posted on a board.  Type
+"&GWRITE &W<subject>" to post a message to a board; terminate a message with
+a '@' as the first character on a line.  Type "&GREAD &W<number>" to read a
+post.  Type "&GREMOVE &W<number>" to remove your own messages.
+
+Example:
+
+  > &Glook &Wat &Gboard
+  &W> &Gwrite &WAm I using these boards correctly?
+  [writes the message; terminates with a '@']
+  > &Glook &Wat &Gboard
+  &W> &Gread &W6
+  > &Gremove &W6
+
+See also: &GMAIL&W, &GREAD&W, &GWRITE&n
+#
+&G CASTLES
+
+&WWithin &RThe Game &Wyou will notice many castles. These can be taken over by 
+players for &Gmoney &Wand &Gexp&W. When you enter a castle type attack. This 
+will initiate your assault. Kill all the mobs in the castle to receive your 
+reward. Each time you exit a room you will see how many mobs are left to 
+kill.&n
+#
+&G CLERIC
+
+&WClerics have an ancient belief in not carrying sharp weapons. Hence, they 
+can only &Gwield &Wbludgeoning weapons. This class gives you the wisdom of 
+peace, blessing and healing, though it is possible to learn more violent 
+spells.
+
+You can improve your spells by using the &Gpractice command&W.
+
+See '&Ghelp spells&W' for a list of spells available.
+
+See also: &GPRACTICE&W, &GSPELLS&n
+#
+&G CPK CHAOTIC
+
+CPK &Wstands for Chaotic Player Kill. These &Gzones &Ware the most dangerous 
+&Gzones &Win &RThe game&W. When you die in &GCPK &WYou are sent to the 
+after life as usual, however there is a 30% chance your &Geq &Win your 
+&Ginventory &Wwill stay on your corpse where you died, and a 50% chance on
+&Geq &Wworn when &Gdeath &Woccured. If someone was in the room or wanders 
+into the room you died in, they can take anything from your corpse that 
+they want to. If you lose your gear, don't bother asking for it back, it
+won't happen. &GCPK &Wmeans chaotic for a reason, if you can't deal with 
+that, don't go in.
+
+See also: &GNPK&W, &GPK&n
+#
+&G DAMROLL
+
+Damroll &Waffects how much damage you do to your victim. It is added to the 
+total damage your weapon deals before &Gspell &Waffects are added. &GDamroll 
+&Wis used more by &Gthieves &Wand &Gwarriors&W, than &Gmages &Wan &Gclerics&W.
+
+See also: &GHitroll&n
+#
+&G DEXTERITY
+
+&WThe ability that measures a character's hand-eye coordination, agility, 
+reflexes, and balance. This is the most important stat for &Gthieves&W.
+
+See also: &GINTELLIGENCE&W, &GSTRENGTH&W, and &GWISDOM&n
+#
+&G EXPERIENCE XP
+
+&WWhenever you kill a monster or a player, you earn &Gexperience &Wpoints. 
+When enough &Gexperience &Wpoints are earned, you raise a &Glevel&W.
+Things you should know about &Gexperience &Wpoints:
+
+  * When damaging a monster, you get &Gexperience &Wpoints.
+
+  * If you kill a monster of higher &Glevel &Wthan yourself, you get bonus
+    &Gexperience &Wpoints.  If killing a monster of lower &Glevel &Wyou'll gain
+    less &Gexperience &Wpoints.
+
+See also: &GPOSSE&W, &GSCORE&n
+#
+&G FLAGS
+
+&WPlayers sometimes have &GFLAGS &Wafter their names in the &GWHO list&W.  These
+&Gflags &Ware always in parentheses, not brackets or braces.
+
+  &BFLAG        MEANING
+  &C----------- ---------------------------------------------------------
+  &M(OUTLAW)    &WThis ones special.
+  &M(KILLER)    &WPlayer is trying to kill other players.  That means you
+              &Wcan try to kill him/her without being flagged.
+  &M(THIEF)     &WPlayer is trying to steal from other players.  Fire away.
+  &M(invis)     &WPlayer is invisible; you can see him/her because you are
+              &Wsensitive to the presence of invisible things.
+  &M(AFK)       &WThe person is away from the keyboard.
+  &M(IT)        &WTag yo, u r it.
+  &M(writing)   &WPlayer is writing on the board; do not disturb.
+  &M(mailing)   &WPlayer is writing mail; do not disturb.
+  &M(deaf)      &WPlayer has chosen not to hear shouts.
+  &M(notell)    &WPlayer has chosen not to accept tells.
+  &M(quest)     &WPlayer is participating in a quest currently being run by
+              &Wthe Gods.
+
+See also: &GNOSHOUT&W, &GNOTELL&W, &GQUEST&W, &GSTEAL&W, &GVISIBLE&n
+#
+&G GOHOME
+
+&WThis &Gcommand &Wis for home owners. Simply type it anywhere in the game 
+and you will be transported back to your home. This will not work in &GNPK 
+&Wor &GCPK&W.
+
+See also: &GHOUSES&n
+#
+&G GUILD
+
+&WThe Guildhouse is the place where mortals may go to escape the troubles and
+perils of a cruel world. Each &Gguild &Wis heavily guarded(not really), so 
+that only members may enter the building. Guilds are also the places where 
+people come to learn and &Gpractice &Wthe skills of their trade.
+
+See also: &GPRACTICE&n
+#
+&G HITROLL
+
+Hitroll &Wis the number The Game uses to determine whether or not you hit
+your opponent during &Gcombat&W. The higher your &Ghitroll &Wis , the 
+higher your chances to actually connect. &GClerics &Wand &Gmages &Wtend to
+rely less heavily on this than &Gwarriors &Wand &Gthieves&W.
+
+See also: &GDamroll&n
+#
+&G HOUSES
+
+&WA house entails two things:
+Access control and crash protection.  Only you and your guests will be allowed
+to enter the &Ghouse&W.  Your &Ghouse &Wwill be crash-saved every minute. You
+can force your &Ghouse &Wto save by typing '&Gsave&W' while standing in your 
+&Ghouse&W. In the event of a crash, the objects in your &Ghouse &Was of the 
+last crash-save will be loaded back into your &Ghouse &Wwhen the MUD reboots. 
+Also, if you own a &Ghouse&W, and quit from the game while standing in your 
+&Ghouse&W, you will be loaded into your &Ghouse &Wnext time you enter the game,
+provided there was not a crash in between the two events.
+     Guests of your &Ghouse &Wcan be defined using the &GHOUSE command&W.  See 
+&GHOUSE &Wfor more information.
+     The main reason to have a &Ghouse&W, is simply to have ones own little 
+spot in the game. You decorate it, however you want it to look. It's your spot 
+and noone can force ya to make it look a certain way. As usual the game's main 
+rule is in effect, so absolutly no nazi or even nazi-esque shit will be 
+tolerated. Hate is pretty much the only thing that will get you purged around
+here.
+     Houses almost make a great place to store your eq. simply drop your gear 
+in your house and it will stick around till you're ready to use it again. Home
+owners can also make use of the &Ggohome &Wcommand. This will magically 
+transport you to your home from anywhere in the game, except &GNPK &Wand &GCPK&W.
+    Talk to &GTek &Wfor more info or check out the real estate office in The 
+City.
+
+See also: &GHOUSE&n
+#
+&G IMPLEMENTOR
+
+&WGods. Treat em right, they are quite powerful.&n
+#
+&G INTELLIGENCE
+
+&WThe ability that determines how well a character learns and reasons. This 
+is the most important stat for &Gmages&W.
+
+See also: &GDEXTERITY&W, &GSTRENGTH&W, and &GWISDOM&n
+#
+&G LINK
+
+&WA lot of players have problems with their links to the game.  This can be
+very hazardous to your health in the middle of a battle, of course.
+
+ I. If your link is broken, you will automatically attempt to flee each
+    time someone attempts to hit you.  If you manage to flee, then you
+    will be saved by divine forces, and put in a safe place until you
+    reconnect to the game.
+
+II. If your link jams (freezes), you have a problem.  The only solution we
+    can give is that you break your link as quickly as possible.  By
+    breaking the link you can hope that the above procedure is initiated.
+
+    Do not try to get out of a fight by breaking link.  You will be not
+    reimbursed for any experience or equipment if you purposefully
+    cut your link.&n
+#
+&GLPK
+
+&WLawful Player Kill &Gareas are non-player kill zones. These will generally
+be your major cities, newbie zones and such. These areas will generally have
+workable eq, but the things you find in &YNPK &Gand &RCPK &Gwill be much more
+useful.
+
+&WSee also: &GNPK CPK PK&n
+#
+&G "MAGIC USER" WIZARD MAGE
+
+&WThis is the class of powerful and violent mages, but the magic user does not
+control the nature, and can therefore not bless and such.
+
+You can improve your spells by using the &Gpractice command&W.
+
+See '&Ghelp spells&W' for a list of spells available.
+
+See also: &GPRACTICE&W, &GSPELLS&n
+#
+&G MANA
+
+&GMana &Wis used when casting spells. You must have a certain amount of &Gmana
+&Win order to cast any particular spell. If you do not have enough &Gmana &Wto
+cast the spell you must &Grest &Wor &Gmeditate &Wuntil you gain enough points to
+cast.
+
+See also: &GSPELLS&n
+#
+&G NPK NEUTRAL
+
+NPK &Wstands for Neutral Player Kill. In these &Gzones, &Wplayers can attack 
+other players. When you get &Gnpk&W'd you are immediately sent to the latrine.
+You don't lose any of your gear, so don't panic.
+
+See also: &GCPK&W, &GPK&n
+#
+&G PETS
+
+&WLocated in the southwest part of the city, you'll find Sandy's pet shop. A 
+pet will help you in your battles and try to protect you. They are great 
+for lower level characters who could use a little help.&n
+#
+&G PK
+
+&RPlayer kill &W- &Gpure and simple ... players killing other players. There
+are various forms of &RPK &Gon The Game. LPK, NPK, and CPK, each having a different
+set of rules to what can and can't be done.
+
+&WSee Also: &GLPK&W,&GNPK&W,&GCPK&n
+#
+&G SHOPS
+
+Shops &Ware places where the adventurer may purchase &Gequipment &Wfor his/her quests,
+and where he/she may &Gsell &Whis treasure if he/she should manage to survive the perils
+with his/her life and sanity intact.  Many &Gshops &Wtrade only in a specific type of
+merchandise.  Thus, a baker may well refuse to buy your armor, even if it is
+of high quality!
+
+To some people, the prospect of obtaining the entire &Ginventory &Wof a &Gshop &Wby
+murdering the keeper may appear tempting - but beware: The shopkeepers are 
+often rugged, capable men; roughened by years of trading and, indeed, surviving
+in a world where the only safe prospect is death in the end.
+
+See also: &GBUY&W, &GSELL&W, &GLIST&W, &GVALUE&n
+#
+&G SOULS
+
+Souls &Wwill eventually be an integral part of &RThe Game&W, for now however
+they are used primarily to obtain a new body and exit the world of the 
+dead. &GSouls &Wcan also be used to train your stats up.
+
+See Also: &GDEATH&W, &GTRAIN&n
+#
+&G SPELL SPELLS
+
+            &BMagic User               &CCleric
+
+          &B(1) Magic Missile        &C(1) Godly Armor
+          &B(1) Energy Drain         &C(1) Cure Light
+
+          &B(2) Detect Magic         &C(2) -
+          &B(2) Detect Invisible     &C(2) -
+          &B(2) Stone Skin           &C(2) -
+
+          &B(3) Chill Touch          &C(3) Detect Poison
+          &B(3) Infravision          &C(3) Detect Invis
+
+          &B(4) Godly Armory         &C(4) Detect Align
+          &B(4) -                    &C(4) Detect magic
+
+          &B(5) Burning Hands        &C(5) Bless
+          &B(5) -                    &C(5) Cure Blind
+          &B(5) -                    &C(5) Aura Bolt
+
+          &B(6) Locate Object        &C(6) Blindness
+
+          &B(7) Shocking Grasp       &C(7) Infravision
+
+          &B(8) -                    &C(8) Create Food
+          &B(8) -                    &C(8) Create Water
+          &B(8) -                    &C(8) Poison
+
+          &B(9) Lightning Bolt       &C(9) Cure Critical
+          &B(9) Blindness            &C(9) Group Armor
+          &B(9) Teleport             &C(9) Word of Recall
+
+          &B(10) Detect Poison       &C(10) Summon
+          &B(10) Invisibility        &C(10) Remove Poison
+
+          &B(11) Color Spray         &C(11) Mana Blast
+
+          &B(12) Dispel Magic        &C(12) Refresh
+          &B(12) Refresh             &C(12) -
+          &B(12) Strength            &C(12) -
+
+          &B(13) Fireball            &C(13) Dispel Magic
+          &B(13) Sleep               &C(13) Sanctify
+
+          &B(14) Poison              &C(14) Heal
+          &B(14) -                   &C(14) Dispel Evil
+          &B(14) -                   &C(14) Dispel Good
+
+          &B(15) Manashield          &C(15) Remove Curse
+          &B(15) Call Lightning      &C(15) -
+
+          &B(17) Charm               &C(17) -
+
+          &B(18) Know Alignement     &C(18) Sense Life
+          &B(18) -                   &C(18) Transport
+
+          &B(19) -                   &C(19) Harm
+
+          &B(20) Lifetap             &C(20) Mass Refresh
+          &B(20) Curse               &C(20) Call Lightning
+
+          &B(21) Sonic Blast	     &C(21) Quake
+
+          &B(22) -                   &C(22) Group Heal
+
+          &B(25) Mass Refresh        &C(25) -
+
+          &B(27) Enchant Weapon      &C(27) Remove Curse&n
+
+          &B(30) Clone               &C(30) Retribution
+
+          &B(32) -                   &C(32) Regen
+
+          &B(33) -                   &C(33) Revival
+
+                 
+
+    &W5th Class Spells Mage Spells (includes all mage spells)
+
+   Sorcerer               Necromancer             Elementalist
+
+ &B(1) -                  (1) Control Undead      (1) Clone Images
+
+ &B(5) Manashield         (5) -                   (5) -
+
+&B(10) Mass Plague       (10) Confusion          (10) Conjure Elemental
+&B(10) -                 (10) Mass Curse         (10) -
+
+&B(15) Meteor Storm      (15) Drain Life         (15) Advanced Charm
+
+&B(20) Mass Energy Drain (20) Death Field        (20) Summon Celestial
+&B(20) -                 (20) -                  (20) Summon Fiend
+
+&B(25) Blizzard          (25) Animate Dead       (25) -
+
+&B(30) Shockstorm        (30) -                  (30) Conjure Familiar
+
+&B(35) -                 (35) -                  (35) Major Creation
+
+    &W5th Class Spells Cleric Spells (includes all cleric spells)
+
+     Shaman                   Mystic                   Priest  
+
+ &C(1) Hellstorm           (1) Rat Swarm            (1) -           
+
+ &C(5) -                   (5) Eagle Flight         (5) -
+
+&C(10) Hammer of Divinity (10) Control Weather     (10) Mass Heal        
+
+&C(15) Starfire           (15) Conjure Tree        (15) Mass Remove Curse
+ 
+&C(20) Advanced Phase     (20) Whirlwind           (20) Advanced Heal   
+
+&C(25) Advanced Summon    (25) Hurricane           (25) Mass Sanctify
+
+&C(30) Reflect            (30) Conjure Beast       (30) -               
+
+#
+&G THIEF THIEVES
+
+&GThieves &Ware known to have very special qualities, that no other class offers.
+Their specialty tends to be in the darker, sneakier art.  Many of these
+qualities can come in handy in many situations, such as picking locks.
+
+You can improve your skills by using the &Gpractice command&W.
+
+Skills available to &Gthieves&W:
+
+&Gscan&W, &Gsneak&W, &Ghide&W, &Gsteal&W, &Gbackstab&W, &Gpick lock&W, &Gtrack&W, &Gmulti bs
+
+&WSee the &Ghelp &Won each skill for more information.
+
+See also: &GPRACTICE&n
+#
+&G TRAINING
+
+&WA player can increase his or her base stats(str,con,int,dex,wis,cha) by 
+selling souls to the necromancer. For 500 souls you can move each stat up 
+one point. Max is 18. Simply goto the necromancer and type &Gtrain.
+
+See also: &GPractice&W
+#
+&G WARRIOR 
+
+&WWarriors are known to have more strength than the average player.  This makes
+them better at hand-to-hand-&Gcombat&W, as they possess skills of violence and
+fighting unequaled by the members of any other class.  However, they lack the
+ability to use magic of any sort.
+
+You can improve your skills by using the &Gpractice command&W.
+
+Skills available to warriors:
+
+&Gkick&W, &Grescue&W, &Gtrack&W, &Gbash&W, &Gsecond attack&W, &GStomp&W, &GThird attack&W
+
+See also: &GPRACTICE&n
+#
+&G WISDOM
+
+&WThe ability that describes a character's willpower, common sense, perception,
+and intuition. This is the most important stat for &Gclerics&W.
+
+See also: &GDEXTERITY&W, &GINTELLIGENCE&W, and &GSTRENGTH&n
+#
+&G CIRCLE CIRCLEMUD CREDITS
+                    &CC  I  R  C  L  E  M  U  D     3  .  0
+
+&WCircleMUD was developed from DikuMud (Gamma 0.0) by Jeremy "Ras" Elson at
+Johns Hopkins University's Department of Computer Science.  All code unique
+to CircleMUD is protected under a copyright by the Trustees of the Johns
+Hopkins University.
+
+Many, many people contributed to CircleMUD in one way or another throughout
+the course of its development.  Although it's impossible for me to remember
+them all, I'd like to extend special thanks to certain people:
+
+  -- Jeff Fink and George Greer, for submitting a veritable mountain of
+     excellent code.
+  -- Chris Epler and Chris Herringshaw for extensive beta-testing and bug
+     reporting.
+  -- Furry (Alex Fletcher), for single-handedly managing Circle's world files.
+  -- Fred Merkel, Ryan Watkins, Jay Levino, and Sharon Goza, for other
+     code and area submissions.
+  -- Jean-Jack Riethoven for porting the code to the Amiga, David Carver
+     for porting it to OS/2, and Jack Patton and Steffen Haeuser for the
+     Amiga port.
+  -- Bill Bogstad and Tim Stearns for allowing Circle to exist at JHU.
+  -- The DikuMud folk, and the good old WhatMUD implementors Dave & Justin,
+     for starting the ball rolling.
+  -- Bryan Jolson, Steven Lacher, Cat Stanton, and Naved Surve, for being 
+     there in the very early days of Circle's development.
+  -- Sharon, Ben, Erica, Aly, and Josh, for keeping me sane.
+  -- Jules (hamotek sheli) for being the greatest.
+
+...plus everyone else in the Circle community who has submitted material!
+Thanks everyone!
+
+  Anonymous FTP:  ftp.circlemud.org or ftp2.circlemud.org in pub/CircleMUD
+ To report bugs:  bugs@circlemud.org
+    To get help:  help@circlemud.org
+            URL:  http://www.circlemud.org/
+   Mailing List:  listserv@post.queensu.ca
+                  (write "subscribe circle <first name> <last name>")
+
+--Jeremy Elson (jelson@circlemud.org)&n
+#
+$

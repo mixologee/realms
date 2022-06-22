@@ -1,0 +1,62 @@
+#800
+doe rabbit animal~
+a small doe rabbit~
+A doe rabbit quivers here twitching her nose.
+~
+A small doe rabbit crouches here twitching her nose.  She has a faintly dappled
+coat and big black eyes.
+~
+8 0 0 0 0 0 0 0 300 E
+5 17 7 10d20+10 3d6+3
+50 60000
+8 8 2
+Clss: 2
+E
+#801
+buck deer~
+a small deer~
+A small antlered deer looks alertly about.
+~
+About 4 feet tall at the shoulder and dun colored except for a white chest this
+deer has branching antlers stretching up from its head.
+~
+8 0 0 0 0 0 0 0 200 E
+0 8 5 14d25+10 5d6+9
+50 120000
+8 8 1
+Clss: 2
+E
+#802
+doe deer ~
+a timid deer with dappled sides~
+A small female deer with a dappled sides is here. She is keeping a wary eye on you and slowly edging away.
+~
+This deer stands about belly high to a man. She has a brown color and cream
+colored dapples on her sides. She is alert and somewhat wary but not trembling.
+~
+8 0 0 0 0 0 0 0 200 E
+4 16 5 0d0+40 5d12+12
+40 110000
+8 8 2
+Clss: 2
+E
+#899
+Pike fish ~
+A monstrously huge fish with large needle-like teeth.~
+The giant pike swims here
+~
+This enormous fish is at least 14 feet long with a jaw large enough to take your
+arm off. It has silvery scales and 2 inch long teeth filling its long narrow
+snout. It has large saucer shaped eyes and it seems to track your every
+movement.
+~
+8 0 0 0 1048916 1 0 0 -200 E
+30 -10 -8 100d100+300 15d20+25
+300 90000
+8 8 1
+Att1: 2
+Att2: 3
+Att3: 4
+Clss: 2
+E
+$

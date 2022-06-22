@@ -1,0 +1,43 @@
+#5800
+shopkeeper man keeper~
+a friendly-looking shopkeeper~
+A man stands behind the counter with his wares laid out before you.
+~
+This man has all of the commodities of life necessary to serve new players day
+in and day out. A mini fridge stands just to the side of the counter,
+surrounded by beer cans. In the far back, there is a cot, a walk-in shower, and
+of course a few dozen boxes of instant noodles. He smiles and waves, happy to
+sell his wares, cheap!
+~
+10 32 0 0 0 0 0 0 0 E
+1 20 9 0d0+300000 1d2+0
+100000 100
+8 8 1
+Clss: 5
+E
+#5801
+leech nightmare creature mobile~
+the nightmare leech~
+A massive mottled brown creature spans the space between the east and west walls.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+1 10 10 6d2+5 2d5+1
+10 100
+8 8 0
+Clss: 1
+E
+#5802
+shadow mobile~
+your possessed shadow~
+Your shadow flits in and out of your vision, attempting to attack you from behind.
+~
+It looks unfinished.
+~
+42 0 0 0 0 0 0 0 -100 E
+1 10 10 5d5+10 1d6+3
+13 200
+8 8 0
+E
+$

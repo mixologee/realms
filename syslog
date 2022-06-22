@@ -1,0 +1,186 @@
+autorun starting game Tue Jul 21 23:17:43 EDT 2009
+running bin/circle -q 4000
+nohup: ignoring input
+Jul 21 23:17:43 :: Loading configuration.
+Jul 21 23:17:43 :: &CRealms of Kuvia v1.5&n
+Jul 21 23:17:43 :: OasisOLC 2.0.6
+Jul 21 23:17:43 :: DG Scripts 1.0.14
+Jul 21 23:17:43 :: ASCII Player Files 3.0.1
+Jul 21 23:17:43 :: Using lib as data directory.
+Jul 21 23:17:43 :: Running game on port 4000.
+Jul 21 23:17:43 :: Finding player limit.
+Jul 21 23:17:43 ::    Setting player limit to 300 using rlimit.
+Jul 21 23:17:43 :: Opening mother connection.
+Jul 21 23:17:43 :: Binding to all IP interfaces on this host.
+Jul 21 23:17:43 :: Boot db -- BEGIN.
+Jul 21 23:17:43 :: Resetting the game time:
+Jul 21 23:17:43 ::    Current Gametime: 0H 12D 5M 542Y.
+Jul 21 23:17:43 :: Initializing Weather System.
+Jul 21 23:17:43 :: Reading news, credits, help, ihelp, bground, info & motds.
+Jul 21 23:17:43 :: Loading spell definitions.
+Jul 21 23:17:43 :: Loading zone table.
+Jul 21 23:17:43 ::    74 zones, 13024 bytes.
+Jul 21 23:17:44 :: Loading triggers and generating index.
+Jul 21 23:17:44 :: Loading rooms.
+Jul 21 23:17:44 ::    6433 rooms, 2058560 bytes.
+Jul 21 23:17:44 :: Renumbering rooms.
+Jul 21 23:17:44 :: Checking start rooms.
+Jul 21 23:17:44 :: Loading mobs and generating index.
+Jul 21 23:17:44 ::    682 mobs, 21824 bytes in index, 758384 bytes in prototypes.
+Jul 21 23:17:44 :: Loading objs and generating index.
+Jul 21 23:17:45 ::    979 objs, 31328 bytes in index, 297616 bytes in prototypes.
+Jul 21 23:17:45 :: SYSERR: Object #401 (a cold spring) has negative weight (-2147483644).
+Jul 21 23:17:45 :: SYSERR: Object #901 (a bottle of "Old Greg's Finest" whiskey) doesn't have drink type as last keyword. (liquor whiskey bottle greg)
+Jul 21 23:17:45 :: SYSERR: Object #3817 ("A Prophecy of Kuvia") is type NOTE and has extra description with same name. (book Kuvia history prophecy)
+Jul 21 23:17:45 :: SYSERR: Object #3817 ("A Prophecy of Kuvia") is type NOTE and has extra description with same name. (book Kuvia history prophecy)
+Jul 21 23:17:45 :: SYSERR: Object #3817 ("A Prophecy of Kuvia") is type NOTE and has extra description with same name. (book Kuvia history prophecy)
+Jul 21 23:17:45 :: SYSERR: Object #3817 ("A Prophecy of Kuvia") is type NOTE and has extra description with same name. (book Kuvia history prophecy)
+Jul 21 23:17:45 :: SYSERR: Object #4639 (a scroll of Sanctuary) has out of range level #71.
+Jul 21 23:17:45 :: SYSERR: Object #5806 (a steel canteen) doesn't have drink type as last keyword. (canteen liquidcontainer bottle flask)
+Jul 21 23:17:45 :: SYSERR: Object #13264 (a shard of the Mule's big yellow toenail) has out of range level #47.
+Jul 21 23:17:45 :: Renumbering zone table.
+Jul 21 23:17:45 :: Loading shops.
+Jul 21 23:17:45 :: SYSERR: Shop #7231 has invalid format '%d' in message #0.
+Jul 21 23:17:45 :: Loading disabled commands.
+Jul 21 23:17:45 :: Loading quests.
+Jul 21 23:17:45 ::    7 entries, 952 bytes.
+Jul 21 23:17:45 :: Loading buildings templates.
+Jul 21 23:17:45 :: Loading help entries.
+Jul 21 23:17:45 ::    1065 entries, 51120 bytes.
+Jul 21 23:17:45 :: Generating player index.
+Jul 21 23:17:45 :: Loading fight messages.
+Jul 21 23:17:45 :: Loading social messages.
+Jul 21 23:17:45 :: Social table contains 229 socials.
+Jul 21 23:17:45 :: Building command list.
+Jul 21 23:17:45 :: Command info rebuilt, 666 total commands.
+Jul 21 23:17:45 :: Loading news and gnews files
+Jul 21 23:17:45 :: Opening mobile, object and help files.
+Jul 21 23:17:45 :: Opening God News file index.
+Jul 21 23:17:45 :: Assigning function pointers:
+Jul 21 23:17:45 ::    Mobiles.
+Jul 21 23:17:45 ::    Shopkeepers.
+Jul 21 23:17:45 ::    Objects.
+Jul 21 23:17:45 ::    Rooms.
+Jul 21 23:17:45 ::    Questmasters.
+Jul 21 23:17:45 :: Assigning spell and skill levels.
+Jul 21 23:17:45 :: Sorting command list and spells.
+Jul 21 23:17:45 :: Booting mail system.
+Jul 21 23:17:45 :: Reading banned site and invalid-name list.
+Jul 21 23:17:45 :: Booting houses.
+Jul 21 23:17:45 :: Cleaning up last log.
+Jul 21 23:17:45 :: Initializing Economy module.
+Jul 21 23:17:45 ::   Loading Markets.
+Jul 21 23:17:45 ::   Loading Goods.
+Jul 21 23:17:45 ::   Sorting Goods Table.
+Jul 21 23:17:45 ::   Loading Trading Posts.
+Jul 21 23:17:45 ::   Done.
+Jul 21 23:17:45 :: Booting clans.
+Jul 21 23:17:45 :: Loading Vehicle Prototypes.
+Jul 21 23:17:45 :: Loading Stables.
+Jul 21 23:17:45 :: ERROR:  No Stables actually in game. stables.c in LoadStableRentIndex
+Jul 21 23:17:45 :: Loading Portal Stones.
+Jul 21 23:17:45 ::    No Portal Stones defined.
+Jul 21 23:17:45 :: Resetting #0: Limbo - Internal (P) (rooms 0-99).
+Jul 21 23:17:45 :: Resetting #1: The House of Tolerance (rooms 100-150).
+Jul 21 23:17:45 :: Resetting #2: The Hall of Immortals (rooms 151-299).
+Jul 21 23:17:45 :: Resetting #4: The Taris'Vaal Caverns (rooms 300-699).
+Jul 21 23:17:45 :: Resetting #8: The Black Lake (rooms 700-899).
+Jul 21 23:17:45 :: Resetting #9: Taris'Vaal Tunnels (rooms 900-999).
+Jul 21 23:17:45 :: Resetting #10: The Gardens of D'Arythnia (rooms 1000-1099).
+Jul 21 23:17:45 :: Resetting #11: The Ethereal Mist (rooms 1100-1199).
+Jul 21 23:17:45 :: Resetting #15: North West on the Pirate Farm (I) (rooms 1200-1599).
+Jul 21 23:17:45 :: Resetting #16: North East on the Pirate Farm (I) (rooms 1600-1699).
+Jul 21 23:17:45 :: Resetting #17: South West on the Pirate Farm (I) (rooms 1700-1799).
+Jul 21 23:17:45 :: Resetting #18: South East on the Pirate Farm (I) (rooms 1800-1899).
+Jul 21 23:17:45 :: Resetting #19: Pirate Bunkhouse Mess Hall (C) (rooms 1900-1999).
+Jul 21 23:17:45 :: Resetting #20: The Crucible (I) (rooms 2000-2099).
+Jul 21 23:17:45 :: Resetting #21: Pirate School of Hardknocks (C) (rooms 2100-2199).
+Jul 21 23:17:45 :: Resetting #22: Victoria (rooms 2200-2299).
+Jul 21 23:17:45 :: SYSERR: rand_number() should be called with lowest, then highest. (-6, -1), not (-1, -6).
+Jul 21 23:17:45 :: Resetting #23: Ludrix'Vaal (rooms 2300-2399).
+Jul 21 23:17:45 :: Resetting #24: Taris'Vaal Community Park (I) (rooms 2400-2499).
+Jul 21 23:17:45 :: Resetting #25: The Asylum of Kalrayi's Lunatics (I) (rooms 2500-2599).
+Jul 21 23:17:45 :: Resetting #26: mine prototype (P) (rooms 2600-2699).
+Jul 21 23:17:45 :: Resetting #27: Mine 2 (P) (rooms 2700-2799).
+Jul 21 23:17:45 :: Resetting #28: Mine 3 (P) (rooms 2800-2899).
+Jul 21 23:17:45 :: Resetting #29: Mine 4 (P) (rooms 2900-2999).
+Jul 21 23:17:45 :: Resetting #30: Mine 5 (P) (rooms 3000-3099).
+Jul 21 23:17:45 :: Resetting #31: Silverwood Forest (rooms 3100-3199).
+Jul 21 23:17:45 :: Resetting #32: The Underworld (I) (rooms 3200-3299).
+Jul 21 23:17:45 :: Resetting #33: Astari'Vaal, Lower Temple and Labyrinth (rooms 3300-3599).
+Jul 21 23:17:45 :: SYSERR: Char is already equipped: an Astarian cityguard, a shirt of platinum scales
+Jul 21 23:17:45 :: Resetting #36: The Office of Anubis (C) (rooms 3600-3699).
+Jul 21 23:17:45 :: Resetting #37: The Taris'Vaal Cemetery (rooms 3700-3799).
+Jul 21 23:17:45 :: Resetting #38: The Lake of Darkmoor (rooms 3800-3899).
+Jul 21 23:17:45 :: Resetting #40: The Phantom Galleon "The Dark Pearl" (rooms 3900-4099).
+Jul 21 23:17:45 :: Resetting #41: The Reosian Isles (I) (rooms 4100-4599).
+Jul 21 23:17:45 :: Resetting #46: The Forest of Darkmoor (rooms 4600-4799).
+Jul 21 23:17:45 :: SYSERR: rand_number() should be called with lowest, then highest. (-200, -50), not (-50, -200).
+Jul 21 23:17:45 :: Resetting #58: The Training Grounds (rooms 4800-5899).
+Jul 21 23:17:45 :: Resetting #59: Mini-Zones!! (P) (rooms 5900-5999).
+Jul 21 23:17:45 :: Resetting #60: The God's Relaxation Facility (C) (rooms 6000-6099).
+Jul 21 23:17:45 :: Resetting #61: The Tropical City (C) (rooms 6100-6199).
+Jul 21 23:17:45 :: Resetting #63: The City of Taris'Vaal (WiP) (rooms 6200-6899).
+Jul 21 23:17:45 :: Resetting #69: Untitled Devarius Revamp Project (WiP) (rooms 6900-6999).
+Jul 21 23:17:45 :: Resetting #70: Untitled Devarius Revamp Project (WiP) (rooms 7000-7099).
+Jul 21 23:17:45 :: Resetting #71: Untitled Devarius Revamp Project (WiP) (rooms 7100-7199).
+Jul 21 23:17:45 :: Resetting #72: Untitled Devarius Revamp Project (WiP) (rooms 7200-7299).
+Jul 21 23:17:45 :: Resetting #73: Untitled Devarius Revamp Project (WiP) (rooms 7300-7399).
+Jul 21 23:17:45 :: Resetting #74: Oak Forest (I) (rooms 7400-7599).
+Jul 21 23:17:45 :: Resetting #76: The Keep of Mahrahn (I) (rooms 7600-7699).
+Jul 21 23:17:45 :: SYSERR: rand_number() should be called with lowest, then highest. (-20, -10), not (-10, -20).
+Jul 21 23:17:45 :: SYSERR: rand_number() should be called with lowest, then highest. (-20, -10), not (-10, -20).
+Jul 21 23:17:45 :: Resetting #80: House of Skye (I, A) (rooms 8000-8099).
+Jul 21 23:17:45 :: Resetting #97: Desert of narh Joon (rooms 8100-9799).
+Jul 21 23:17:45 :: Resetting #100: Hidden Pirate Hoarde (C) (rooms 9800-10099).
+Jul 21 23:17:45 :: Resetting #110: Burial Chamber of the Great Pirate Kings (C) (rooms 10100-11099).
+Jul 21 23:17:45 :: Resetting #111: Tomb of King Bearlifax (A.C) (rooms 11100-11199).
+Jul 21 23:17:45 :: Resetting #112: Burial Chamber Part 3 (A.C) (rooms 11200-11299).
+Jul 21 23:17:45 :: Resetting #113: Burial Chamber Part 4 (A.C) (rooms 11300-11399).
+Jul 21 23:17:45 :: Resetting #114: Burial Chamber Part 5 (A.C) (rooms 11400-11499).
+Jul 21 23:17:45 :: Resetting #115: Burial Chamber Part 6 (A.C) (rooms 11500-11599).
+Jul 21 23:17:45 :: Resetting #120: Ludrix'Vaal (rooms 11600-12299).
+Jul 21 23:17:45 :: Resetting #123: The Elven City of Ygradi (I) (rooms 12300-12599).
+Jul 21 23:17:45 :: Resetting #126: The Subterranean City of Dzagk (rooms 12600-12899).
+Jul 21 23:17:45 :: Resetting #129: The Forbidden City (I) (rooms 12900-13199).
+Jul 21 23:17:45 :: Resetting #132: The Dungeons of Cocytus (I) (rooms 13200-13499).
+Jul 21 23:17:45 :: SYSERR: rand_number() should be called with lowest, then highest. (-220, -55), not (-55, -220).
+Jul 21 23:17:45 :: SYSERR: Char is already equipped: Cerberus, a triangular iron key
+Jul 21 23:17:45 :: Resetting #135: The Black Towers (I) (rooms 13500-13799).
+Jul 21 23:17:45 :: Resetting #138: The Realm of Axoth (I, A) (rooms 13800-14299).
+Jul 21 23:17:45 :: Resetting #143: Astari'Vaal (rooms 14300-14599).
+Jul 21 23:17:45 :: Resetting #146: Isle of the Siren (rooms 14600-14899).
+Jul 21 23:17:45 :: SYSERR: rand_number() should be called with lowest, then highest. (-120, -60), not (-60, -120).
+Jul 21 23:17:45 :: SYSERR: rand_number() should be called with lowest, then highest. (-120, -30), not (-30, -120).
+Jul 21 23:17:45 :: SYSERR: rand_number() should be called with lowest, then highest. (-120, -60), not (-60, -120).
+Jul 21 23:17:45 :: SYSERR: rand_number() should be called with lowest, then highest. (-120, -60), not (-60, -120).
+Jul 21 23:17:45 :: SYSERR: rand_number() should be called with lowest, then highest. (-120, -60), not (-60, -120).
+Jul 21 23:17:45 :: SYSERR: rand_number() should be called with lowest, then highest. (-120, -60), not (-60, -120).
+Jul 21 23:17:45 :: SYSERR: rand_number() should be called with lowest, then highest. (-100, -50), not (-50, -100).
+Jul 21 23:17:45 :: SYSERR: rand_number() should be called with lowest, then highest. (-60, -30), not (-30, -60).
+Jul 21 23:17:45 :: Resetting #150: Moon Spawn (I) (rooms 15000-15599).
+Jul 21 23:17:45 :: Resetting #156: Untitled Anubis Project (rooms 15600-15899).
+Jul 21 23:17:45 :: Resetting #160: Xandr's Fortress (rooms 15900-16999).
+Jul 21 23:17:45 :: Resetting #170: Cathedral of Saint Tobela (rooms 17000-17500).
+Jul 21 23:17:45 :: Resetting #183: Newbie Zone (I) (rooms 18300-18749).
+Jul 21 23:17:45 :: Resetting #198: Ludrix'Vaal (rooms 19800-19899).
+Jul 21 23:17:45 :: SCRIPT ERR: Trigger VNum 19802 has looped 100 times!!!
+Jul 21 23:17:45 :: Resetting #199: Castle Cannabis / Castle Sativa (rooms 19900-19999).
+Jul 21 23:17:45 :: Resetting #200: Castle Smoke / Castle Blaze (rooms 20000-20099).
+Jul 21 23:17:45 :: Resetting #300: The Inferno (I) (rooms 30000-69999).
+Jul 21 23:17:45 :: Resetting #100000: Wilderness (rooms 70000-3999999).
+Jul 21 23:17:45 :: Resetting #500000: Buildings Zone (rooms 5000000-5999999).
+Jul 21 23:17:45 :: Cleaning up Room Affects.
+Jul 21 23:17:45 :: Boot db -- DONE.
+Jul 21 23:17:45 :: Signal trapping.
+Jul 21 23:17:45 :: Entering game loop.
+Jul 21 23:17:45 :: No connections.  Going to sleep.
+Jul 21 23:17:58 :: New connection.  Waking up.
+Tue Jul 21 23:18:04 :: &C(&cConnection&C) #[Bluntmaster has entered a bad password [localhost.localdomain]]
+Tue Jul 21 23:18:08 :: &C(&cConnection&C) #[Bluntmaster [localhost.localdomain] has connected]
+Jul 21 23:18:10 :: Bluntmaster had no variable file
+Jul 21 23:18:10 :: Bluntmaster retrieving crash-saved items and entering game.
+Jul 21 23:18:10 :: Bluntmaster (level 43) has 15 objects (max 30).
+Tue Jul 21 23:18:15 :: &C(&cConnection&C) #[Bluntmaster has quit the game.]
+Jul 21 23:18:15 :: Losing player: Bluntmaster.
+Jul 21 23:18:15 :: No connections.  Going to sleep.

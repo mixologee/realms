@@ -1,0 +1,1035 @@
+#7600
+The Edge of an Arctic Wasteland~
+Parts of a dark and foreboding keep are barely visible beyond the rather steep
+mountains to the south. The frigid wastelands of the arctic are seen in the
+north. Far to the east, barely perceivable under good conditions, the cold
+mountains give way to warmer plains. Two choices are necessitated by the cold
+weather, seek shelter within the keep or try to make it back to the east and the
+more temperate climes.
+~
+76 65541 0 0 0 0
+D0
+~
+~
+0 0 4384964
+D4
+~
+~
+0 0 7601
+S
+#7601
+A Winding, Ice-Covered Path~
+A very narrow, but well kept path, winds its way up the rather steep mountain
+Small wooden posts, painted bright red, denote the path so that snow does not
+cover the path and make an already treacherous climb even more difficult. A
+light snow falls and the moisture in one's breath freezes upon contact with the
+incredibly cold air.
+~
+76 65537 0 0 0 28
+D4
+~
+~
+0 0 7602
+D5
+~
+~
+0 0 7600
+S
+#7602
+Before Massive Wooden Gates~
+A modest village and citadel are located inside the massive walls and gate of
+the Keep of Mahrahn. The gate is a formidable obstacle even when it is not
+locked and barred. The cliff face is fairly well sheltered from the elements,
+with plenty of jagged surfaces on which to climb. A small path is also
+available that seems to be well maintained.
+~
+76 65537 0 0 0 28
+D2
+~
+gate~
+1 0 7603
+D5
+~
+~
+0 0 7601
+S
+#7603
+Beyond the Wooden Gates~
+The front gate looms to the north, constructed of some of the most solid timber
+in the land. After the minotaurs had been driven into the arctic to set up
+their community, they returned through the mountains to retrieve as much of this
+magical wood as they could easily access and bring back. Following the icy road
+south leads to the town square. The few minotaurs who venture out of their
+houses and shops to brave the weather are likely to congregate there.
+~
+76 65536 0 0 0 85
+D0
+~
+gate~
+1 0 7602
+D1
+~
+~
+0 0 7612
+D2
+~
+~
+0 0 7609
+D3
+~
+~
+0 0 7604
+S
+#7604
+Within the Keep's Walls~
+The northwest corner of the keep is protected by a sturdy, thick wall of timber.
+Most of the houses and shops are likewise constructed with wood. A thin layer
+of ice and a thicker layer of snow cover everything, making travel perilously
+difficult. A few ladders lead up to the top of the timber wall but are
+unclimbable because of the accumulated ice and snow.
+~
+76 65536 0 0 0 85
+D1
+~
+~
+0 0 7603
+D2
+~
+~
+0 0 7605
+S
+#7605
+Outside the Broken Glass Inn and Pub~
+The street terminates at the entrance to the town's only bar and inn. The inn
+appears to be well kept, at least from the outside. A large sign next to the
+front door, and above an empty keg, cheerfully declares this establishment to be
+named "The Broken Glass."  The fine print warns patrons to put on shoes before
+entering although it's doubtful that there is anything inside that could do
+anything worse to bare feet than the cold outside.
+~
+76 65536 0 0 0 85
+D0
+~
+~
+0 0 7604
+D1
+~
+~
+0 0 7609
+D2
+~
+~
+0 0 7606
+S
+#7606
+The Broken Glass~
+Long tables, stained with the remnants of spilled drink, dominate the room. 
+The mugs scattered around are gigantic and contain an extraordinary amount of
+the bar's finest liquors to its most hideous toxins. The bar also serves all
+sorts of fruits and vegetables aged to perfection. The furniture is sturdy and
+unforgiving, although if it weren't, it would undoubtedly not survive more than
+a few weeks without being utterly destroyed by rowdy patrons.
+~
+76 65564 0 0 0 74
+D0
+~
+~
+0 0 7605
+D2
+~
+~
+0 0 7607
+S
+#7607
+The Broken Glass Sleeping Rooms~
+The inn part of this establishment is a lot finer than the bar area. 
+Reasonably secluded rooms are available and are reasonably comfortable. The inn
+keeps a number of rooms for minotaurs available as well as smaller
+accommodations for other people of the realm. Despite the extreme cold outside,
+the inside of the inn is quite pleasant.
+~
+76 24 0 0 0 74
+D0
+~
+~
+0 0 7606
+D3
+~
+~
+0 0 7608
+S
+#7608
+A Gigantic Back Room~
+Locker storage and access is available to those who happen to have an account.
+Hundreds of identical lockers are arranged in neat, orderly, and identical rows.
+Without knowing precisely the location of a locker, someone could easily never
+find his or her own storage area.
+~
+76 24 0 0 0 74
+D1
+~
+~
+0 0 7607
+S
+#7609
+The Village Square~
+The area appears to be well trodden. The snow has been packed by footsteps so
+often that the cobblestone street is barely recognizable. Ice covers most
+available walking surfaces, making travel extremely perilous. A few closed
+houses line the street to the south and to the east. Gusts of wind regularly
+find their way down the street, making life for those outside extremely cold and
+unpleasant.
+~
+76 65536 0 0 0 85
+D0
+~
+~
+0 0 7603
+D1
+~
+~
+0 0 7611
+D2
+~
+~
+0 0 7610
+D3
+~
+~
+0 0 7605
+S
+#7610
+The Keep's Equipment Shop~
+The Mahrahn equipment shop is rather pitiful. It stocks very little of
+anything, at least to the typical adventurer. The minotaurs make use of almost
+everything that finds its way to the citadel and very little makes it into the
+equipment shop for sale. The shop itself is a dreadful little building with
+rotting walls and a decrepit ceiling. The little equipment that is stored here
+is kept haphazardly on tables.
+~
+76 65552 0 0 0 74
+D0
+~
+~
+0 0 7609
+S
+#7611
+The Cold Streets of Mahrahn~
+A snow-covered cobblestone street leads in all cardinal directions. Some of the
+cobblestones have come loose and, when covered with snow, can be seen as little
+white balls. The air, as always, is bitterly cold and the constant wind makes
+the weather all the more unbearable. Despite the hostile climate, there is
+something unusually peaceful about the landscape.
+~
+76 65536 0 0 0 85
+D0
+~
+~
+0 0 7612
+D1
+~
+~
+0 0 7614
+D2
+~
+~
+0 0 7613
+D3
+~
+~
+0 0 7609
+S
+#7612
+The Cold Streets of Mahrahn~
+During the day, the street is well lit by the blazing sun, which rarely appears
+to be obscured by cloud cover. At night, the street is deathly cold and quiet,
+creating an incredibly eerie atmosphere. Large footprints dot the snowscape and
+are a reminder that creatures actually do live here. Small houses and shops
+line the street, largely closed and securely barred.
+~
+76 65536 0 0 0 85
+D1
+~
+~
+0 0 7656
+D2
+~
+~
+0 0 7611
+D3
+~
+~
+0 0 7603
+S
+#7613
+Mahrahn's General Store~
+The general store is a quaint little shop that offers a few of the basic
+necessities. Backpacks, rations, water, and other items needed for survival are
+stacked neatly on rows of shelves throughout the store. The wood floors, walls,
+and high ceilings are old but still appear to be perfectly sturdy. A cash box
+sits beyond the counter, out of reach of patrons.
+~
+76 65560 0 0 0 74
+D0
+~
+~
+0 0 7611
+S
+#7614
+A Gently Sloped Path~
+A gentle slope leads from the fortified town in the Keep of Mahrahn to the inner
+citadel. The path is trodden dirt, lightly covered with a thin layer of snow.
+Although the walls surrounding the town are made of a thick, resistant wood, the
+inner keep to the east is made mostly of stone. Small grooves in the path
+indicate that carts frequent this route. Down the path to the west lies the
+apparently empty town.
+~
+76 65536 0 0 0 85
+D1
+~
+~
+0 0 7615
+D3
+~
+~
+0 0 7611
+S
+#7615
+Before the Inner Keep of Mahrahn~
+The entrance to the inner keep of the citadel is imposing. The doors extend
+upwards for about a dozen and a half feet. The granite surrounding the door and
+sustaining the walls of the keep is well weathered from the severe cold and
+heavy snow. A light snow falls from the sky and covers the ground, just enough
+to scrunch beneath heavy footsteps.
+~
+76 65536 0 0 0 85
+D0
+~
+~
+0 0 7616
+D1
+~
+gate~
+2 7600 7618
+D2
+~
+~
+0 0 7617
+D3
+~
+~
+0 0 7614
+S
+#7616
+A Comfortable Guardhouse~
+The rather large guard house is quite warm and comfortable. Several large beds
+are arranged parallel to each other and perpendicular against the walls. The
+beds are smelly minotaurs are not known for their supreme orderliness. The card
+table is regularly in use, judging by the number of stains and strewn cards. 
+The exit to the south leads immediately to the front of the inner gates of the
+keep.
+~
+76 65544 0 0 0 32
+D2
+~
+~
+0 0 7615
+S
+#7617
+A Slovenly Guardhouse~
+This guardhouse is an absolute sty. Food is strewn about all over the room and
+the furniture is in utter disarray. Beds remain completely unkempt, sheets are
+breeding homes for flies and lice, and pillows are barely recognizable. The
+table is worst of all. Cards, utensils, plates, and bowls, all incredibly dirty
+and disgusting, lie around the table.
+~
+76 65544 0 0 0 32
+D0
+~
+~
+0 0 7615
+S
+#7618
+Inside the Grand Gates~
+The entrance to the keep is quite impressive. The ceiling arches connect some
+two dozen feet above the floor. Granite dominates the structures and sets a
+rather cold and stoic atmosphere. There are two small racks for storing
+battle-axes and pikes. To the immediate west is a enormous wooden door
+reinforced with steel bars. It maintains quite an effective barrier against
+entry and exit when closed.
+~
+76 131080 0 0 0 32
+D1
+~
+~
+0 0 7619
+D3
+~
+gate~
+2 7600 7615
+S
+#7619
+A Statue-Filled Hall~
+A large number of statues are lined up in the direction of the hall. Most of
+the statues are of the minotaurs, ostensibly a number of their heroes. A few of
+the statues appear to have little place in the minotaur keep, they are probably
+payment of sorts, surrendered willingly or unwillingly. The rough stone floor
+is exceptionally cold.
+~
+76 131080 0 0 0 32
+D1
+~
+~
+0 0 7620
+D3
+~
+~
+0 0 7618
+S
+#7620
+The Throne Room~
+The entrance to the large audience chamber is quite awe-inspiring. But it isn't
+impressive because of its extravagance or size, but in the sheer size and
+strength this room embodies. The entire room is constructed with large slabs of
+granite, save some parts of the floor which are made with slightly finer sized
+pieces of rock. The room is large and loud voices boom and echo throughout the
+chamber. The room is so grand and yet so simple that it almost appears to be a
+contradiction. Such a design reflects the tastes of the minotaurs who prefer
+strength and power over polish and glamour.
+~
+76 65544 0 0 0 32
+D0
+~
+~
+0 0 7621
+D1
+~
+~
+0 0 7626
+D2
+~
+~
+0 0 7628
+D3
+~
+~
+0 0 7619
+S
+#7621
+The Kitchen~
+The kitchen is a busy room filled with instruments of cooking. Flour covers the
+floor and every table top in a layer thick enough to thoroughly suffocate
+underneath. A few ovens are used to make bread from the imported grains, but
+most of the preparation seems to be geared toward creating dishes from food that
+was brought in by trade. Two large tables dominate the room and are covered in
+food waste.
+~
+76 65544 0 0 0 32
+D0
+~
+~
+0 0 7623
+D1
+~
+~
+0 0 7624
+D2
+~
+~
+0 0 7620
+D3
+~
+~
+0 0 7622
+S
+#7622
+A Large Storage Room~
+The storage closet is filled with barrels and sacks of all sorts of
+unimaginative ingredients and foodstuffs. Basic sacks of barley, grain, oats,
+and other staples common to Medievia are stored against the north wall. The
+south wall has a few shelves with jars of other types of garnishes and foods
+that are consumed in small quantities. The west wall is lined with barrels of
+pickled food including fish, beef, and other tasty meats.
+~
+76 65544 0 0 0 32
+D1
+~
+~
+0 0 7621
+S
+#7623
+Servants' Room~
+The servants' room is rather plain and empty. It has a few wooden chairs that
+allow the servants a brief respite from their exhaustive list of duties. A dim,
+flickering torch provides an inadequate amount of light. The room does not
+appear to offer many comforts.
+~
+76 65544 0 0 0 32
+D2
+~
+~
+0 0 7621
+S
+#7624
+An Unused Kitchen~
+This kitchen appears to be rarely used. It is most likely reserved for special
+events when there is a large group of people visiting the keep and a common
+dinner is organized. A lot of the wares in this area appear to be seriously
+underused, judging by their near pristine condition. Nonetheless, it appears
+that it could be easily converted into a fully functional facility upon short
+notice.
+~
+76 65544 0 0 0 32
+D0
+~
+~
+0 0 7625
+D3
+~
+~
+0 0 7621
+S
+#7625
+A Small, Dank Storage Compartment~
+This cold and empty storage closet is relegated to a secondary use. The main
+one to the west is preferable because of its proximity to the main kitchen. 
+However, this room can sometimes be found stocked with food, particularly if a
+large shipment arrived in the immediate past. Cobwebs hang from the ceiling and
+walls and give the room its requisite dank, dark, and dirty feel.
+~
+76 65544 0 0 0 32
+D2
+~
+~
+0 0 7624
+S
+#7626
+The Throne~
+A huge throne in the northeast commands the respect of the entire room. A few
+wooden chairs are placed haphazardly with no method or reason. Mahrahn holds
+his audiences in this room which, during such an event, are packed with
+minotaurs and anybody else who happens to be in the keep. The floors are
+granite, and the walls are similarly constructed, unforgiving structures. 
+Several torches provide ample light and burn on without apparently ever having
+to be retired.
+~
+76 65544 0 0 0 32
+D1
+~
+tapestry~
+1 0 7634
+D2
+~
+~
+0 0 7627
+D3
+~
+~
+0 0 7620
+S
+#7627
+The Throne Room~
+The southern end of the large audience chamber is a barren place. Torches
+flicker on the walls, but nothing more than the uneven granite slabs of which
+the floor is constructed adorn this area. The stones composing the walls are
+coarsely cut and completely unfinished, continuing the consistently austere
+look. A large archway can be seen to the southwest.
+~
+76 65544 0 0 0 32
+D0
+~
+~
+0 0 7626
+D3
+~
+~
+0 0 7628
+S
+#7628
+The Throne Room~
+The most noticeable feature in this area of the audience chamber is the large,
+pointed archway offering entrance to a large hall extending south. Some of the
+stones making the floor a little loose, testament to the number of times people
+have traveled through the hallway. The booming voices of the minotaurs would
+echo magnificently throughout this large chamber.
+~
+76 65548 0 0 0 32
+D0
+~
+~
+0 0 7620
+D1
+~
+~
+0 0 7627
+D2
+~
+~
+0 0 7629
+S
+#7629
+A Guarded Hallway~
+A large desk makes it appear as if this were the concierge desk of some major
+hotel. The hallway extends further south and contains a good number of doors.
+Although hotel-like in function, it bears little resemblance to the inns located
+in Taris'vaal. The desk sits in the middle of the room, forcing travelers
+entering or exiting the area to walk around and to the sides of the room.
+~
+76 65544 0 0 0 32
+D0
+~
+~
+0 0 7628
+D2
+~
+~
+0 0 7630
+S
+#7630
+A Hallway Filled with Doors~
+The high ceilings of the hallway create a feeling of emptiness in this area. 
+To either side are large wooden doors that lead to the quarters of Mahrahn's two
+trusted lieutenants. Both are rectangular and about twelve feet tall. Brass
+doorknobs with small keyholes sit about seven feet above the ground, making it
+difficult, though certainly not impossible, for smaller humanfolk to find their
+way into this room.
+~
+76 65544 0 0 0 32
+D0
+~
+~
+0 0 7629
+D1
+~
+door~
+1 7601 7645
+D2
+~
+~
+0 0 7631
+D3
+~
+door~
+1 7602 7646
+S
+#7631
+A Hallway Filled with Doors~
+The doors on this hallway differ from the ones just to the north by their
+height. The doorframe allows no one over seven feet to enter without having to
+duck. The doors imply persons of slightly more human portions live beyond. To
+the right of each door, a torch is affixed to the wall, illuminating the
+corridor.
+~
+76 65544 0 0 0 32
+D0
+~
+~
+0 0 7630
+D1
+~
+door~
+1 7603 7643
+D2
+~
+~
+0 0 7632
+D3
+~
+door~
+1 7604 7644
+S
+#7632
+A Hallway Filled with Doors~
+Doors lead both east and west from the hallway into the rooms of two of the
+envoys seeking the services of the mercenary clan. The stones in the walls look
+like perfect rectangles, but numerous pieces jut out of the face of the stone.
+~
+76 65544 0 0 0 32
+D0
+~
+~
+0 0 7631
+D1
+~
+door~
+1 7605 7641
+D2
+~
+~
+0 0 7633
+D3
+~
+door~
+1 7606 7642
+S
+#7633
+The Hallway's Terminus~
+A large tapestry hangs from the end of the long hallway. One entrance to the
+audience chamber can be seen in the distance to the north. Two doors allow
+passage to the east and west, not unlike in the rest of the hallway. The stones
+are extremely cold to the touch and the air is stagnant. Two torches to the
+right of the two doors and one torch on the south wall provide light and a
+little bit of heat.
+~
+76 65544 0 0 0 32
+D0
+~
+~
+0 0 7632
+D1
+~
+door~
+1 7607 7639
+D3
+~
+door~
+1 7608 7640
+D5
+~
+grate~
+2 7609 7647
+S
+#7634
+A Spacious, Decorated Hallway~
+The passageway back is a tall, arched hallway. Although not secret in the
+literal sense of the word, few people other than Mahrahn, his lieutenants, and
+some of the more distinguished envoys have ever seen the eastern side of this
+passageway. Trophies hang from the walls in an attempt to impress the visitors
+who may be fortunate enough to walk through this hallway unhindered by the elite
+guard.
+~
+76 65544 0 0 0 32
+D1
+~
+door~
+2 7616 7635
+D3
+~
+tapestry~
+1 0 7626
+S
+#7635
+The State Meeting Room~
+Several plush chairs arranged in a semi-circle face into an open couch. The
+image of the chairs and couch is reflected several times across the room by a
+number of large mirrors. This appears to be the room in which Mahrahn conducts
+his official business with clan elders and envoys seeking the services of clan.
+~
+76 65544 0 0 0 32
+D1
+~
+~
+0 0 7636
+D2
+~
+~
+0 0 7638
+D3
+~
+door~
+1 7616 7634
+S
+#7636
+An Often-Used Training Room~
+Weapons are affixed to the walls, and the remains of sparring dummies litter the
+floor of Mahrahn's personal training room. The mere existence of this room
+attests to the kind of values the minotaurs have adopted since moving to
+Craetia. Their insistence on mastery of the arts of the war is evident from the
+apparent damage suffered by the walls and floor of this area. Obviously, it is
+in use quite often.
+~
+76 65544 0 0 0 32
+D2
+~
+~
+0 0 7637
+D3
+~
+~
+0 0 7635
+S
+#7637
+Large Living Quarters~
+This semi-Spartan room has some of the only hints that minotaurs do know of
+luxury. A few furs cover the bed, and a few trophies hang from the walls. In
+the southeast corner of the room lies a small table, presumably for planning
+many of the clan's actions. A few indecipherable papers are scattered about on
+the table, of little use to anybody besides the minotaurs. Otherwise, the room
+is well kept, a rarity in the life of a minotaur.
+~
+76 65544 0 0 0 32
+D0
+~
+~
+0 0 7636
+D3
+~
+~
+0 0 7638
+S
+#7638
+The State Dining Room~
+The dining room is, not unlike the rest of the keep, a rather sparse creation.
+One large table runs down the center of the room with a pair of benches running
+down the long sides. An ornate oak chair, probably for the chieftain, presides
+over the room from its commanding position at the head of the table. Empty
+bowls and strewn utensils cover the table, although any food remains appear to
+be absent.
+~
+76 65544 0 0 0 32
+D0
+~
+~
+0 0 7635
+D1
+~
+~
+0 0 7637
+S
+#7639
+A Statesman's Quarters~
+These quarters are small but cozy and well furnished. Several candles resting
+on the desk flicker and provide just enough light for reading. A small
+bookshelf rests against the wall and contains a good number of books. Several
+of the books, judging from the outward spine, are not written in any commonly
+heard language. The bed is neatly made with the pillows sitting on top of the
+covers. A small mat covers the floor in front of the door to the west.
+~
+76 65544 0 0 0 32
+D3
+~
+door~
+1 7607 7633
+S
+#7640
+A Statesman's Quarters~
+Although well furnished, this place is not very well kept. There is an empty
+bookshelf sitting against the north wall, as well as a bed and desk pushed up
+against the south wall. A small, closed window on the western face of the room
+provides a startling view of the ice-capped mountains marching off to the west.
+A howling wind rattles the permanently closed window.
+~
+76 65544 0 0 0 32
+D1
+~
+door~
+1 7608 7633
+S
+#7641
+A Statesman's Quarters~
+Whoever happens to live in this room has a curious affinity for wool. The
+bedsheets on the large bed are wool, as are the covers. A large wool carpet
+covers most of the cold stone floor. Two torches adorn the walls and provide
+ample light. Desks and bookshelves, mostly empty and unused, sit against the
+northern and eastern stone walls.
+~
+76 65544 0 0 0 32
+D3
+~
+door~
+1 7605 7632
+S
+#7642
+A Statesman's Quarters~
+A large bay window, with no mechanism for opening or closing, dominates the
+western wall, allowing the occupant to look over the white, snowy landscape and
+the frigid mountains. During the day, the scene is almost blinding, at night it
+is incredibly serene and peaceful. Otherwise the room is unremarkable in most
+respects it has the requisite furniture but nothing more.
+~
+76 65544 0 0 0 32
+D1
+~
+door~
+1 7606 7632
+S
+#7643
+A Statesman's Quarters~
+A large, ornate tapestry hangs from the north wall. It is very well crafted and
+depicts a battle scene. In the scene, a number of large, bull-headed creatures
+are scattered round the landscape while being pursued by a number of dragons. 
+Some of the dragons are falling to the mighty axes of the minotaurs, but the
+dragons appear to have the upper hand. A number of the more peaceable creatures
+appear to be fleeing from the scene. Beyond the extravagant tapestry, the room
+is unremarkable in nearly every respect.
+~
+76 65544 0 0 0 32
+D3
+~
+door~
+1 7603 7631
+S
+#7644
+A Statesman's Quarters~
+High ceilings and narrow dimensions are the primary attributes of this bedroom.
+Still, the typical human-sized bed and desk furnish the room. The floor is
+covered with a lightweight and lightly colored rug. A coarse wooden chair lies
+askew from the desk at which it is placed. Little else distinguishes this room,
+save for the lack of windows.
+~
+76 65544 0 0 0 32
+D1
+~
+door~
+1 7604 7631
+S
+#7645
+Minotaur Quarters~
+A huge bookshelf lies against the northern wall, filled with indecipherable
+tomes of religion and mysticism. A small and unfamiliar shrine sits on the wall
+next to a large bed. A large window, the only one on the eastern side of the
+keep, dominates the eastern wall. A desk lies against the east wall just below
+the window so that the occupant can look up from the tomes to a beautiful view.
+~
+76 65544 0 0 0 32
+D3
+~
+door~
+1 7601 7630
+S
+#7646
+Minotaur Quarters~
+This room was clearly not designed for a human presence. Everything about this
+room is big. The walls are massive stone structures, the doors are
+intimidatingly large, and even the window is extraordinarily tall. The bed is
+sturdy and long and covered in some coarse sheets.
+~
+76 65544 0 0 0 32
+D1
+~
+door~
+1 7602 7630
+S
+#7647
+A Dark, Musty Staircase~
+This unfinished room was created by Anubis.
+~
+76 131080 0 0 0 73
+D2
+~
+~
+0 0 7648
+D4
+~
+grate~
+2 7609 7633
+S
+#7648
+A Dark, Musty Staircase~
+This unfinished room was created by Anubis.
+~
+76 131080 0 0 0 73
+D0
+~
+~
+0 0 7647
+D5
+~
+~
+0 0 7649
+S
+#7649
+The Entrance to Mahrahn's Dungeon~
+This unfinished room was created by Anubis.
+~
+76 131080 0 0 0 73
+D2
+~
+gate~
+2 7610 7650
+D4
+~
+~
+0 0 7648
+S
+#7650
+A Dark Hallway~
+This unfinished room was created by Anubis.
+~
+76 131080 0 0 0 73
+D0
+~
+gate~
+2 7610 7649
+D1
+~
+~
+0 0 7654
+D2
+~
+~
+0 0 7651
+D3
+~
+~
+0 0 7655
+S
+#7651
+A Dark Hallway~
+This unfinished room was created by Anubis.
+~
+76 131080 0 0 0 73
+D0
+~
+~
+0 0 7650
+D1
+~
+~
+0 0 7652
+D3
+~
+~
+0 0 7653
+S
+#7652
+A Bloodstained Cell~
+This unfinished room was created by Anubis.
+~
+76 131080 0 0 0 73
+D3
+~
+~
+0 0 7651
+S
+#7653
+A Bloodstained Cell~
+This unfinished room was created by Anubis.
+~
+76 131080 0 0 0 73
+D1
+~
+~
+0 0 7651
+S
+#7654
+A Bloodstained Cell~
+This unfinished room was created by Anubis.
+~
+76 131080 0 0 0 73
+D3
+~
+~
+0 0 7650
+S
+#7655
+A Bloodstained Cell~
+This unfinished room was created by Anubis.
+~
+76 131080 0 0 0 73
+D1
+~
+~
+0 0 7650
+S
+#7656
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+76 0 0 0 0 0
+D3
+~
+~
+0 0 7612
+S
+$~

@@ -1,0 +1,1269 @@
+#3600
+An Entryway Carved from Sandstone~
+
+                  ___..__
+             _mm#O***""*#b
+           _m#""        )#
+         ,#P"    _     ,MK
+         #K      #o_ _m#*
+       _          _B#MO*
+     q###_     .mm#0*"#
+      *###m_   n*"      _,mm_
+        *###b_     _mmmO***#mo
+         *####_   oM"'     _#b
+            ##K         __mm#*  __
+             "##.     m#OO*" _mmO*
+                #K.        _moO"     
+                 "Q_      d#*      _o* 
+                    Mm_   `#,___,mm#"       _mm
+                     `#W   `*0##O*"     _.m#O"
+                        #._   ""     __m##*
+                          #.    ___mMO*"' #R
+                           `*#,  ##O'     0#      qo
+                             `q_  #o__  _M#   _, 'b'
+                               #_ `"OOO#P" _mm#*    .mm._
+                                 *m_     _mMO"     mO*"*#,
+                                   *q_  OO"   _    #'   `0
+                                     *o_     #P   *#b   *'
+                                       q.    #_   #b'   
+                                        ".   `O#m#O
+                                               """
+~
+36 8192 0 0 0 0
+D0
+~
+~
+0 0 3601
+D3
+~
+~
+0 0 6452
+S
+#3601
+Before a Massive Desk Carved from Sandstone~
+You are in an unfinished room.
+~
+36 1032 0 0 0 0
+D0
+~
+~
+0 0 3619
+D1
+~
+~
+0 0 3605
+D2
+~
+~
+0 0 3600
+D3
+~
+~
+0 0 3603
+D5
+~
+~
+0 0 3608
+E
+placard sign nameplate plate~
+                                                          b
+                                  _d###                  _#b
+                                _d"   `b               _d" `b
+   b                          _d"   O  `b           _od"    `b
+   Hb                        d#oq       `b         d##O#b_   `bo_
+  d##b                          `b       `b              "b    "###########b_
+ d#P`#b                          #        `b              `#               `#o
+d#"  `#b                         b    dP   `b            _d          oOOOb   `b
+##    HH   db    db    db    db  `b   `b   dPb        _dO"         d'    )b b #
+H#    HH  d'`b  d'`b  d'`b  d'`b  `b   `b  #'`b      d"          d'      P  b b
+HH    HH d'  `bd'  `bd'  `bd'  `b  `b   `boob `b   #########################b b
+HH    HH                            `b         #P  \\                       b b
+#H    HH        #########            `bb     d#"    ########################b b
+`#q,  HH        #########             # "####"      #                       b b
+  `#,_HH        ##     ##             #  `b,        #         ######        b_P
+   `##HH        ##     ##            d'   d'        #         #    #         #
+     `HH        ##     ##           d'   d'         #         #    #         #
+      #P        #########          d'   d'          #         #    #         #
+      *         #########     ############          ##########################
+~
+S
+#3602
+Auras!~
+&WHe is surrounded by a brilliant white aura! (SANC)
+&RHe is engulfed in a raging inferno! (FIRESHIELD)
+&BHe is enshrouded by a magical blue shield! (MANA SHIELD)
+&rHe is surrounded by an ominous red aura! (RETRIBUTION)
+&mHe is surrounded by shimmering magical copies of himself! (ETHEREAL IMAGES)
+&wHe is surrounded by a shimmering silvery aura! (VENGEANCE)
+&WHe is surrounded by a glittering white aura! (DIVINE PROTECTION)
+&wHe is surrounded by a dark, ominous aura! (MANA BLADE)&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3615
+D1
+~
+~
+0 0 3603
+D3
+~
+~
+0 0 3607
+S
+#3603
+Score Option 1~
+&CTacony &B, Lord of the Underworld
+&c=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=&n
+&BLevel &C40 &BNecromancer                           &BAge &W: &C25 &Byears, &C5 &Bmonths
+&BHit Points &W: &C 1019&B(&C 1019&B)      Mana &W: &C 1400&B(&C 1400&B)     Movement &W: &C 1000&B(&C 1000&B)
+&c=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=&n
+&BStr &W:&B [&C 20&B]                               &BHit Roll &W: &C 70&B(&C0&B)
+&BDex &W: &B[&C 20&B]                               &BDam Roll &W:&C 100&B(&C0&B)   
+&BCon &W: &B[&C 20&B]                            Armor Class &W: &C-170
+&BInt &W: &B[&C 20&B]                        Save vs. Spells &W: &C5
+&BWis &W: &B[&C 20&B]
+&BCha &W: &B[&C 20&B]                    Experience to Level &W: &C123,456,789
+&c=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=&n
+&BAlignment&W:&R -1000                     &BRepair Points &W: &C100
+&BBelief   &W: &RChaotic                    &BQuest Points &W: &C100&n
+                                             &BSouls &W: &C100
+&BYou are carrying &C1&B/&C40 &Bitems with a weight of &C6&B/&C200 &Bpounds.
+&c=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=&n
+&CHave customizeable additions here IE pks, hours played, money, etc etc.&n
+&CSomething the player can decide to see.&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3604
+D1
+~
+~
+0 0 3601
+D3
+~
+~
+0 0 3602
+S
+#3604
+Score Option 2~
+&GTacony , Lord of the Underworld    &BLevel&W: &G40 Necromancer   &BAge&W: &G18 &Byears old
+&r...............................................................................
+&BHit Points&W:  &G1000&B(&G1000&B)    Mana&W: &G1000&B(&G1000&B)   Movement&W: &G1000&B(&G1000&B)
+&r...............................................................................
+&BStr&W: &G25      &B Int&W:&G 25  &B     Wiz&W:&G 25 &B      Dex&W:&G 25    &B   Con&W:&G 25  &B     Cha&W:&G 25
+&r...............................................................................
+&BPractices&W:    &G 30    &B     Armor Class&W: &G -85     &B      Hit Roll&W: &G50
+&BTraining&W: &G     18   &B      Alignment&W: &G    543    &B      Dam Roll&W:&G 50
+&BGold Coins&W:&G    131        
+&BDeaths&W:&G        12       &B  Hours Played&W: &G 123
+&BPlayer Kills&W: &G 54     &B    Monster Kills&W: &G123
+&r...............................................................................
+&BExperience Points&W: &G   1999999999
+&BXP to Level&W:   &G       NoneNeeded
+&BYou are carrying &G1&B/&G186 &Bitems with a weight of &G1&B/&G1750 &Bpounds.&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3617
+D2
+~
+~
+0 0 3603
+S
+#3605
+Identify Option One~
+&nc identify axe
+&BName&W:&G The Waraxe of Anubis   &B[&Gaxe waraxe anubis&B]
+&BItem Type&W:&G WEAPON &BEquippable&W:&G TAKE WIELD &BWeight&W:&G 30 &BValue&W:&G 1000000
+&BLevel Restriction&W:&G 41 &BAttributes&W:&G INVISIBLE GLOW BLESS DETECT-INVIS SENSE-LIFE
+&BClass Restrictions&W:&G ANTI-CLERIC ANTI-WIZARD ANTI-THIEF
+&BSpecialization Restrictions&W:&G ANTI-WARRIOR ANTI-RANGER ANTI-PALADIN
+&BAlignment Restrictions&W:&G ANTI-GOOD ANTI-LAWFUL
+&RThis item is very nearly broken beyond repair.
+&BCondition Remaining&W:&G   9&B/&G100
+&BDamage Dice&W : &G5d5
+   &G+10 &Bto &GHIT-ROLL
+   &G+10 &Bto &GDAM-ROLL
+  &G+100 &B10 &GHIT-POINTS
+~
+36 0 0 0 0 0
+D3
+~
+~
+0 0 3601
+S
+#3606
+Custom Combat Settings~
+help combatset
+COMBATSET
+   
+Syntax   : combatset <1,2>
+   
+This command allows you to change the way you see your melee attacks.
+Thus you can view combat the way you prefer.
+Examples:
+   
+combatset 1
+Ok! Your combat is set to option 1!
+      
+&GYou &Rannihilate &Ga warrior of Anubis with your slash!&n
+    
+combatset 2
+Ok! Your combat is set to option 2!
+    
+&GYour slash &Rannihilates &Ga warrior of Anubis!&n
+~
+36 0 0 0 0 0
+D1
+~
+~
+0 0 3624
+D3
+~
+~
+0 0 3611
+S
+#3607
+Customizeable Prompts!~
+&nPROMPT
+   
+Your prompt is what allows you to see how many hitpoints,
+magic points, movement you have left. You can customize
+your prompt to show you many additional statistics relating
+to your character as well as modifying the actual format
+of your prompt.
+   
+Syntax:
+   
+PROMPT     - Shows you your current prompt setting.
+   
+PROMPT SET - Sets your prompt to the default prompt which is:
+     &B<100H 100M 100V>&n
+   
+PROMPT SET <customizations> - Allows you to customize your prompt
+with the following options and colors:
+    
+!w - &wGrey&n            #h - hitpoints
+!W - &WWhite&n           #H - max hitpoints
+!c - &cDark Cyan&n       #m - mana                    
+!C - &CCyan&n            #M - max mana
+!b - &bDark Blue&n       #v - movement
+!B - &BBlue&n            #V - max movement
+!g - &gDark Green&n      #u - mount movement(if mounted)
+!G - &GGreen&n           #U - max mount movement(if mounted)
+!r - &rDark Red&n        #a - alignment
+!R - &RRed&n             #x - xp to level
+!y - &yDark Yellow&n     #X - total xp
+!Y - &YYellow&n          #p - pk type of room
+!m - &mDark Magenta&n
+!M - &MMagenta&n
+!Z - &GMagic Color&n
+(continued in room west)
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3613
+D1
+~
+~
+0 0 3602
+D3
+~
+~
+0 0 3609
+S
+#3608
+The Hall of Colors~
+&wFor this color type &&w.&n
+&WFor this color type &&W.&n
+&cFor this color type &&c.&n
+&CFor this color type &&C.&n
+&bFor this color type &&b.&n
+&BFor this color type &&B.&n
+&gFor this color type &&g.&n
+&GFor this color type &&G.&n
+&rFor this color type &&r.&n
+&RFor this color type &&R.&n
+&yFor this color type &&y.&n
+&YFor this color type &&Y.&n
+&mFor this color type &&m.&n
+&MFor this color type &&M.&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3610
+D1
+~
+~
+0 0 3621
+D2
+~
+~
+0 0 3632
+D4
+~
+~
+0 0 3601
+S
+#3609
+Customizeable Prompts Part 2~
+   &nThe magic color means our changing color prompts as your
+hitpoints or mana decrease, from blue to green to yellow to
+red. You cannot set the specific colors within this setting.
+Here are some examples of prompts! In these examples our
+test subject has 50 out of 500 hitpoints 250 out of 500 mana
+and 500 out of 500 movement.
+    
+prompt set !B<!Z#h!B/#H!Bhp !Z#m!B/#M!Bm !Z#v!B/#V!Bmv><#p!B>#N
+would look like this:
+&B<&R50&B/500hp &G250&B/500m 500/500mv><&GLPK&B>&n
+~
+36 0 0 0 0 0
+D1
+~
+~
+0 0 3607
+S
+#3610
+Condition Colors~
+Equipment Condition (If we base equipment on repair instead of days)
+Condition string for ID              Points Value (max 100 for an item)
+&CThis item appears to be impervious to damage.     (infinite)&n
+&GThis item appears to be in perfect condition.     (100)&n
+&GThis item appears to have a few minor scratches.  (90-99)&n
+&GThis item has some slight dents and dings.        (80-89)&n
+&YThis item has some big dents and chips.           (70-79)&n
+&YThis item has some major dents and scratches.     (60-69)&n
+&YThis item has some massive chips on its surface.  (50-59)&n
+&yThis item could probably use some repairs.        (40-49)&n
+&yThis item should definitely be repaired.          (30-39)&n
+&RThis item absolutely requires repair.             (20-29)&n
+&RThis item is in dire need of repair.              (10-19)&n
+&RThis item is very nearly broken beyond repair.    (1-9)&n
+&rThis item is damaged beyond hope of repair.       (0)&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3611
+D2
+~
+~
+0 0 3608
+D3
+~
+~
+0 0 3645
+S
+#3611
+Possible Combat Colors~
+&GYour slash &Wmisses &Ga warrior of Anubis!&n                 (0)
+&GYour slash &Cbarely touches &Ga warrior of Anubis!&n       (1-5)
+&GYour slash &Cscratches &Ga warrior of Anubis!&n           (6-10)
+&GYour slash &Cbruises &Ga warrior of Anubis!&n            (11-15)
+&GYour slash &Chits &Ga warrior of Anubis!&n               (16-20)
+&GYour slash &Cinjures &Ga warrior of Anubis!&n            (21-25)
+&GYour slash &Ywounds &Ga warrior of Anubis!&n             (26-30)
+&GYour slash &Ysmites &Ga warrior of Anubis!&n             (31-35)
+&GYour slash &Ymassacres &Ga warrior of Anubis!&n          (36-40)
+&GYour slash &Ydecimates &Ga warrior of Anubis!&n          (41-45)
+&GYour slash &Ymaims &Ga warrior of Anubis!&n              (46-50)
+&GYour slash &Mmauls &Ga warrior of Anubis!&n              (51-55)
+&GYour slash &Mrends &Ga warrior of Anubis!&n              (56-60)
+&GYour slash &Mmutilates &Ga warrior of Anubis!&n          (61-65)
+&GYour slash &Mpulverizes &Ga warrior of Anubis!&n         (66-70)
+&GYour slash &Mdemolishes &Ga warrior of Anubis!&n         (71-75)
+&GYour slash &Rmangles &Ga warrior of Anubis!&n            (76-80)
+&GYour slash &Robliterates &Ga warrior of Anubis!&n        (81-90)
+&GYour slash &Rannihilates &Ga warrior of Anubis!&n       (91-100)
+&GYour slash &Rbrutally maims &Ga warrior of Anubis!&n   (101-130)
+&GYour slash &Rviciously mauls &Ga warrior of Anubis!&n  (130-160)
+&GYour slash &Rhorribly rends &Ga warrior of Anubis!&n      (161+)
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3612
+D1
+~
+~
+0 0 3606
+D2
+~
+~
+0 0 3610
+S
+#3612
+Formation Format n stuff :)~
+Group leader and groupie point of views.
+   
+&CYour group consists of
+   
+ &B[&C  Bluntmaster&B] [&CNecromancer&B] [&CLvl 43&B] &C50000&B/&C50000&Bhp &C50000&B/&C50000&Bm &C50000&B/&C50000&Bmv
+ &B[  &C     Anubis&B] [&C   Summoner&B] [&CLvl 43&B] &C  453&B/&C  453&Bhp  &R  17&B/&C 1950&Bm   &G540&B/ &C 710&Bmv
+ &B[&C        Slurk&B] [&C   Assassin&B] [&CLvl 43&B] &G  750&B/&C 1000&Bhp  &G 990&B/&C 1100&Bm   &C640&B/ &C 640&Bmv
+ &B[&C     Testchar&B] [&C     Knight&B] [&RLvl 40&B] &R   75&B/&C 1553&Bhp  &Y  75&B/&C  144&Bm   &Y220&B/ &C 640&Bmv
+ &B[&C  Testchartwo&B] [&C Magic User&B] [&YLvl  9&B] &C   95&B/ &C  95&Bhp  &C  75&B/&C   75&Bm   &G100&B/ &C 175&Bmv
+   
+&CYou have &B[&W5&B]&C players in your group.
+   
+&c=-=-=-=-=-=-=
+   
+&CAnubis's group consists of
+   
+ &B[&C  Bluntmaster&B] [&CNecromancer&B] [&CLvl 43&B] &C50000&B/&C50000&Bhp &C50000&B/&C50000&Bm &C50000&B/&C50000&Bmv
+ &B[  &C     Anubis&B] [&C   Summoner&B] [&CLvl 43&B] &C  453&B/&C  453&Bhp  &R  17&B/&C 1950&Bm   &G540&B/ &C 710&Bmv
+ &B[&C        Slurk&B] [&C   Assassin&B] [&CLvl 43&B] &G  750&B/&C 1000&Bhp  &G 990&B/&C 1100&Bm   &C640&B/ &C 640&Bmv
+ &B[&C     Testchar&B] [&C     Knight&B] [&RLvl 40&B] &R   75&B/&C 1553&Bhp  &Y  75&B/&C  144&Bm   &Y220&B/ &C 640&Bmv
+ &B[&C  Testchartwo&B] [&C Magic User&B] [&YLvl  9&B] &C   95&B/ &C  95&Bhp  &C  75&B/&C   75&Bm   &G100&B/ &C 175&Bmv
+   
+&CAnubis has &B[&W5&B]&C players in his group.&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3620
+D1
+~
+~
+0 0 3614
+D2
+~
+~
+0 0 3611
+S
+#3613
+Base Stats~
+&nlevel 1 granted so 39 level gains. We can go ahead and make all classes lvl 1 with 50hp/50m/50mv
+and have a across the board 12mv gain per level so they max out at 518mv at lvl 40.
+The other ranges are based off max wis/con and will drop by 1 or 2 for every wis/con below 18.
+so basically warrior with 18 wis/con can gain 14-18hp per lvl but with 17 can only gain 13-17.
+   
+Gains and Min/Max/Avg Bases
+   
+Warrior    :   14-18/1-1     Min: 596hp/ 49m     Max: 752hp/ 49m    Avg: 674hp/ 49m
+Knight     :   18-21/1-1     Min: 752hp/ 49m     Max: 869hp/ 49m    Avg: 811hp/ 49m
+Ranger     :   14-18/3-4     Min: 596hp/127m     Max: 752hp/166m    Avg: 674hp/147m
+Paladin    :   15-19/3-3     Min: 635hp/127m     Max: 791hp/127m    Avg: 713hp/127m
+    
+   
+Thief      :   10-13/4-7     Min: 440hp/186m     Max: 557hp/303m     Avg: 498hp/245m
+Rogue      :   11-14/3-6     Min: 479hp/147m     Max: 596hp/264m     Avg: 538hp/206m
+Assassin   :   10-13/3-3     Min: 440hp/127m     Max: 557hp/127m     Avg: 498hp/127m
+Ninja      :   10-13/3-4     Min: 440hp/127m     Max: 557hp/166m     Avg: 498hp/147m
+   
+   
+Cleric     : 10-13/10-13     Min: 440hp/440m     Max: 557hp/557m     Avg: 498hp/498m
+Druid      :  9-12/12-14     Min: 401hp/518m     Max: 518hp/596m     Avg: 460hp/557m
+Monk       :  11-14/8-11     Min: 479hp/362m     Max: 596hp/479m     Avg: 538hp/421m
+Priest     :  12-15/7-10     Min: 518hp/303m     Max: 635hp/440m     Avg: 578hp/372m
+    
+   
+Mage       :   5-8/10-13     Min: 245hp/440m     Max: 362hp/557m     Avg: 304hp/498m
+Necromancer:    6-9/7-10     Min: 284hp/323m     Max: 401hp/440m     Avg: 343hp/382m
+Sorcerer   :    5-8/9-13     Min: 245hp/401m     Max: 362hp/557m     Avg: 304hp/480m
+Summoner   :   4-7/12-16     Min: 206hp/518m     Max: 323hp/674m     Avg: 265hp/596m
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3623
+D2
+~
+~
+0 0 3607
+S
+#3614
+Group Help File~
+&wGROUP GROUPING FORM FORMATION
+   
+Some creatures of Kuvia will be far too challenging for even the strongest
+master to vanquish alone. In these cases you will need to find a GROUP. Groups
+allow for several players to work together to accomplish difficult tasks. Also,
+some NPC's can join PLAYER groups and most NPC's can group together to some
+degree.
+While in a group, you can use the GROUP or FORM command to see your group's
+stats and to talk to your group.
+   
+group/form <no arguement>
+   &CDisplays a list of players in your current group and their stats.&w
+   
+group hello!
+&CYou tell the group, 'hello!'
+   
+&wform hello!
+&CYou tell the group, 'hello!'&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3618
+D3
+~
+~
+0 0 3612
+S
+#3615
+Spell Format!~
+
+cast shockstorm
+&GYou utter the magical phrase, 'Sol Vas Tarr,' expending 50 mana.&n
+&WYou raise your hands to the heavens and call down a rain of lightning bolts from the sky!&n
+&WLightning pummels the ground around you, casting off thunderous shockwaves throughout the area!&n
+&wA warrior of Anubis screams in agony as the shockwaves crush him!&n
+&wA warrior of Anubis screams in agony as the shockwaves crush him!&n
+&wA warrior of Anubis screams in agony as the shockwaves crush him!&n
+&wA party kid screams in agony as the shockwaves crush him!&n
+&wThe force of the shockwaves shatter a party kid into gobbets of bleeding flesh!&n
+&RA party kid is dead!&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3616
+D2
+~
+~
+0 0 3602
+S
+#3616
+Login Page~
+ _   &w"&c8888888888888888888888888888888888888888888888888888888888888&w""
+&w: `-..`&c88888888888888888888888888&w"' `"&c88888888888888888888888888&w"..
+&y       `&c8888888888888888888&w"'            "&c888888888888888888888&y    `.
+         &c888888888888888&y"'          :         "&c888888888888888&y'     `.
+&g          ."&c888888888&y"""-..     `.,'      `._   ""&c88888888888&g'        :
+&g   .._   :   "&c888&g""'       :\    `.          `. ..''  ""&c8888&g'        ,'
+&g..''   `"\     `""--....    :\    |         .'          ,""         .'
+&g             ``..     |  `.,'  |          |     _.-'        ..''  `.
+&g                     .'    `::::::::::''''':::-'           :       `.
+&g                  _.'        \<<<<<<&y'  :&g<<<:  `.._       .'          \
+&g      _...<<<<<<<<<<<<<<<<<<<<<<<<&y:'   `:&g<<\_     `.    :             |
+&g _..<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&y:'     `:&g<<<::.   .:::::.         ..::..
+&g<<<<<<<<<<<&w|&W#&w || || || ||  |&g<<<&y:'       `:&g<<<<<&w|&W#&w || || || ||  |&g<<<<<<<<<.._
+&g<<<<<<<<<<<&w|&W#&w || || || ||  |&y:'          `:&g<<<<<&w|&W#&w || || || ||  |&g<<<<<<<<<<<<
+&g<<<<<<<<<<<&w|&W#&w::::........  |           &y`:&g<<<<<<&w|&W##&w:::::......  |&g<<<<<<<<<<<<
+&g<<<<<<<<<<<<&w\:&W##&w::.       :         &y `:&g<<<<<<<<<&w\:&W##&w::.       :&g<<<<<<<<<<<<<
+&w--.--.--.--.-|:&W##&w:::.... |-.--.--.---.---.--.--.-|:&W##&w::......|-.--.--.--.--.
+&w:::::::::::::|:&W#&y [&w::     | `"::::::::::::::::::::|:&W##&w:::::&y]&w :| `":::::::::::
+&w:::::::::::::|:&W#&w:::      |             `"::::::::|:&W#&w::       |           `":
+&w:::::'. . .  |:&W#&w:::      |   &y.--&W'&y|-|-|-|-|&W`&y--.&w`::|:::        |
+&w:::: . . .   |::::       |  |&y|-|-|-|-|-|-|-|-|&w|::| ::        |
+&w::.. . .   . |:::        |  |&y! ! ! ! ! ! ! ! !&w| :| :         |
+&w             |           |  |   |_________|   |  |           |
+&w_____________|           |__|.- '         ` -.|__|           |______________
+~
+36 0 0 0 0 0
+D2
+~
+~
+0 0 3615
+S
+#3617
+Wiz List~
+&B_____________                                                    _____________
+&B \       ____)___________________________________________________(____       /
+&B  \     (                                                             )     /
+&B   >--   \      &C                   K U V I A                 &B        /   --<
+&B  /       )--                                                     --(       \
+&B /_______/         &C                S T A F F&B                         \_______\
+&B        (_____________________________________________________________)&n
+                                      &W.
+                          &C Level 43&B: &WImplementors
+                                      .
+           &WTek           &B:  &CCo-Owner
+           &WBluntmaster   &B:  &CCo-Owner
+                            &CWorld Coding Manager
+                            &CMaster World Coder
+                            &CMaster World Builder
+           &WAnubis        &B:  &CWorld Builder Manager
+                            &CWorld Object Manager
+                            &CMaster World Builder
+                            &CHelp File Manager
+           &WKarain        &B:  &CMaster World Coder
+                            &CMaster Quest Designer
+                                      &W.
+                                      &W.
+                          &C Level 42&B: &WSuperiors
+                                      .
+           &WNeass         &B:  &CWorld Builder
+                               &B- &CCurrently Building Zone xxx&B: &C Sample Zone Name&n
+~
+36 0 0 0 0 0
+D2
+~
+~
+0 0 3604
+S
+#3618
+Possible Group Strings~
+&CAnubis tells the group, 'Hey guys'
+  
+You tell the group, 'Hey guys'
+   
+&wfol anubis
+&GOkay, you ask Anubis if you can join his group.
+&COkay! Anubis allows you to follow him!
+&CAnubis did not allow you to follow him.
+   
+&GTestchar asks you if he can join your group&W(y/n)
+&COkay! Testchar joins your group!
+&CTestchar can't follow you just now.
+   
+&wungroup/unform Testchar
+&GTestchar is no longer a member of your group.
+&GAnubis removes you from his group.
+~
+36 0 0 0 0 0
+D2
+~
+~
+0 0 3614
+S
+#3619
+Messaging Service :)~
+&nSend note Karain
+&GYou tie a note around the shaft of a small wooden arrow.
+&CYou point your bow into the sky and shoot a small wooden arrow off into the blue!&n
+---
+&GAnubis ties a note around the shaft of a small wooden arrow.
+&CAnubis points his bow into the sky and shoots a small wooden arrow off into the blue!&n
+---
+&GA weary porter arrives, lugging Karain's belongings.
+&YSuddenly an arrow sails out of the blue and strikes the porter in the chest!
+&CA weary porter says to Karain, 'MESSAGE FOR YOU SIR!'&n
+---
+&GA weary porter arrives, dragging your belongings.
+&YSuddenly an arrow sails out of the blue and strikes the porter in the chest!
+&CA weary porter says to you, 'MESSAGE FOR YOU SIR!'&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3622
+D2
+~
+~
+0 0 3601
+S
+#3620
+Channels~
+Say
+  
+&CYou say, 'Hello there!'.
+Anubis says, 'Hello there!'.
+You say to Anubis, 'Hello there!'.
+Anubis says to you, 'Hello there!'.
+Anubis says to Krandor, 'Hello there!'.
+&CThere is nobody here by that name to talk to.&n
+  
+Shout
+  
+&cYou shout, 'Hello there!'.
+Anubis shouts, 'Hello there!'.
+You hear shouting in the distance but it's too faint to be heard clearly.&n
+  
+Telepath
+  
+&RYou telepath Anubis, 'Hello there!'.
+Anubis telepaths you, 'Hello there!'.&n
+&RWho do you want to telepath?&n
+  
+Whisper
+  
+&BYou whisper to Anubis, 'Hello there!'.
+Anubis whispers to you, 'Hello there!'.
+Anubis whispers something to Krandor.&n
+&BThere is nobody here by that name to listen to your secrets.&n
+  
+master(will only show level on gods)
+  
+&CKrandor&W:: &CHello there!
+&CAnubis&B(&W43&B)&W:: &CHello there!&n
+  
+wiz(god only channel)
+  
+&GAnubis(43) &C:: Hello there!&n
+~
+36 0 0 0 0 0
+D2
+~
+~
+0 0 3612
+S
+#3621
+Bulletin Boards~
+&wA large bulletin board covered with papers hangs on the wall, type LOOK BOARD.
+
+&B<&CIn the Mist&B> &wlook board
+
+              &C              Kuvia Bulletin Board
+              &C        For assistance, type HELP BOARD
+
+&B[&CPost&B][&C       Author&B][&CSubject   &B                                ][ &C  Date&B   ]
+&c-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+&B[ &W001&B][&W      Krandor&B][&GBoots for sale!      &B                     ][&C04-05-2009&B]
+&B[&W 002&B][ &W      Anubis&B][&GLots of good information for players &B     ][&C04-04-2009&B]&n
+So on and so forth
+
+&B<&CIn the Mist&B> &wread 2
+
+&B[&W       Anubis&B][&GLots of good information for players  &B    ]
+
+&wBlah blah note information in this form of text parse it out the same length
+as the bulletin board menu.
+
+-Anubis&n
+~
+36 0 0 0 0 0
+D3
+~
+~
+0 0 3608
+S
+#3622
+Guildinfo command~
+
+&wguildinfo 57
+&BName&W     : &CDark Nomads of the Abyss (57)
+&BLeader&W   : &CKrandor
+&BHometown &W:&C Taris'Vaal
+&BMembers &W : &C15
+&c=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+&GKrandor
+Kharlo
+Tiexiera
+Kharallis
+Duriath
+Gryffin&n
+etcetc...
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3625
+D2
+~
+~
+0 0 3619
+S
+#3623
+Leveling Strings :)~
+&GYour pierce &Rkills &Ga warrior of Anubis!
+&RA warrior of Anubis is dead!
+&wYou receive 128000 experience points!
+&CYou have advanced to level 20!
+&YYour gain is [ 5/8 hitpoints, 13/13 mana, and 12/12 movement]
+~
+36 0 0 0 0 0
+D2
+~
+~
+0 0 3613
+S
+#3624
+Attack strings based on combatset~
+combatset 1
+You annihilate a warrior of Anubis with your slash!
+Bluntmaster annihilates a warrior of Anubis with his slash!
+A warrior of Anubis annihilates you with its slash!
+
+combatset 2
+Your slash annihilates a warrior of Anubis!
+Bluntmaster's slash annihilates a warrior of Anubis!
+A warrior of Anubis's slash annihilates you!
+~
+36 0 0 0 0 0
+D3
+~
+~
+0 0 3606
+S
+#3625
+Guild Commands~
+&wguildinfo # - shows information on the guild
+guildwho # - shows players online from a specific guild
+guild - guild talk channel, guild <argument>
+enlist <name> - enlists a player into the guild
+boot <name> - removes a player from the guild
+promote <name> # - promotes a guild member to a specific rank
+demote <name> # - demotes a guild member to a specific rank
+withdraw # guild - withdraw gold from the guild balance
+deposit # guild - deposit gold into the guild balance
+STRINGS:
+&C[GUILD] Krandor: Hello there!
+&MTacony has enlisted in The Dark Nomads of the Abyss!
+Tacony has left The Dark Nomads of the Abyss!&n
+~
+36 0 0 0 0 0
+D2
+~
+~
+0 0 3622
+S
+#3632
+Zone Map~
+&nThere's two types of characters for each sector type.
+Lets call them wall and path, the piece the char shows
+in will be 'path' and the edges 'wall'. If there's an
+exit N-E-S-W in the room that way will be listed as path.
+The character shows up as a white #.
+Down and up exits will be shown as a ^ or a v. If there's
+an up and a down in the same room it'll show as an X.
+   
+For Example:
+   
+&WNo exits:      Exits East and South:   4 Room Square
+                                       With Various
+                                       Exits
+    
+&MIII            III                     IIIIII
+&MI&W#&MI            I&W#:                 &M    I&W#::X:
+&MIII            I&W:&MI                     I&W::::&MI
+                                       &MI&W::::&MI
+                                       &MI&Wv::^&MI
+                                       &MI&W:&MIIII
+   
+&nThe room east shows a 'sample' zone map centered at
+room 6300.
+ I'll begin putting 3x3 examples for all roomtypes
+south of here :)
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3608
+D1
+~
+~
+0 0 3633
+D2
+~
+~
+0 0 3634
+S
+#3633
+Sample Zone Map from Room 6300.~
+&nMap shows 2 rooms n/s and 3 rooms e/w from character
+
+                   &wIII
+                   &wI&CA&wI
+                   &wI:I
+                   &MI&W:&MI&wIII
+                   &MI&Wv:&w:&CD&wI
+                   &MI&W:&MI&wIII
+                &wIII&MI&w:&MIIII&wIIIIII
+                &wI::&W:#:::&MI&wI&CS&wII&CS&wI
+                &wIII&MI&W:&MIIII&wI:II:I
+          &MIIIIIIIIII&W:&MIIIII&W:&MII&W:&MI
+          &W:::::::::::::::::::::
+          &MI&W:&MII&W:&MII&W:&MII&W:&MII&W:&MII&W:&MII&W:&MI
+          &G*:*&wI:II:I&MI&W:&MI&wI:II:II:I&n
+          &G*^*&wI:II&CB&wI&MI&W::&wI&CS&wII&CL&wII&CS&wI
+          &G***&wIIIIII&MI&W:&MI&wIIIIIIIII&n
+~
+36 0 0 0 0 0
+D2
+~
+~
+0 0 3644
+D3
+~
+~
+0 0 3632
+S
+#3634
+Zone Map Sector Types - 1~
+&WInside                 &WCity                     &WDonation Room
+    
+&wIII                    &MIII                      &wIII
+&wI:I                    &MI&W:&MI                      &wI&WD&wI
+&wIII                    &MIII                      &wIII
+    
+    
+&WAltar                  Field                    Forest
+    
+&wIII                    &G:::                      &G+++ 
+&wI&WA&wI                    &G:&g:&G:                      &G+&g+&G+
+&wIII                    &G:::                      &G+++
+   
+   
+&WHills                  Mountains                Water (swim) 
+   
+&ynnn                    &w^^^                      &csss
+&yn&Y:&yn                    &w^&W:&w^                      &cs&Cs&cs
+&ynnn                    &w^^^                      &csss&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3632
+D2
+~
+~
+0 0 3635
+S
+#3635
+Zone Map Sector Types - 2~
+&WWater (no swim)        In Flight                Underwater
+  
+&Bsss                                             &csss
+&Bs&Cs&Bs                                             &cs&Cs&cs
+&Bsss                                             &csss
+   
+   
+&WRoad                   Rock Mountain            Snow Mountain
+   
+&W:::                    &w^^^                     &W ^^^  
+&W:&Y.&W:                  &w  ^:^                   &W   ^:^
+&W:::                    &w^^^                     &W ^^^
+   
+   
+&WRuins                  Jungle                   Swamp
+   
+&w###                    &G***                      &g***
+&w#&W:&w#                  &G  *:*                      &g*&G*&g*
+&w###                    &G***                      &g***&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3634
+D2
+~
+~
+0 0 3636
+S
+#3636
+Zone Map Sector Types - 3~
+&WLava                   Entrance                 Farm
+  
+&R~~~                    &wIII                     &y III
+&R~&r~&R~                  &w  I:I                   &y   I&G*&yI
+&R~~~                    &wIII                      &yIII
+      
+   
+&WVolcanic               Air                      Street
+   
+&R***                    &B:::                      &wIII
+&R*&r*&R*                  &B  :&C:&B:                &w      I.I
+&R***                   &B :::                      &wIII
+   
+  
+&WBeach                  House                    Shop
+   
+&Y~~~                    &wIII                      III
+&Y~&y~&Y~                    &wI&CH&wI                      I&CS&WI
+&Y~~~                    &wIII                      III&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3635
+D2
+~
+~
+0 0 3637
+S
+#3637
+Zone Map Sector Type - 4~
+&WEmpty                  Blank                    Desert
+   
+                                                &y~~~ 
+                                                &y~&Y~&y~ 
+                                                &y~~~ 
+   
+   
+&WMineshaft              Arctic                   Arroyo
+   
+&wooo                    &W***                      &yooo
+&wo&R:&wo                    &W*&w*&W*                      &yo&Y~&yo
+&wooo                    &W***                      &yooo
+   
+   
+&WAviary                 Bar                      Barracks
+   
+&cxxx                    &y"""                      III
+&cx&Cx&cx                    &y"&W:&y"                      I:I
+&cxxx                    &y"""                      III&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3636
+D2
+~
+~
+0 0 3638
+S
+#3638
+Zone Map Sector Types - 5~
+&WBastion                Bedrock                  Caldera
+  
+&y"""                    xxx                     &r ooo
+&y"&W:&y"                    x&Yx&yx               &r       o&Ro&ro  
+&y"""                    xxx                      &rooo  
+   
+   
+&WCanyon                 Castle                   Cathedral
+   
+&w\\\                    HHH                      TTT   
+&w\&W:&w\                    H&W:&wH                      T&W:&wT
+&w\\\                    HHH                      TTT
+   
+   
+&WCave                   Cavern                   Cemetary
+   
+&yooo                    &wooo                     &y ttt  
+&yo&Yo&yo                  &w  o&Wo&wo                      &yt&W:&yt
+&yooo                   &w ooo                      &yttt&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3637
+D2
+~
+~
+0 0 3639
+S
+#3639
+Zone Map Sector Types - 6~
+&WChurch                 Citadel                  Cliff
+   
+&WTTT                    HHH                     &y \\\
+&WT:T                    H:H                     &y \&Y:&y\
+&WTTT                    HHH                      &y\\\
+   
+   
+&WConiferous Forest      Deciduous Forest         Delta
+   
+&gxxx                    +++                      &y~~~ 
+&gx&Gx&gx                    +&G+&g+                &y      ~&C~&y~ 
+&gxxx                    +++                      &y~~~ 
+   
+&WDunes                  Encampment               Estuary
+   
+&Y~~~                    &wxxx                      &gxxx
+&Y~~~                    &wx:x                      &gx&B~&gx
+&Y~~~                    &wxxx                      &gxxx&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3638
+D2
+~
+~
+0 0 3640
+S
+#3640
+Zone Map Sector Types - 7~
+&WFen                    Foothills                Footpath
+   
+&g@@@                    nnn                      &G:::
+&g@&G@&g@                    n&Gn&gn                &G      :&g:&G:
+&g@@@                    nnn                      &G:::
+   
+   
+&WFortress               Gametrail                Garden
+   
+&WHHH                    &g"""                      &G***
+&WH:H                    &g"&G.&g"                  &G    *:*
+&WHHH                    &g"""                      &G***
+   
+   
+&WGlacier                Gorge                    Grove
+   
+&c***                 &w   \\\                  &G    ###
+&c*&W*&c*               &w     \.\                &G      #&g:&G#
+&c***                   &w \\\                     &G ###&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3639
+D2
+~
+~
+0 0 3641
+S
+#3641
+Zone Map Sector Types - 8~
+&WGuild                  Hamlet                   Highlands
+  
+&wIII                    &yIII                      nnn 
+&wI&CG&wI                    &yI&W.&yI                      n.n
+&wIII                    &yIII                      nnn
+  
+  
+&WInlet                  Knoll                    Lake
+  
+&G~~~                    ooo                     &B SSS
+&G~&C~&G~                    o&g.&Go               &B       S&CS&BS
+&G~~~                    ooo                      &BSSS&n
+   
+   
+&WLowlands               Malpais                  Marketplace
+   
+&nxxx                    &rooo                      &MHHH
+&nx&w.&nx                  &r  o&wo&ro                &M      H&W.&MH
+&nxxx                    &rooo                      &MHHH&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3640
+D2
+~
+~
+0 0 3642
+S
+#3642
+Zone Map Sector Types - 9~
+&WMausoleum              Mortuary                 Palace
+   
+&wMMM                    &WMMM                      &MHHH
+&wM:M                    &WM:M                      &MH&m:&MH
+&wMMM                    &WMMM                      &MHHH
+   
+   
+&WPlain                  Prison                   Pub
+  
+&Gnnn                    &mIII                      &yNNN
+&Gn.n                    &mI&W:&mI                    &y  N:N
+&Gnnn                    &mIII                      &yNNN
+  
+  
+&WRiver                  School                   Snowfield
+  
+&csss                    &wIII                      ***
+&cs&Cs&cs                   &w I&C.&wI                      *&W:&w*
+&csss                    &wIII                      ***&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3641
+D2
+~
+~
+0 0 3643
+S
+#3643
+Zone Map Sector Types - 10~
+&WStream                 Streambed                Temple
+  
+&Csss                    &Gsss                      &MTTT
+&Cs&cs&Cs                    &Gs&Cs&Gs                &M      T&m:&MT
+&Csss                    &Gsss                      &MTTT
+   
+   
+&WTent                   Town                     Tundra
+   
+&wxxx                    HHH                      &y@@@
+&wx&W:&wx                    H&W:&wH                     &y @&Y@&y@
+&wxxx                    HHH                      &y@@@
+   
+   
+&WUnderground            Village                  Volcano
+    
+&y"""                    &mHHH                      &Rooo
+&y"&w.&y"                  &m  H&W:&mH                    &R  o&ro&Ro
+&y"""                    &mHHH                      &Rooo&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3642
+S
+#3644
+Door Examples~
+&n Here's some examples of closed doors vs open doors and hidden/illus exits
+   
+&WClosed Doors:          Hidden(search) exit:          Illusionary Exit:
+     
+      &MI&y-&MI                    &Gx&W:&Gx                          &Gx&W:&Gx
+      &y|&W#&y|                    &W:#&Gx                          &W:#&Gx
+      &MI&y-&MI                    &Gxxx                          xxx
+   
+&WOpen Doors:          After search is opened:        After going through illus:
+    
+      &MIII                   &G x&W:&Gxxxx                       x&W:&Gx
+      &MI&W:&MI         &W           :#::::                       ::&Gx
+      &MI&W:&MI          &G          xxxxxx                       xxx
+   &MIIII&W:&MIIII                                         &G     x&W:&Gx
+   &MI&W:::#:::&MI                                              &Gx&W#&Gx
+   &MIIII&W:&MIIII           &G                                   xxx
+      &MI&W:&MI
+      &MI&W:&MI
+      &MIII&n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3633
+S
+#3645
+Item Condition Stuff :)~
+&GTestchar is using:
+&M<used as light>       &W[&C   impervious&W]&C an orb of obsidian, burning with an inner fire
+&M<worn on finger>      &W[&G      perfect&W]&G a carved bone ring
+&M<worn on finger>      &W[&G    scratches&W]&G a carved bone ring
+&M<worn around neck>  &RX &W[&G  small dings&W]&G an obsidian necklace, bearing the insignia of King Reos
+&M<worn around neck>  &RX &W[&Y    big dents&W]&Y an obsidian necklace, bearing the insignia of King Reos
+&M<worn on body>        &W[&Y  major dents&W]&Y a bloodied battleplate
+&M<worn on head>        &W[&Ymassive chips&W]&Y a charred demon's skull
+&M<worn on legs>        &W[&y    worn down&W]&y forged platinum shinguards &W(invisible)
+&M<worn on feet>        &W[&y    neglected&W]&y forged steel war-boots
+&M<worn on hands>       &W[&R needs repair&W]&R a pair of forged iron chainmail gloves
+&M<worn on arms>        &W[&R    dire need&W]&R spiked steel vambraces
+&M<worn as shield>      &W[&Ralmost ruined&W]&R a shield of carved dracolich bones
+&M<worn about body>     &W[&r       ruined&W]&r a bloody wolf pelt
+&M<worn about waist>    &W[&r       ruined&W]&r an obsidian scabbard
+&M<worn around wrist> &RX &W[&G    scratches&W]&G a forged platinum bracelet
+&M<worn around wrist> &RX &W[&G    scratches&W]&G a forged platinum bracelet
+&M<wielded>             &W[&G    scratches&W]&G the dagger of Fire
+&M<held>                &W[&G    scratches&W]&G the severed hand of King Reos&n
+   
+&GYou attempt to peek at his inventory:
+   &W[&C   impervious&W]&C an orb of obsidian, burning with an inner fire &W(invisible)
+ &RX &W[&r       ruined&W]&r a shimmering unicorn horn &W(invisible)&n
+~
+36 0 0 0 0 0
+D1
+~
+~
+0 0 3610
+S
+$~

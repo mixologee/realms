@@ -1,0 +1,163 @@
+#6100
+mango food~
+a mango~
+A mango is lying here.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+5 0 0 0
+1 5 0 0
+#6101
+pineapple food~
+a pineapple~
+A pineapple is lying here.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+9 0 0 0
+1 9 0 0
+#6102
+coconut food~
+a coconut~
+A coconut is lying here.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+5 0 0 0
+2 6 0 0
+#6103
+seaweed salad food~
+seaweed salad~
+Some seaweed salad is lying here.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+20 0 0 0
+2 20 0 0
+#6104
+cajun crawfish food~
+cajun cooked crawfish~
+Some crawfish have been tossed on the ground here.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+30 0 0 0
+2 30 0 0
+#6105
+chocolate covered beetles food~
+chocolate covered beetles~
+Some chocolate covered beetles have been dumped here.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+30 0 0 0
+1 15 0 0
+#6106
+petrified sceptre~
+a sceptre made of petrified wood~
+A wooden sceptre is lying on the ground.~
+~
+5 op 0 0 0 an 0 0 0 0 0 0 0
+0 4 5 0
+2 420 0 0
+A
+12 15
+A
+3 1
+#6107
+petrified shield~
+a shield made of petrified wood~
+A wooden shield is lying on the ground.~
+~
+9 f 0 0 0 aj 0 0 0 0 0 0 0
+5 0 0 0
+2 100 0 10
+A
+12 10
+A
+18 1
+#6108
+petrified bark~
+a chunk of petrified bark~
+A piece of tree bark is lying here.~
+~
+12 op 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+A
+12 15
+A
+19 2
+#6109
+petrified leggings~
+a pair of petrified leggings~
+A pair of wooden leggings are lying here.~
+~
+9 0 0 0 0 af 0 0 0 0 0 0 0
+3 0 0 0
+2 200 0 0
+A
+12 5
+A
+13 7
+#6110
+encased ember~
+a glowing ember encased in petrified wood~
+An eternally burning ember is lying here.~
+~
+1 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 -1 0
+1 0 0 0
+A
+12 15
+#6111
+venom blade~
+a venom tipped blade~
+A mean looking blade is lying here.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+0 4 5 3
+0 0 0 0
+#6112
+terran cloak~
+a terran cloak~
+A dark green cloak is lying in a pile.~
+~
+11 knp 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+2 420 0 0
+A
+12 15
+A
+24 -2
+#6113
+terran gloves~
+a pair of terran gloves~
+Some dark brown gloves are lying here.~
+~
+11 knp 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0
+2 100 0 15
+A
+12 20
+A
+13 11
+#6114
+the forest sphere~
+a tiny forest within a sphere~
+A tiny living forest in a crystal sphere is lying here.~
+~
+9 nop 0 0 0 aj 0 0 0 0 0 0 0
+10 0 0 0
+3 10420 0 20
+A
+12 30
+A
+17 -3
+#6115
+vine staff~
+a staff of living vines~
+The staff of vines writhes about on the ground.~
+~
+5 kop 0 0 0 an 0 0 0 0 0 0 0
+0 5 6 0
+4 10420 0 25
+A
+12 25
+A
+3 2
+$~

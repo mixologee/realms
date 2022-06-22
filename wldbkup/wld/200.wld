@@ -1,0 +1,1619 @@
+#20000
+Drawbridge to Castle Smoke~
+A large wooden drawbridge connects the outside world with the castle.  It's made
+of solid oak, almost impenetrable.  Two large chains dangle between the far
+corners of the drawbridge and a pulley system built into the walls around it.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20001
+D2
+~
+~
+0 0 -1
+S
+#20001
+Courtyard of Castle Smoke~
+The drawbridge opens up into the vast courtyard of Castle Smoke.  A fairly
+bustling little castle, small vendors from the surrounding areas come here to
+peddle their wares.  Several small carts are closed up now, but sure to open for
+business any time now.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20025
+D1
+~
+~
+0 0 20024
+D2
+~
+~
+0 0 20000
+D3
+~
+~
+0 0 20002
+S
+#20002
+Courtyard of Castle Smoke~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20001
+D3
+~
+~
+0 0 20003
+S
+#20003
+Courtyard of Castle Smoke~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20002
+D3
+~
+~
+0 0 20004
+S
+#20004
+Courtyard of Castle Smoke~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20003
+D3
+~
+~
+0 0 20005
+S
+#20005
+Courtyard of Castle Smoke~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20006
+D1
+~
+~
+0 0 20004
+S
+#20006
+Courtyard of Castle Smoke~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20007
+D2
+~
+~
+0 0 20005
+S
+#20007
+Courtyard of Castle Smoke~
+This area of the courtyard is completely empty.  There are no signs of any
+recent or upcoming activities.  A few scattered footprints in the dirt is all
+that remains.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20008
+D2
+~
+~
+0 0 20006
+S
+#20008
+Courtyard of Castle Smoke~
+This area of the courtyard is completely empty.  There are no signs of any
+recent or upcoming activities.  A few scattered footprints in the dirt is all
+that remains.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20009
+D2
+~
+~
+0 0 20007
+S
+#20009
+Courtyard of Castle Smoke~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20010
+D2
+~
+~
+0 0 20008
+S
+#20010
+Courtyard of Castle Smoke~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20011
+D3
+~
+~
+0 0 20009
+S
+#20011
+Courtyard of Castle Smoke~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20012
+D3
+~
+~
+0 0 20010
+S
+#20012
+Courtyard of Castle Smoke~
+This area of the courtyard is completely empty.  There are no signs of any
+recent or upcoming activities.  A few scattered footprints in the dirt is all
+that remains.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20013
+D3
+~
+~
+0 0 20011
+S
+#20013
+Courtyard of Castle Smoke~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20014
+D3
+~
+~
+0 0 20012
+S
+#20014
+Courtyard of Castle Smoke~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20015
+D3
+~
+~
+0 0 20013
+S
+#20015
+Courtyard of Castle Smoke~
+This area of the courtyard is completely empty.  There are no signs of any
+recent or upcoming activities.  A few scattered footprints in the dirt is all
+that remains.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20016
+D3
+~
+~
+0 0 20014
+S
+#20016
+Courtyard of Castle Smoke~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20017
+D3
+~
+~
+0 0 20015
+S
+#20017
+Courtyard of Castle Smoke~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D2
+~
+~
+0 0 20018
+D3
+~
+~
+0 0 20016
+S
+#20018
+Courtyard of Castle Smoke~
+This area of the courtyard is completely empty.  There are no signs of any
+recent or upcoming activities.  A few scattered footprints in the dirt is all
+that remains.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20017
+D2
+~
+~
+0 0 20019
+S
+#20019
+Courtyard of Castle Smoke~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20018
+D2
+~
+~
+0 0 20020
+S
+#20020
+Courtyard of Castle Smoke~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20019
+D2
+~
+~
+0 0 20021
+S
+#20021
+Courtyard of Castle Smoke~
+This area of the courtyard is completely empty.  There are no signs of any
+recent or upcoming activities.  A few scattered footprints in the dirt is all
+that remains.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20020
+D3
+~
+~
+0 0 20022
+S
+#20022
+Courtyard of Castle Smoke~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20021
+D3
+~
+~
+0 0 20023
+S
+#20023
+Courtyard of Castle Smoke~
+This area of the courtyard is completely empty.  There are no signs of any
+recent or upcoming activities.  A few scattered footprints in the dirt is all
+that remains.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20022
+D3
+~
+~
+0 0 20024
+S
+#20024
+Courtyard of Castle Smoke~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20023
+D3
+~
+~
+0 0 20001
+S
+#20025
+A Hallway in the Castle~
+Several expensive looking paintings line the walls here.  Small torches sit in
+the wall, in between each painting, casting off just enough light to see the
+artwork.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20026
+D2
+~
+~
+0 0 20001
+S
+#20026
+A Hallway in the Castle~
+Several expensive looking scultures are displayed in this hall.  Small torches
+sit in the wall, in between each sculpture, casting off just enough light to see
+the intricasies of the artwork.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20027
+D2
+~
+~
+0 0 20025
+S
+#20027
+A Large Staircase~
+A large staircase continues up and down here.  A good size handrail lines both
+sides of the steps.  The walls along the stairs are covered in expensive
+tapestries.  
+~
+200 65544 0 0 0 0
+D2
+~
+~
+0 0 20026
+D4
+~
+~
+0 0 20028
+D5
+~
+~
+0 0 20047
+S
+#20028
+A Large Staircase~
+A large staircase continues up and down here.  A good size handrail lines both
+sides of the steps.  The walls along the stairs are covered in expensive
+tapestries.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20033
+D1
+~
+~
+0 0 20031
+D2
+~
+~
+0 0 20035
+D3
+~
+~
+0 0 20029
+D4
+~
+~
+0 0 20037
+D5
+~
+~
+0 0 20027
+S
+#20029
+A Hallway in the Castle~
+Several expensive looking scultures are displayed in this hall.  Small torches
+sit in the wall, in between each sculpture, casting off just enough light to see
+the intricasies of the artwork.  
+~
+200 65544 0 0 0 0
+D1
+~
+~
+0 0 20028
+D3
+~
+~
+0 0 20030
+S
+#20030
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes line the floor and
+bed.  Someone lives in a messy room.  Small trinkets are hanging from the bed
+post.  
+~
+200 65544 0 0 0 0
+D1
+~
+~
+0 0 20029
+S
+#20031
+A Hallway in the Castle~
+Several expensive looking scultures are displayed in this hall.  Small torches
+sit in the wall, in between each sculpture, casting off just enough light to see
+the intricasies of the artwork.  
+~
+200 65544 0 0 0 0
+D1
+~
+~
+0 0 20032
+D3
+~
+~
+0 0 20028
+S
+#20032
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes line the floor and
+bed.  Someone lives in a messy room.  Small trinkets are hanging from the bed
+post.  
+~
+200 65544 0 0 0 0
+D3
+~
+~
+0 0 20031
+S
+#20033
+A Hallway in the Castle~
+Several expensive looking paintings line the walls here.  Small torches sit in
+the wall, in between each painting, casting off just enough light to see the
+artwork.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20034
+D2
+~
+~
+0 0 20028
+S
+#20034
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes are neatly stacked
+and folded on the end of the bed.  Someone takes good care of their things.  
+Several hats are sitting on top of the dressers.  
+~
+200 65544 0 0 0 0
+D2
+~
+~
+0 0 20033
+S
+#20035
+A Hallway in the Castle~
+Several expensive looking paintings line the walls here.  Small torches sit in
+the wall, in between each painting, casting off just enough light to see the
+artwork.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20028
+D2
+~
+~
+0 0 20036
+S
+#20036
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes are neatly stacked
+and folded on the end of the bed.  Someone takes good care of their things.  
+Several hats are sitting on top of the dressers.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20035
+S
+#20037
+A Large Staircase~
+A large staircase continues up and down here.  A good size handrail lines both
+sides of the steps.  The walls along the stairs are covered in expensive
+tapestries.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20042
+D1
+~
+~
+0 0 20040
+D2
+~
+~
+0 0 20044
+D3
+~
+~
+0 0 20038
+D4
+~
+~
+0 0 20046
+D5
+~
+~
+0 0 20028
+S
+#20038
+A Hallway in the Castle~
+Several expensive looking paintings line the walls here.  Small torches sit in
+the wall, in between each painting, casting off just enough light to see the
+artwork.  
+~
+200 65544 0 0 0 0
+D1
+~
+~
+0 0 20037
+D3
+~
+~
+0 0 20039
+S
+#20039
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes are neatly stacked
+and folded on the end of the bed.  Someone takes good care of their things.  
+Several hats are sitting on top of the dressers.  
+~
+200 65544 0 0 0 0
+D1
+~
+~
+0 0 20038
+S
+#20040
+A Hallway in the Castle~
+Several expensive looking paintings line the walls here.  Small torches sit in
+the wall, in between each painting, casting off just enough light to see the
+artwork.  
+~
+200 65544 0 0 0 0
+D1
+~
+~
+0 0 20041
+D3
+~
+~
+0 0 20037
+S
+#20041
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes are neatly stacked
+and folded on the end of the bed.  Someone takes good care of their things.  
+Several hats are sitting on top of the dressers.  
+~
+200 65544 0 0 0 0
+D3
+~
+~
+0 0 20040
+S
+#20042
+A Hallway in the Castle~
+Several expensive looking scultures are displayed in this hall.  Small torches
+sit in the wall, in between each sculpture, casting off just enough light to see
+the intricasies of the artwork.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20043
+D2
+~
+~
+0 0 20037
+S
+#20043
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes line the floor and
+bed.  Someone lives in a messy room.  Small trinkets are hanging from the bed
+post.  
+~
+200 65544 0 0 0 0
+D2
+~
+~
+0 0 20042
+S
+#20044
+A Hallway in the Castle~
+Several expensive looking scultures are displayed in this hall.  Small torches
+sit in the wall, in between each sculpture, casting off just enough light to see
+the intricasies of the artwork.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20037
+D2
+~
+~
+0 0 20045
+S
+#20045
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes line the floor and
+bed.  Someone lives in a messy room.  Small trinkets are hanging from the bed
+post.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20044
+S
+#20046
+Top of a Large Staircase~
+A large staircase comes to an end here.  The stairs lead back down into the
+castle.  There is a small handrail to help guide someone up the steps.  
+~
+200 65544 0 0 0 0
+D5
+~
+~
+0 0 20037
+S
+#20047
+A Large Staircase~
+A large staircase continues up and down here.  A good size handrail lines both
+sides of the steps.  The walls along the stairs are covered in expensive
+tapestries.  
+~
+200 65544 0 0 0 0
+D4
+~
+~
+0 0 20027
+D5
+~
+~
+0 0 20048
+S
+#20048
+A Large Staircase~
+A large staircase continues up and down here.  A good size handrail lines both
+sides of the steps.  The walls along the stairs are covered in expensive
+tapestries.  
+~
+200 65544 0 0 0 0
+D4
+~
+~
+0 0 20047
+D5
+~
+~
+0 0 20049
+S
+#20049
+Bottom of a Large Staircase~
+A large staircase comes to an end here.  The stairs lead further up into the
+castle.  There is a small handrail to help guide someone up the steps.  
+~
+200 65544 0 0 0 0
+D4
+~
+~
+0 0 20048
+S
+#20050
+Drawbridge to Castle Blaze~
+A large wooden drawbridge connects the outside world with the castle.  It's made
+of solid oak, almost impenetrable.  Two large chains dangle between the far
+corners of the drawbridge and a pulley system built into the walls around it.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20051
+D2
+~
+~
+0 0 -1
+S
+#20051
+Courtyard of Castle Blaze~
+The drawbridge opens up into the vast courtyard of Castle Blaze.  A fairly
+bustling little castle, small vendors from the surrounding areas come here to
+peddle their wares.  Several small carts are closed up now, but sure to open for
+business any time now.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20075
+D1
+~
+~
+0 0 20074
+D2
+~
+~
+0 0 20050
+D3
+~
+~
+0 0 20052
+S
+#20052
+Courtyard of Castle Blaze~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20051
+D3
+~
+~
+0 0 20053
+S
+#20053
+Courtyard of Castle Blaze~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20052
+D3
+~
+~
+0 0 20054
+S
+#20054
+Courtyard of Castle Blaze~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20053
+D3
+~
+~
+0 0 20055
+S
+#20055
+Courtyard of Castle Blaze~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20056
+D1
+~
+~
+0 0 20054
+S
+#20056
+Courtyard of Castle Blaze~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20057
+D2
+~
+~
+0 0 20055
+S
+#20057
+Courtyard of Castle Blaze~
+This area of the courtyard is completely empty.  There are no signs of any
+recent or upcoming activities.  A few scattered footprints in the dirt is all
+that remains.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20058
+D2
+~
+~
+0 0 20056
+S
+#20058
+Courtyard of Castle Blaze~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20059
+D2
+~
+~
+0 0 20057
+S
+#20059
+Courtyard of Castle Blaze~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20060
+D2
+~
+~
+0 0 20058
+S
+#20060
+Courtyard of Castle Blaze~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20061
+D3
+~
+~
+0 0 20059
+S
+#20061
+Courtyard of Castle Blaze~
+This area of the courtyard is completely empty.  There are no signs of any
+recent or upcoming activities.  A few scattered footprints in the dirt is all
+that remains.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20062
+D3
+~
+~
+0 0 20060
+S
+#20062
+Courtyard of Castle Blaze~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20063
+D3
+~
+~
+0 0 20061
+S
+#20063
+Courtyard of Castle Blaze~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20064
+D3
+~
+~
+0 0 20062
+S
+#20064
+Courtyard of Castle Blaze~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20065
+D3
+~
+~
+0 0 20063
+S
+#20065
+Courtyard of Castle Blaze~
+This area of the courtyard is completely empty.  There are no signs of any
+recent or upcoming activities.  A few scattered footprints in the dirt is all
+that remains.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20066
+D3
+~
+~
+0 0 20064
+S
+#20066
+Courtyard of Castle Blaze~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20067
+D3
+~
+~
+0 0 20065
+S
+#20067
+Courtyard of Castle Blaze~
+This area of the courtyard is completely empty.  There are no signs of any
+recent or upcoming activities.  A few scattered footprints in the dirt is all
+that remains.  
+~
+200 65536 0 0 0 0
+D2
+~
+~
+0 0 20068
+D3
+~
+~
+0 0 20066
+S
+#20068
+Courtyard of Castle Blaze~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20067
+D2
+~
+~
+0 0 20069
+S
+#20069
+Courtyard of Castle Blaze~
+This area of the courtyard is completely empty.  There are no signs of any
+recent or upcoming activities.  A few scattered footprints in the dirt is all
+that remains.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20068
+D2
+~
+~
+0 0 20070
+S
+#20070
+Courtyard of Castle Blaze~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20069
+D2
+~
+~
+0 0 20071
+S
+#20071
+Courtyard of Castle Blaze~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D0
+~
+~
+0 0 20070
+D3
+~
+~
+0 0 20072
+S
+#20072
+Courtyard of Castle Blaze~
+This area of the courtyard is completely empty.  There are no signs of any
+recent or upcoming activities.  A few scattered footprints in the dirt is all
+that remains.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20071
+D3
+~
+~
+0 0 20073
+S
+#20073
+Courtyard of Castle Blaze~
+This area has several large stacks of hay with a few extra pitchforks and
+wheelbarrows.  The walls of the castle are made of solid rock.  A few piles of
+animal feces are scattered about on the ground.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20072
+D3
+~
+~
+0 0 20074
+S
+#20074
+Courtyard of Castle Blaze~
+A large stone wall protects the castle from invaders.  The courtyard is mostly
+dirt and stone, with a few vendor carts here and there.  The walls of the castle
+itself are made of solid rock.  
+~
+200 65536 0 0 0 0
+D1
+~
+~
+0 0 20073
+D3
+~
+~
+0 0 20051
+S
+#20075
+A Hallway in the Castle~
+Several expensive looking paintings line the walls here.  Small torches sit in
+the wall, in between each painting, casting off just enough light to see the
+artwork.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20076
+D1
+~
+~
+0 0 20078
+D2
+~
+~
+0 0 20051
+D3
+~
+~
+0 0 20077
+S
+#20076
+Bottom of a Staircase~
+A small staircase comes to an end here.  The stairs lead further up into the
+castle.  There is a small handrail to help guide someone up the steps.  
+~
+200 65544 0 0 0 0
+D2
+~
+~
+0 0 20075
+D4
+~
+~
+0 0 20081
+S
+#20077
+Bottom of a Staircase~
+A small staircase comes to an end here.  The stairs lead further up into the
+castle.  There is a small handrail to help guide someone up the steps.  
+~
+200 65544 0 0 0 0
+D1
+~
+~
+0 0 20075
+D4
+~
+~
+0 0 20080
+S
+#20078
+Bottom of a Staircase~
+A small staircase comes to an end here.  The stairs lead further up into the
+castle.  There is a small handrail to help guide someone up the steps.  
+~
+200 65544 0 0 0 0
+D3
+~
+~
+0 0 20075
+D4
+~
+~
+0 0 20079
+S
+#20079
+Top of a Staircase~
+A large staircase comes to an end here.  The stairs lead back down into the
+castle.  There is a small handrail to help guide someone up the steps.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20088
+D5
+~
+~
+0 0 20078
+S
+#20080
+Top of a Staircase~
+A large staircase comes to an end here.  The stairs lead back down into the
+castle.  There is a small handrail to help guide someone up the steps.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20082
+D5
+~
+~
+0 0 20077
+S
+#20081
+Top of a Staircase~
+A large staircase comes to an end here.  The stairs lead back down into the
+castle.  There is a small handrail to help guide someone up the steps.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20089
+D2
+~
+~
+0 0 20099
+D5
+~
+~
+0 0 20076
+S
+#20082
+A Hallway in the Castle~
+Several expensive looking paintings line the walls here.  Small torches sit in
+the wall, in between each painting, casting off just enough light to see the
+artwork.
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20083
+D2
+~
+~
+0 0 20080
+S
+#20083
+A Hallway in the Castle~
+Several expensive looking paintings line the walls here.  Small torches sit in
+the wall, in between each painting, casting off just enough light to see the
+artwork.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20084
+D2
+~
+~
+0 0 20082
+S
+#20084
+A Hallway in the Castle~
+Several expensive looking scultures are displayed in this hall.  Small torches
+sit in the wall, in between each sculpture, casting off just enough light to see
+the intricasies of the artwork.  
+~
+200 65544 0 0 0 0
+D1
+~
+~
+0 0 20085
+D2
+~
+~
+0 0 20083
+S
+#20085
+A Hallway in the Castle~
+Several expensive looking paintings line the walls here.  Small torches sit in
+the wall, in between each painting, casting off just enough light to see the
+artwork.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20090
+D1
+~
+~
+0 0 20086
+D2
+~
+~
+0 0 20089
+D3
+~
+~
+0 0 20084
+S
+#20086
+A Hallway in the Castle~
+Several expensive looking scultures are displayed in this hall.  Small torches
+sit in the wall, in between each sculpture, casting off just enough light to see
+the intricasies of the artwork.  
+~
+200 65544 0 0 0 0
+D2
+~
+~
+0 0 20087
+D3
+~
+~
+0 0 20085
+S
+#20087
+A Hallway in the Castle~
+Several expensive looking paintings line the walls here.  Small torches sit in
+the wall, in between each painting, casting off just enough light to see the
+artwork.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20086
+D2
+~
+~
+0 0 20088
+S
+#20088
+A Hallway in the Castle~
+Several expensive looking paintings line the walls here.  Small torches sit in
+the wall, in between each painting, casting off just enough light to see the
+artwork.
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20087
+D2
+~
+~
+0 0 20079
+S
+#20089
+A Hallway in the Castle~
+Several expensive looking scultures are displayed in this hall.  Small torches
+sit in the wall, in between each sculpture, casting off just enough light to see
+the intricasies of the artwork.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20085
+D2
+~
+~
+0 0 20081
+S
+#20090
+A Hallway in the Castle~
+Several expensive looking paintings line the walls here.  Small torches sit in
+the wall, in between each painting, casting off just enough light to see the
+artwork.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20091
+D2
+~
+~
+0 0 20085
+S
+#20091
+A Hallway in the Castle~
+Several expensive looking scultures are displayed in this hall.  Small torches
+sit in the wall, in between each sculpture, casting off just enough light to see
+the intricasies of the artwork.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20092
+D2
+~
+~
+0 0 20090
+S
+#20092
+A Hallway in the Castle~
+One large painting sits alone on the northern wall.  It is the portrait of a
+very regal man with a golden sceptre and jewel encrusted crown.  A large torch
+sits just above the painting, shedding enough light to make the artwork visible.
+~
+200 65544 0 0 0 0
+D1
+~
+~
+0 0 20094
+D2
+~
+~
+0 0 20091
+D3
+~
+~
+0 0 20093
+S
+#20093
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes are neatly stacked
+and folded on the end of the bed.  Someone takes good care of their things.  
+Several hats are sitting on top of the dressers.  
+~
+200 65544 0 0 0 0
+D1
+~
+~
+0 0 20092
+D2
+~
+~
+0 0 20095
+S
+#20094
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes are neatly stacked
+and folded on the end of the bed.  Someone takes good care of their things.  
+Several hats are sitting on top of the dressers.  
+~
+200 65544 0 0 0 0
+D2
+~
+~
+0 0 20097
+D3
+~
+~
+0 0 20092
+S
+#20095
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes line the floor and
+bed.  Someone lives in a messy room.  Small trinkets are hanging from the bed
+post.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20093
+D1
+~
+~
+0 0 20096
+S
+#20096
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes are neatly stacked
+and folded on the end of the bed.  Someone takes good care of their things.  
+Several hats are sitting on top of the dressers.  
+~
+200 65544 0 0 0 0
+D3
+~
+~
+0 0 20095
+S
+#20097
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes line the floor and
+bed.  Someone lives in a messy room.  Small trinkets are hanging from the bed
+post.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20094
+D1
+~
+~
+0 0 20098
+S
+#20098
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes are neatly stacked
+and folded on the end of the bed.  Someone takes good care of their things.  
+Several hats are sitting on top of the dressers.  
+~
+200 65544 0 0 0 0
+D3
+~
+~
+0 0 20097
+S
+#20099
+A Bedroom~
+This room has a bed and two oak dressers.  Piles of clothes line the floor and
+bed.  Someone lives in a messy room.  Small trinkets are hanging from the bed
+post.  
+~
+200 65544 0 0 0 0
+D0
+~
+~
+0 0 20081
+S
+$~

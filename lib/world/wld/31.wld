@@ -1,0 +1,1394 @@
+#3100
+An Old Dirt Road~
+The beginning of an old and seldom used dirt road forms from the tracks of old wagons
+being hauled into the forest.  Grass now grows over most of the path, but it is still
+faintly noticable.  The trail itself continues to the north and to the south you can
+see the vast wilderness of the island around you.
+~
+31 4 0 0 0 0
+D0
+~
+~
+0 0 3101
+D2
+~
+~
+0 0 3074984
+S
+#3101
+A Dirt Road Leading to the Forest~
+The overgrown dirt road continues here to the south and east into the mysterious
+forest.  Leaves litter the ground in various colors and sizes, ranging from bright
+red to dull brown.  Scattered amongst the leaves you see some leaves which are green
+but have silvery colored veins and stems.
+~
+31 0 0 0 0 2
+D1
+~
+~
+0 0 3102
+D2
+~
+~
+0 0 3100
+S
+#3102
+A Dirt Road Leading to the Forest~
+As if the path were not grown over with grass enough before, the grass only grows more
+thick as the trail continues east into the dense forest.  More leaves cover the ground
+and some dead branches litter the area.  Quiet sounds of animals running through the
+area echo from the trees and distort your perception.
+~
+31 0 0 0 0 2
+D1
+~
+~
+0 0 3103
+D3
+~
+~
+0 0 3101
+S
+#3103
+A Grassy Path~
+Now the once overgrown dirt path is composed of trampled grass and leaves that have
+been pushed to the side by someone or something.  Large footprints can be seen in the
+ground in the shape of a man's boot, and a few broken arrows lie strewn about the
+area.  Apparently it is not just the animals who occupy this forest.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 0 3108
+D1
+~
+~
+0 0 3104
+D3
+~
+~
+0 0 3102
+S
+#3104
+A Fork in the Path~
+The grassy path forks here, going in all of the cardinal directions.  Some small trees
+surrounded by much larger trees run to the north, and the overgrown road runs into the
+river to the east and continues to the south.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 0 3107
+D1
+~
+~
+0 0 3105
+D2
+~
+~
+0 0 3161
+D3
+~
+~
+0 0 3103
+S
+#3105
+A Grassy Path Beside the River~
+The relaxing sound of gently flowing water echos throughout the forest as you stand
+near the river to the east.  Small animals and insects wander all about and rustle
+through the dead leaves laying in piles to the sides of the road and near the river
+bed.  The road continues north and to the south a large tree and some sharp-looking
+bushes obstruct the path.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 0 3106
+D3
+~
+~
+0 0 3104
+S
+#3106
+A Grassy Path Beside the River~
+The great river flows just east of the path, down a sharp incline which makes
+traveling to the river quite dangerous.  The riverside path continues to the south
+and to the north, a giant rock hangs over the river like mighty cliff.  The path
+does not continue to the west as the trees grow too dense for passage of anything
+larger than man or beast alone.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3109
+D2
+~
+~
+0 0 3105
+D3
+~
+~
+0 0 3107
+S
+#3107
+Inside the Silverwood Forest~
+Amongst the trees everything is much cooler and peaceful.  Small gusts of wind
+rustle through the leaves and branches of the giant trees, sending leaves flying
+through the air and to the ground where they add beautiful colors to the land-
+scape.  The sound of flowing water can be heard in the distance to the east.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3110
+D1
+~
+~
+0 0 3106
+D2
+~
+~
+0 0 3104
+D3
+~
+~
+0 0 3108
+S
+#3108
+A Forested Clearing~
+The trees clear the area and recede, only hindering passage to the north and west.
+Leaves of all colors clutter the ground and above you a canopy of vibrant green
+leaves cast a pale shadow over the area, making it quite cool.  To the east the
+forest continues and an overgrown path leads southward.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 0 3107
+D2
+~
+~
+0 0 3103
+S
+#3109
+On a Large Rock~
+Standing above the great river which intersects the forest is an enormous rock.
+This rock acts almost as a cliff above the river, standing high above the surface
+of the water, making the jump very dangerous and inconceivable.  To the south the
+trail tracing the western border of the river contines.
+~
+31 0 0 0 0 4
+D2
+~
+~
+0 0 3106
+D3
+~
+~
+0 0 3110
+S
+#3110
+In the Silverwood Forest~
+The large, silvery-fleshed trees grow tall above your head and seem to touch
+the clouds in the sky with their beautiful leaves.  A crisp wind gushes by and
+the sounds of a river and of animals playing in the tall grass and piles of
+leaves can be heard.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3112
+D1
+~
+~
+0 0 3109
+D2
+~
+~
+0 0 3107
+D3
+~
+~
+0 0 3111
+S
+#3111
+Deep in the Silverwood~
+Deep within the woods, the natural light grows dim as tall trees obstruct the sky
+with branches and dense leaves.  The leaves sway in the wind, shimmering with a faint
+glow in the pale light.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3113
+D1
+~
+~
+0 0 3110
+S
+#3112
+A Small Clearing in the Woods~
+The large trees do not grow in this small area of the forest.  Only smaller, younger
+trees and some plants with various berries grow here.  The grass is significantly
+shorter.  In fact, this almost looks as if it were once part of a path through the
+forest, though it is obviously seldom used by men.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3118
+D2
+~
+~
+0 0 3110
+D3
+~
+~
+0 0 3113
+S
+#3113
+Among Large Silverwood Trees~
+Several of the silverwood trees grow taller here than any where else in the forest.
+Smaller trees all are almost like children to the ancient beings.  Dead leaves of
+tarnished silver and rusty-colored skin litter the ground all through the area.  There
+is one tree that stands out.  It seems to be dead; several branches have fallen from
+it's mighty base and nearly all of its leaves lie on the ground.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 0 3112
+D2
+~
+~
+0 0 3111
+D4
+~
+~
+0 0 3114
+S
+#3114
+Climbing a Dead Silverwood Tree~
+You are climbing up an old, dead silverwood tree.  Be careful not to fall!
+~
+31 131332 0 0 0 3
+D0
+~
+~
+0 0 3116
+D3
+~
+~
+0 0 3115
+D5
+~
+~
+0 0 3113
+S
+#3115
+A Silverwood Branch~
+You struggle to maintain balance on this narrow branch of the silverwood tree.
+Gusts of wind blow, causing the leaves to rustle and the branch to sway.
+~
+31 131332 0 0 0 3
+D1
+~
+~
+0 0 3114
+S
+#3116
+A Silverwood Branch~
+Leaves whip in the wind around your head and on the branch which continues to travel
+further up into the sky.  The branch is narrow, and maintaining balance is difficult.
+Be careful that you don't lose your footing!
+~
+31 131332 0 0 0 3
+D2
+~
+~
+0 0 3114
+D4
+~
+~
+0 0 3117
+S
+#3117
+The Top of the Silverwood Tree~
+Standing atop the dead silverwood tree, there are not many leaves remaining on its
+aging branches.  Most have fallen to the ground.  Much of the smaller branches forking
+out of this very branch are rotten and hollowed by termites and age.
+~
+31 131332 0 0 0 3
+D5
+~
+~
+0 0 3116
+S
+#3118
+West of a Wooden Bridge~
+The forest grows very dense here to the north and west, preventing any travel,
+man or beast, in those directions.  To the east an old bridge stands strong after
+many years of use and abuse and weathering.  To the south the trees seem to
+break apart, creating a small clearing.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 0 3163
+D2
+~
+~
+0 0 3112
+S
+#3119
+An Overgrown Path~
+The tall grass continues to grow even higher as the trail leads southward along
+the river, and tall trees move in upon each other to the east as the forest grows
+more dense.  To the west, an old wooden bridge has been built to cross the large
+river which runs through the center of the forest.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 0 3120
+D2
+~
+~
+0 0 3135
+D3
+~
+~
+0 0 3163
+S
+#3120
+Deep within the Silverwood~
+Here the trees grow especially dense to the north and south, allowing only difficult
+passage east and west toward the river.  Large thorny bushes line the sides of the road
+as well as some bushes bearing wild berries.  Leaves cover the ground and the sound
+of wind eches from the trees.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 0 3121
+D3
+~
+~
+0 0 3119
+S
+#3121
+Deep within the Silverwood~
+The dense trees continue to swell around the path but allow safe passage to the
+west and south.  Bramble bushes bearing sharp thorns grow heavily to the east, but
+only a few smaller vines and bushes grow to the north.
+~
+31 0 0 0 0 0
+D0
+~
+~
+0 0 3122
+D2
+~
+~
+0 0 3124
+D3
+~
+~
+0 0 3120
+S
+#3122
+Deep within the Silverwood~
+Darkness swells around the area under the canopy of silvery-green leaves hanging
+from the branches of mighty silverwood trees.  Small bushes grow to the south, which
+allow you to continue through to the rest of the forest.  A small clearing to the west
+protects a small grassy area with an old, abandoned wooden cart.
+~
+31 4 0 0 0 3
+D2
+~
+~
+0 0 3121
+D3
+~
+~
+0 0 3123
+S
+#3123
+A Grassy Knoll, Surrounded by Trees~
+Upon this grassy knoll in the depths of the silverwood forest and old cart has
+been abandoned and left for the taking.  And for just that purpose, an old pirate
+wench has set up a small shop to sell goods and treasures to the hunters and lost
+travelers in the forest.
+~
+31 16 0 0 0 3
+D1
+~
+~
+0 0 3122
+S
+#3124
+Deep within the Silverwood~
+The trees begin to spread apart a bit and to the east there is a small trail
+which is only surrounded by trees.  Large trees have fallen over and died,
+blocking travel to the south and west here.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3121
+D1
+~
+~
+0 0 3125
+S
+#3125
+Surrounded by Some Trees~
+The trees surround this narrow pathway to the north and south.  They grow so
+closely together than only one person seems to be able to fit through the trees
+at once.  Heavy and dense bramble bushes grow amongst the trees, scratching your
+skin as you pass through.
+~
+31 256 0 0 0 3
+D1
+~
+trees~
+2 3120 3126
+D3
+~
+~
+0 0 3124
+S
+#3126
+A Clearing in the Forest~
+Entering this great clearing in the forest, the air begins to tingle with ancient
+magics.  To the east an enormous tree with silvery flesh grows as tall as the sky
+itself.  All around the giant tree, the clearing is surrounded by smaller, younger
+trees which form a wall to protect the eldest tree of the forest.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3127
+D1
+~
+~
+0 0 3134
+D2
+~
+~
+0 0 3133
+D3
+~
+trees~
+2 3120 3125
+S
+#3127
+A Clearing in the Forest~
+Tall trees grow all around this clearing, seeming to form a natural fortress to
+protect the ancient tree within.  The magic of pagan gods seems to fill the air and
+cause your skin to tingle as you pass through the area.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 0 3128
+D2
+~
+~
+0 0 3126
+S
+#3128
+A Clearing in the Forest~
+Tall trees grow all around this clearing, seeming to form a natural fortress to
+protect the ancient tree within.  The magic of pagan gods seems to fill the air and
+cause your skin to tingle as you pass through the area.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 0 3129
+D2
+~
+~
+0 0 3134
+D3
+~
+~
+0 0 3127
+S
+#3129
+A Clearing in the Forest~
+Tall trees grow all around this clearing, seeming to form a natural fortress to
+protect the ancient tree within.  The magic of pagan gods seems to fill the air and
+cause your skin to tingle as you pass through the area.
+~
+31 0 0 0 0 3
+D2
+~
+~
+0 0 3130
+D3
+~
+~
+0 0 3128
+S
+#3130
+A Clearing in the Forest~
+Tall trees grow all around this clearing, seeming to form a natural fortress to
+protect the ancient tree within.  The magic of pagan gods seems to fill the air and
+cause your skin to tingle as you pass through the area.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3129
+D2
+~
+~
+0 0 3131
+D3
+~
+~
+0 0 3134
+S
+#3131
+A Clearing in the Forest~
+Tall trees grow all around this clearing, seeming to form a natural fortress to
+protect the ancient tree within.  The magic of pagan gods seems to fill the air and
+cause your skin to tingle as you pass through the area.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3130
+D3
+~
+~
+0 0 3132
+S
+#3132
+A Clearing in the Forest~
+Tall trees grow all around this clearing, seeming to form a natural fortress to
+protect the ancient tree within.  The magic of pagan gods seems to fill the air and
+cause your skin to tingle as you pass through the area.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3134
+D1
+~
+~
+0 0 3131
+D3
+~
+~
+0 0 3133
+S
+#3133
+A Clearing in the Forest~
+Tall trees grow all around this clearing, seeming to form a natural fortress to
+protect the ancient tree within.  The magic of pagan gods seems to fill the air and
+cause your skin to tingle as you pass through the area.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3126
+D1
+~
+~
+0 0 3132
+S
+#3134
+Standing Before an Ancient Silverwood Tree~
+Standing in the center of this large clearing in the Silverwood forest, is an
+ancient tree, taller than all the others in the forest.  Its greyish colored bark
+is traced with streaks of silver, and the leaves upon its grown are veined with
+silver, but the color has faded to a yellowish color with age.  The air here feels
+alive with the spirit of the forest as the winds brush over your skin.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 0 3128
+D1
+~
+~
+0 0 3130
+D2
+~
+~
+0 0 3132
+D3
+~
+~
+0 0 3126
+S
+#3135
+An Overgrown Path~
+High grass and dead leaves are nearly all that can be seen from here, other than the
+river to the west.  Small animals scurry about the area in search of nuts and berries
+to eat, and larger animals can be seen peeking through the brush, trying to hide from
+the hunters in the forest.  The path continues north and east.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3119
+D1
+~
+~
+0 0 3136
+S
+#3136
+An Overgrown Path~
+Here the that is overgrown heavily with dark blades of green grass.  Large trees
+block the way to the north and east, and the road itself continues west and south.
+Not far in the distance the river babbles and the sound swells as it reverberates
+through the forest.
+~
+31 0 0 0 0 3
+D2
+~
+~
+0 0 3137
+D3
+~
+~
+0 0 3135
+S
+#3137
+An Overgrown Path~
+The grassy path is grown over heavily with age and lack of use.  The occasional
+footprint or animal track leaves its mark on the blades of green grass.  The road
+continues to the north and south into a hollow, and to the east the trees close in
+on each other and the foliage grows more heavily.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3136
+D1
+~
+~
+0 0 3138
+D2
+~
+~
+0 0 3140
+D5
+~
+~
+0 0 -1
+S
+#3138
+Deep Within the Forest~
+The trees of the forest begin to grow more densely around you, and form a great
+canopy over the forest, blocking almost all light from entering the area.  Leaves
+and thick grass cover the ground, and heavy brush prevents travel to the north.
+~
+31 1 0 0 0 3
+D1
+~
+~
+0 0 3139
+D2
+~
+~
+0 0 3145
+D3
+~
+~
+0 0 3137
+S
+#3139
+Among Some Thick Brush~
+Large thorn and bramble bushes surround the area, as well as many trees of different
+shapes and sizes and colors.  The grass on the ground is thick and a very dark green.
+Small berries grow on some of the bushes and some nuts fall from the trees to the
+ground, making this a great place to find fresh food.
+~
+31 0 0 0 0 3
+D3
+~
+~
+0 0 3138
+S
+#3140
+A Small Hollow~
+Here the trees seem to separate for a time and form a circle around this small hollow.
+Dead leaves and branches are scattered about, and tree stumps litter the ground in a
+circle resembling seats.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 0 3137
+D1
+~
+~
+0 0 3145
+D2
+~
+~
+0 0 3141
+D5
+~
+~
+0 0 -1
+S
+#3141
+The Forest Path~
+The forested path continues north and south from here.  A small, open hollow where
+the trees seem to have separated is north of here.  The large river babbles to the
+west and east is a large fallen tree which prevents travel in that direction.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3140
+D2
+~
+~
+0 0 3142
+S
+#3142
+The Forest Path~
+The path continues now deeper into the forest along the river which seems to divide
+the forest into halves.  To the west the river flows, and the trees grow larger and
+more dense to the east, making any true path impossible to find.  The only marked path
+is the bare grass which continues northward beside the riverbed.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3141
+D1
+~
+~
+0 0 3143
+D2
+~
+~
+0 0 3153
+S
+#3143
+Deep Within the Forest~
+Here the trees grow dense and very close together, and the shades of the leaves
+allow little light into the area.  Through the faint light, the overgrown path east
+of the river can be seen to the west.  To the east the trees grow very thick and light
+is all but lost.
+~
+31 1 0 0 0 3
+D0
+~
+~
+0 0 3144
+D1
+~
+~
+0 0 3152
+D3
+~
+~
+0 0 3142
+S
+#3144
+Deep Within the Forest~
+The trees grow ever more closely together and the light is continues to diminish
+in this part of the forest.  All directions around you seem no more promising and
+to the east the forest only grows more dark and dreary.
+~
+31 1 0 0 0 3
+D0
+~
+~
+0 0 3145
+D1
+~
+~
+0 0 3147
+D2
+~
+~
+0 0 3143
+S
+#3145
+Deep Within the Forest~
+The darkness of the forest grows heavy here, and vision becomes more difficult.
+The sound of crinkling leaves underneath your feet seems to echo as loudly as a
+canon shot through the cool air.  To the west, the light seems to grow brigher,
+but to the east the forest only grows more dark.
+~
+31 1 0 0 0 3
+D0
+~
+~
+0 0 3138
+D1
+~
+~
+0 0 3146
+D2
+~
+~
+0 0 3144
+D3
+~
+~
+0 0 3140
+S
+#3146
+Lost in the Forest~
+You are lost deep within the Silverwood forest.
+~
+31 65537 0 0 0 3
+D2
+~
+~
+0 0 3147
+D3
+~
+~
+0 0 3145
+S
+#3147
+Lost in the Forest~
+You are lost deep within the Silverwood forest.
+~
+31 65537 0 0 0 3
+D0
+~
+~
+0 0 3146
+D1
+~
+~
+0 0 3148
+D3
+~
+~
+0 0 3144
+S
+#3148
+Lost in the Forest~
+You are lost deep within the Silverwood forest.
+~
+31 65537 0 0 0 3
+D2
+~
+~
+0 0 3149
+D3
+~
+~
+0 0 3147
+S
+#3149
+Lost in the Forest~
+You are lost deep within the Silverwood forest.
+~
+31 65537 0 0 0 3
+D0
+~
+~
+0 0 3148
+D1
+~
+plants~
+2 3130 3172
+D2
+~
+~
+0 0 3150
+D3
+~
+~
+0 0 3152
+S
+#3150
+Lost in the Forest~
+You are lost deep within the Silverwood forest.
+~
+31 65537 0 0 0 3
+D0
+~
+~
+0 0 3149
+D3
+~
+~
+0 0 3151
+S
+#3151
+Lost in the Forest~
+You are lost deep within the Silverwood forest.
+~
+31 65537 0 0 0 3
+D0
+~
+~
+0 0 3152
+D1
+~
+~
+0 0 3150
+S
+#3152
+Lost in the Forest~
+You are lost deep within the Silverwood forest.
+~
+31 65537 0 0 0 3
+D1
+~
+~
+0 0 3149
+D2
+~
+~
+0 0 3151
+D3
+~
+~
+0 0 3143
+S
+#3153
+A Turn in the Forested Path~
+The grassy path continues here northward into the forest alongside the flowing river,
+and west to the old wooden bridge.  Large trees surround a small hollow to the east,
+many of which seem to shimmer in the light with silvery veins permeating their bark.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 0 3142
+D1
+~
+~
+0 0 3154
+D3
+~
+~
+0 0 3162
+D5
+~
+~
+0 0 -1
+S
+#3154
+Surrounded by Enormous Silverwood Trees~
+Large trees lined with silvery veins shimmer in the light and surround you in all
+directions but the west.  The sound of animals scurrying about the area echoes from
+the bark of the trees and into your ears.  There is a distinctly large tree here
+with branches that tier up the base as if they were forming a ladder.
+~
+31 0 0 0 0 3
+D3
+~
+~
+0 0 3153
+D4
+~
+branches~
+2 3132 3155
+S
+#3155
+Climbing a Gigantic Silverwood Tree~
+You are climbing up one of the great Silverwood trees.  Don't look down!
+~
+31 131332 0 0 0 3
+D4
+~
+~
+0 0 3156
+D5
+~
+branches~
+1 3132 3154
+S
+#3156
+Among the Silvery Leaves~
+Brilliantly colored leaves of green flicker in the light with their silvery
+veins.  The large branches of this tree extend in all directions, but seem to
+be impossible to climb in any directions but east and south.
+~
+31 131332 0 0 0 3
+D1
+~
+~
+0 0 3158
+D2
+~
+~
+0 0 3157
+D5
+~
+~
+0 0 3155
+S
+#3157
+A Silverwood Branch~
+You stand on a smaller branch of the great silverwood tree.  Be careful not to lose
+your footing, you might fall!
+~
+31 131332 0 0 0 3
+D0
+~
+~
+0 0 3156
+S
+#3158
+A Large Silverwood Branch~
+You stand on a large branch of the silverwood tree.  Footing is very important here,
+so that you do not fall to the ground.  A large nest has been made on the end of the
+branch, and some large feathers and strands of fur have been pulled by the course
+bark of the tree.
+~
+31 131328 0 0 0 3
+D3
+~
+~
+0 0 3156
+S
+#3159
+A Grassy Spot, West of a Bridge~
+Just to the east you see some wooden planks which begin to form a small bridge to
+cross the river.  To the south and west, large plants and some small trees block the
+path, leaving the only options to cross the bridge or continue on the path to the
+north.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 0 3160
+D1
+~
+~
+0 0 3162
+S
+#3160
+A Turn in the Road~
+The large trees and brush begin to clear up as the trail moves nearer to the river.
+Now only small plants and some wild berry bushes grow along the edges of the path,
+and the babbling of the river gets louder.
+~
+31 0 0 0 0 2
+D2
+~
+~
+0 0 3159
+D3
+~
+~
+0 0 3161
+D5
+~
+~
+0 0 -1
+S
+#3161
+A Grassy Path~
+The grass-laiden path continues moving in a southward direction tracing along the river
+while avoiding large trees and thorny brush.  Small sticks and even some large branches
+lie on the path, causing an inconvenience.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 0 3104
+D1
+~
+~
+0 0 3160
+S
+#3162
+A Small Wooden Bridge~
+This small bridge seems to have been built ages ago from the wood of the silverwood
+trees that grow in this very forest.  Though visibly aging, the bridge still seems to
+remain quite sturdy.  The river flows only a few feet below the bridge, and small
+fish can be seen swimming around in the water, chased by larger ones.
+~
+31 524288 0 0 0 2
+D1
+~
+~
+0 0 3153
+D3
+~
+~
+0 0 3159
+D5
+~
+~
+0 0 3171
+S
+#3163
+A Small Wooden Bridge~
+This small bridge seems to have been built ages ago from the wood of the silverwood
+trees that grow in this very forest.  Though visibly aging, the bridge still seems to
+remain quite sturdy.  The river flows only a few feet below the bridge, and small
+fish can be seen swimming around in the water, chased by larger ones.
+~
+31 524288 0 0 0 2
+D1
+~
+~
+0 0 3119
+D3
+~
+~
+0 0 3118
+D5
+~
+~
+0 0 3164
+S
+#3164
+In the River, Beneath a Wooden Bridge~
+The water is quite warm, and schools of small fish swim about your feet.  The worry is
+not the small fish however, but the larger ones which try to bite your toes as you bob
+around in the water.  Directly above you is the wooden bridge and the river flows north
+and south from here.
+~
+31 65540 0 0 0 6
+D2
+~
+~
+0 0 3165
+D4
+~
+~
+0 0 3163
+S
+#3165
+Swimming in the River~
+Swimming in the river, the water is quite warm and welcoming, but some of the fish
+however, are not!
+~
+31 65536 0 0 0 6
+D0
+~
+~
+0 0 3164
+D1
+~
+~
+0 0 3166
+S
+#3166
+Swimming in the River~
+Swimming in the river, the water is quite warm and welcoming, but some of the fish
+however, are not!
+~
+31 65536 0 0 0 6
+D2
+~
+~
+0 0 3167
+D3
+~
+~
+0 0 3165
+S
+#3167
+Swimming in the River~
+Swimming in the river, the water is quite warm and welcoming, but some of the fish
+however, are not!
+~
+31 65536 0 0 0 6
+D0
+~
+~
+0 0 3166
+D2
+~
+~
+0 0 3168
+S
+#3168
+Swimming in the River~
+Swimming in the river, the water is quite warm and welcoming, but some of the fish
+however, are not!
+~
+31 65536 0 0 0 6
+D0
+~
+~
+0 0 3167
+D2
+~
+~
+0 0 3169
+S
+#3169
+Swimming in the River~
+Swimming in the river, the water is quite warm and welcoming, but some of the fish
+however, are not!
+~
+31 65536 0 0 0 6
+D0
+~
+~
+0 0 3168
+D2
+~
+~
+0 0 3170
+S
+#3170
+Swimming in the River~
+Swimming in the river, the water is quite warm and welcoming, but some of the fish
+however, are not!
+~
+31 65536 0 0 0 6
+D0
+~
+~
+0 0 3169
+D2
+~
+~
+0 0 3171
+S
+#3171
+In the River, Beneath a Wooden Bridge~
+Just below the old wooden bridge, the water is warm and fish swim around your feet
+and through your legs.  Some of the bigger fish, however, seem to be nibbling at your
+toes with sharp little teeth.  The river continues to flow north but to the south a
+tree has fallen into the river, obstructing the flow.
+~
+31 65540 0 0 0 6
+D0
+~
+~
+0 0 3170
+D4
+~
+~
+0 0 3162
+S
+#3172
+The Heart of Silverwood Forest~
+The plants here grow so heavily and densely that you can see nothing at all!
+~
+31 131077 0 0 0 3
+D1
+~
+~
+0 0 3173
+D2
+~
+~
+0 0 3175
+D3
+~
+plants~
+1 3130 3149
+S
+#3173
+The Heart of Silverwood Forest~
+The plants here grow so heavily and densely that you can see nothing at all!
+~
+31 131073 0 0 0 3
+D2
+~
+~
+0 0 3174
+D3
+~
+~
+0 0 3172
+S
+#3174
+The Heart of Silverwood Forest~
+The plants here grow so heavily and densely that you can see nothing at all!
+~
+31 131073 0 0 0 3
+D0
+~
+~
+0 0 3173
+D3
+~
+~
+0 0 3175
+S
+#3175
+The Heart of Silverwood Forest~
+The plants here grow so heavily and densely that you can see nothing at all!
+~
+31 131073 0 0 0 3
+D0
+~
+~
+0 0 3172
+D1
+~
+undefined~
+0 0 3174
+S
+#3198
+&CThe House of Wasted Moments&B~
+Here the home of Alenus has been dubbed the "House of Wasted Moments" for quite
+obvious reasons.  Video game systems of all shapes and sizes lie connected to an
+enormous plasma screen television.  Surround sound speakers bigger than the
+average human being blast the beat of the system throughout this enormous one-
+room estate.  Computers are set up along one wall, all connected to the internet,
+and one logged onto "The Game."  Cozy couches and bean bag chairs clutter the
+floor, and on the back wall is a giant kitchen full of all the munchies a man
+could ever need.
+~
+31 264728 0 0 0 0
+D2
+~
+~
+0 0 3199
+D5
+~
+~
+0 0 3201
+S
+#3199
+&CThe Entrance to the Treetop Estate&B~
+Built atop a mighty Silverwood tree, you see before you an enormous estate built
+from the wood of silverwood trees.  There is huge door with a big platinum knocker
+shaped like a crescent moon.  A small sign says "Please Knock Before Entering."
+~
+31 9744 0 0 0 0
+D0
+~
+~
+0 0 3198
+S
+$~

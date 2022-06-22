@@ -1,0 +1,20 @@
+                        Realms of Kuvia
+             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+-------------------------------------------------------------------
+News file [1]. Type NEWS 1 to re-read this article at a later date.
+-------------------------------------------------------------------
+
+Welcome to Realms of Kuvia. We hope you enjoy the game that we have
+put together. Please begin by reading the news so you can be up to
+date with everything we have added. The news' main purpose to is 
+inform our players of anything major that has been added, changed,
+or removed. It is also a way for us to communicate anything else
+like ways to get opinions or any special happenings that may arise.
+Enjoy your new world.

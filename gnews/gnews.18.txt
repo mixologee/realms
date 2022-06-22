@@ -1,0 +1,34 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C18&c]. Type NEWS 18 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+Downtime
+
+As most of you know, we were down most of, if not all of, the weekend.
+I will only assume that Bluntmaster can share more info on this since 
+our server was moved into a new home before his vacation.  
+
+Unfortunately I could not even log on to the server from my home over 
+the weekend at all, so I could not check to see if/why the game may have
+been down.  However, all is well this Monday morning and we are up and 
+running as normal.
+
+Sorry for any problems
+
+-Slurk

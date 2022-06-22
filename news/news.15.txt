@@ -1,0 +1,53 @@
+&R                        Realms of Kuvia
+&c             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+-------------------------------------------------------------------------
+News file [&C15&c]. Type NEWS 15to re-read this article at a later date.
+-------------------------------------------------------------------------&n
+
+New Commands
+
+We apologize in advance for not keeping you all informed with some of our
+newest commands.  As we add things we sometimes get brainfarts and forget
+to notify you about what we are adding.
+
+Well here is a short list of things we have added since the last news file.
+
+affects        - shows you what spells you are current affected by
+worth          - shows you how much gold you have amassed
+mount          - allows you to mount a tamed beast
+tame           - spell - attempts to tame a beast
+dismount       - dismounts your current mount
+gamestats      - shows some information about Kuvias statistics
+binding        - we can now bind eq to a specific player, making it 
+                 useless to everyone else until unbound
+
+
+Other tidbits that you may/may not notice as we go along.
+
+Mob Intelligence module is in and about 30% completed, you may notice 
+that some mobs will randomly talk, cast defensive spells on themselves,
+cast offensively against you and generally interact with the game. 
+More to come on this as it gets completed.
+
+Regen equipment - there are some new flags in place to allow some 
+                  equipment to help regen mana/mvs/hps faster
+
+Eq Procs - Some procs are in place on some equipment, most of which
+           is not out there for public use, but the groundwork is 
+           in and ready for proccing eq, both weapons and worn
+
+And as always, various updates, bug fixes and general all around
+work is being done as time permits.  Bluntmaster and I are working
+as hard as we can as we are trying to get Kuvia up and running and
+open to the public as soon as possible!
+
+As always, Enjoy!!
+
+-S

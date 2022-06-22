@@ -1,0 +1,74 @@
+Accarid  (Aug 27) [ 4600] Being underwater for a period of time should deal damage to someone not using the Breathe Water spell. Also, without this spell speech and thus spellcasting should be inhibited. Being underwater should consume more movement points than on land.
+Accarid  (Aug 28) [ 4600] Being underwater should impede movement, deal damage without Breathe Water, and prevent casting without Breathe Water.
+Accarid  (Aug 29) [ 6300] All level 1 characters should come with all level 1 spells learned, and limited skills.
+Accarid  (Aug 29) [ 6300] Could it be plausible to create formations of 16, with three rows and four columns?
+Accarid  (Aug 29) [ 5808] The character making process should go into more detail about classes and reclassing.
+Accarid  (Sep  1) [ 6531] Reaching level 200 should grant a person of that level certain 'godlike' abilities, such as the ability to dodge lightning or drink endless amounts of b33r :P
+Nadddre  (Sep 24) [ 7420] zone maps would be very helpful
+Accarid  (Sep 27) [ 6434] The slay message should be settable.
+Accarid  (Sep 29) [ 6531] It would be cool if mobiles could be programmed to perform basic responses to certain sets of information such as a thief fleeing to stab again and a cleric fleeing to recast a spell when dispelled.
+Accarid  (Sep 29) [ 6531] Mobiles should be capable of sizing up the threat a target poses, and target that person in specific ways.
+Mashanu  (Oct  1) [ 6510] kidnap skill for rogues allowing them to pull someone from 1 room away to attack them without anyone in target room knowing if it works if failed pulls you in their room showing it so you can die
+Mashanu  (Oct  1) [ 6510] add a object flag hidden or something so you can leave the long desc black and you will not see undefined in the room
+Seqwith  (Oct  3) [ 6336] add an autosac command
+Accarid  (Oct  5) [ 6531] It would be good for people to be able to set an AFK status that appears when they are telepathed, i.e. afk food
+Accarid  (Oct  5) [ 6531] Certain actions should create a local echo, such as player combat makes an echo like: You hear the sounds of battle going on from [the west/the east/the north/the south/above/below].
+Seqwith  (Oct  5) [ 6300] add extra exits (ne, nw, se, sw)
+Accarid  (Oct  9) [ 6531] Every 8 levels a player gains 1 point in their base ability (ask me for details).
+Accarid  (Oct 12) [ 6531] It would be cool to have random bouts of the plague strike cities, so there is a random chance of a player getting the plague and spreading it to other people.
+Accarid  (Oct 25) [ 6531] Player government! Each clan gets two elected representatives in senate who get to raise and vote on issues that are subject to review and implementation by the gods.
+Accarid  (Nov  1) [13503] Ranged weapons should be usable on a target in a room. You should have a quiver to put arrows in and just have to have no held item in order to fire. It should only have a max range of one room, without some sort of proficiency.
+Accarid  (Nov  1) [13503] Arrows should not return unless the target was in the room, either, and firing should take a round.
+Starfallen (Nov 25) [  111] rose
+Starfallen (Nov 25) [  111] id spell?
+Accarid  (Dec 28) [ 6300] There should be a talk channel (syntax: talk <playername> <schpiel> results in You say to <playername>, 'Hi!'.
+Accarid  (Dec 29) [ 6531] Make unemployed mercenaries 'employable' as a member of the formation.
+Ysabelle (Dec 30) [ 6300] food
+Accarid  (Jan  4) [ 4600] Item spell levels should be settable.
+Accarid  (Jan  4) [ 4600] Food should be able to produce a spell effect when eaten.
+Accarid  (Jan  4) [ 4689] Rooms should have a light flag, to imply that they are lit.
+Accarid  (Jan  7) [ 4743] There should be an ANTI_MELEE flag for mobiles.
+Accarid  (Jan  7) [3682905] Rooms gain the DEFORESTED flag after having been chopped in so many times, forcing players to go further to find lumber.
+Accarid  (Jan 11) [ 4600] Bless affect on items: the item should firstly be of the alignment of the caster- then Bless will make that item light the room that character is in when used, until that item has taken 100 points of damage.
+Accarid  (Feb  3) [ 6531] Make a DECAY flag, so that after x time an item takes y damage.
+Maggic   (Feb  7) [ 6325] cor
+Maggic   (Feb  7) [ 6325] sword
+Maggic   (Feb  7) [ 6325] pot
+Accarid  (Feb  8) [ 3800] Role-Player flag for those who enjoy roleplay. Should be toggleable, show up on their prompt, and be visible to in-room players and on the WHO list.
+Accarid  (Feb  8) [ 3860] Invisible weapons possess a -10 hitroll modifier for player who cannot see invisible objects.
+Accarid  (Feb  8) [ 3860] A flag that makes you PKable should be applicable to objects.
+Zorn     (Feb  8) [ 6341] bell
+Accarid  (Feb 22) [14342] There should be a line of text telling you when something joins the fray.
+Ysabelle (Mar  7) [ 6406] dual wield
+Accarid  (Mar 27) [ 6300] Underworld and Overworld in addition to Middleworld?
+Nadddre  (Mar 28) [ 3400] scale
+Nadddre  (Mar 28) [ 3400] scale
+Accarid  (Mar 28) [ 3317] Auras should go at the end of a description, so that mobiles with descriptions that make them completely invisible are just that.
+Andarist (Apr 18) [    1] dagger
+Accarid  (Apr 23) [12270] We should have a NO_SNEAK flag for rooms.
+Accarid  (Apr 23) [12270] Death in NPK should be like regular death - you lie there for a bit, then go resurrect at an altar.
+Accarid  (Apr 23) [12270] There should be a message to notify people of their resurrection.
+Accarid  (Apr 23) [ 2311] You should be able to reclass to any master level class on your fifth class, regardless of the previous class (ex. every mage can reclass to any other master level class).
+Accarid  (Apr 25) [ 2317] Make a password command!
+Hoppus   (Apr 25) [ 6400] make a password reset help file
+Hoppus   (Apr 25) [ 6400] if possible, set it up so when you have an item as a held, you can just do "use held"
+Accarid  (Apr 29) [12000] There should be a CONFLICT flag, meaning an item you possess makes you PKable regardless of its location, and an ARTIFACT flag meaning the item will force equip itself and make you PKable (such an item will fly off of you when you die to a player, and cannot be removed in any other way).
+Slurk    (May  1) [ 6508] aura
+Accarid  (May  2) [12000] Lumber should be broken down into forest types, i.e. oak is a temperate forest only, pine is a pine forest only.
+Accarid  (May  2) [12000] A flag in front of a character's name identifies their completed classes. Good idea, or not?
+Accarid  (May  2) [ 5800] Level difference is retarded. The penalty for being in form should be 0xp instead if level difference is >=20.
+Accarid  (May  8) [ 6433] There should be different text than you miss or soandso misses when the player made a save of ac, like Your blow glances harmlessly off of soanso's defenses.
+Accarid  (May  8) [ 6531] Instead of You are hungry/thirsty. message, we should have varied text. Also, the time it takes to become hungry/thirsty should be reconsidered so that it becomes less frequent (thus less irritating).
+Accarid  (May 11) [ 5806] New players shouldn't load with red potions. They can be found by killing stuff, and get in the way.
+Accarid  (May 16) [16026] Allow gods the ability to set BLOCK status (for later, in case of disciplinary action. block works like on med, blocks mail, tells, etc.)
+Accarid  (May 17) [16037] a LOW_REGEN and NEG_REGEN flag for rooms (low regen decreases regen rate by base regen rate, neg regen reduces regen rate dramatically, into negatives.
+Accarid  (May 21) [17143] g a should do get all.
+Accarid  (Jun 23) [ 5802] The messages for time changes (like sunrise, sunset, noon, etc.) should be colored to reflect their passage.
+Accarid  (Jun 23) [14601] The default color for emote should be green.
+Accarid  (Jun 23) [14600] The deterioration system for equipment needs to be rethought: the computation for hitting equipment should be more balanced, and the duration should be longer, or changed to number of hits.
+Accarid  (Jun 24) [ 6531] There should be many types of elemental stones, with many different types of elementals.
+Accarid  (Jun 25) [ 6302] You should be able to examine a crygate to see the symbols
+Accarid  (Jun 25) [ 4617] Items should always load.
+Accarid  (Jun 26) [ 6531] It would be awesome if we could create a quiz for players to complete at the beginning if they wish to determine what classes they should take and in what order.
+Bardicer (Jul  5) [ 5803] stick
+Timtek   (Jul 10) [ 6397] orb

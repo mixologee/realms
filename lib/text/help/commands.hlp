@@ -1,0 +1,1517 @@
+&G ! ^
+
+&WUse ! to repeat the last command typed at the keyboard.
+
+Use ^ to replace a string from the last command with a new string.  The
+syntax is the same as in csh: "^old-string^replacement"
+
+Examples:
+
+  > tell rasmusse Hi there, how are you?
+  No-one by that name here.
+
+  > ^rasmusse^rasmussen
+  You tell Rasmussen, 'Hi there, how are you?'
+
+  > ^you^you doing^
+  You tell Rasmussen, 'Hi there, how are you doing?'
+
+See also: &GALIAS&n
+#
+
+&G --
+
+&WUse -- to clear your current buffer.
+
+Say you are fighting one mob, and have typed in an offensive spell more
+than five times, and while your spells are being cast a second mob walks
+in on you.  You can use -- to clear your current casting spells, and 
+make it possible to flee, or cast spells on the new mob.
+
+#
+&G AFK
+
+&WThis help file is for the noobers. This simply puts an AFK flag next
+to your name, letting people know your not at your keyboard.&n
+#
+&G ALIAS ALIASES
+
+&WUsage: alias [alias name] [command]
+
+&WAn alias is a single command used to represent one or more other commands.
+The ALIAS command can be used to manipulate your character's aliases.  Type
+ALIAS alone to see a list of your currently defined aliases.
+
+  > alias
+
+Type ALIAS <alias name> <command> to create a new alias.  The alias name must
+be one word.  The command can be any string.  Aliases may not be nested or
+used recursively.  Any command may be overridden by an alias (other than the
+ALIAS command itself, of course).
+
+  > alias gbb get bread bag
+  > alias gac get all corpse
+
+Type ALIAS <alias-name> to delete an alias that has already been defined.
+
+  > alias gbb
+
+A semicolon (";") can be used to define multiple actions to be taken with
+a single alias.
+
+  > alias eat get bread bag; eat bread
+
+Note that the 'eat' contained within the eat alias is interpreted as the MUD's
+internal eat command; aliases may not be nested or used recursively.  The
+variables $1, $2, ... $9 may be used to represent arguments given with
+an alias.
+
+Examples:
+
+  > alias killem cast 'fireball' $1; cast 'harm' $2
+  > killem fido mage
+
+Would cast fireball on fido, followed by casting harm on mage.  Variables
+may be used repeatedly and in any order:
+
+  > alias helpem cast 'heal' $1; cast 'bless' $1; cast 'armor' $1
+
+The special variable $* represents the entire input line after an alias:
+
+  > alias tr tell rasmussen $*
+  > tr hi there, how are you today?
+  You tell Rasmussen, 'hi there, how are you today?'
+
+See also: ! ^&n
+#
+&G ANSI COLOR
+
+&WUsage: color [off | sparse | normal | complete]
+
+If you have a color-capable terminal and wish to see useful color-coding
+of information, use the COLOR command to set the level of coloring you see.
+
+  > color off
+  This command disables all color.
+
+  > color sparse
+  > color normal
+  > color complete
+
+These three commands turn color on to various levels.  Experiment to see
+which level suits your personal taste.
+
+'color' with no argument will display your current color level.
+
+Using color will slow down the speed at which you see messages VERY slightly.
+The effect is more noticeable on slower connections.  Even if you have
+color turned on, non-colorized messages will not be slowed down at all.
+
+See also: &GCOLORSPRAY&W, "&GCOLOR SPRAY&W"&n
+#
+&G APPRAISE
+
+&WUsage: Appraise <item>
+
+This any class any level skill is perfect for finding out what your
+gear does for you.&n
+#
+&G ASSIST
+
+&WUsage: ASSIST <person in need>
+
+If Quifael is being beaten senseless by a warg and you feel brave enough
+to help him, type ASSIST QUIFAEL to hit the warg.  Note that the warg will
+keep hitting Quifael; assist only makes you start to fight whomever the
+person you're assisting is fighting.
+
+  > assist Doctor
+
+See also: &GFLEE&W, &GKILL&W, &GRESCUE&n
+#
+&G ATTACK
+
+&WUsage: &Gattack
+
+&WThe attack command is used to initiate your assault on a &Gcastle&W. Simply
+type it in the first room of the &Gcastle &Wyour trying to take over.
+
+See Also: &GCASTLE&n
+#
+&G AUCTION
+
+------------------------------------------------------------------------------
+&WThe commands are as follows.
+
+auction <object name> [minimum bid] - begins auction of item
+auction <stop|cancel>               - stops the current auction, if immortal confiscates auctioned object
+auction <stat | identify>           - get stats on current item for 500 gold person who is selling cant find out stats
+bid <amount>                        - bids on current object, must be 10% more than current bid
+&G-------------------------------------------------------------------------------&n
+#
+&G AUTOEXIT
+
+&WUsage: &Gautoexit
+
+&WToggles the automatic display of currently available &Gexits&W.  Not all
+possible &Gexits &Wwill be displayed, only those immediately available.
+
+See also: &GTOGGLE&n
+#
+&G AUTOQUEST
+
+&WUsage: &Gautoquest
+       &Gautoquest <option>
+
+&WWhen you are with the QuestMaster, you can go on a quest that can earn
+you some valuable quest points which can be traded for money, items, and
+practice sessions. Currently there are 2 types of quests, retieval or bounty.&n 
+#
+&G BANK WITHDRAW DEPOSIT BALANCE
+
+Commands &Wto take money out of the bank, put money in the bank, or see how
+much money you have in the bank.
+
+Examples:
+
+  > deposit 400
+  > withdraw 1000
+  > balance
+
+See also: &GGOLD&W, &GSCORE&n
+#
+&G BEARINGS
+
+<Usage>  bearings
+
+This command is for use when you are out in the wilderness searching for 
+something close by. When you within range of a zone, which varies between
+zones, you will be givin a general direction and a general distance as to
+where you are compared to the zone.
+#
+&G BLAZE
+
+&WThis command will bring you back to life. simply type it when yer
+dead.
+
+See also: &GDEATH&n
+#
+&G BLUNTMASTER
+
+&WThe God of fun. Mostly involved with coding, coloring, and
+a pinch of everything else. If you wanna be on his good side 
+ya might want to offer up some sweet sweet cheeba.&n
+#
+&G BOOT
+
+&WUsage: &Gboot &Wsoanso(i hate that bastard)
+
+Used to remove someone from your &Gposse&W. Good for when the big exp 
+form is over, or if someone is being an asshole.
+
+See also: &GPOSSE&W, &GFOLLOW&n
+#
+&G BRIEF
+
+&WUsage: &Gbrief
+
+&WToggle "brief mode".  When in brief mode, you don't see the descriptions of the room you are in; only the name of the room and the people and 
+objects there.  Unless you're very familiar with the &Garea &Win which you're traveling, however, it is not advisable to use this command. Frequently,you will find small but vital hints in the descriptions of the rooms: An 
+extra peek at your surroundings could mean the difference between life 
+and death!
+
+If you explicitly type 'look', you will always see the full room 
+description, even in &GBRIEF &Wmode.
+
+See also: &GCOMPACT&W, &GLOOK&n
+#
+&G BUG TYPO IDEA
+
+&WUsage: &Gbug &W<bug report>
+       &Gidea &W<your new idea>
+       &Gtypo &W<that nasty typo>       
+
+For making useful suggestions and reporting problems to the Gods. Please 
+use the typo command in the room you found the problem. This makes it easier
+for the gods to find and fix the offending text.
+
+Examples:
+
+  > &Gbug &Wthe entire game crashes when I type 'put bag in bag'
+  > &Gidea &Wmake a restaurant in Midgaard
+  > &Gtypo &W'sence' should be spelled 'sense'
+#
+&G BUY
+
+&WUsage: &Gbuy &W<item name>
+       &Gbuy &W#<item number>
+       &Gbuy &Wn.<item name>
+       &Gbuy &Wn <item name>
+       &Gbuy &Wn #<item number>
+
+If you'd like to purchase an item from a &Gshop &Wand have the money, you can buy it.  Items can be bought by name, or by their number in the &Gshop 
+&Wlisting, and can be bought in quantity.
+ 
+Examples:
+ 
+  > &Gbuy &Wsword        (&Gbuy &Wthe first sword on the list)
+  > &Gbuy &W#3           (&Gbuy &Wthe third item on the list)
+  > &Gbuy &W4.sword      (&Gbuy &Wthe fourth sword on the list)
+  > &Gbuy &W10 bread     (&Gbuy &W10 pieces of bread)
+  > &Gbuy &W10 #2        (&Gbuy &W10 of the second item on the list)
+ 
+See also: &GLIST&W, &GSELL&W, &GSHOPS&W, &GVALUE&n
+#
+&G CLEAR CLS
+
+&WClears the screen.&n
+#
+&G COMMANDS
+
+&WUsage: &Gcommands
+
+&WThe &GCOMMANDS &Wcommand gives a canonical list of all the known 
+verbs. Each &Gcommand &Wlisted should have &Ghelp &Wavailable by typing 
+"&GHELP &W<&Gcommand&W>".
+
+&WAny command flagged with a red star like this '&R*' &Wmeans that the command
+is currently disabled and you cannot use that command until it is enabled.&n
+
+See also: &GSOCIAL&W, &GSOCIALS&n
+#
+&G COMPACT
+
+&WUsage: &Gcompact
+
+&WThis &Gcommand &Wtoggles the extra blank line output to your screen
+after each &Gcommand&W.  Useful if you have a small display.
+
+See also: &GBRIEF&n
+#
+&G CONSIDER
+
+&WUsage: &Gconsider &W<monster>
+
+This &Gcommand &Wwill compare your &GLevel &Wwith the <monsters> level.
+You will then receive a rough estimate, which is by no means exact.
+&GConsider &Wdoes not take hitpoints/special attacks/damage into
+consideration.
+
+Example:
+
+  > &Gconsider &Wfido
+
+See also: &GHIT&W, &GKILL&n
+#
+&G CRYSTALGATE
+
+&WCrystal Gates are archways located throughout the lands.  These gates can also be thought of as travel
+points.  Each gate links to every other gate in the world.  Travel between these gates is possible with
+the correct three symbol code.  Once you have pressed the three symbols, and it is a correct combination,
+you will be zipped away to your destination.  Be wary, wrong combinations have been known to do some 
+horrible things to those who try to abuse the system.
+
+&RExample:
+&GTaris'Vaal City - Lapis, Lapis, Lapis
+Tropical Island - Amethyst, Sapphire, Citrine
+The City - Sapphire, Amethyst, Sapphire
+
+&WCurrently the following symbols exist on crystal gates:
+
+&YAmethyst, Aquamarine, Carnelian, Citrine, Diamond, Emerald, Jade, Lapis, Ruby, Sapphire&n
+
+&WEnjoy, and keep an eye on this helpfile as it will be updated more at a later time.
+#
+&G GUILD CLAN
+&GGACCEPT <name> 
+  &WAllows a guild leader or advisor to accept a character who has applied to the guild.
+
+&GGAPPLY <clannumber>
+  &WAllows a character to apply to a guild (use guild number). Several guilds can be applied to at one time.
+
+&GGDEMOTE <name>
+  &WGuild leaders and those of Rank 5 (advisors) may demote their followers.
+
+&GGDISMISS <name>
+  &WKicks a character from the guild(leader only).
+
+&GGUILDS
+  &WLists all of the guilds, leaders, and guild numbers.
+
+&GGPROMOTE <name>
+  &WGuild leaders and those of Rank 5 may promote their followers.
+
+&GGREJECT <name>
+  &WAllows a guild leader to reject an applicant to the guild.
+
+&GGRESIGN
+  &WAllows a character to leave the guild.  If a guild leader resigns, he/she is reduced in rank to rank 5(advisor).
+
+&GGSAY <message>
+  &WAllows a character to speak to his/her guild.
+
+&GGWHO &Wor &GGWHO #
+  &WShows all online character's in a person's guild or in a specific guild number. 
+
+&GGREVOKE
+  &WAllows a character to withdraw his/her application to a guild.
+
+&GGDEPOSIT <number>
+  &WAllows a character to deposit coins to his/her guild's bank account. (Limit of 2 billion)
+
+&GGWITHDRAW <number>
+  &WAllows a character to withdraw coins from his/her guild's bank account.(Limit of 2 billion, Leader only)
+
+&GGBALANCE
+  &WAllows a character to see the balance of his/her bank account.&n
+#
+&G DEAD DEATH DYING
+
+Death &Win most cultures is a sensitive subject. Everyone dies, and in the
+game people must also die. If your reading this because you just died, 
+please allow me to simply say "HAHAHA YOUR DEAD!!!". <ahem> anyway, when
+you die you will be transported to the realm of the dead. In order to
+restore yourself back to life you must collect souls = currentlevel. When 
+you have gathered enough souls you must find the necromancer and blaze in
+his room. You will then be able to use your mortal body again. This is 
+usually a good time to peel your sweaty naked ass off of the leather 
+swivel chair, and go grab a snack, beverage, and drain the main vein(for
+you ladies out there, powder yer pretty lil nose's) or just give yer eye's
+a quick 5'er. If your like me though, you'll simply hold it till your
+bladders gonna bust while in cpk, and your so cottonmouthed ya can't even
+talk to tell someone your retinas have burned out 5 minutes ago from 
+staring to long at the computer screen.
+
+&R******* There is currently no way to resurrect a body lying there dead.
+This is something I am currently working on.  - Bluntmaster &W
+
+See also: &GBlaze&n
+#
+&G DIAGNOSE
+
+&WUsage: &Gdiagnose &W[character]
+
+The &GDIAGNOSE command &Wtells you how wounded a character looks.  If you 
+are fighting someone, you can use &GDIAGNOSE &Wwith no arguments to diagnose the person you're fighting.
+
+examples: 
+
+  > &Gdiagnose&W
+  > &Gdiagnose &WSoanso
+
+See also: &GCONSIDER&n
+#
+&G DISPLAY PROMPT
+
+&WUsage: &Gdisplay &W< H | M | V | all | auto | off >
+
+Modify your &Gprompt &Wto show your hit points, mana, and/or movement 
+points.
+
+  > &Gdisplay &Whv          &GDisplay &Whit points and movement points
+  > &Gdisplay &Woff         Return to normal &Gdisplay&W
+  > &Gdisplay &Wall         &GDisplay &Whit, mana, and move points
+  > &Gdisplay &Wauto        &GDisplay &Whit, mana, and move when they are 
+                        below 30%
+
+See also: &GTOGGLE&n
+#
+&G DONATE
+
+&WUsage: &Gdonate &W<object>
+       &Gdonate &W<number> coins
+
+
+This &Gcommand &Wtakes an unneeded object and deposits it in the donation room
+of The City to help out the noobers.
+
+  > &Gdonate &Wshield
+  > &Gdonate &Wall.bread
+  > &Gdonate &W500 coins
+
+See also: &GJUNK&n
+#
+&G DROP
+
+&WUsage: &Gdrop &W<item>
+       &Gdrop &Wall.<item>
+       &Gdrop &Wall
+       &Gdrop &W<number> coins
+
+If you lose interest in a carried item, you can &Gdrop &Wit on the ground.
+
+  > &Gdrop &Wbottle
+  > &Gdrop &Wall.bread
+  > &Gdrop &Wall
+  > &Gdrop &W1000 coins
+
+See also: &GDONATE&W, &GGET&W, &GJUNK&n
+#
+&G EAT DRINK SIP TASTE
+
+&WUsage: &Geat &W<item>
+       &Gtaste &W[from] <item>
+       &Gdrink &W[from] <item>
+       &Gsip &W[from] <item>
+
+If you're hungry or thirsty, these &Gcommands &Ware for you!
+
+  > &Geat &Wbread
+  > &Gtaste &Wbread
+  > &Gdrink &Wfrom cup
+  > &Gsip &Wfountain&n
+#
+&G EMOTE :
+
+&WUsage: &Gemote &W<message>
+         &G: &W<message>
+
+Show people what you're feeling.  The shorthand is "&G:&W".
+
+"&Gemote &W<string>" will display your name, then the string.
+
+Example:
+
+If your name is "Helt",
+
+  > &Gemote &Wis feeling very sad today.
+
+will display:
+
+Helt is feeling very sad today.
+
+See also: &GSOCIALS&n
+#
+&G ENTER
+
+&WUsage: &Genter &W[place]
+
+If you type '&Genter&W' while you are outdoors, you'll enter any nearby shelter.
+You can also follow '&Genter&W' with an argument; for example, '&Genter &Wwindow'.&n
+#
+&G EQUIPMENT
+
+&WUsage: &Gequipment &Wor &Geq
+
+&WGives you a list of all the &Gequipment &Wyou're &Gwearing&W, &Gholding&W, and &Gwielding&W.
+
+See also: &GINVENTORY&W, &GREMOVE&W, &GWEAR&n
+#
+&G EXAMINE
+
+&WUsage: &Gexamine &W<thing to &Gexamine&W>
+
+May give you some valuable information about an item or monster.
+
+See also: &GLOOK&n
+#
+&G EXITS
+
+&WUsage: exits
+
+Gives you a list of the obvious exits from your location.  Of course, the
+less obvious ones won't show up here - you have to THINK in order to 
+locate those.
+
+See also: &GSEARCH HIDDEN AUTOEXIT&n
+#
+&G FISHING CASTOUT REELIN
+
+&WUsage: &Gcastout
+         &Greelin
+
+&WTo fish, you must be near water, in a room specified as such. Also, you
+must be holding a fishing pole. If you move from your original place of 
+fishing, you automatically pack up your gear and move on.
+
+Anyone can fish, all you need is the pole and patience. So spark one up and
+chill by the water.&n
+#
+&G FILL
+
+&WUsage: &Gfill &W<item> <object to &Gfill &Wfrom>
+
+If you want to &Gfill &Wa container you're holding with liquid from a fountain
+in the same room as you.
+
+Example:
+
+  > &Gfill &Wcanteen fountain
+
+See also: &GPOUR&n
+#
+&G FLEE
+
+&WUsage: &Gflee
+
+&WIf you are in a fight and things aren't going your way, just type <&Gflee&W>! You
+will attempt to &Gflee &Wthe room.
+
+See also: &GWIMPY&n
+#
+&G FOLLOW
+
+&WUsage: &Gfollow &W<leader>
+
+Use &GFOLLOW &Wto automatically &Gfollow &Wsomeone else.
+
+Examples:
+
+  > &Gfollow &WJed
+  > &Gfollow &Wself
+
+See also: &GPOSSE&W, &GSNEAK&n
+#
+&G GET TAKE
+
+&W"&GGet&W" and "&Gtake&W" are exactly the same and can be used interchangeably.
+
+Usage: &Gget &W| &Gtake &W<object>
+       &Gget &W| &Gtake &Wall [object]
+       &Gget &W| &Gtake &Wall all.<object>
+       &Gget &W| &Gtake &Wall.<object> all.<object>
+
+If you find something interesting on the ground, you may use <&Gget&W> to pick
+it up.  &Gget &Wcan also be used to extract items from containers.
+
+Examples:
+
+  > &Gget &Wsword corpse
+  > &Gget &Wall corpse
+  > &Gget &Wall all.bag
+  > &Gget &Wall.bread all.bag
+
+See also: &GDROP&W, &GPUT&n
+#
+&c GEMS
+
+Usage: gems
+
+This command will list all your available gems to be used for improving items that
+are smithable.
+#
+&G GIVE
+
+&WUsage: &Ggive &W<object> <victim>
+       &Ggive &W<number> coins <victim>
+
+If you feel benevolent, you may give some stuff to someone in need.
+
+  > &Ggive &Wall jeb
+  > &Ggive &Wbread doctor
+  > &Ggive &Wall.bronze lysergicor
+  > &Ggive &W40000 coins daiethlamydor
+#
+&G GOLD MONEY
+
+&WUsage: &Ggold
+
+&WDisplays how much &Ggold &Wyour carrying.
+
+See also: &GBALANCE&W, &GDEPOSIT&W, &GWITHDRAW&n
+#
+&G GRAB HOLD
+
+&WUsage: &Ggrab &W<object>
+         &Ghold &W<object>
+
+For getting a good grip on something; a torch, for example.
+
+Examples:
+
+  > &Ghold &Wtorch
+  > &Ggrab &Wstone
+
+See also: &GEQUIPMENT&W, &GREMOVE&W, &GWEAR&W, &GWIELD&n
+#
+&G GSAY GTELL
+
+&WUsage: &Ggsay &W<message>
+       &Ggtell &W<message>
+
+&GTell &Wsomething to all the members of your &Gposse &Weven if they're not in the
+room.
+
+See also: &GPOSSE&W, &GTELL&W, &GSAY&n
+#
+&G HELP
+
+&WUsage: &Ghelp &W[&Gcommand&W]
+
+&GHelp &Wsearches for a partial match of the entered word, including any
+spaces that may follow the word.  &GHelp &Walone will give a list of the
+most common &Gcommands &Win the game.
+
+Examples:
+
+  > &Ghelp sneak
+    &Wwill find the &Ghelp &Wtext for the &Gsneak &Wskill.
+
+  > &Ghelp cler
+    &Wwill match '&Gcleric&W'.
+
+See also: &GCOMMANDS&W, &GSOCIALS&n
+#
+&G HOUSE
+
+&WThe &GHOUSE command &Wis used to add or remove guests from your house's guest
+list.  You must be standing in your &Ghouse &Wto use this &Gcommand&W.  Only the
+primary owner of a &Ghouse &W(not guests) may change the guest list using the
+&GHOUSE command&W.
+
+Usage: &Ghouse &W[<player name>]
+
+Typing '&Ghouse&W' with no arguments gives a list of the people currently on
+your house's guest list.  Typing '&Ghouse&W' with the name of a player will add
+that player to your guest list if the player is not on the list, or will
+remove the player from the guest list if the player is already on the list.
+The player specified must be in the player database for the MUD, although
+he or she does not necessarily have to be logged on at the time.
+
+Guests of your &Ghouse &Wwill be able to enter your &Ghouse &Wuntil you remove them
+from the guest list.
+
+See also: &GHOUSES&n
+#
+&G INFO NEWS POLICY VERSION
+
+&WThese &Gcommands &Wshow you important information about The Game.  It is a good
+idea to read them every once in a while.
+
+   &Ginfo     &W- useful information about the game for beginners
+   &Gnews     &W- latest changes to the code and areas
+   &Gpolicy   &W- policies on topics like player killing
+   &Gcredits  &W- the people who made CircleMUD possible!
+   &Gversion  &W- displays the current CircleMUD version number
+#
+&G HUNTER PREY
+
+&WSome mobs in the game will kill other mobs. Hunters will attack anything 
+they consider prey that is in the room with them. This doesn't affect players
+much but it is quite interesting to walk into a room and see two mobs battling.&n
+#
+&c IMPROVE
+
+Usage: improve <item> <stat>
+
+You may use gems found in the mines to improve on items that have been flagged 
+smithable. You must be at a blacksmith or armorer to do this. Not all items can 
+be improved. You will need to use 2 different types of gems for each improvement, 
+a base gem and a secondary gem. They are as follows:
+
+Stat         Abbrev       Base          Secondary      Increase     Max Increase
+---------------------------------------------------------------------------------
+Hitpoints      hp      Diamond x 5    Sapphire X 10      1-10            50
+Mana           mn      Diamond x 5       Topaz X 10      1-10            50
+Move           mv      Diamond x 5     Emerald X 10     10-20           100
+Save Spell     ss      Crystal X 5        Jade X 20      -1              -3
+Hitroll        hr      Crystal X 5      Garnet X 20       1               5
+Damroll        dr      Crystal X 5        Ruby X 20       1               5
+#
+&G INVENTORY
+
+&WUsage: &Ginventory
+
+&WIf you're uncertain about what you're carrying, or simply want to check
+that no &Gthieves &Whave got to your backpack.
+
+See also: &GEQUIPMENT&W, &GGRAB&W, &GHOLD&W, &GREMOVE&W, &GWEAR&n
+#
+&G JUNK
+
+&WUsage: &Gjunk &W<object>
+       &Gjunk &W<number> coins
+
+Use &GJUNK &Winstead of &GDROP &Wif you want to keep the world a little cleaner.  If
+you &GJUNK &Wsomething, it will disappear and you'll get a few coins or &Gexperience
+&Wpoints, just as if you had dropped it in the dump.
+
+Examples:
+
+  > &Gjunk &Wcup
+  > &Gjunk &Wall.Fayla
+  > &Gjunk &W500 coins
+
+See also: &GDONATE&W, &GDROP&n
+#
+&G KILL HIT
+
+&WUsage: &Gkill &W<victim>
+       &Ghit &W<victim>
+
+To initiate &Gcombat &Wsimply type one of the two.
+
+See also: &GFLEE&W, &GWIMPY&n
+#
+&G LEAVE
+
+&WUsage: &Gleave
+
+&WIf you feel claustrophobic, typing '&Gleave&W' will make you use the nearest
+obvious &Gexit &Wto the outside.&n
+#
+&c LEARN
+
+Usage: learn <profession>
+
+You can learn Mining, Smithing, Woodworking, Fishing, Skinning, Leathworking,
+Cooking, and Tanning.
+
+SEE ALSO: PROFESSION, SCALES, SKINS, ORE, GEMS, LEATHER, SMITHING
+#
+&G LEVELS
+
+&WUsage: &Glevels
+
+&WLists the levels of your class and the &Gexperience &Wrequired to attain each
+level.
+#
+&G LIST
+
+&WUsage: &Glist &W[item type]
+
+If you'd like to see what items a &Gshop &Whas for sale, take a look at the
+&Glist&W.  The &Glist &Wcontains all of the items currently for sale and in
+what quantity.  The price for each item is also listed.  If you are
+interested in a particular type of item, you can specify which items to
+&Glist&W.
+ 
+Examples:
+ 
+  > &Glist             &W(&Glist &Wall items for sale)
+  > &Glist sword       &W(&Glist &Wall swords for sale)
+ 
+See also: &GBUY&W, &GSELL&W, &GSHOPS&W, &GVALUE&n
+#
+&G LOOK
+
+&WUsage: &Glook
+       look &W[in | at] [the] <item>
+       &Glook &W<direction>
+
+For studying your surroundings.
+
+Examples:
+
+  > &Glook                                      
+  &W> &Glook &WAT the angel
+  > &Glook &WIN the bag
+  > &Glook south &W(shows the room next to you in that direction)
+
+Note that if you &GLOOK &WAT CORPSE you will not see its &Ginventory&W.
+To see what's inside a container (i.e. a corpse) use &GLOOK &WIN <object>.
+
+See also: &GEXAMINE&W, &GGET&W, &GREAD&W, &GTAKE&n
+#
+&G CHECK MAIL RECEIVE
+
+&W Usage: &Gcheck
+       mail &W<person>
+       &Greceive
+       
+
+&WThe &Gcommands &Wused by the Mud Mail System (MMS) are &GMAIL&W, &GCHECK&W, and
+&GRECEIVE&W.  These &Gcommands &Wcan only be used while in a Post Office.  You must
+be at least second level in order to use the MMS.
+
+Examples:
+
+  To &Gcheck &Wand see if you have any &Gmail &Wwaiting:
+  > &Gcheck
+
+  &WTo write &Gmail &Wto Sativinor:
+  > &Gmail &WSativinor
+
+  To ask the Postmaster to give you your &Gmail&W, if you have any waiting:
+  > &Greceive
+
+&WStamps cost 150 coins.&n
+#
+&c ORE
+
+Usage: ore
+
+This command will show you a list of all the ore you have available to you for
+smithing new equipment.
+#
+&c MINE MINING
+
+Usage: mine <item>  (ore or gems)
+
+While in the mines, you can choose to mine for larger amounts of ore and gems. It 
+may take you a little longer to find them, but the reward is well worth it.&n
+#
+&G MOTD
+
+&WUsage: &Gmotd
+
+&WDisplays the message of the day.  Contains important information
+regarding the status of the MUD.  You should be sure to read it
+when you login.  If you miss it at login, just use this &Gcommand&W!&n
+#
+&G MURDER
+
+&WUsage: &Gmurder &W<victim>
+
+Kill command to hit another player.
+
+See also: &GFLAGS&n
+#
+&G NOREPEAT
+
+&WUsage: &Gnorepeat
+
+&WThis &Gcommand toggles &Wwhether or not you see your communication echoed
+back to you (i.e., from &Gcommands &Wsuch as &GSAY&W, &GSHOUT&W, &GHOLLER&W, &GGOSSIP&W, etc.)
+Useful if you have a slow connection or if it just annoys you.
+
+See also: &GTOGGLE&n
+#
+&G NORTH SOUTH EAST WEST UP DOWN
+
+&WUsage: north
+       south
+       east
+       west
+       up
+       down
+
+To travel in a given direction.&n
+#
+&G NOSHOUT
+
+&WUsage: &Gnoshout
+
+NOSHOUT toggles &Wwhether or not you hear shouts.  (deaf) will appear after
+your name in the &GWHO list&W.
+
+See also: &GFLAGS&W, &GHOLLER&W, &GSHOUT&W, &GTOGGLE&W, &GWHO&n
+#
+&G NOSUMMON
+
+&WUsage: &Gnosummon
+
+&WAll characters have &GSUMMON &WPROTECTION turned on by default.  This prevents 
+people from summoning you and gives you a warning message if someone tries.  If
+you want to let someone &Gsummon &Wyou (i.e. if someone wants to &Gsummon &Wyou for a
+legitimate reason), type &GNOSUMMON &Wto turn off &Gsummon &Wprotection.  You can 
+then type &GNOSUMMON &Wagain to turn protection back on.
+
+See also: &GSUMMON&W, &GTOGGLE&n
+#
+&G NOTELL
+
+&WUsage: &Gnotell
+
+&WUse &GNOTELL &Wif you wish to prevent other players from using "&Gtell&W" to
+communicate with you.  (&Gnotell&W) will appear after your name in the &GWHO
+list &Wif you have &Gnotell &Won.
+
+See also: &GFLAGS&W, &GTELL&W, &GTOGGLE&W, &GWHO&n
+#
+&G OPEN CLOSE LOCK UNLOCK
+
+&WUsage: &Gopen &W| &Gclose &W| &Glock &W| &Gunlock &W<door> [direction]
+
+To &Gopen&W, &Gclose&W, &Glock&W, and &Gunlock &Wdoors, of course.
+
+Examples:
+
+  > &Gopen &Wportal
+  > &Glock &Wdoor
+  > &Gunlock &Wdoor &Gsouth&W
+  > &Gclose &Wgate
+
+See also: &GENTER&W, &GLEAVE&n
+#
+&G ORDER
+
+&WUsage: &Gorder &W<character> <&Gcommand&W>
+       &Gorder &Wfollowers <&Gcommand&W>
+
+Used for ordering pets and charmed people to do your evil bidding.  You
+can &Gorder &Weveryone under your command with "&Gorder &Wfollowers".
+
+Examples:
+
+  > &Gorder &Wzombie &Gshout &WI am awesome
+  > &Gorder &Wcityguard &Gsleep&W
+
+See also: &GCHARM&n
+#
+&G OUTLAW
+
+&cThis is for all you hardcore pkers. There are a group of players in the
+world that want the entire place to be pure CPK. This is your answer. The
+basic idea is you make yourself an outlaw(just type outlaw and hit enter)
+and then you can kill any other outlaw anywhere in the world at any time.
+This is not regular NPK, this is CPK. Read HELP CPK before doing this. The
+catch is that everytime you kill a player, you get blood on your hands. You
+cannot stop being an outlaw until your hands are clean. This blood on your
+hands does not apply just to outlaws. This applies to all players, outlaw
+or not. Read HELP BLOOD for more information. Keep this in mind before you
+join the ranks of the outlaws.
+#
+&G PARTY
+
+&WUsage: just type it.
+
+Every great game has a place where people can go to escape the harsh
+grim realities of everyday mud life. &RThe Game &Wis no exception. When 
+you just feel like hanging out, or you need a place to ll, head to the 
+&Gparty&W.&n 
+#
+&G POSSE GROUP FORM
+
+&WPosse's are groups of players or players and mobs, teaming up to make
+battling easier. The &Gexp &Wgets split between each person in the &Gposse&W,
+in the room at the time of the kill. Typing &Gposse &Wwhile in one will show
+who else is in your &Gposse&W.
+
+>> &Greform&W <name> <position#>    (this will change eventually)
+
+0 | 1 | 2
+_________
+
+3 | 4 | 5
+_________
+
+6 | 7 | 8
+
+See Also: &GFollow&W, &GBoot&W, &GExperience&n
+#
+&G POUR
+
+&WUsage: &Gpour &W<from container> <to container>
+       &Gpour &W<from container> out
+
+If you want to &Gpour &Wsome liquid from one container to another.  Pouring
+out simply empties the contents of the container onto the ground.
+
+Examples:
+
+  > &Gpour &Wcanteen cup
+  > &Gpour &Wcup out
+
+See also: &GFILL&n
+#
+&G PRACTICE PRACTISE
+
+&WUsage: &Gpractice &W[skill or spell name]
+
+&GPractice &Wis the way you improve your spells and skills.  You can only do
+so in your &Gguild&W, where your guildmaster can help you train.  Type
+"&Gpractice &W<skill>" to improve your abilities while in your &Gguild&W.  You can
+only &Gpractice &Wa certain amount for each &Glevel &Wyou gain.  Unused &Gpractice
+&Wsessions will accumulate for use in future levels.
+
+If you type &Gpractice &Wanywhere other than in your &Gguild&W, you will get a &Glist
+&Wof all of the spells and skills you know and your &Glevel &Wof proficiency at
+each.&n
+#
+&G PUT
+
+&WUsage: &Gput &W<item> <container>
+       &Gput &Wall.<item> <container>
+       &Gput &Wall <container>
+
+For putting items into containers.
+
+Examples:
+
+  > &Gput &Wpotion box
+  > &Gput &Wall.red box
+  > &Gput &Wall box
+
+See also: &GGET&n
+#
+&c PROFESSION PROFESSIONS JOBS
+
+Usage:  profession
+
+This will list all available professions. The ones you specialize in, a maximum
+of 2, will be highlighted. The more you use the professions that you specialize
+in, the better you will become at them. You can learn Mining, Smithing, Fishing,
+Woodworking, Skinning, Tanning, Leatherworking, and Cooking.
+
+SEE ALSO:  LEARN, LUMBER, LEATHER, SKINS, SCALES, ORE, GEMS, SMITHING, FISHING
+#
+&c REPAIR
+
+Usage: repair <item>
+
+You may use ore found in the mines to repair items that have been damaged during
+combat. If an item becomes too damaged, it will begin to lose its stats and then
+eventually fall apart and dissappear. You must be at an armorer or blacksmith to
+do repairs.
+
+See also: IMPROVE, SMITHING
+#
+&c SMITHING SMITH
+
+Usage: smith (to get list of different items available)
+
+Usage: smith <type> <ore1> <ore2> (to create an item)
+
+Smithing is a way to create new equipment from different types of metal ore
+that can be found in the mines. You must be at a blacksmith or armorer to
+create new gear.
+
+See also:  REPAIR, IMPROVE &n
+#
+&G TEK
+
+&WA supreme entity said to be the only means of communication with the 
+God known as Tim Fuckin' Star. He is the eternal symbol of the struggle
+between law and chaos. His contributions to the game include alot of world
+building and some lite low level coding. You'd do well to quell his hunger
+for nugs.&n
+#
+&G QSAY
+
+&WUsage: &Gqsay &W<message>
+
+To &Gtell &Wsomething to everyone on the current &GQuest&W.
+
+See also: &GQUEST&n
+#
+&G QUAFF POTION POTIONS
+
+&WUsage: &Gquaff &W<potion>
+
+&GQuaff &Wis used to "&Gdrink&W" a (magical) potion.  The magic will take effect
+immediately.&n
+#
+&G QUEST
+
+&WUsage: &Gquest
+
+&WThis simple &Gtoggle command &Wmerely informs the Powers that Be that you
+wish to participate in the currently running &GQuest&W.  If an immortal
+is running a &GQuest &Wand needs to know who wishes to participate, he/she
+will ask players to turn on their &GQuest flags &Wusing this &GQUEST command
+&Wif they are interested in the &GQuest&W.  It also allows you to listen in on
+the &Gquest &Wchannel and receive information specific to the &Gquest&W.
+
+See also: &GQSAY&n
+#
+&G QUI SHUTDOW
+
+&WJust to prevent accidental quittings and/or shutdowns.
+This &Gcommand &Wdoesn't DO anything, it simply is.
+
+See also: &GQUIT&n
+#
+&G QUIT
+
+&WWhen you get tired of playing, psshh yeah right, you can leave the game by
+typing '&Gquit&W'.&n
+#
+&G READ
+
+&WUsage: &Gread &W<object>
+       &Gread &W<board message number>
+
+When you want to &Gread &Wsomething.
+
+&GREAD &Wis also used to &Gread &Wmessages on bulletin &Gboards&W; type &GHELP BOARDS
+&Wfor more information.
+
+Example:
+
+  > &Gread &Wnote
+
+See also: &GBOARDS&n
+#
+&G RECITE SCROLL SCROLLS
+
+&WUsage: &Grecite &W<scroll> [Target]
+
+Is used to "&Gread&W" a magical &Gscroll&W.  Target can be an object, character or
+nothing (which may be yourself).
+
+See also: &GSPELLS&n
+#
+&G RECLASS MULTICLASS MULTI-CLASS
+
+&WReclassing can occur at 31st &Glevel&W. For the noobs, Reclassing is the act of 
+changing classes at 31st &Glevel &Wand starting back at 1st as the new class. You
+then have the skills from any class you have been. You can't &Greclass &Wback
+to an old class untill you've done them all. How to &Greclass &Wis a well kept
+secret. You must find the room and type &Greclass &W<newclass>.&n
+#
+&G REMOVE
+
+&WUsage: &Gremove &W<item>
+       &Gremove &Wall
+       &Gremove &Wall.<keyword>
+
+If you tire of wearing some armor or wielding a weapon.
+
+Examples:
+
+  > &Gremove &Wboots
+  > &Gremove &Wsword
+  > &Gremove &Wall
+  > &Gremove &Wall.bronze
+
+See also: &GGRAB&W, &GHOLD&W, &GWEAR&W, &GWIELD&n
+#
+&G REPLY
+
+&WUsage: &Greply &W<message>
+
+This &Gcommand &Wwill send a &Greply &Wto the last person to send you a message
+using &GTELL&W.  It works just as if you had typed '&Gtell &W<player> <message>'
+but makes it a bit easier.  It can also be very useful in case someone
+invisible sends you a message.
+
+Example:
+
+Jeb tells you, 'hey fucker!'
+> &Greply &Whey
+You &Gtell &WJeb, 'fuck off'
+>
+Someone tells you, 'I am your secret admirer.'
+> &Greply &WWho are you?
+You &Gtell &Wsomeone, 'Who are you?'
+
+See also: &GTELL&W, &GNOTELL&n
+#
+&G REPORT
+
+&WUsage: &Greport
+
+&WThis &Gcommand &Wsends a &Greport &Wof your current health to the other people in
+your &Gposse&W.&n
+#
+&G SAVE
+
+&WUsage: &Gsave
+
+Save &Wyour persona.  This includes &Gexperience &Wpoints, &Gstrength&W, &Ggold&W, etc.
+Your &Gequipment &Wis also saved in the (unlikely?) event of a crash.  The
+game periodically auto-saves you and your &Gequipment&W, so it is not necessary
+to have your client auto-save you as well.
+
+You CANNOT load a saved version if you die -- your persona still exists,
+but you will lose &Gexperience&W, and all your objects stay in the game, with
+your corpse.&n
+#
+&G SAY TELL ASK WHISPER SHOUT YELL HOLLER '
+
+&WUsage: &Gsay &W| &Gshout &W| &Gholler &W<string>
+       &Gtell &W| &Gwhisper &W| &Gask &W<player> <string>
+
+If you consider communicating with other beings, you might be understood
+better if you start your sentences with either &Gsay&W, &Gtell&W, &Gwhisper &Wor &Gshout&W.
+
+Examples:
+
+  > &Gsay &WHey, does anyone got a blunt?
+  > &Gtell &WTek hey man.
+
+You can use &G' &Was a shorthand for &Gsay&W, as in:
+
+  > &G' &Whello there.
+
+&GShout &Wbroadcasts your message to everyone is your geographic zone.  &GHoller
+&Wbroadcasts to everyone in the game but costs 20 movement points.  You must be level 
+two before you can use &Gshout &Wand &Gyell&W.
+
+See also: &GAUCTION&W, &GGOSSIP&W, &GGSAY&W, &GNOREPEAT&W, &GQSAY&W, &GREPLY&n
+#
+&G SCAN
+
+Scan &Wis a &Gthief &Wability to check rooms around your present location for 
+mobs and players. It's pretty handy.
+
+See Also: &GThief&n
+#
+&G SCORE
+
+&WUsage: &Gscore
+
+&WProvides useful information on your status such as age, hit points,
+mana, movement points, armor class, alignment, &Gexperience &Wpoints, &Ggold
+&Won hand, how long you've been playing, and your &Glevel&W.
+
+See also: &GAC&W, &GEXPERIENCE&n
+#
+&G SEARCH HIDDEN
+
+&WUsage: &Gsearch
+
+&WSome rooms have &Ghidden exits &Wthat you can't see. If you think you're in a room
+with a &Ghidden exit&W, try searching it. Anyone can do this.&n
+#
+&G SELL
+
+&WUsage: &Gsell &W[#] <item>
+       &Gsell &W<#>.<item>
+
+If you'd like to &Gsell &Wan item to a shopkeeper, trying selling it to them.
+Most &Gshops &Wspecialize in what they will &Gbuy&W, so you may have to look around
+to find a buyer for your items.
+ 
+Examples:
+ 
+  > &Gsell &Wsword       (&Gsell &Wthe first sword in your &Ginventory&W)
+  > &Gsell &W3 sword     (&Gsell &Wthe first three swords in your &Ginventory&W)
+ 
+See also: &GBUY&W, &GLIST&W, &GSHOPS&W, &GVALUE&n
+#
+&G SLEEP
+
+SLEEP &Wis both a &Gcommand &Wand the name of a &Gspell&W.
+
+The &GSLEEP command &Wputs you to &Gsleep&W, allowing you to regain your health more
+quickly.  You will be largely unaware of your surroundings while asleep.
+You can awaken yourself with the &GWAKE command&W.
+
+The &GSLEEP &Wspell forces the victim into a magical &Gsleep &Wsuch that they cannot
+be awakened until the spell wears off.
+
+Usage       : cast '&Gsleep&W' <victim>
+Accumulative: Yes (Duration)
+Duration    : 4 hours + level/4
+Level       : &GMage level &W8.
+
+If failing saving throw versus spell, the person will fall asleep.
+A person who is affected by &Gsleep &Wcan only be awakened if attacked.
+
+See also: &GWAKE&n
+#
+&G SPLIT
+
+&WUsage: &Gsplit &W<amount to split>
+
+&GSplit &Wis used to &Gsplit &Wmoney among people in your &Gposse &Wwho are in the same
+room as you.  If you are in a &Gposse &Wwith 4 other people, all of whom are in
+the same room with you, and you type &GSPLIT &W100, you will give each of the
+other 4 &Gposse &Wmembers 20 coins each.  (100 coins is &Gsplit &W5 ways; you keep
+your share and give everyone else their share).
+
+See also: &GFOLLOW&W, &GPOSSE&n
+#
+&G TIME
+
+&WUsage: &Gtime
+
+&WGives you the current game time.  Your initial reaction to the output of
+this &Gcommand &Wmay be one of surprise, but you'll get used to it.  You'll
+have to, at any rate, since certain things in the game depend on this
+particular notion of time; the opening hours of the &Gshops&W, for example.&n
+#
+&G TITLE
+
+&WUsage: &Gtitle &W<new &Gtitle&W>
+
+Sets the &Gtitle &Wpeople see on the &GWHO list &Wand when you're in the room with
+them.  You can't use parentheses (the "(" and ")" characters) because those
+are reserved for &Gflags&W.
+
+See also: &GFLAGS&W, &GWHO&n
+#
+&G TOGGLE
+
+&WUsage: &Gtoggle
+
+TOGGLE &Wshows you the current values of various toggles available on the MUD.
+This &Gcommand &WCAN NOT be used to change these values (see related &Gcommands&W.)
+All of these toggles remain the same until you change them; i.e. they are
+saved when you &Gquit&W.
+
+See also: &GBRIEF&W, &GCOMPACT&W, &GDISPLAY&W, &GNOSHOUT&W, &GNOSUMMON&W, &GNOTELL&W, &GQUEST
+          REPEAT&W, &GWIMP&n
+#
+&G TRACK
+
+&WUsage: &Gtrack &W<victim>
+
+Used for finding the first step on the shortest route to a monster.
+
+Example:
+
+  > &Gtrack &Wfido
+  You sense a trail &Gsouth &Wfrom here!&n
+#
+&G USE WAND STAFF STAFFS WANDS
+
+&WUsage: &Guse &W<&Gstaff&W>
+       &Guse &W<&Gwand&W> <Target>
+
+Using a &Gstaff &Wwill automatically target everybody (or everything) in a
+room, except yourself.  Therefore staffs are naturally very powerful, and
+yet may be very dangerous to use around other players.
+
+Using wands require that you point it at a target, which can be either a
+character or an object.
+
+Both staffs and wands must be HELD in the hand prior to use!  (Use the
+&Ggrab &Wor &Ghold commands&W).  You must still supply the name of the &Gstaff &Wor
+&Gwand &Wto avoid confusion.
+
+See also: &GRECITE&n
+#
+&G VALUE
+
+&WUsage: &Gvalue &W<item>
+
+Before selling an item to a &Gshop&W, you can ask the shopkeeper how much
+he or she is willing to pay for it.
+ 
+Example:
+ 
+  > &Gvalue &Wbread
+ 
+See also: &GBUY&W, &GLIST&W, &GSELL&W, &GSHOPS&n
+#
+&G VISIBLE
+
+&WUsage: &Gvisible
+
+&WUse this &Gcommand &Wto break your spell of &Ginvisibility &Wbefore it expires.
+
+See also: &GINVISIBILITY&n
+#
+&G WAKE SLEEPING REST SIT STAND
+
+&WFor changing your position.  If you feel weary, it's probably a good idea
+to &Gsit &Wand &Grest &Wfor a while, or maybe even take a nap.&n
+#
+&G WEAR
+
+&WUsage: &Gwear &W<item> [location]
+
+If you want to wear some clothes, armor or the likes.
+
+Also, to wear everything in your &Ginventory &W(or at least try to, as wearing 
+things like loaves of bread is not a good way to win friends and influence
+people) you can type "&Gwear &Wall".
+
+Optionally, you can specify what part of your body to wear the &Gequipment &Won.
+
+Examples:
+
+  > &Gwear &Wboots
+  > &Gwear &Wall.bronze
+  > &Gwear &Wall
+  > &Gwear &Wring finger
+
+See also: &GEQUIPMENT&W, &GREMOVE&n
+#
+&G WEATHER
+
+&WUsage: &Gweather
+
+&WIf you're uncertain whether the sun is shining or the rain is pouring down.
+You'll have to be outside in order to tell however.
+
+See also: "&GCONTROL WEATHER&W"&n
+#
+&G WHERE
+
+&WUsage: &Gwhere &W<monster | player>
+
+Tells you the location of a monster, a player or an object.
+
+Mortals can only "&Gwhere&W" monsters or players, and only from their own
+zone.
+
+Immortals may type '&Gwhere&W' without arguments to see where everybody is.
+
+Example:
+
+  > &Gwhere
+  &W> &Gwhere &Wtorch
+  > &Gwhere &Wdragon&n
+#
+&G WHO
+
+&WUsage: &Gwho &W[minlev[-maxlev]] [-n sname] [-c classlist] [-s] [-o] [-q] [-r] [-z]
+
+Lists the people currently in the game.  Some people may be invisible.
+Command-line options can be used to limit the listing.  The parameters
+can be specified on the command-line in any order.
+
+minlev, maxlev : list only people whose &Glevel &Wis at or above minlev, and
+                 optionally, at or below maxlev
+-n : list only people whose names or titles contain sname
+-c : list only people of a certain class, where classlist is any combination
+     of the letters w, m, c, and t
+-s : list names in the short form (4 columns of names, without titles or &Gflags&W)
+-o : list only outlaws (i.e. people with a killer or thief &Gflag&W)
+-q : list only people who are on the &GQuest
+&W-r : list only people who are in your room
+-z : list only people in your zone
+
+Examples:
+
+  > &Gwho &W-c wc -s -l 20
+  List, in short form, warriors and clerics at or above &Glevel &W20
+
+  > who 15-25 -o -z
+  List all outlaws between levels 15 and 25 who are in your zone.&n
+#
+&G WHOAMI
+
+&WUsage: &Gwhoami
+
+&WDisplays your character's name, if you want to be sure you are who you think
+you are.&n
+#
+&G WIELD
+
+&WUsage: &Gwield &W<weapon>
+
+When you get tired of bashing monsters with your fists, you might consider
+wielding a weapon.
+
+Example:
+
+  > &Gwield &Wsword
+  > &Gwield &W3.sword    (&GWield &Wthe third sword in your &Ginventory&W)
+
+See also: &GEQUIPMENT&W, &GREMOVE&W, &GWEAR&n
+#
+&G WIMPY
+
+&WUsage: &Gwimpy &W[hp]
+
+Use the &GWIMPY command &Wto automatically &Gflee &Wonce your health drops below
+a certain level.
+
+Examples:
+
+  > &Gwimpy &W35    will make your character automatically &Gflee &Wa fight
+                if you have less than 35 hit points.
+  > &Gwimpy &W0     will turn off &Gwimpy &Wmode.
+  > &Gwimpy &W      will show you your current wimp status.
+
+See also: &GFLEE&W, &GTOGGLE&n
+#
+&G WIZLIST IMMLIST
+
+&WUsage: &Gwizlist &W| &Gimmlist
+
+&WLists the most powerful beings on the MUD.  These are the people responsible
+for administering the system. Be nice to them.
+
+See also: &GIMPLEMENTOR&n
+#
+&G WRITE
+
+&WUsage: &Gwrite &W<object>
+       &Gwrite &W<title of board note>
+
+In order to &Gwrite &Wa note, you need a piece of blank paper (or similar), and
+a pen of some sort.  You can then type something like "&Gwrite &Won the paper with
+the pen", whereupon you'll be asked to type in your note at the keyboard.
+
+&GWRITE &Wis also used to post messages to bulletin boards.  Type &GHELP BOARDS
+&Wfor more information.
+
+See also: &GBOARDS&W, &GMAIL&n
+#
+$

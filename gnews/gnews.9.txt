@@ -1,0 +1,38 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+----------------------------------------------------------------------
+News file [&C9&c]. Type NEWS 9 to re-read this article at a later date.
+----------------------------------------------------------------------&n
+
+I cleaned house of the "gods" that havent been on in, oh like a month 
+or so. I have added for implementors the last logon information to the
+show player info. Keep an eye on this stuff. The following players lost
+their god status:
+
+Kaede
+Varius
+Vistalantus
+Neass
+Dolph
+
+I know Karain has been having some kind of RL issues but if he doesn't
+show up again soon, I'll be droppin' him too. Anubis will let me know
+what zones, if any, these people were working on and we will go from
+there. I don't like to be a dick about these kinds of things, but I 
+also don't like people wasting mine and your time either.
+
+-J

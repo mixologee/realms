@@ -1,0 +1,21 @@
+                        Realms of Kuvia
+             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+-------------------------------------------------------------------
+News file [3]. Type NEWS 3 to re-read this article at a later date.
+-------------------------------------------------------------------
+
+You can now reclass once you have reached level 40. Once you have 
+gone through the 4 main classes, you can choose a specialization for
+your current class. When you master as a warrior, you can specialize
+as Paladin, Knight or Ranger. If you master as thief, you can 
+specialize as a Rogue, Assassin, or Ninja. If you master as cleric 
+you can specialize as a Monk, Druid or Priest. If you master as a 
+mage you can specialize as a Necromancer, Summoner or Sorcerer.
+

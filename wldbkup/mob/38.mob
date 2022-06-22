@@ -1,0 +1,138 @@
+#3800
+Treant tree giant~
+the Treant~
+A tall, knotted tree stands atop the knoll, guarding over its domain.
+~
+This dryad has gained treant status by living a thousand years. In the process
+it has grown hundreds of feet tall and gathered vast stores of knowledge in its
+core. It has no real face to speak of, only a knotted place high up its trunk.
+Its limbs are lithe tree branches for arms and solid roots for legs. Its head
+is crowned with thin green branches adorned with bright leaves.
+~
+73754 0 0 0 80 0 0 0 500 E
+30 -80 -8 100d100+0 16d5+50
+0 90000
+8 8 0
+BareHandAttack: 6
+Att1: 6
+Clss: 21
+E
+#3801
+spirit water~
+a graceful water spirit~
+A beautiful woman lounges in the water at the shore, laughing with the other women.
+~
+Water spirits frequently take the form of a beautiful woman in the presence of a
+human being, reflecting the expectations in their mind onto the nature of their
+being. She is clad in only an aqueous toga, which clings to her skin in the
+water. She laughs and splashes with the other spirits, reveling in the safety
+of her hidden world.
+~
+67109130 0 0 0 -2147483200 0 0 0 500 E
+25 12 5 5d5+950 4d2+4
+0 62500
+8 8 2
+BareHandAttack: 12
+Clss: 5
+E
+#3802
+dryad spruce~
+a spruce dryad~
+A spruce dryad walks slowly by, paying you no attention.
+~
+This dryad is fairly young, judging from its relatively short stature, thin
+trunk, and springy green limbs. It walks slowly by, gazing about itself with
+its wooden eyes shining in the light.
+~
+264 0 0 0 0 0 0 0 500 E
+25 -20 -5 0d0+1200 8d6+40
+0 62500
+8 8 1
+BareHandAttack: 8
+Att1: 8
+Clss: 21
+E
+#3803
+selkie water horse waterhorse~
+a selkie~
+A water horse trots about, tossing its blue mane.
+~
+The selkie is just like a horse, if it were a water elemental. Its coat is
+thick and springy and dark blue, and its eyes are like black coals set in its
+noble head. It trots this way and that, free as the ocean wind.
+~
+1073741832 0 0 0 0 256 0 0 0 E
+25 12 -5 5d5+800 4d4+4
+0 62500
+8 8 0
+Clss: 21
+E
+#3804
+Giis Elder Treant dryad~
+Giias the Treant Elder~
+A ginormous treant rests bent upon the ground, its shoulders draped with banners and a staff in its hand.
+~
+This is the eldest of the dryads, a true ancient. His mind is a vast store of
+information from thousands upon thousands of years ago to the present, every
+detail fresh as the banners draped over his shoulders and knees. His face is
+long and heavily creased with age, and every branch is as wide as an adult
+dryad. The leaves are bright gold and very broad, a sure indicator of age in a
+treant.
+~
+10 32 0 0 0 0 0 0 1000 E
+50 4 -20 10d10+500 8d8+8
+500 250000
+8 8 1
+Clss: 21
+E
+#3805
+Ae wall~
+Ae the sentient wall~
+A stone wall with short limbs suddenly blocks your only exit!
+~
+Ae is of the legendary Wall clan, a race of animators who live and serve in a
+body of stone, guarding treasure for no purpose other than to pass the time and
+return a favor. It bars your exit, prepared to exact punishment for entering on
+its sacred duty.
+~
+10 4 0 0 256 0 0 0 0 E
+40 -20 -14 40d40+400 6d6+40
+79864 160000
+8 8 0
+BareHandAttack: 6
+Att1: 6
+Att2: 6
+Att3: 6
+Clss: 21
+E
+T 3806
+#3806
+dryad apothecary~
+a dryad apothecary~
+A dryad stands in the ground, its base adorned with piles of wooden bottles.
+~
+The dryad apothecary is very well educated in the ways of concocting potions. 
+It holds a shop here in Darkmoor, where the dryadkin and occasional traveller
+can find goods.
+~
+10 32 0 0 80 0 0 0 900 E
+35 9 -11 7d7+350 5d5+5
+350 122500
+8 8 2
+Clss: 21
+E
+#3807
+dryad woodsmith~
+the dryad woodsmith~
+The dryad woodsmith stands in the ground here, surrounded by his wares.
+~
+The dryads have perfected the elven art of working wood as if it were metal, and
+create fine armor and weaponry of ordinary wood.
+~
+10 32 0 0 80 0 0 0 900 E
+35 9 -11 7d7+350 5d5+5
+350 122500
+8 8 1
+Clss: 21
+E
+$

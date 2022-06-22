@@ -1,0 +1,114 @@
+#2100
+student warrior~
+a warrior student~
+A student of the fighting arts is trying to hone his skills.
+~
+A fairly well built young man with dark hair and light eyes looks like he is
+concentrating very intensely.  Perhaps he is working on his meditation.  
+~
+55368 0 0 0 16 0 0 0 0 E
+20 -10 0 20d10+1500 10d2+20
+100 150000
+8 8 1
+Clss: 8
+E
+#2101
+student thief~
+a thief student~
+A student of the sneaky arts is sneaking around.
+~
+A thin man with a thin face.  His hair is dark and covers most of his face.  He
+has a smirk on his face that is half nice and half evil.  
+~
+59464 0 0 0 16 0 0 0 0 E
+20 -10 0 20d10+1250 10d2+15
+100 140000
+8 8 1
+Clss: 7
+E
+#2102
+student mage~
+a mage student~
+A student of the magical arts is practicing her spells.
+~
+A lovely young girl with dark hair down to her ass.  She has a very dark
+disposition about her, yet is very intriuging.  
+~
+59464 0 0 0 16 0 0 0 0 E
+20 -10 5 20d10+1000 5d4+5
+100 125000
+8 8 2
+Clss: 5
+E
+#2103
+student cleric~
+a cleric student~
+A student of the healing arts is here looking for injured people.
+~
+A beautiful young woman with light hair and soft blue eyes scans the area for
+injured parties.  She has soft skin and a bouncy bosom.  You feel better just
+seeing her.  
+~
+59464 0 0 0 16 0 0 0 0 E
+20 -10 5 20d10+1150 2d10+10
+100 125000
+8 8 2
+Clss: 6
+E
+#2104
+professor teacher warrior~
+a warrior's professor~
+A professor of the fighting arts is teaching his pupils.
+~
+An older man, still well built and in extremely good health struts around
+proudly.  One can only imagine how many battle he has survived.  
+~
+63562 0 0 0 16 0 0 0 0 E
+20 -10 0 20d10+1700 20d1+20
+420 200000
+8 8 1
+Clss: 8
+E
+#2105
+professor teacher thief~
+a thief's teacher~
+A professor of the sneaking arts is watching over his pupils.
+~
+He is an older man, with scraggly hair and a half shaven face.  He looks
+incredibly sneaky and nimble.  Quick like a jackrabbit.  
+~
+63562 0 0 0 0 0 0 0 0 E
+20 -10 0 20d10+1450 20d1+20
+420 200000
+8 8 1
+Clss: 7
+E
+#2106
+professor teacher mage~
+a mage's teacher~
+A professor of the magical arts is watching over her pupils.
+~
+An older lady, fairly well wrinkled, with a small hump on her back.  The years
+of spell casting must really have taken its toll on her body.  
+~
+63562 0 0 0 16 0 0 0 0 E
+20 -10 5 20d10+1200 10d1+20
+420 175000
+8 8 2
+Clss: 5
+E
+#2107
+professor teacher cleric~
+a cleric's teacher~
+A professor of the healing arts is watching over her pupils.
+~
+There is no way this woman can be a professor.  She looks as young, if not
+younger than all of the students here.  
+~
+63562 0 0 0 16 0 0 0 0 E
+20 -10 5 20d10+1400 5d4+20
+420 170000
+8 8 2
+Clss: 6
+E
+$

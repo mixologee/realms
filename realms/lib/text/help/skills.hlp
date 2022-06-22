@@ -1,0 +1,432 @@
+&G APPRAISE
+
+&WUsage: &GAppraise &W<item>
+
+This any class any &Glevel &Wskill is perfect for finding out what your
+gear does for you.&n
+#
+&G BS BACKSTAB BACK-STAB 'BACK STAB'
+
+Syntax  : backstab OR bs <target>
+Cooldown: 30 seconds
+
+Backstab is a stealthy, powerful way for thieves and warriors to initate
+combat. Due to this skill's secrecy, not much is known to those outside
+the circles of combatants. It is up to you to discover the secrets of
+this ability.
+
+NOTE: It is known that ONLY warriors and thieves are able to backstab,
+and that thieves have a much more skilled ability than warriors.
+
+    &BLevels  &CMultiplier
+    &W------  ----------
+     &B1-7        &C2
+     &B8-13       &C3
+    &B14-20       &C4
+    &B21-30       &C5
+
+&WThe chance of successfully backstabbing a person depends on how well you
+have practiced &Gbackstab &Wat your &Gguild&W.  You can always &Gbackstab &Wsleeping
+people.
+It is also possible to get double an triple bs's.&n
+#
+&G BASH
+
+Syntax  : bash <target>
+Cooldown: 7 seconds
+
+Like kick, this ability can be used to initiate combat or during combat. If
+successful, a bash will knock an enemy to the ground, preventing them from
+using their abilities. Also, bashing will damage them. Again, this skill can
+be used after a warrior reclasses to another class.
+
+NOTE: You must be wielding a weapon in order to bash an enemy.
+
+Note that hitting a person who is resting/sitting will inflict 1.5 * damage.
+
+See also: &GKICK&W, &GRESCUE&W, &GSTOMP&n
+#
+PARRY
+
+This skill allows a warrior to use his weapon to deflect oncoming
+melee attacks during combat. You must be wielding a weapon for this
+skill to be effective. Parry is automatically used during combat once
+trained. This skill can be used by any class once learned as a warrior.
+#
+&G DISARM
+
+Syntax  : disarm <target>
+Cooldown: 7 seconds
+
+With this skill a warrior can use their weapon to disarm an enemy
+during combat. This skill can be used to initiate combat or during
+combat. You must be wielding a weapon for this skill to be effective.
+This skill can be used by any class once learned as a warrior.
+
+#
+CHARGE
+
+Syntax  : charge (room attack)
+Cooldown: 15 seconds
+
+Using this skill, a warrior attempts to knock down every enemy in
+a specific area. If successful, the affects to an enemy are similar
+to the BASH effect, in that they will be unable to use their
+abilities. This skill can be used by any class once learned as a
+warrior.
+
+NOTE: This ability only works against NPC's.
+
+#
+&G HIDE
+
+Thieves &WOnly.
+
+When you type &Ghide &Wthere is a chance that you &Ghide &Win the room.  If hidden
+you can only be "sensed" by the "sense life" spell.  Even if sensed your
+identity will remain hidden.  &GHide &Wis broken by pressing return, regardless
+of whether you typed a &Gcommand &Wor not.
+
+Example:
+
+  > &Ghide
+  &WOk.
+  >  (you wait for ex. 5 mins and remain hidden for 5 mins)
+
+  >  (You pressed enter and no longer &Ghide&W)
+
+See also: &GSNEAK&n
+#
+&G KICK
+
+&WUsage : &Gkick &W<victim>
+Level : &GWarrior &Wskill
+
+The success of a &Gkick &Wdepends upon how well you are learned.  The higher
+level you reach the harder you &Gkick&W.  There is one small catch -- whenever
+you &Gkick &W(or miss) you will be unable to type any &Gcommand &Wfor three
+rounds of 'Violence' -- so be sure that you do not need to &Gflee&W!
+
+See also: &GBASH&W, &GRESCUE&n
+#
+&G MEDITATE
+
+Syntax  : meditate
+Cooldown: 15 seconds
+
+Using this ability enables a warrior to focus on his or her inner self,
+healing wounds sustained from battle. Due to the concentration required
+for this ability, you must be resting and alone in order to succeed.
+#
+&G "PICK LOCKS"
+
+Thieves &Wonly.
+
+Usage: &Gpick &W<lock name> [direction]
+
+For picking locks.  Not all locks can be picked.
+
+Examples:
+
+  > &Gpick &Wdoor &Gsouth
+  &W> &Gpick &Wsafe
+
+See Also : &GOPEN&W, &GCLOSE&W, &GLOCK&W, &GUNLOCK&n
+#
+SENSE
+
+Syntax   : cast sense <self>
+Cooldown : 5 seconds
+Duration : 15 minutes
+Mana Cost: 20 mana
+
+Due to their experience in the wild, Rangers have the
+unique ability to sense hidden trails throughout the
+world. When cast, this ability allows Rangers to 'see'
+through hidden and illusionary exits. Only Rangers may
+use this ability.
+
+Example:
+Without Sense          With Sense
+--------------         --------------
+Obvious Exits:         Obvious Exits:
+North - Sample         North - Sample
+South - Sample         East  - Sample (Hidden, Searchable)
+                       South - Sample
+                       West  - Sample (Illusionary)
+#
+&G RANGED_COMBAT
+
+Syntax  : shoot <target> <direction>
+Cooldown: 5 seconds (half that if quiver equipped)
+
+Unique to Rangers, this ability allows them to use a bow and
+arrow to attack their enemies from great distances. If you
+have a quiver equipped, it speeds the time in which you can
+nock a new arrow and fire again.
+
+See also: &GScan&W, &GLook&n
+#
+SUMMONMOUNT SUMMON-MOUNT 'SUMMON MOUNT'
+
+Syntax   : cast summon mount
+Cooldown : 15 minutes
+Duration : Immediate
+Mana Cost: 50 mana
+
+Due to their close relationship with the wilderness, Rangers
+can call upon the wild to assist them in their time of need.
+When cast, this spell will summon a noble stallion to aid a
+Ranger as a mount. Only Rangers may use this ability and the
+stallion will only suffer a Ranger to ride him.
+#
+MELEEHEAL MELEE-HEAL 'MELEE HEAL'
+
+Syntax   : cast meleeheal <self>
+Cooldown : 15 minutes
+Duration : 120 seconds
+Mana Cost: 50 mana
+
+Engaging their regenerative abilities, this spell allows a
+Paladin to channel the damage caused by their weapon into
+their own body, rejuvenating their vitality. Only Paladins
+may use this ability.
+#
+VENGEANCE
+
+Syntax   : cast vengeance <self> :: must be engaged
+Cooldown : 20 minutes
+Duration : 120 seconds
+Mana Cost: 150 mana
+
+When cast, a shimmering silver aura surrounds a Paladin's
+body, rendering him or her completely impervious to an
+enemy's physical attacks while reflecting 100% of the
+enemy's physical damage back to them. However, while this
+aura is in place, the Paladin cannot use offensive skills
+or spells and cannot attack their enemy with melee. This
+aura does NOT protect the Paladin from magical attacks.
+Only a Paladin may use this spell.
+
+NOTE: This aura will replace the DIVINE PROTECTION aura if it
+is already in place.
+#
+DIVINEPROTECTION DIVINE-PROTECTION 'DIVINE PROTECTION'
+
+Syntax   : cast divine protection <self> :: must be engaged
+Cooldown : 20 minutes
+Duration : 120 seconds
+Mana Cost: 150 mana
+
+When cast, a glittering white aura surrounds a Paladin's
+body, rendering him or here completely impervious to an
+enemy's magical attacks while reflecting 100% of the enemy's
+magical damage back to them. However, while this aura is in
+place, the Paladin cannot use offensive skills or spells and
+cannot attack their enemy with melee. This aura does NOT
+protect the Paladin from physical attacks or magical affect
+spells. Only a Paladin may use this spell.
+
+NOTE: This aura will replace the VENGEANCE aura if it is already
+in place.
+#
+COURAGE
+
+Syntax   : cast courage <self> :: must be engaged
+Cooldown : 10 minutes
+Duration : 60 seconds
+Mana Cost: 50 mana
+
+When cast, this spell greatly increases a Paladin's ability
+to incur melee damage and the speed at which they attack.
+However, while this spell is in place, they are unable to
+use offensive magical attacks. Only a Paladin may use this
+spell.
+#
+&G RESCUE
+
+Syntax  : rescue <target>
+Cooldown: 30 seconds
+
+This ability enables a Knight to take over combat for one of their
+comrades. Only Knights may use this ability.
+
+#
+&G SCAN
+
+Scan &Wis a &Gthief &Wability to check rooms around your present location for
+mobs and players. It's pretty handy.
+
+See Also: &GThief&n
+#
+&G SECOND_ATTACK
+
+Thieves &Wand &Gwarrior &Wget a &Gsecond attack &Win &Gcombat&W. Just &Gpractice &Wthe skill
+and The Game will do the rest.
+
+See Also: &GTHIRD_ATTACK&n
+#
+&G SNEAK
+
+&WUsage  : &Gsneak
+&WLevel  : &GThief &Wskill
+
+Used for sneaking (moving in and out of rooms without anyone taking notice).
+When you type &Gsneak&W, there is no way to know if you're actually sneaking.
+If you successfully &Gsneak&W, then you'll continue to &Gsneak &Wfor a little while.
+
+See also: &GHIDE&n
+#
+&G STEAL
+
+Thief &WOnly.
+
+Usage: &Gsteal &W<item> <victim>
+
+Use &Gsteal &Wto &Gsteal gold &Wor items from people.  The chance of not getting
+caught depends on how well you have practiced &Gsteal&W, and if the person
+is asleep.
+
+Examples:
+
+  > &Gsteal gold &Wdrunk
+  > &Gsteal &Wsword mercenary
+    (If it's wielded, only possible if he is sleeping)&n
+#
+&G STOMP
+
+Syntax  : bash <target>
+Cooldown: 7 seconds
+
+Refining their bash to an artform, Knights can take the opportunity to
+kick their enemy when they are down. If a bash is successful, a Knight
+will stomp on their enemy before they can get up, incurring more damage.
+Once trained, this skill is automatically used in conjunction with bash.
+Only Knights may use this ability.
+
+NOTE: You must first train bash fully before being able to use this skill.
+#
+REVEAL
+
+Syntax  : reveal
+Cooldown: 2 seconds
+
+Similar to the thief ability SCAN.
+Due to their innate abilities in the wild, Rangers are fine
+tuned to their surroundings. When used, this ability allows
+them to see beings a greater distance away than the ability
+SCAN. Only Rangers can use this ability.
+#
+COUNTERATTACK COUNTER-ATTACK 'COUNTER ATTACK'
+
+Refining parry to an art, Knights are able to use the chance to strike
+back at an enemy. If successful, a Knight will land a normal melee attack
+in response to an enemy's. This ability is automatic once learned. Due to
+the skill required, only Knights may use this ability.
+
+NOTE: You must have parry trained fully in order to use counter attack.
+#
+HEROISM
+
+Syntax   : cast heroism <self>
+Cooldown : 5 minutes
+Duration : 90 seconds
+Mana Cost: 50 mana
+
+When this ability is cast, a Knight charges bravely into a
+fight, taking the brunt of attacks from any enemy in the area.
+Only Knights may use this ability.
+
+NOTE: When used, you will immediately have the attention of
+every enemy in the area, consider this before casting heroism.
+#
+&G Third_Attack
+
+Warriors get a &Gthird attack &Win &Gcombat&W. Just &Gpractice &Wthe skill
+and The Game will handle the rest.
+
+See also: &GSECOND_ATTACK&n
+#
+&G TRIP
+
+Thief &WOnly
+
+When in combat, &Gthieves &Ware able to attempt to &Gtrip &Wan opponent. This
+will knock said opponent on their asses for a round.
+
+See also: &GThief&W, &GSkills&n
+#
+WARRIOR-SKILLS 'WARRIOR SKILLS'
+
+KICK         - kicks a mob or player, causing more damage
+BASH         - hits a target on the head and knocks them down
+PARRY        - helps to avoid some of the melee attacks targetted at your
+               character
+CHARGE       - attempts to knock down all mobs in the room
+BACKSTAB     - starts a fight with a much harder hit than melee but incurs
+               a moderate penalty for skill/spell use
+SECONDATTACK - allows for the ability to hit twice as quickly
+THIRDATTACK  - allows for the ability to hit thrice as fast, must first 
+               practice SECONDATTACK
+MEDITATE     - while resting, uses a period of inactivity to regen hit points
+               at the cost of movement points.
+DISARM       - allows you to disarm, or remove, a weapon from your target's
+               grip
+
+
+See Also: WARRIOR KNIGHT-SKILLS RANGER-SKILLS PALADIN-SKILLS
+#
+KNIGHT-SKILLS 'KNIGHT SKILLS'
+
+FOURTHATTACK    - allows for the ability to hit four times normal speed
+                  Must practice THIRDATTACK before use.
+FIFTHATTACK     - allows for the ability to hit five times normal speed
+                  Must practice FOURTHATTACK before use.
+ADVANCED CHARGE - increases the damage incurred by normal charge
+ADVANCED KICK   - increases the damage incurred by normal kick
+COUNTER ATTACK  - allows a possible powerful counter attack when parrying
+RESCUE          - allows the player to take over combat for another
+HEROISM         - increases melee damage to nearly double normal at great
+                  cost to the player
+STOMP           - an automatic extension of bash, if you successfully bash
+                  a player, there is a chance of stomping them while they
+                  are down for additional damage
+
+See also: KNIGHT
+
+#
+
+RANGER-SKILLS 'RANGER SKILLS'
+
+REVEAL            - allows the player to see through 'hidden' exits and see
+                    hidden mobiles and players
+ADVANCED MEDITATE - increases the hitpoints gained by meditate
+FOURTHATTACK      - allows for the ability to hit four times normal speed
+SENSE             - allows the player to see mobs and players at a greater
+                    distance than the SCAN skill
+ARCHERY           - a powerful ranged attack implementing a bow and arrow
+SUMMON MOUNT      - allows the player to call a nearby steed to aid them
+
+See also: RANGER
+
+#
+
+PALADIN-SKILLS 'PALADIN SKILLS'
+
+MELEEHEAL            - regenerates the players hitpoints based on melee attacks
+FOURTHATTACK         - allows for the ability to hit four times per melee round
+VENGEANCE            - grants the player impervious defense against oncoming
+                       physical attacks and reflects damage back to the target,
+                       but this prevents the player from attacking with normal
+                       melee or abilities
+COURAGE              - increases the amount of damage done by the player
+DIVINE PROTECTION    - grants the player impervious defense against oncoming
+                       magical attacks and reflects damage back to the target,
+                       but this prevents the player from attacking with normal
+                       melee or abilities
+PROTECTION FROM GOOD - protects the paladin from attacks by good aligned enemies
+PROTECTION FROM EVIL - protects the paladin from attacks by evil aligned enemies
+
+See also: PALADIN
+#
+$

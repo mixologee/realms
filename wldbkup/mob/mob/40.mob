@@ -1,0 +1,94 @@
+#4000
+pandora penguin starfallen~
+a small penguin~
+Pandora The Penguin
+~
+This little penguin is Starfallen's little pet.  She loves her master and will
+bite anyone who screws with her.  
+~
+178248 0 0 0 545857784 0 0 0 0 E
+40 -30 -10 6d6+1500 6d9+50
+0 0
+8 8 0
+BareHandAttack: 4
+E
+#4001
+slavemaster man ghost~
+the Ghost of a Slavemaster~
+A shadowy figure of an abnormally tall man
+~
+The Spirit of the Slavemaster
+~
+8 0 0 0 16 0 0 0 0 E
+18 -10 -6 3d5+1000 4d6+20
+100 90000
+8 8 1
+BareHandAttack: 6
+E
+#4002
+firstmate first mate~
+the ships first mate~
+The ships first mate
+~
+The ships first mate
+~
+10 0 0 0 16 0 0 0 0 E
+25 -15 -8 5d9+1800 6d8+35
+500 200000
+8 8 1
+E
+#4003
+captain pirate man ship ghost~
+The Captains Ghost~
+who
+~
+The ship captains ghost
+~
+8 0 0 0 532496 0 0 0 200 E
+28 -10 -10 5d7+2000 3d6+40
+3000 300000
+8 8 1
+E
+#4004
+pirate shipmate soul ghost~
+the Soul of a Lowly Shipmate~
+A tortured soul of a shipmate glares at you in despair.
+~
+Tattered clothing drapes around this poor soul.  Even in life it's clear that he
+was one of the lowliest members of the crew . The light in his eyes seems to beg
+for release
+~
+8 0 0 0 0 0 0 0 0 E
+18 5 -4 6d6+800 4d5+20
+50 60000
+8 8 0
+BareHandAttack: 9
+E
+#4005
+The spirit of a drunk pirate~
+the spirit of a drunk pirate~
+The spirit of a drunk pirate
+~
+The spirit of a drunk pirate
+~
+8 0 0 0 0 0 0 0 -100 E
+17 10 -4 3d5+700 4d4+23
+50 70000
+8 8 0
+BareHandAttack: 13
+E
+#4006
+spectral slave ghost~
+a Spectral Slave~
+An enslaved spector glides along, dragging it's chains behind it
+~
+This poor soul was once enslaved upon the ship.  It now is doomed to be enslaved
+here for the rest of eternity
+~
+2056 0 0 0 0 0 0 0 100 E
+15 8 -5 4d4+700 5d5+19
+0 120000
+8 8 0
+BareHandAttack: 10
+E
+$

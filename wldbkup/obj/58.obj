@@ -1,0 +1,113 @@
+#5800
+bag sack container~
+a simple sack~
+A cloth bag lies here at your feet.~
+~
+15 0 0 0 0 amo 0 0 0 0 0 0 0
+25 1 -1 0
+3 10 0 0
+#5801
+coins pile money gold silver~
+a pile of silver coins~
+A pile of shiny coins glimmers in the light.~
+~
+20 0 0 0 0 a 0 0 0 0 0 0 0
+25 0 0 0
+3 0 0 0
+#5802
+shirt flannel~
+a flannel shirt~
+A flannel shirt is lying here.~
+~
+9 dqu 0 0 0 ad 0 0 0 0 0 0 0
+-1 0 0 0
+3 1 0 0
+A
+13 5
+A
+18 1
+#5803
+sandals shoes~
+a pair of leather sandals~
+A pair of open-toed sandals sits here side by side.~
+~
+11 dq 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0
+3 1 0 0
+A
+24 -2
+A
+17 -1
+#5804
+hat adventurer~
+an adventurer's hat~
+A plain white hat shields the ground from the light.~
+~
+11 dq 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+3 1 0 0
+A
+12 5
+A
+13 5
+#5805
+jeans blue pants~
+a pair of faded blue jeans~
+A pair of faded blue jeans looks like it could stand up on its own.~
+~
+9 dq 0 0 0 af 0 0 0 0 0 0 0
+-2 0 0 0
+3 1 0 0
+A
+13 3
+A
+19 1
+#5806
+canteen liquidcontainer bottle flask~
+a steel canteen~
+A shiny steel canteen reflects the light.~
+~
+17 dq 0 0 0 ao 0 0 0 0 0 0 0
+30 30 0 0
+35 1 0 0
+#5807
+stick prodding weapon~
+the prodding stick~
+A sharp-looking stick rests on the ground.~
+~
+5 dq 0 0 0 anr 0 0 0 0 0 0 0
+2 6 2 3
+1 1 0 0
+#5808
+pie kipling food~
+a delicious-looking kipling pie~
+A delicious-looking pie stuffed with some blue substance sits here, letting off steam.~
+~
+19 dq 0 0 0 ao 0 0 0 0 0 0 0
+50 0 0 0
+0 1 0 0
+#5809
+warning~
+a danger sign~
+&RNotice: Until further notice, mobiles that appear to have taken damage before you have attacked them are BUGGED, and attacking them will crash the game.~
+~
+0 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+0 1 0 0
+#5810
+undefined~
+a danger sign~
+&GThis room will soon be a guild. There are guilds located in the city at which to practice. For now, move along.~
+~
+0 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#5811
+key iron shiny~
+a shiny iron key~
+A shiny iron key lies here at your feet.~
+~
+18 cdq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+$~

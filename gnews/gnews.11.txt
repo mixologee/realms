@@ -1,0 +1,60 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+-------------------------------------------------------------------------
+News file [&C11&c]. Type NEWS 11 to re-read this article at a later date.
+-------------------------------------------------------------------------&n
+
+&YNew Commands / Features&n
+
+As for features, theres always more going in than any of us coders even 
+account for, but some stuff that I added today, which one thing has yet
+to be tested is as follows:
+
+New Mob Types:
+DAY_ONLY
+NIGHT_ONLY
+
+Choose only ONE of these two types for your mob, as they will probably
+crash if you choose both.  DAY_ONLY means that the mob will will be
+extracted when the game cycles through the mob actions section.  If it
+is DAY_ONLY and the sun is not out, it will flee away from the darkness.
+This is really extracting the whole set of mobs with that VNUM from the 
+game until the next zone reset, in which the mobs will return.  I haven't
+quite figured out how to stop the insertion of the mobs depending on 
+weather_info yet.  Same goes for NIGHT_ONLY, just opposite.
+
+
+&Wcombatset <#>&w is in, however, blunt is working on the messages, so for
+now you can set your combat to 1 or 2, but you will only see 2 for right 
+now until set 1 is re-worked some.  Typing combatset without arguments will
+show you the useage and also your current setup, whether 1 or 2.
+
+SIGTERM processing:
+  This is what is untested yet.  If I did it right, whenever our server 
+  throws a SIGTERM (Termination signal for the process running our mud)
+  it should automatically send some txt to the game for players, also
+  mudlog it for gods on the brief channel, and send messages to the 
+  server-side system log stating that it has recieved a TERM signal and
+  is processing the save_all() and House_save() functions so that maybe
+  this will help resolve some lost item issues we've had. 
+
+Other various cleanups like normal, stuff you wouldn't even notice less 
+you were looking for it!
+
+&C-S&n
+
+

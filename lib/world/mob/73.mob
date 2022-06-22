@@ -1,0 +1,203 @@
+#7300
+child girl~
+a scared girl~
+A scared little girl wanders the projects.
+~
+Dirty and ragged, this little girl has been in the projects all of her
+short life. Her wide eyes see everything and nothing.
+~
+76 0 0 0 0 0 0 0 1000 E
+5 16 5 10d10+15 2d6+4
+5 25000
+8 8 2
+E
+#7301
+child boy~
+a scared boy~
+A scared little boy wanders the projects.
+~
+Dirty and ragged, this little boy has been in the projects all of his
+short life. His wide eyes see nothing and everything.
+~
+72 0 0 0 0 0 0 0 1000 E
+5 15 5 10d11+15 2d7+5
+5 27000
+8 8 1
+E
+#7302
+man bum beggar~
+an old beggar~
+An old beggar is standing here.
+~
+The tired old man before you, has been on the streets for years. His dirty
+beard and tattered clothes, make him kinda scary looking.
+~
+16456 0 0 0 0 0 0 0 0 E
+10 10 5 10d10+60 6d4+8
+5 75000
+8 8 1
+E
+#7303
+red dragon underling~
+a red dragon underling~
+A red dragon underling awaits orders.
+~
+This kid is a dragon in training. He proudly sports his colors and trys to
+act tuff around the others, but mostly just causes mischief.
+~
+22601 0 0 0 0 0 0 0 0 E
+5 12 5 5d10+200 3d3+4
+50 700
+8 8 1
+E
+#7304
+blue dragon underling~
+a blue dragon underling~
+A blue dragon underling awaits orders.
+~
+This kid is a dragon in training. He proudly sports his colors and trys to
+act tuff around the others, but mostly just causes mischief.
+~
+22601 0 0 0 0 0 0 0 0 E
+5 12 5 5d10+200 3d3+4
+50 700
+8 8 1
+E
+#7305
+red dragon member~
+a red dragon member~
+A member of the red dragon's is here.
+~
+This trouble maker is always looking to pick a fight. He proudly wears his
+gangs colors, and is always trying to kill a blue dragon.
+~
+22600 0 0 0 0 0 0 0 0 E
+10 0 4 9d9+300 4d4+10
+100 1200
+8 8 1
+E
+#7306
+blue dragon member~
+a blue dragon member~
+A member of the blue dragons is here.
+~
+This trouble maker is always looking to pick a fight. He proudly wears his
+gangs colors, and is always trying to kill a red dragon.
+~
+22601 0 0 0 0 0 0 0 0 E
+10 0 4 9d9+300 4d4+10
+100 1200
+8 8 1
+E
+#7307
+red dragon captain~
+a red dragon captain~
+A captain of the red dragons is here.
+~
+This guy has been in the gang for a long time. He knows how to run the
+projects and holds direct command over a posse of dragon members. Many in
+the projects have come to fear these captains.
+~
+30792 0 0 0 0 0 0 0 0 E
+15 -20 2 10d10+650 5d10+15
+420 200000
+8 8 1
+E
+#7308
+blue dragon captain~
+a blue dragon captain~
+A captain of the blue dragons is here.
+~
+This guy has been in the gang for a long time. He knows how to run the
+projects and holds direct command over a posse of dragon members. Many in
+the projects have come to fear these captains.
+~
+30792 0 0 0 0 0 0 0 0 E
+15 -20 2 10d10+650 5d10+15
+420 200000
+8 8 1
+E
+#7309
+red dragon leader~
+the red dragon leader~
+The leader of the red dragons, stands before you.
+~
+This hardened criminal has lived in the projects all his life. He controls
+all of the red dragons affairs. Among his people he is treated as god, and
+those under his control will fight to the death for him.
+~
+30794 0 0 0 0 0 0 0 0 E
+20 -30 1 10d15+1000 10d10+20
+1420 300000
+8 8 1
+E
+#7310
+blue dragon leader~
+the blue dragon leader~
+The leader of the blue dragons, stands before you.
+~
+This hardened criminal has lived in the projects all his life. He controls
+all of the blue dragons affairs. Among his people he is treated as god, and
+those under his control will fight to the death for him.
+~
+30795 0 0 0 0 0 0 0 0 E
+20 -30 1 10d15+1000 10d10+20
+1420 300000
+8 8 1
+E
+#7311
+old lady~
+an old lady~
+An old lady hobbles about.
+~
+This woman looks older than time itself. how she managed to survive so long
+in the projects, is one of life's true mysteries.
+~
+18504 0 0 0 0 0 0 0 1000 E
+10 10 5 10d10+300 2d5+8
+100 4200
+8 8 2
+E
+#7312
+worker man~
+a tired worker~
+A tired worker heads home.
+~
+The poor soul in front of you works his fingers to the bone. He often works
+12-15 hours a day, and as a result his clothes are raggedy and dirty. After
+a long hard days work, this guy goes home to the only place he can afford to
+live, the projects.
+~
+2124 0 0 0 0 0 0 0 250 E
+10 5 5 10d10+400 5d2+10
+50 1000
+8 8 1
+E
+#7313
+man slumlord lord~
+a greasy slumlord~
+A greasy slumlord woddles about.
+~
+This fat bastard is hated by almost everyone in the projects. He sells run
+down, over-priced homes to people, and makes a killing. The only time he
+seems to smile is when he see's someone else in pain.
+~
+24648 0 0 0 0 0 0 0 -1000 E
+10 0 5 8d8+330 2d5+10
+500 70000
+8 8 1
+E
+#7314
+charles~
+Sir Charles~
+Sir Charles is here, watching out for thieves.
+~
+This friendly dark skinned fellow has a wild gleam in his eyes. He
+tries to strike up conversations with all who enter his little shop.
+~
+59482 0 0 0 0 0 0 0 1000 E
+31 -30 -10 30d200+15000 30d127+50
+0 1
+8 8 1
+E
+$

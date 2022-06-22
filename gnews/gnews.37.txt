@@ -1,0 +1,76 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C37&c]. Type NEWS 37 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+&YNew System Logger&n
+
+After being totally annoyed with the current mudlog system, I have 
+worked out a new mudlogging system.  The new command to set what you 
+see is &Rsetlog&n.  Please type &Rsetlog&n when you first log on to set
+what you want and do not want to see.  By default all logs are currently
+set to be displayed and might be annoying.
+
+Please type syslog off to turn off and remove your player flags 
+associated with that old system for now.. I will remove it all when I
+have completed the transition.
+
+&CSyntax: setlog <field>&n 
+
+You can toggle all flags at once using "all" for on and "off" for off.
+
+A brief explanation of each is below:
+
+info - general information
+misc - misc information
+sys - system problem information
+olc - olc useage
+god - god commands
+death - ppl that die
+zone - zone reset/load/unload etc
+conn - player connection
+sugg - see players writing suggestions
+bug - see players writing bugs
+idea - see players writing ideas
+typo - see players typing typos
+give - (impl only) see what is given to players by gods (not implemented)
+take - (impl only) see what gods snatch from players (not implemented)
+
+
+This system is much easier to customize and should be much easier to 
+see only what you want to see. 
+
+On a side note, I have not completed changing all current syslog entries
+over to the new logging system, so you will not get notified about 
+everything until I am fully complete.  This will be a super pain as
+there are a few hundred entries in the game that push data to the 
+current syslog and I need to convert each to the new logger.
+
+&GAll Coders&N - please lookup nmudlog to find out how they work and 
+                 how to add it to new commands etc as you see fit
+ 
+                 if you need a new flag please consult Slurk before
+                 doing so on your own.  You can feel free to convert
+                 old flags to new ones as you see fit.
+
+nmudlog(logtype, levels to see it, TRUE, "txt of event")
+
+As always, enjoy!
+
+&M-Slurk&n
+

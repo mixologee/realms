@@ -1,0 +1,1241 @@
+#2200
+The Porch~
+As you walk up the creaking stairs of this old, decrepit mansion, you can hear
+the building groan under your weight.  A strong wind blows through, and around
+the building.  A light in the window suggests that someone may be home.  
+~
+22 4 0 0 0 0
+D2
+~
+~
+0 0 2201
+S
+#2201
+The Foyer~
+As you enter into the foyer of the mansion, a creeping pall can be felt.  The
+smell of death, and things even more sinister lingers in the air, leading down a
+long hallway.  To the left, a small closet, filled with old moth eaten coats
+lies half open.  A glimmer of light, pale blue, can be seen.  To the right, a
+round vestible with eight foot high windows looking out over the plain,
+revealing a storm sweeping over the grassland outside.  
+~
+22 8 0 0 0 0
+D0
+~
+door~
+1 0 2200
+D1
+~
+~
+0 0 2203
+D2
+~
+~
+0 0 2204
+D3
+~
+~
+0 0 2202
+S
+#2202
+The Vestible~
+The vestible is surrounded on three sides by large, eight foot high windows.  
+They are cracked with age and tinted by the dirt of many years.  You can see a
+lightning storm playing out on the grassland outside, although the outside world
+seems to be cloudy, and very distant.  A padded bench surrounds the room, and a
+small sconce hangs from the blackness above.  The ceiling can not be seen, the
+darkness is to thick.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2201
+D5
+~
+Hidden Stairs~
+2 0 2225
+S
+#2203
+A Small Closet~
+As you walk through the broken door, you notice that this "closet" is closer to
+a small room, with old coats and jackets lining every wall.  They are worn, moth
+eaten, as though they've been here for many years . A strange light emanates
+from the room, sickly, pulsing, ethereal.  
+~
+22 8 0 0 0 0
+D3
+~
+~
+0 0 2201
+S
+#2204
+The Hall~
+As you enter the main hall, a silence descends, making the shadows seem larger,
+and the noise of the lightning storm outside seem louder.  You see a large
+carpet stretching out into the hall.  A very well made, hand crafted fireplace
+dominates the center of the hall, and you can see that a few coals are still
+burning.  Three chandaliers hang from the ceiling.  Ornately crafted from black
+steel, they cast a wicked shadow on the ceilings above.  Several doors can be
+seen leading into other rooms.  Shuffling noises can be heard coming from the
+closest door.  At the end of the hall, there is a grand staircase, spiraling up
+either side of the room.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2201
+D1
+~
+~
+0 0 2205
+D2
+~
+~
+0 0 2209
+D3
+~
+~
+0 0 2207
+S
+#2205
+The Library~
+Several large shelves line the walls of this huge library.  The books are old
+and worn, many having yellowed with age.  A desk with a very beautiful, ebony
+chair is in the center of the library, and, although the library looks as though
+it hasn't been occupied in a century, a candle burns upon it.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2206
+D3
+~
+~
+0 0 2204
+S
+#2206
+The Library~
+The other side of the library is in complete disarray.  Books, and tomes litter
+the floor, piled high in both corners.  Two windows link you to the outside
+world, and the lightning storm can be seen playing out over the plain, gaining
+in intensity as you watch.  
+~
+22 8 0 0 0 0
+D3
+~
+~
+0 0 2205
+S
+#2207
+The Kitchen~
+Rusted pots, pans, and other cooking utensils can be seen here.  A wash basin is
+in the corner, muck and slime forming on the sides.  The room is dark, and
+counters line the walls, with one in the center, topped with black marble.  The
+stove and the oven is located in the corner, with a few coals of wood still
+burning.  The remains of food can be seen on the counter, blackened with age,
+already turning to dust.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2204
+D2
+~
+~
+0 0 2211
+D3
+~
+~
+0 0 2208
+S
+#2208
+The Pantry~
+This unfinished room was created by Silas.  This room is dark, and a dust of
+ages can be felt lining the surfaces.  Many empty, and broken containers can be
+seen in what little light comes through the small window, and from the kitchen.
+Small wisps of light fog or smoke curls up from the floor, making the room feel
+colder, and more humid.  A tinge of fear, or perhaps anger pervades through out.
+Small sounds can be heard, scufflings, as though feet were being dragged on the
+ground.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2207
+S
+#2209
+The Hall~
+The huge fireplace dominates this section of the great hall.  The most ornate of
+the three chandaliers hangs here in the center of the room, and the small light
+cast from the few burning candles, and the small fire in the fireplace causes
+the shadows to dance on the walls in a very mesmerizing way.  Two doors flank
+either side of the fireplace, and a large, double sided sliding door is on the
+opposite side of the room.  The sliding doors are half open, and you can see
+into the dining room, where it seems that the table is set for a large banquet,
+although no-one can be seen sitting, or preparing for a meal.  Noises from
+behind the fireplace catch your attention, whispers of a conversation, although
+they seem very far away.
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2204
+D1
+~
+~
+0 0 2210
+D2
+~
+~
+0 0 2212
+D3
+~
+~
+0 0 2211
+S
+#2210
+Sitting Room~
+As you enter through the beautifuly tooled molding of the arched doorway into
+the sitting room, strange flashes of light disorient and confuse you.  The room
+itself keeps shifting, from old to new, empty of life to being full of strange,
+fragmented peoples.  Two large couches can be seen, crafted from master
+carpenters, and a beautiful, ebony table lies in the center of the room.  A
+large, crystal chandalier hangs from the ceiling, and four very large lamps
+circle the room.  Sounds of passion, and pleasure, resonate in and around the
+room.  
+~
+22 8 0 0 0 0
+D3
+~
+~
+0 0 2209
+S
+#2211
+Dining Room~
+A music, faint, can be heard, sad, and ominous.  What appeared before as a table
+set with food and drink of all kinds, set for an empty and lonely house, can be
+seen populated by a host of shadowy spectres.  It would appear that a cosmic
+drama is being repeated, as the ghosts converse amongst themselves, laughing,
+smiling, frowning.  They appear not to notice their surroundings, continuing to
+repeat a time from long past.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2207
+D1
+~
+~
+0 0 2209
+D3
+~
+~
+0 0 2226
+S
+#2212
+The Hall~
+This last section of hall seems the darkest.  As you stray farther from the
+foyer, and the front of the mansion, the shadows grow deeper.  They dance on the
+wall, beckoning, calling from the darkness.  As the winding stair at the end of
+the hall approaches, a great clanking can be heard, a rumble within the
+building, coming from all around.  A whisper of smoke, or maybe fog, can be seen
+moving towards the hall, rolling down the stair.  Voices, which were only
+whispers moments ago, can be heard, screams and moans welling up from the depths
+of the mansion.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2209
+D1
+~
+door~
+2 2209 2223
+D2
+~
+~
+0 0 2213
+D3
+~
+~
+0 0 2224
+S
+#2213
+The Spiral Stair~
+Here, the darkness is intense, although you can see up the spiral staircase's
+that line either side of the hall, to the landing above.  Through the windows at
+the back of the mansion, you can see that a full fledged storm is raging across
+the plain.  Two hallways lead off to the left and right, under the stair, and
+you can hear a great mechanical sound coming from both, moving towards the hall.
+The mist, or fog, begins to take form, and the wisps and tentacles start to
+grasp and writhe, raging with the storm outside.  The screams you heard before
+are louder yet, coming from all directions, yet from none.  Still, the shadows
+beckon from the twisting stairs.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2212
+D1
+~
+~
+0 0 2219
+D3
+~
+~
+0 0 2221
+D4
+~
+~
+0 0 2214
+S
+#2214
+The Landing~
+As you climb the stairs, the darkness becomes immense.  A pale, green glow can
+be seen coming from everything, the banister, the stairs, the walls themselves.
+The weight of a hundred souls can be felt, and the screams of the damned can be
+heard throughout.  Fate has not been kind to those who've wandered to this
+desolate mansion in the past.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2215
+D1
+~
+~
+0 0 2227
+D3
+~
+~
+0 0 2228
+D5
+~
+~
+0 0 2213
+S
+#2215
+A Long, Narrow Hallway~
+A strange quiet comes over the mansion as you enter into this long, dark
+hallway.  The madness heard before fades into a low rumble, as far off
+machinations suddenly become activated after many years of disuse.  The hallway
+is narrow, only four feet wide, with very little decoration.  A light can be
+seen at the end of it, as though you were already dead.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2216
+D2
+~
+~
+0 0 2214
+S
+#2216
+A Long, Narrow Hallway~
+Farther down the hall, the darkness intensifies, almost to a palpable thickness
+that can be felt running up and down the spine.  The light at the end has become
+brighter, beckoning, almost forcing you to move towards it.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2217
+D2
+~
+~
+0 0 2215
+S
+#2217
+A Long, Narrow Hallway~
+At the end of the hall, the light permeates through out.  The walls themselves
+pulse with a dark energy, violently, angrily.  The doorway grabs at you,
+dragging you into it's depths.  No ornament or adornment can be seen here.  
+Only the rage of a thousand souls can be felt.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2218
+D2
+~
+~
+0 0 2216
+S
+#2218
+The Master Bedroom~
+The master bedroom.  The horrors seen here flash in your mind, from every
+corner.  Loosing focus on the amount of blood, pouring through the walls, and
+the twisted, lurid flesh morbidly scattered through the room in some macabre
+form of ritual.  Several of the body parts still move, twitching with an unlife,
+forgotten forms in this forgotten mansion.  The windows have heavy curtains,
+although the storm outside can be felt in every bone, every muscle.  The
+strange, mechanical stirrings of the mansion reach a fevered pitch, and the
+walls themselves begin taking a new shape.  A loud laughter cackles through the
+hallway.  No earthly being could make that noise.  
+~
+22 8 0 0 0 0
+D2
+~
+~
+0 0 2217
+S
+#2219
+Small Hallway~
+This hallway is small, with an ornate, decorative lamp on either side.  The
+white paint is peeling, and two black marble columns worked into the door
+frames on opposite ends of the hall.  A large window to the left can be seen,
+but the heavy satin curtains are drawn, and only a faint whisper of wind can be
+heard.  The rumble of the building is much more audible here, as though the
+building itself were shifting and changing.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2220
+D3
+~
+~
+0 0 2213
+S
+#2220
+Corner Turret~
+As you enter the corner turret, a strong draught can be felt.  The turret itself
+seems to extend upward for an eternity, with darkness pulsing from the depths
+above.  The black curtains are drawn over the windows, casting a shadow over the
+room.  What look like small parts and pieces, bits of metal, litter the floor.
+A whirring noise resonates through out the turret, causing a vibration which
+penetrates your very soul.  
+~
+22 8 0 0 0 0
+D3
+~
+~
+0 0 2219
+S
+#2221
+Small Hallway~
+This hallway is small, with ornate, decorative lamps to either side.  The white
+paint is peeling, and two black marble columns are worked into the door frames
+on either end of the hall.  A large window to the left can be seen, but the
+heavy satin curtains are drawn, and only a faint whisper of wind can be heard.
+The rumble of the building is much more audible here, as though the building
+itself were shifting and changing.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2213
+D3
+~
+~
+0 0 2222
+S
+#2222
+Corner Turret~
+This corner of the mansion is quiet, with a small draught blowing through the
+half open windows.  The storm seems to have abated somewhat, and a cool breeze
+can be felt.  The dark curtains beckon invitingly, whispering tales of a world
+devoid of the horrors you've seen.  The shadows creep up the walls, filling the
+tower above you for what seems to be an eternity.  Littering the floor, and
+corners are bits of metal, and what would appear to be flesh.  Low grinding
+noises reverberate through out the turret.  Perhaps the outside world wasn't so
+bad.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2221
+S
+#2223
+A Strange Tower~
+This strange room appears to be a large tower, with very little decoration.  It
+seems to be a servants passage, as there is a metal stair leading both up and
+down into the darkness.  A window looks out over the plain, showing the intense
+thunderstorm raging across the plain.  
+~
+22 8 0 0 0 0
+D3
+~
+door~
+2 2209 2212
+D4
+~
+~
+0 0 2235
+D5
+~
+~
+0 0 2232
+S
+#2224
+The Cellar Stair~
+Coming off the main hall, this small room is in poor shape.  The wood is rotted
+through, the paint is nearly gone.  You can see outside in several spots, and a
+very strong draught flows through and around the room.  There are no ornaments
+or decorations.  Just a small stair, leading down, can be seen, and only the
+wind can be heard.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2212
+D5
+~
+~
+0 0 2229
+S
+#2225
+Hidden Storage Room~
+After finding your way through the trap door underneath the bench, you climb
+down a metal stair into a dark cellar.  Mostly wine, and barrels filled with
+other liquids can be found, as well as a few crates filled with cheese, meats,
+and other foods.  A draught can be felt, although you can't tell from where.  
+~
+22 9 0 0 0 0
+D4
+~
+hidden stairs~
+2 0 2202
+S
+#2226
+Dining Room~
+Tall, eight foot high windows can be seen on the other side of the dining room,
+and the lightning storm witnessed earlier has grown to a full fledged storm.  
+The ghastly patrons seem barely to notice the storm, and continue in their
+unearthly conversation, sounding far away, yet only speaking in whispers.  The
+music seems to liven up as you cross the room, gaining in intensity with the
+storm.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2211
+S
+#2227
+A Washroom~
+As you enter the washroom, a strange light seems to wash over the place.  
+Liquid can be seen in the basin, and several mildewed towels lie here,
+disintigrating with age.  The smell of death is heavy here, a rotted smell,
+choking off all other senses.  No sounds can be heard, except the slow drip of a
+liquid that is much heavier than water.  A cracked mirror hangs on the wall,
+showing a much different sight of the room, fractured, fragmented, from time
+past, and future.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2235
+D3
+~
+~
+0 0 2214
+S
+#2228
+A Large Closet~
+The closet is filled with what seems like old cloth of some sort.  Old stains,
+blood apparently, can be seen everywhere.  The floor is slick, yet sticky, and
+the small bits of flesh can be seen scattered around.  The gruesome deaths of
+those who entered before is readily apparent.  Only a strong stomach can abide
+the sight and smell of this place.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2214
+S
+#2229
+The Cellar~
+As you enter into the darkness of the cellar, many of the noises you heard
+abate, leaving a silence that is even more disturbing.  Through the darkness,
+the age of this mansion can truly be seen, with a dust of ages settled on what
+few objexts remain.  It is a large room, nonetheless, and the walls themselves
+seem to breath.  
+~
+22 9 0 0 0 0
+D1
+~
+~
+0 0 2231
+D2
+~
+~
+0 0 2230
+D4
+~
+~
+0 0 2224
+S
+#2230
+The Cellar~
+This part of the cellar leads to a small hallway, with an intricately crafted,
+black doorway.  There is a tall, black marble column inset on one side of the
+doorway.  Strange sounds, shufflings, can be heard, and a pale light can be seen
+coming from the hall.
+~
+22 9 0 0 0 0
+D0
+~
+~
+0 0 2229
+D1
+~
+~
+0 0 2233
+S
+#2231
+The Cellar~
+As the cellar continues, strange stirrings can be heard and felt.  No noise can
+be heard, though, as the cellar is very quiet.  A few decayed and broken tools
+and boxes can be seen, and what was once a workbench can be see crumbling to the
+floor.  
+~
+22 9 0 0 0 0
+D1
+~
+~
+0 0 2232
+D3
+~
+~
+0 0 2229
+S
+#2232
+The Cellar~
+On the far end of the cellar, a small window lets a small light in from the
+outside world.  It is covered in the grime of years, though, and can not be
+looked through.  Cobwebs abound, some stretching from one side of the room to
+the other.  A gentle draught disturbs them, as it blows over you skin.  You can
+see in the corner a spiral stair, leading up through the darkness, and can hear
+the screams from above filtering down.  
+~
+22 9 0 0 0 0
+D3
+~
+~
+0 0 2231
+D4
+~
+~
+0 0 2223
+S
+#2233
+A Small Hallway~
+This hallway is long, and narrow.  It slopes down, farther into the earth, at
+first gently, then getting steeper farther along.  The walls are painted, with
+intricate designs and sygils, although the paint is peeling, showing blackness
+underneath.  There is a slight glow towards the end of the hall, and the frame
+of the entry way into the next room is the exact same as the entry into the
+hallway.  You can see that the glow is coming from the room beyond.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2234
+D3
+~
+~
+0 0 2230
+S
+#2234
+A Large Room~
+This strange place is completely different from the rest of the mansion.  Dark
+sygils, and huge runes engraved on large metallic objects are placed in a
+strange pattern across the floor and walls, casting a strange light over the
+otherwise pitch darkness.  A stair leads down, seemingly carved into the earth
+and rock itself.  Torch light filters up, and human voices, along with more
+gutteral sounds, can be heard.  Above the din, a constant sound of gears
+grinding, and metal on metal, disorientating.  
+~
+22 12 0 0 0 0
+D3
+~
+~
+0 0 2233
+D5
+~
+~
+0 0 2236
+S
+#2235
+The Top of the Tower~
+As you reach the top of the stair, the darkness envelopes you.  A window can be
+seen, and the rain outside is so hard you can barely see at all.  It seems that
+the window is tinted red in spots, although it flows with the rain.  A wind can
+be felt blowing strongely through the tower.  A small doorway leads into the
+washroom, although a shadow obscures most of whats beyond the door.  
+~
+22 0 0 0 0 0
+D2
+~
+~
+0 0 2227
+D5
+~
+~
+0 0 2223
+S
+#2236
+A Dank Hallway~
+The dank hallway curves around, getting brighter as you walk farther down it.  
+The walls are covered in slime, and mold, and a musty smell pervades.  Screams,
+and muffled voices echo around the hallway, sounds of torture, and worse things.
+The light grows brighter, as the basement of the mansion fades away into
+darkness.  
+~
+22 8 0 0 0 0
+D2
+~
+~
+0 0 2237
+D4
+~
+~
+0 0 2234
+S
+#2237
+A Dank Hallway~
+Further down the hallway, as you round the bend, a marble column, blue and
+white, hugs the wall.  The slime and mold on the walls begins to dissipate,
+becoming splotchy, and revealing a cracked, decaying wall underneath.  The
+screams die out, and muffled conversation can be heard, hushed, anxious.  The
+sound of machinery and other strange works begins to die down as well.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2236
+D3
+~
+~
+0 0 2238
+S
+#2238
+A Dank Hallway~
+As you round the final corner, you the mold and slime has all but disappeared.
+Two marble collumns separate the hallway from a darkened stair beyond.  The
+sounds from before have silenced, leaving nothing but a deep, pulsing noise.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2239
+D1
+~
+~
+0 0 2237
+S
+#2239
+The Veinous Stair~
+The stairs seem to be cut straight from the rock of which they are apart.  
+Black stone, rough hewn.  The walls pulse with an unnatural energy, shot through
+with veins of various ore, gold, platinum, and other, even rarer metals.  The
+only sounds that can be heard are your own footfalls, and the pulsing of the
+walls.  Ozone, or phosphorus, wafts up the stair from below.  Whispers of smoke,
+and steam, can be seen, blending, rising from the depths.  
+~
+22 8 0 0 0 0
+D2
+~
+~
+0 0 2238
+D5
+~
+~
+0 0 2240
+S
+#2240
+A Pulsing Labrynth~
+At the bottom of the stair, the dank hallway leads into a strange, cavernous
+labrynth.  The walls pulse in much the same way as the stair.  Great veins of
+various ore can be seen, flowing through the cavern's floor, ceiling and walls,
+although no movement can be felt.  
+~
+22 12 0 0 0 0
+D2
+~
+~
+0 0 2241
+D4
+~
+~
+0 0 2239
+S
+#2241
+A Pulsing Labrynth~
+The labrynth continues in many various directions, seemingly endless.  The walls
+and ceiling pulses at a fevered pace, with the unnatural light glinting off of
+the veinous rock, mesmerizing.  Time seems to flow strangely here, lifetimes
+seem to pass in an instance, yet taking one step after another seems to take an
+eternity.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2259
+S
+#2242
+A Pulsing Labrynth~
+The labrynth continues in many various directions, seemingly endless.  The walls
+and the veiling pulses at a fevered pace, with the unnatural light glinting off
+of the veinous rock, mesmerizing.  Time seems to flow strangely here, lifetimes
+seem to pass in an instance, yet taking one step after another seems to take an
+eternity.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2243
+D1
+~
+~
+0 0 2241
+S
+#2243
+The Marble Hall~
+As you leave the labrynth, a sense of wonder washes over you.  A hallway, carved
+entirely out of white marble, stretches into the distance.  Marble statues flank
+the hall, as do large, silver sconces, holding a pale blue flame.  Several nooks
+are carved into either wall, each holding a large tome, and a few automatons can
+be seen scouring the depths of a few, searching for secrets long buried.  A
+draught of wind blows through the hall, acrid, with the smell of metal and ozone
+mixing as one.  Silence pervades the hall, and only the burning fires of the
+torches lining the walls make any noise.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2244
+D2
+~
+~
+0 0 2242
+S
+#2244
+The Room of Gears~
+Here, in the center of the hall, a large room seems to stretch upwards for what
+seems an eternity.  Large gears are everywhere, though, slowly spinning, forming
+an intricate dance of machine and metal.  One can only guess as to what this
+machinery does, or where it's power comes from.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2247
+D1
+~
+~
+0 0 2245
+D2
+~
+~
+0 0 2243
+D3
+~
+~
+0 0 2246
+S
+#2245
+Chains~
+The marble hall enters into this room, small, and unadorned with decorations.  
+The one noticeable element of this room are the large chains, stretching from
+wall to wall, from floor to ceiling.  They move with an undecipherable purpose,
+slow, fast, flowing into and out of the room in some strange rythm.  Somehow,
+the chains remain silent in their dance.  
+~
+22 8 0 0 0 0
+D3
+~
+~
+0 0 2244
+S
+#2246
+Chains~
+The marble hall enters into this room, small, and unadorned with decorations.  
+The one noticeable element of this room are the large chains, stretching from
+wall to wall, from floor to ceiling.  They move with an undecipherable purpose,
+slow, fast, flowing into and out of the room in some strange rythm.  Somehow,
+the chains remain silent in their dance.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2244
+S
+#2247
+A Control Room~
+Further down the hall, you enter into what appears to be a control room.  
+Several altars, carved out of marble, line the walls, each with it's own set of
+iron levers.  In the center of the room, a podium stands atop a circular riser,
+with a large tome resting on it.  The hall ends here, with two vast columns
+flanking the end of the hall, leading into a dark room beyond.  No sound can be
+heard, as the levers move silently by themselves, performing some task long
+forgotten.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2250
+D1
+~
+~
+0 0 2248
+D2
+~
+~
+0 0 2244
+D3
+~
+~
+0 0 2249
+S
+#2248
+The Laboratory~
+In this small room, several work benches can be seen.  Parts of machinery are
+shrewn about, and human body parts are kept in jars of formeldihyde, preserved
+for an unknown purpose.  Several racks line the walls, holding papers, as well
+as various tools, scapels, and other instruments for surgery and mechanical
+work.  A buzzing sound can be heard, like the sound of lightning arcing from
+metal to metal.  
+~
+22 0 0 0 0 0
+D3
+~
+~
+0 0 2247
+S
+#2249
+A Storage Area~
+This room is filled with various tools and parts.  Shelves line the walls,
+brimming with mechanical limbs, weapons, and armor.  Littering the floor are
+gears, and sprockets, bits of wire, and sheets of steel, and other, lighter,
+metals.  On the opposite side of the room, three large vats are brimming with a
+green liquid, connected to the wall by a multitude of pipes, and hoses.  A
+strange smell rises from them with the steam and smoke.  Rats scurry about,
+constantly searching for bits of food.  
+~
+22 1048576 0 0 0 0
+D1
+~
+~
+0 0 2247
+S
+#2250
+Black Marble Hall~
+In stark contrast to the white marble, this black marble hall has a much more
+sinister feel.  Several nooks are carved out of the wall, filled with a strange,
+blue or purple smoke, glowing with an eery light from beyond.  The room is cold,
+and the strange sounds can be heard, distant, low moans as if from far away.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2251
+D2
+~
+~
+0 0 2247
+S
+#2251
+The Altar~
+The black marble hall opens up into this huge room, apparently a place of
+worship, although what dark rituals take place here can not be determined.  A
+black altar rests atop a large, circular pulpit, flanked by two large marble
+statues of demonic images, each standing nearly ten feet high.  Several stone
+pews form, circling the altar, forming three rows of seating.  What strange
+congregations gather here, and for what purpose, is a burning question, causing
+the cold to grow stronger.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2252
+D2
+~
+~
+0 0 2250
+D3
+~
+~
+0 0 2254
+S
+#2252
+A Small Hallway~
+Off a side door from the unholy shrine, this small hallway looks much like any
+normal hallway would look.  Trimmed in wood, with plaster walls, and an
+interesting color scheme of greens and browns, it's almost as if you've been
+transported through time and space, into a cottage of a different place and age.
+Although the hallway is unadorned with any decorations, the ambiance lends
+itself to a comforting feel, very much out of place considering all that came
+before.  A small wooden doorway is placed at the end, closed, yet not locked,
+with a brass handle and knocker.  
+~
+22 8 0 0 0 0
+D1
+~
+door~
+1 0 2253
+D3
+~
+~
+0 0 2251
+S
+#2253
+A Sleep Station~
+This small bedroom has obviously been used in the near past, with an unmade cot
+to one side, and a fire in the small fireplace still burning.  Several shelves
+line two of the walls, filled with books, and a few folded garments.  A small
+window on the opposite side of the room allows light in, although from where can
+not be determined.  Scufflings of rats, and other vermin can be heard over the
+crackling of the fire, and, all in all, it feels very cozy.  A small table, set
+for one, stands in the opposite corner, inviting you to a meal, and rest.  
+~
+22 8 0 0 0 0
+D3
+~
+door~
+1 0 2252
+S
+#2254
+A Small Hallway~
+This hallway appears unfinished, as you walk through it, the walls become
+rougher, and the earth can be seen peering through.  Rocks and dirt litter the
+floor, and a strange creaking, or groaning can be heard.  The earth seems to
+shudder as you walk through, as if under a great strain.  At the end of the hall
+is darkness, looking as the entrance to a cavern might.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2251
+D3
+~
+~
+0 0 2255
+S
+#2255
+A Dead End~
+Here, the tunnel ends with debris, and rocks all about.  It looks as though the
+earth caved in suddenly here, blocking further passage.  Strangely, some of the
+rocks, and the walls seem charred, as though burned.  A pit towards the center
+of the passage is filled with water, and a constant dripping can be heard.  The
+earth continues to creak and groan under the weight of tons of rock and dirt,
+giving this place a very confined, and dangerous feel.  
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2254
+S
+#2256
+A Pulsing Labrynth~
+The labrynth continues in many various directions, seemingly endless.  The walls
+and ceiling pulses at a fever pace, with the unnatural light glinting off of the
+veinous rock, mesmerizing.  Time seems to flow strangely here, lifetimes seem to
+pass in an instance, yet taking one step after another seems to take an
+eternity.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2241
+D2
+~
+~
+0 0 2258
+D3
+~
+~
+0 0 2257
+S
+#2257
+A Pulsing Labrynth~
+The labrynth continues in many various directions, seemingly endless.  The walls
+and ceiling pusles at a fevered pace, with the unnatural light glinting off of
+the veinous rock, mesmerizing.  Time seems to flow strangely here, lifetimes
+seem to pass in an instance, yet taking one step after another seems to take an
+eternity.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2256
+D1
+~
+~
+0 0 2240
+S
+#2258
+A Pulsing Labrynth~
+The labrynth continues in many various directions, seemingly endless.  The walls
+and ceiling pulses at a fevered pace, with the unnatural light glinting off of
+the veinous rock, mesmerizing.  Time seems to flow strangely here, lifetimes
+seem to pass in an instance, yet taking one step after another seems to take an
+eternity.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2242
+D3
+~
+~
+0 0 2259
+S
+#2259
+A Pulsing Labrynth~
+The labrynth continues in many various directions, seemingly endless.  The walls
+and ceiling pulses at a fevered pace, with the unnatural light glinting off of
+the veinous rock, mesmerizing.  Time seems to flow strangely here, lifetimes
+seem to pass in an instance, yet taking one step after another seems to take an
+eternity.  
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2257
+D3
+~
+~
+0 0 2241
+S
+#2260
+Fiery Cavern~
+After the going through a small niche, the tunnel widens abruptly.  An acrid
+smell pervades the small cavern, and a warmth can be felt, as a blast of hot air
+flows through the narrow opening from whence you just came.  Tall stalagmites
+hang from the roof of the cavern, glowing red with the heat of the place.  
+~
+22 8 0 0 0 0
+D3
+~
+~
+0 0 2261
+S
+#2261
+Fiery Cavern~
+This unfinished room was created by Silas.
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2260
+D3
+~
+~
+0 0 2262
+S
+#2262
+Giant Cavern~
+This unfinished room was created by Silas.
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2263
+D1
+~
+~
+0 0 2261
+D3
+~
+~
+0 0 2264
+S
+#2263
+Giant Cavern~
+This unfinished room was created by Silas.
+~
+22 8 0 0 0 0
+D2
+~
+~
+0 0 2262
+D3
+~
+~
+0 0 2265
+S
+#2264
+Giant Cavern~
+This unfinished room was created by Silas.
+~
+22 8 0 0 0 0
+D0
+~
+~
+0 0 2265
+D1
+~
+~
+0 0 2262
+S
+#2265
+Giant Cavern~
+This unfinished room was created by Silas.
+~
+22 8 0 0 0 0
+D1
+~
+~
+0 0 2263
+D2
+~
+~
+0 0 2264
+S
+#2299
+Silas' Dome of High Wiz~
+This room appears cluttered with papers and half finished projects.  A small
+wooden desk on the far wall hold naught but a computer screen, and empty junk
+food wrappers catches the eye, for the screen and keyboard don't appear to be
+connected to anything at all.  A large, red crushed velvet chair is placed to
+one side of the desk, between it and a small painting table to the right.  
+Speakers line the wall, emitting a pulsing, soothing sound, sometimes of water
+trickling past, sometimes of the wind and sea.  Dozens of strange miniatures,
+hand carved and painted, line the shelves, with strange books peppering the room
+here and there.  A couch, tan in color, rests against a near wall, offering rest
+for both body and soul.  
+~
+22 1032 0 0 0 0
+S
+$~

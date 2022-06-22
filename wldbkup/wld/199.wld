@@ -1,0 +1,1757 @@
+#19900
+Drawbridge to Castle Cannibis~
+A large wooden drawbridge connects the outside world with the castle.  It's made
+of solid oak, almost impenetrable.  Two large chains dangle between the far
+corners of the drawbridge and a pulley system built into the walls around it.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19901
+D2
+~
+~
+0 0 -1
+S
+#19901
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19902
+D1
+~
+~
+0 0 19915
+D2
+~
+~
+0 0 19900
+D3
+~
+~
+0 0 19909
+S
+#19902
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19903
+D2
+~
+~
+0 0 19901
+S
+#19903
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19904
+D2
+~
+~
+0 0 19902
+S
+#19904
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19907
+D2
+~
+~
+0 0 19903
+D3
+~
+~
+0 0 19905
+D5
+~
+~
+0 0 19921
+S
+#19905
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19904
+D3
+~
+~
+0 0 19906
+S
+#19906
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19905
+D3
+~
+~
+0 0 19914
+S
+#19907
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19908
+D3
+~
+~
+0 0 19904
+S
+#19908
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19920
+D3
+~
+~
+0 0 19907
+S
+#19909
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19901
+D3
+~
+~
+0 0 19910
+S
+#19910
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19909
+D3
+~
+~
+0 0 19911
+S
+#19911
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19912
+D1
+~
+~
+0 0 19910
+S
+#19912
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19913
+D2
+~
+~
+0 0 19911
+S
+#19913
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19914
+D2
+~
+~
+0 0 19912
+S
+#19914
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19906
+D2
+~
+~
+0 0 19913
+S
+#19915
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19916
+D3
+~
+~
+0 0 19901
+S
+#19916
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19917
+D3
+~
+~
+0 0 19915
+S
+#19917
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19918
+D3
+~
+~
+0 0 19916
+S
+#19918
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19919
+D2
+~
+~
+0 0 19917
+S
+#19919
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19920
+D2
+~
+~
+0 0 19918
+S
+#19920
+Courtyard of Castle Cannibis~
+The area is wide open with a few random carts spread about.  Several stacks of
+hay line the walls..  
+~
+199 65536 0 0 0 0
+D2
+~
+~
+0 0 19919
+D3
+~
+~
+0 0 19908
+S
+#19921
+An Underground Weapons Bunker~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19936
+D3
+~
+~
+0 0 19922
+D4
+~
+~
+0 0 19904
+S
+#19922
+An Underground Weapons Bunker~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19921
+D2
+~
+~
+0 0 19923
+S
+#19923
+An Underground Weapons Bunker~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19922
+D2
+~
+~
+0 0 19924
+D3
+~
+~
+0 0 19925
+S
+#19924
+An Underground Weapons Bunker~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19923
+D3
+~
+~
+0 0 19926
+S
+#19925
+An Underground Weapons Bunker~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19923
+D2
+~
+~
+0 0 19926
+S
+#19926
+An Underground Weapons Bunker~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19925
+D1
+~
+~
+0 0 19924
+D2
+~
+~
+0 0 19927
+S
+#19927
+A Narrow Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19926
+D1
+~
+~
+0 0 19928
+S
+#19928
+A Narrow Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19929
+D3
+~
+~
+0 0 19927
+S
+#19929
+A Narrow Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19930
+D3
+~
+~
+0 0 19928
+D5
+~
+~
+0 0 19937
+S
+#19930
+A Narrow Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19931
+D3
+~
+~
+0 0 19929
+S
+#19931
+A Narrow Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19932
+D3
+~
+~
+0 0 19930
+S
+#19932
+An Underground Weapons Bunker~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19933
+D2
+~
+~
+0 0 19931
+D3
+~
+~
+0 0 19935
+S
+#19933
+An Underground Weapons Bunker~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D2
+~
+~
+0 0 19932
+D3
+~
+~
+0 0 19934
+S
+#19934
+An Underground Weapons Bunker~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19936
+D1
+~
+~
+0 0 19933
+D2
+~
+~
+0 0 19935
+S
+#19935
+An Underground Weapons Bunker~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19934
+D1
+~
+~
+0 0 19932
+S
+#19936
+An Underground Weapons Bunker~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D2
+~
+~
+0 0 19934
+D3
+~
+~
+0 0 19921
+S
+#19937
+A Weapon Filled Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19938
+D1
+~
+~
+0 0 19945
+D3
+~
+~
+0 0 19940
+D4
+~
+~
+0 0 19929
+S
+#19938
+A Weapon Filled Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19939
+D2
+~
+~
+0 0 19937
+S
+#19939
+A Weapon Filled Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19949
+D2
+~
+~
+0 0 19938
+D3
+~
+~
+0 0 19944
+S
+#19940
+A Weapon Filled Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19937
+D3
+~
+~
+0 0 19941
+S
+#19941
+A Weapon Filled Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19942
+D1
+~
+~
+0 0 19940
+S
+#19942
+A Weapon Filled Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19943
+D2
+~
+~
+0 0 19941
+S
+#19943
+A Weapon Filled Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19944
+D2
+~
+~
+0 0 19942
+S
+#19944
+A Weapon Filled Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19939
+D3
+~
+~
+0 0 19943
+S
+#19945
+A Weapon Filled Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19946
+D3
+~
+~
+0 0 19937
+S
+#19946
+A Weapon Filled Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19947
+D3
+~
+~
+0 0 19945
+S
+#19947
+A Weapon Filled Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19948
+D2
+~
+~
+0 0 19946
+S
+#19948
+A Weapon Filled Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D2
+~
+~
+0 0 19947
+D3
+~
+~
+0 0 19949
+S
+#19949
+A Weapon Filled Hallway~
+Several different types of weapons line the walls here.  There are racks of
+swords, shields by the dozen, and enough armor to equip a small army.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19948
+D3
+~
+~
+0 0 19939
+S
+#19950
+Drawbridge to Castle Sativa~
+A large wooden drawbridge connects the outside world with the castle.  It's made
+of solid oak, almost impenetrable.  Two large chains dangle between the far
+corners of the drawbridge and a pulley system built into the walls around it.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19951
+D2
+~
+~
+0 0 -1
+S
+#19951
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19961
+D1
+~
+~
+0 0 19955
+D2
+~
+~
+0 0 19950
+D3
+~
+~
+0 0 19952
+S
+#19952
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19962
+D1
+~
+~
+0 0 19951
+D3
+~
+~
+0 0 19953
+S
+#19953
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19963
+D1
+~
+~
+0 0 19952
+D3
+~
+~
+0 0 19954
+S
+#19954
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19964
+D1
+~
+~
+0 0 19953
+S
+#19955
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19960
+D1
+~
+~
+0 0 19956
+D3
+~
+~
+0 0 19951
+S
+#19956
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19959
+D1
+~
+~
+0 0 19957
+D3
+~
+~
+0 0 19955
+S
+#19957
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19958
+D3
+~
+~
+0 0 19956
+S
+#19958
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19971
+D2
+~
+~
+0 0 19957
+D3
+~
+~
+0 0 19959
+S
+#19959
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19970
+D1
+~
+~
+0 0 19958
+D2
+~
+~
+0 0 19956
+D3
+~
+~
+0 0 19960
+S
+#19960
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19969
+D1
+~
+~
+0 0 19959
+D2
+~
+~
+0 0 19955
+D3
+~
+~
+0 0 19961
+S
+#19961
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19968
+D1
+~
+~
+0 0 19960
+D2
+~
+~
+0 0 19951
+D3
+~
+~
+0 0 19962
+S
+#19962
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19967
+D1
+~
+~
+0 0 19961
+D2
+~
+~
+0 0 19952
+D3
+~
+~
+0 0 19963
+S
+#19963
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19966
+D1
+~
+~
+0 0 19962
+D2
+~
+~
+0 0 19953
+D3
+~
+~
+0 0 19964
+S
+#19964
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19965
+D1
+~
+~
+0 0 19963
+D2
+~
+~
+0 0 19954
+S
+#19965
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19978
+D1
+~
+~
+0 0 19966
+D2
+~
+~
+0 0 19964
+S
+#19966
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19977
+D1
+~
+~
+0 0 19967
+D2
+~
+~
+0 0 19963
+D3
+~
+~
+0 0 19965
+S
+#19967
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19976
+D1
+~
+~
+0 0 19968
+D2
+~
+~
+0 0 19962
+D3
+~
+~
+0 0 19966
+S
+#19968
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19975
+D1
+~
+~
+0 0 19969
+D2
+~
+~
+0 0 19961
+D3
+~
+~
+0 0 19967
+D4
+~
+~
+0 0 19986
+S
+#19969
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19974
+D1
+~
+~
+0 0 19970
+D2
+~
+~
+0 0 19960
+D3
+~
+~
+0 0 19968
+S
+#19970
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19973
+D1
+~
+~
+0 0 19971
+D2
+~
+~
+0 0 19959
+D3
+~
+~
+0 0 19969
+S
+#19971
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19972
+D2
+~
+~
+0 0 19958
+D3
+~
+~
+0 0 19970
+S
+#19972
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19985
+D2
+~
+~
+0 0 19971
+D3
+~
+~
+0 0 19973
+S
+#19973
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19984
+D1
+~
+~
+0 0 19972
+D2
+~
+~
+0 0 19970
+D3
+~
+~
+0 0 19974
+S
+#19974
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19983
+D1
+~
+~
+0 0 19973
+D2
+~
+~
+0 0 19969
+D3
+~
+~
+0 0 19975
+S
+#19975
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19982
+D1
+~
+~
+0 0 19974
+D2
+~
+~
+0 0 19968
+D3
+~
+~
+0 0 19976
+S
+#19976
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19981
+D1
+~
+~
+0 0 19975
+D2
+~
+~
+0 0 19967
+D3
+~
+~
+0 0 19977
+S
+#19977
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19980
+D1
+~
+~
+0 0 19976
+D2
+~
+~
+0 0 19966
+D3
+~
+~
+0 0 19978
+S
+#19978
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19979
+D1
+~
+~
+0 0 19977
+D2
+~
+~
+0 0 19965
+S
+#19979
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19980
+D2
+~
+~
+0 0 19978
+S
+#19980
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19981
+D2
+~
+~
+0 0 19977
+D3
+~
+~
+0 0 19979
+S
+#19981
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19982
+D2
+~
+~
+0 0 19976
+D3
+~
+~
+0 0 19980
+S
+#19982
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19983
+D2
+~
+~
+0 0 19975
+D3
+~
+~
+0 0 19981
+S
+#19983
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19984
+D2
+~
+~
+0 0 19974
+D3
+~
+~
+0 0 19982
+S
+#19984
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19985
+D2
+~
+~
+0 0 19973
+D3
+~
+~
+0 0 19983
+S
+#19985
+Courtyard of Castle Sativa~
+The area is wide open with a few random carts spread about.  Small pebbles lay
+about the ground, making for uncomfortable walking.  
+~
+199 65536 0 0 0 0
+D2
+~
+~
+0 0 19972
+D3
+~
+~
+0 0 19984
+S
+#19986
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19994
+D2
+~
+~
+0 0 19993
+D3
+~
+~
+0 0 19987
+D5
+~
+~
+0 0 19968
+S
+#19987
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19988
+D1
+~
+~
+0 0 19986
+D3
+~
+~
+0 0 19989
+S
+#19988
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D2
+~
+~
+0 0 19987
+S
+#19989
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19987
+D2
+~
+~
+0 0 19990
+D3
+~
+~
+0 0 19991
+S
+#19990
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19989
+S
+#19991
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19992
+D1
+~
+~
+0 0 19989
+S
+#19992
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D2
+~
+~
+0 0 19991
+S
+#19993
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19986
+S
+#19994
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19995
+D1
+~
+~
+0 0 19996
+D3
+~
+~
+0 0 19986
+S
+#19995
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D2
+~
+~
+0 0 19994
+S
+#19996
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D1
+~
+~
+0 0 19998
+D2
+~
+~
+0 0 19997
+D3
+~
+~
+0 0 19994
+S
+#19997
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19996
+S
+#19998
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D0
+~
+~
+0 0 19999
+D3
+~
+~
+0 0 19996
+S
+#19999
+On the Battlements~
+The view of the courtyard is breathtaking.  To the southeast, the edge of the
+ocean can be seen.  To the northwest, the peaks of Mt Cannibis and Mt.  Sativa
+can be seen.  
+~
+199 65536 0 0 0 0
+D2
+~
+~
+0 0 19998
+S
+$~

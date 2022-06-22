@@ -1,0 +1,649 @@
+#4600
+The Green Gate to the Forest~
+In all your travel in this region, you have never stumbled across this hidden
+grove before. Could this be the dark forest surrounding the Lake of Darkmoor?
+It is very likely, judging from the eerie waiting calm of the dark forest and
+tingling sensation in the air that comes from the presence of ancient and
+powerful magic. The forest is thick and impassable on all sides except for
+here, between two massive oak trees- why has the forest decided to let you
+enter, and perhaps never return?
+~
+46 1073741829 0 0 0 3
+D0
+~
+~
+0 0 4601
+D4
+~
+~
+0 0 4628
+S
+#4601
+Within a Ring of Gigantic Trees~
+You are standing in a small patch of lush green grass in a ring of gigantic
+trees that almost block out the light all day long, except at noon. Towering
+sequoias, massive oaks, spreading maples, and thick pines rise up hundreds of
+feet overhead, sheltering smaller trees and shrubs beneath their bowing
+branches. Their leaves are seemingly darker than other trees of the same type,
+absorbing the light that does make it through. The trees shake and whisper at
+your presence- are they moving to form a path?
+~
+46 65600 1 0 0 2
+D0
+~
+~
+0 0 4604
+D1
+~
+~
+0 0 4600
+D2
+~
+~
+0 0 4602
+D3
+~
+~
+0 0 4603
+S
+#4602
+In the Dark Forest~
+The thick undergrowth and divots in the ground impede your movements, forcing
+you to scale the sides of trees at times to bypass it. The air has a green
+scent to it, one of pine sap and dead leaves and freshwater springs. Looking
+ahead, there seems to be no end to this dense forest- it hadn't looked so vast
+from the outside! A raven caws from its nest overhead, warning you to stay back
+or suffer the fate of a pesky bird trying to peck out your eyes.
+~
+46 65537 1 0 0 3
+D0
+~
+~
+0 0 4601
+D3
+~
+~
+0 0 4606
+D4
+~
+~
+0 0 4605
+S
+#4603
+In a Dense Thicket~
+You push your way into the undergrowth, and are suddenly surrounded on all sides
+by sharp thorned briars. There is no light, and water gushes up out of the
+ground around your ankles. The smell of decay fills your nostrils, probably
+coming from the heaps of decaying leaf matter trapped here by the dense vines
+and branches around this hole in the thicket. Which way did you come from? A
+thorned branch runs across your face painfully as you turn about, trying to gain
+your bearings.
+~
+46 65537 129 0 0 3
+D0
+~
+~
+0 0 4622
+D1
+~
+~
+0 0 4601
+D3
+~
+~
+0 0 4623
+S
+#4604
+In the Dark Forest~
+The thick undergrowth and divots in the ground impede your movements, forcing
+you to scale the sides of trees at times to bypass it. The air has a green
+scent to it, one of pine sap and dead leaves and freshwater springs. A pool of
+green algae-filled water fills the hollow of a willow tree draped with swamp
+moss- something stirs beneath its surface, and a glistening reptilian eye peers
+up at you.
+~
+46 65537 1 0 0 3
+D2
+~
+~
+0 0 4601
+S
+#4605
+The Top of a Pine Tree~
+This pine tree is shorter than the ones around it due to some rule of nature
+that allowed the others to grow faster and block out the light. It still
+thrives, and is the perfect place for a bird's nest far away from the realm of
+hawks and inclement weather. One such nest rests in the crook of a twisted
+branch a few meters down from the top of the tree. This part of the tree is
+much lighter than near the forest floor, but the light is still dim at best.
+~
+46 65600 1 0 0 20
+D5
+~
+~
+0 0 4602
+S
+#4606
+A Curving Path Around a Thick Pine~
+This path is narrow, as it skirts between a thorny thicket and a massive pine
+tree's trunk. The forest floor is a carpet of pine needles, only broken by the
+rise and fall of thick roots and pits between them. A squirrel leaps from one
+tree to another, showering you with small sticks and pine cones. The thorns and
+rough bark scratch you on both sides as you inch between the two barriers.
+~
+46 65541 1 0 0 3
+D1
+~
+~
+0 0 4602
+D2
+~
+~
+0 0 4607
+S
+#4607
+In the Shadows of a Pine Tree~
+The long branches of this ancient pine reach far overhead towards the horizon,
+making a patch of shelter from the elements. The pine needles are extremely
+dense here, coming up to your knees in parts, leaving no room for shrubs to
+grow. A dense wall of briars blocks what used to be a path to the west. Some
+of the branches on the pine tree form a kind of natural stepladder up the tree.
+~
+46 65545 0 0 0 3
+D0
+~
+~
+0 0 4606
+D2
+~
+~
+0 0 4608
+D4
+~
+~
+0 0 4618
+S
+#4608
+Standing Over a Rabbit Warren~
+A mound in the ground surrounded by freshly turned sand represents the mass of
+the rabbit warren beneath the sandy soil. The ground occasionally shivers as a
+rabbit goes barreling through one of its underground tunnels. The ground is
+covered in charred wood around a burnt out tree trunk, the signs of a recent
+fire that ushered in a new generation of hardwood trees that rise up around the
+rabbit warren.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4607
+D3
+~
+~
+0 0 4609
+S
+#4609
+A Forest Path~
+This path through the forest is darker and narrower than the ones you had
+traversed to come here, and shows few signs of ever being used. Something
+bounds off into the woods out of your sight, startled by your arrival- hoof
+prints in the sand indicate that it was probably a deer. Far above you a path
+of clear blue sky is visible, a small pinprick in a sea of the darkest green
+foliage. A catalpa tree several meters across looms at the northeast edge of
+the path, spreading its broad-leaved branches in every direction.
+~
+46 65537 1 0 0 3
+D1
+~
+~
+0 0 4608
+D2
+~
+~
+0 0 4610
+D4
+~
+~
+0 0 4620
+S
+#4610
+A Forest Path~
+This path through the forest is darker and narrower than the ones you had
+traversed to come here, and shows few signs of ever being used. Something
+bounds off into the woods out of your sight, startled by your arrival- hoof
+prints in the sand indicate that it was probably a deer. Far above you a path
+of clear blue sky is visible, a small pinprick in a sea of the darkest green
+foliage.
+~
+46 65537 1 0 0 3
+D0
+~
+~
+0 0 4609
+D2
+~
+~
+0 0 4612
+D3
+~
+~
+0 0 4611
+S
+#4611
+A Turn in the Forest Path~
+This path through the forest is darker and narrower than the ones you had
+traversed to come here, and shows few signs of ever being used. The path curves
+to the left coming from the north around a large thicket. You must duck under a
+low-hanging pine branch as you continue walking, or get a mouth full of needles
+and small black pine cones.
+~
+46 65537 1 0 0 3
+D1
+~
+~
+0 0 4610
+D4
+~
+~
+0 0 4625
+S
+#4612
+Skirting the Edge of the Forest~
+As you enter the area, you catch a distinct glimpse of daylight and blue sky to
+the south- a way out! As you take a step towards it roots wind up around your
+calves, and the trees shuffle together, shutting the door to the outside world.
+Why must this enchanted forest torment you so? You know now that you are close
+to the outside, but the trees know better than to let anyone escape their grasp.
+Something massive and furry with many legs clambers through the canopy and
+disappears to the north.
+~
+46 65537 1 0 0 3
+D0
+~
+~
+0 0 4611
+D1
+~
+~
+0 0 4613
+S
+#4613
+Skirting the Edge of the Forest~
+It seems as if you have been wandering in circles for hours- haven't you been
+here before? The path curves to the north, and the west. Massive black oaks
+tower all around you, shifting left and right on their roots to express their
+dispeasure for having to be in the same patch of forest as you. Briars reach
+out and claw at your skin with their thorns, and long-stemmed purple flowers
+wind around your legs. Somehow, you feel that this might not be the creepiest
+part of the forest.
+~
+46 65537 129 0 0 3
+D0
+~
+~
+0 0 4614
+D1
+~
+~
+0 0 4612
+D3
+~
+~
+0 0 4612
+S
+#4614
+At a Fallen Nest~
+An intricately woven nest several meters across has fallen through the canopy
+and come to land here, leaving a trail of broken branches above that lead up to
+a patch of green being which the sky supposedly exists. Already the branches
+have begun repairing themselves by their magical means, sprouting small wooden
+hands that bind together and lift the branches back to their original places,
+leaving only a knot as a reminder that it was ever broken. A willow tree bows
+to the earth under the weight of a fallen tree.
+~
+46 65537 1 0 0 3
+D0
+~
+~
+0 0 4635
+D1
+~
+~
+0 0 4615
+D2
+~
+~
+0 0 4613
+S
+#4615
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+46 0 0 0 0 0
+D1
+~
+~
+0 0 4616
+D3
+~
+~
+0 0 4614
+S
+#4616
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+46 0 0 0 0 0
+D0
+~
+~
+0 0 4617
+D1
+~
+~
+0 0 4600
+D3
+~
+~
+0 0 4615
+S
+#4617
+Between Two Thickets~
+A sharp barrier of foliage flanks the north and south side of the path, with
+only a thick carpet of needles and curtains of webs between them. A fallen tree
+has fallen into the fork of a tree, forming a vine-sheathed bridge over your
+head. Finches hop about and flutter in and out of the thickets, cocking their
+heads curiously as you enter their secret domain.
+~
+46 65537 1 0 0 3
+D2
+~
+~
+0 0 4616
+D3
+~
+~
+0 0 4608
+S
+#4618
+Climbing an Ancient Pine Tree~
+This point on the tree is above the thick underbrush, so the forest floor is no
+longer visible. Only the massive branches of other giants are even close to
+reaching where you stand now. Within short jumping distance to the north, a
+thick patch of branches forms a platform onto which you could probably jump.
+~
+46 65536 129 0 0 0
+D0
+~
+~
+0 0 4605
+D2
+~
+~
+0 0 4620
+D4
+~
+~
+0 0 4619
+D5
+~
+~
+0 0 4607
+S
+#4619
+Overlooking the Clearing from the Top of a Pine~
+The view is breathtaking- few trees pass this one in height, and the rest form
+an almost level plain of waving treetops. Ravens swoop up and down between the
+trees in the light, cawing as they search for food and nest material. 
+Something large strikes a tree with a resounding thud, making it shiver and
+sending up a cloud of birds. Beyond that, a sort of gap in the trees is barely
+visible- could it be the legendary lake of Darkmoor?
+~
+46 65536 129 0 0 3
+D5
+~
+~
+0 0 4618
+S
+#4620
+On the Lowest Branch of a Catalpa Tree~
+Here, far above the forest floor, you are surrounded by broad green leaves and
+dangling green seed pods that form a shield against the weather. The old, rough
+bark forms handholds and ledges to help you climb, and each thick arm of the
+tree is a flat resting place wide enough for a picnic to be held on it. One
+thick branch on the north side of the tree reaches out to a pine not far to the
+north.
+~
+46 65536 129 0 0 3
+D0
+~
+~
+0 0 4618
+D4
+~
+~
+0 0 4621
+D5
+~
+~
+0 0 4609
+S
+#4621
+The Top of the Catalpa Tree~
+There is no view from this vantage point, as you are surrounded by countless
+branches covered thickly in broad green leaves. Looking down, the lower
+branches keep your eyes from the forest floor. The sun still shines through the
+leaves, casting a green glow all around you.
+~
+46 65536 129 0 0 3
+D2
+~
+~
+0 0 4624
+D5
+~
+~
+0 0 4620
+S
+#4622
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+46 0 0 0 0 0
+D2
+~
+~
+0 0 4603
+S
+#4623
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+46 0 0 0 0 0
+D1
+~
+~
+0 0 4603
+S
+#4624
+A Short, Leafy Branch on the Catalpa Tree~
+The sun shines directly upon this branch, and the air is unusually warm-
+probably the warmest place in this forest. The tops of the other trees sway at
+about this height in every direction, reflecting the light that would otherwise
+go into the forest back into the sky. Hawks, crows, buzzards, and ravens circle
+on the thermals, taking advantage of the warm air. A large pine tree to the
+north obstructs a vast portion of the forest from your vision.
+~
+46 65536 129 0 0 3
+D0
+~
+~
+0 0 4621
+S
+#4625
+High in a Golden Maple Tree~
+Never have you seen a maple tree of this color. The bark has the texture and
+color of amber, and the leaves are as if they were brushed over with gold foil.
+You brace your feet against two branches to stay up, and look out over a dip in
+the treetops, through which you can see the wilderness. It seems so far away,
+and a barrier of mist separates the two realms, that of this grove and the
+outside world.
+~
+46 1073807360 129 0 0 3
+D4
+~
+~
+0 0 4626
+D5
+~
+~
+0 0 4611
+S
+#4626
+Near the Top of the Golden Maple Tree~
+The trunk of the tree narrows out here, but is still too wide for you to put
+your arms even halfway around it. Golden light filters through the trees,
+giving an almost heavenly aura to this lone light in the dark forest. Above
+your head, a dark mass of webs stretches in every direction.
+~
+46 1073807360 129 0 0 3
+D4
+~
+~
+0 0 4627
+D5
+~
+~
+0 0 4625
+S
+#4627
+At the Web-Enshrouded Top of the Golden Maple~
+This unfinished room was created by Accarid.
+~
+46 0 0 0 0 0
+D0
+~
+~
+0 0 4632
+D1
+~
+~
+0 0 4630
+D2
+~
+~
+0 0 4629
+D3
+~
+~
+0 0 4633
+S
+#4628
+Overlooking the Clearing~
+From this oak tree, just north into the forest, you have a wide view of the
+clearing a short distance to the north. Further exploration of the tree is
+impossible, for a ring of thick branches has formed around the upper trunk where
+the tree was rent by lightning or some similar force. Something stirs in the
+branches and takes off in a gust of wind, raining twigs down on you.
+~
+46 65536 128 0 0 3
+D1
+~
+~
+0 0 4628
+D3
+~
+~
+0 0 4628
+D5
+~
+~
+0 0 4600
+S
+#4629
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+46 0 0 0 0 0
+D0
+~
+~
+0 0 4627
+S
+#4630
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+46 0 0 0 0 0
+D0
+~
+~
+0 0 4631
+D3
+~
+~
+0 0 4627
+S
+#4631
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+46 0 0 0 0 0
+D2
+~
+~
+0 0 4630
+S
+#4632
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+46 0 0 0 0 0
+D0
+~
+~
+0 0 4634
+D2
+~
+~
+0 0 4627
+S
+#4633
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+46 0 0 0 0 0
+D1
+~
+~
+0 0 4627
+S
+#4634
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+46 0 0 0 0 0
+D2
+~
+~
+0 0 4632
+S
+#4635
+Holy Crap!~
+This willow tree doesn't seem very happy about having been fallen upon, and
+seems less weepy and more angry about you climbing on it. Its branches suddenly
+weave a barrier behind you, preventing retreat, and several large limbs come
+crashing down around you! There are only two routes of escape, the east and
+west ends of the fallen pine tree.
+~
+46 65537 1 0 0 3
+D1
+~
+~
+0 0 4613
+D3
+~
+~
+0 0 4613
+S
+$~

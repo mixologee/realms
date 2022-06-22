@@ -1,0 +1,1691 @@
+#11000
+Down a Narrow Tunnel~
+The smell of rotting flesh permiates from below. Low moans and the
+pitter patter of small feet echo through the tunnel. Small pictures
+have been etched onto the walls, depicting a great battle for power.
+~
+110 8 0 0 0 0
+D4
+~
+~
+0 0 4968020
+D5
+~
+~
+0 0 11001
+S
+#11001
+Down a Narrow Tunnel~
+There are several paintings on the walls here. One of them shows a
+kingly-looking man standing in the midst of his fallen enemies, brandishing a
+great broadsword. On the opposite wall, the mural is of a large crowd bowing to
+the same man, who is standing atop a tall pedestal.
+~
+110 8 0 0 0 0
+D4
+~
+~
+0 0 11000
+D5
+~
+~
+0 0 11002
+S
+#11002
+Down a Narrow Tunnel~
+The king adorns both sides of the wall. The first depicts a great effort to
+build what seems to be this tomb, the second the completed tomb. The king
+appears more worn, and considerably older. Much color is gone from his hair and
+skin.
+~
+110 8 0 0 0 0
+D4
+~
+~
+0 0 11001
+D5
+~
+~
+0 0 11003
+S
+#11003
+Down a Narrow Tunnel~
+The paintings here depict a great celebration, a grand bonfire surrounded by
+thousands of people. One wall seems to close in on the fire, where King
+Bearlifax can be seen holding up a small, male child.
+~
+110 8 0 0 0 0
+D4
+~
+~
+0 0 11002
+D5
+~
+~
+0 0 11004
+S
+#11004
+A Narrow Corridor~
+The walls depict a panoramic view of a great battle, with the old king leading
+the troops on one side, and a younger, similar man on the other side, fighting
+by his side.
+~
+110 8 0 0 0 0
+D3
+~
+~
+0 0 11005
+D4
+~
+~
+0 0 11003
+S
+#11005
+A Narrow Corridor~
+The walls here again show a panoramic view of a battlefield, but this time the
+field is abandoned, aside from the young general kneeling beside the old king as
+he breathes his last and looks to the tomb.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11004
+D3
+~
+~
+0 0 11006
+S
+#11006
+A Narrow Corridor~
+The artwork on the walls shows a large crowd of people, watching
+the burial of the once great king Bearlifax. All the subjects seem
+very sad, and the skies are painted dark in memory of the fallen king.
+~
+110 32768 0 0 0 0
+D1
+~
+~
+0 0 11005
+D2
+~
+~
+0 0 11019
+D5
+~
+grate~
+1 0 11020
+S
+#11007
+A Narrow Corridor~
+The artwork on the walls here depicts a large uprising, against
+Archuro, the last great king. It shows his body impaled on a stake
+on the coast of the island, as a reminder to any others who want to
+rule this island.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11008
+D3
+~
+~
+0 0 11004
+S
+#11008
+A Narrow Corridor~
+The art on this wall shows the end of the reign of pirate kings. The slaves
+of the island revolted against the iron fisted rule of Archuro, the dark lord
+of magic.
+~
+110 8 0 0 0 0
+D2
+~
+~
+0 0 11009
+D3
+~
+~
+0 0 11007
+D5
+~
+grate~
+1 0 11080
+S
+#11009
+A Narrow Corridor~
+The mural on the walls shows the revolt of the people against Archuro and his
+queen.  On the one wall is depicted the brutal murder of the queen in her sleep.
+The other wall shows Archuro in the center of a mob, being brutally killed.  
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11008
+D2
+~
+~
+0 0 11010
+S
+#11010
+A Narrow Corridor~
+The paintings on the wall show all the people of the island being put back
+to work, in chains and shackles. It looks like the construction of the
+castle blaze.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11009
+D2
+~
+~
+0 0 11011
+S
+#11011
+A Narrow Corridor~
+The paintings on the walls here shows a great wedding. King Archuro is standing
+next to the most beautiful woman ever seen. The king, queen and people are all
+in good spirits.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11010
+D2
+~
+~
+0 0 11012
+S
+#11012
+A Narrow Corridor~
+The artwork shows the burial of Westley, the third great pirate king.
+The sun shines brightly and people are rejoicing in their new king, 
+Archuro, the great healer.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11011
+D3
+~
+~
+0 0 11013
+D5
+~
+grate~
+1 0 11060
+S
+#11013
+A Narrow Corridor~
+The artwork on the walls depicts the untimely death of Westley. The people
+of the island rejoiced at this, since the young Archuro was but a child
+still. This gave the people hope for the future.
+~
+110 32768 0 0 0 0
+D1
+~
+~
+0 0 11012
+D3
+~
+~
+0 0 11014
+S
+#11014
+A Narrow Corridor~
+The mural on the wall is of the birth of Archuro, the last great pirate
+king. The people are shown to have mixed feelings of this birth due to
+the current rule of Westley.
+~
+110 32768 0 0 0 0
+D1
+~
+~
+0 0 11013
+D3
+~
+~
+0 0 11015
+S
+#11015
+A Narrow Corridor~
+The paintings on the wall show all the people of the island being put
+to work, in chains and shackles. It looks like the construction of the
+castle smoke.
+~
+110 32768 0 0 0 0
+D1
+~
+~
+0 0 11014
+D3
+~
+~
+0 0 11016
+S
+#11016
+A Narrow Corridor~
+The artwork shows the burial of Marshall, the second great pirate king.
+It is shown as a rainy day, with Westley surrounded by flames and the
+island is covered in destruction.
+~
+110 32768 0 0 0 0
+D0
+~
+~
+0 0 11017
+D1
+~
+~
+0 0 11015
+D5
+~
+grate~
+1 0 11040
+S
+#11017
+A Narrow Corridor~
+The walls show a dark story of betrayal and murder. The one wall shows
+Marshall and his wife, lying dead in their bed. On the other side is
+the young Westley, with storm clouds behind his coronation.
+~
+110 32768 0 0 0 0
+D0
+~
+~
+0 0 11018
+D2
+~
+~
+0 0 11016
+S
+#11018
+A Narrow Corridor~
+The artwork shows the birth of another son, Westley, the third great
+king of the pirates. All the people are gathered around in a feast and
+enjoying the birth of their future king.
+~
+110 32768 0 0 0 0
+D0
+~
+~
+0 0 11019
+D2
+~
+~
+0 0 11017
+S
+#11019
+A Narrow Corridor~
+The paintings on the walls depict a time of peace and good
+health for all. Everyone seems happy and wealthy. Scenes of
+parties and dancing fill the walls.
+~
+110 32768 0 0 0 0
+D0
+~
+~
+0 0 11006
+D2
+~
+~
+0 0 11018
+S
+#11020
+A Hidden Passage~
+This room is very small and the air is quite stale. There is no artwork
+on the walls here. It is very plain indeed.
+~
+110 8 0 0 0 0
+D4
+~
+grate~
+1 0 11006
+D5
+~
+~
+0 0 11021
+S
+#11021
+The Ancient Burial Chamber of the First King~
+This is the burial chamber of the first great pirate king.  A largse stone rests
+in the middle of the floor at this hallway intersection.  There is a ladder
+leading upwards toward the ceiling.  
+~
+110 32768 0 0 0 0
+D0
+~
+~
+0 0 11032
+D1
+~
+~
+0 0 11027
+D2
+~
+~
+0 0 11033
+D3
+~
+~
+0 0 11022
+D4
+~
+~
+0 0 11020
+D5
+~
+coverstone~
+2 11020 11135
+S
+#11022
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the east and west.  Large murals of a great battle
+taking place line the walls here.  Several torches are strategically placed to
+shine light on a noble looking man.  
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11036
+D1
+~
+~
+0 0 11021
+D2
+~
+~
+0 0 11038
+D3
+~
+~
+0 0 11023
+S
+#11023
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the east and west.  Large murals of King Bearlifax line
+the walls here.  Some scattered torches line the way.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11022
+D3
+~
+~
+0 0 11024
+S
+#11024
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the east and west.  Large murals of King Bearlifax line
+the walls here.  Some scattered torches line the way.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11023
+D3
+~
+~
+0 0 11025
+S
+#11025
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the east and west.  Large murals of King Bearlifax line
+the walls here.  Some scattered torches line the way.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11024
+D3
+~
+~
+0 0 11026
+S
+#11026
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the east and west.  Large murals of King Bearlifax line
+the walls here.  Some scattered torches line the way.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11025
+S
+#11027
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the west and east.  Large murals of King Bearlifax line
+the walls here.  Some scattered torches line the way.  
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11037
+D1
+~
+~
+0 0 11028
+D2
+~
+~
+0 0 11039
+D3
+~
+~
+0 0 11021
+S
+#11028
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the west and east.  Large murals of King Bearlifax line
+the walls here.  Some scattered torches line the way.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11029
+D3
+~
+~
+0 0 11027
+S
+#11029
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the west and east.  Large murals of King Bearlifax line
+the walls here.  Some scattered torches line the way.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11030
+D3
+~
+~
+0 0 11028
+S
+#11030
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the west and east.  Large murals of King Bearlifax line
+the walls here.  Some scattered torches line the way.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11031
+D3
+~
+~
+0 0 11029
+S
+#11031
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the west and east.  Large murals of King Bearlifax line
+the walls here.  Some scattered torches line the way.  
+~
+110 8 0 0 0 0
+D3
+~
+~
+0 0 11030
+S
+#11032
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the north and south.  Large murals of King Bearlifax
+line the walls here.  Some scattered torches line the way.  
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11035
+D1
+~
+~
+0 0 11037
+D2
+~
+~
+0 0 11021
+D3
+~
+~
+0 0 11036
+S
+#11033
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the south and north.  Large murals of King Bearlifax
+line the walls here.  Some scattered torches line the way.  
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11021
+D1
+~
+~
+0 0 11039
+D2
+~
+~
+0 0 11034
+D3
+~
+~
+0 0 11038
+S
+#11034
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the south and north.  Large murals of King Bearlifax
+line the walls here.  Some scattered torches line the way.  
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11033
+S
+#11035
+The Ancient Burial Chamber of the First King~
+The hallways contiues to the north and south.  Large murals of King Bearlifax
+line the walls here.  Some scattered torches line the way.  
+~
+110 8 0 0 0 0
+D2
+~
+~
+0 0 11032
+S
+#11036
+The Ancient Burial Chamber of the First King~
+This area is well lit with a flame and several mirrors.  Large murals of King
+Bearlifax and his wife line the walls here.  Queen Ramona is seen sitting on a
+horse to the right of Bearlifax.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11032
+D2
+~
+~
+0 0 11022
+S
+#11037
+The Ancient Burial Chamber of the First King~
+This area is well lit with a flame and several mirrors.  Large murals of King
+Bearlifax and his wife, Queen Ramona, line the walls here.  It is a mural of
+their wedding day, a huge festival with much rejoicing.  
+~
+110 8 0 0 0 0
+D2
+~
+~
+0 0 11027
+D3
+~
+~
+0 0 11032
+S
+#11038
+The Ancient Burial Chamber of the First King~
+This area is well lit with a flame and several mirrors.  Large murals of King
+Bearlifax and his wife, Queen Ramona, line the walls here.  It is a mural of
+their wedding day, a huge festival with much rejoicing.  
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11022
+D1
+~
+~
+0 0 11033
+S
+#11039
+The Ancient Burial Chamber of the First King~
+This area is well lit with a flame and several mirrors.  Large murals of King
+Bearlifax and his wife line the walls here.  Queen Ramona is seen sitting on a
+throne to the right of Bearlifax.  
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11027
+D3
+~
+~
+0 0 11033
+S
+#11040
+A Hidden Passage~
+This room is very small and the air is quite stale. There are no paintings
+or murals lining the walls here. Only the putrid smell of death and decay
+could fill a room this dismal.
+~
+110 8 0 0 0 0
+D4
+~
+grate~
+1 0 11016
+D5
+~
+~
+0 0 11041
+S
+#11041
+The Ancient Burial Chamber of the Second King~
+On the floor is a portrait of the Great King Marshall and his lovely wife,
+Queen Lita. A happy era for the kingdom for 30 years before the tragic
+behaviour of their son Westley.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11052
+D1
+~
+~
+0 0 11047
+D2
+~
+~
+0 0 11056
+D3
+~
+~
+0 0 11042
+D4
+~
+~
+0 0 11040
+D5
+~
+grate~
+2 11021 11200
+S
+#11042
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11054
+D1
+~
+~
+0 0 11041
+D2
+~
+~
+0 0 11058
+D3
+~
+~
+0 0 11043
+S
+#11043
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11042
+D3
+~
+~
+0 0 11044
+S
+#11044
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11043
+D3
+~
+~
+0 0 11045
+S
+#11045
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11044
+D3
+~
+~
+0 0 11046
+S
+#11046
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11045
+S
+#11047
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11055
+D1
+~
+~
+0 0 11048
+D2
+~
+~
+0 0 11059
+D3
+~
+~
+0 0 11041
+S
+#11048
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11049
+D3
+~
+~
+0 0 11047
+S
+#11049
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11050
+D3
+~
+~
+0 0 11048
+S
+#11050
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11051
+D3
+~
+~
+0 0 11049
+S
+#11051
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D3
+~
+~
+0 0 11050
+S
+#11052
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11053
+D1
+~
+~
+0 0 11055
+D2
+~
+~
+0 0 11041
+D3
+~
+~
+0 0 11054
+S
+#11053
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D2
+~
+~
+0 0 11052
+S
+#11054
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11052
+D2
+~
+~
+0 0 11042
+S
+#11055
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D2
+~
+~
+0 0 11047
+D3
+~
+~
+0 0 11052
+S
+#11056
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11041
+D1
+~
+~
+0 0 11059
+D2
+~
+~
+0 0 11057
+D3
+~
+~
+0 0 11058
+S
+#11057
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11056
+S
+#11058
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11042
+D1
+~
+~
+0 0 11056
+S
+#11059
+The Ancient Burial Chamber of the Second King~
+This is the burial chamber of the second great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11047
+D3
+~
+~
+0 0 11056
+S
+#11060
+A Hidden Passage~
+This room is very small and the air is quite stale. There is no artwork
+on the walls here. It is very plain indeed.
+~
+110 8 0 0 0 0
+D4
+~
+grate~
+1 0 11012
+D5
+~
+~
+0 0 11061
+S
+#11061
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11072
+D1
+~
+~
+0 0 11067
+D2
+~
+~
+0 0 11076
+D3
+~
+~
+0 0 11062
+D4
+~
+~
+0 0 11060
+S
+#11062
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11074
+D1
+~
+~
+0 0 11061
+D2
+~
+~
+0 0 11078
+D3
+~
+~
+0 0 11063
+S
+#11063
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11062
+D3
+~
+~
+0 0 11064
+S
+#11064
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11063
+D3
+~
+~
+0 0 11065
+S
+#11065
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11064
+D3
+~
+~
+0 0 11066
+S
+#11066
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11065
+S
+#11067
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11075
+D1
+~
+~
+0 0 11068
+D2
+~
+~
+0 0 11079
+D3
+~
+~
+0 0 11061
+S
+#11068
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11069
+D3
+~
+~
+0 0 11067
+S
+#11069
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11070
+D3
+~
+~
+0 0 11068
+S
+#11070
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11071
+D3
+~
+~
+0 0 11069
+S
+#11071
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D3
+~
+~
+0 0 11070
+S
+#11072
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11073
+D1
+~
+~
+0 0 11075
+D2
+~
+~
+0 0 11061
+D3
+~
+~
+0 0 11074
+S
+#11073
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D2
+~
+~
+0 0 11072
+S
+#11074
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11072
+D2
+~
+~
+0 0 11062
+S
+#11075
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D2
+~
+~
+0 0 11067
+D3
+~
+~
+0 0 11072
+S
+#11076
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11061
+D1
+~
+~
+0 0 11079
+D2
+~
+~
+0 0 11077
+D3
+~
+~
+0 0 11078
+S
+#11077
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11076
+S
+#11078
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11062
+D1
+~
+~
+0 0 11076
+S
+#11079
+The Ancient Burial Chamber of the Third King~
+This is the burial chamber of the third great pirate king.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11067
+D3
+~
+~
+0 0 11076
+S
+#11080
+A Hidden Passage~
+The tunnel leading down seems to have been carved straight from the rock.  It is
+rough and shoddy workmanship, but it gets the job done of leading the way to an
+ancient burial chamber.  
+~
+110 8 0 0 0 0
+D4
+~
+grate~
+1 0 11008
+D5
+~
+~
+0 0 11081
+S
+#11081
+The Ancient Burial Chamber of the Last Great King~
+The smell of salt air is heavy here, mixed with decay and death.  Echoing
+through the halls is the faint sound of the ocean churning and moving.  Along
+the walls are bloodied uniforms from some great enemy army.  All of them have
+been near shredded from a mighty battle.  Kegs of rum have been lined along the
+walls, to keep the Pirate King happy in the afterlife.  
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 0 11086
+D1
+~
+~
+0 0 11095
+D2
+~
+~
+0 0 11082
+D3
+~
+~
+0 0 11090
+D4
+~
+~
+0 0 11080
+S
+#11082
+The Ancient Burial Chamber of the Last Great King~
+Salty air mixes with death and decay here, bouyed by the sound of crashing waves
+from long ago.  The echos of memories seem vividly real here, as if an
+enchantment holds these sounds and smells within the tomb.  Dancing candle light
+fills the tomb, lending feeble light and casting more shadows than it dispells.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11081
+D1
+~
+~
+0 0 11085
+D2
+~
+~
+0 0 11083
+D3
+~
+~
+0 0 11084
+S
+#11083
+The Ancient Burial Chamber of the Last Great King~
+A trench has been dug here and filled with salt water.  The trench seems to
+follow the entire tomb's outer wall.  Small pirate ship replicas have been
+tethered here, and bob idley in the waters.  A bright green glow radiates from
+below the water, casting eerie shadows around the room.  Beyond the water in a
+small cove is a message in a very tarnished and beaten bottle.  The paper looks
+as if it might crumble at any moment.  The skull of a fallen enemy has been hung
+on the wall, a dagger still sticking out of it's crown, and rapiers crossed
+beneath it.  
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11082
+S
+#11084
+The Ancient Burial Chamber of the Last Great King~
+The floor along the edge of the wall has been transformed into a trench that has
+been filled with salty water.  Below the water an eerie green glow radiates
+beneath piles of bones.  The opposite wall has been lined with kegs of rum to
+ease the passage into Cool drafts float through the tomb, carrying salty air and
+a pirate's wicked laugh.  
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11090
+D1
+~
+~
+0 0 11082
+S
+#11085
+The Ancient Burial Chamber of the Last Great King~
+The floor along the edge of the wall has been transformed into a trench that has
+been filled with salty water.  Below the water an eerie green glow radiates
+beneath piles of bones.  The opposite wall has been lined with kegs of rum to
+ease the passage into Cool drafts float through the tomb, carrying salty air and
+a pirate's wicked laugh.  
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11095
+D3
+~
+~
+0 0 11082
+S
+#11086
+The Ancient Burial Chamber of the Last Great King~
+Salty air mixes with death and decay here, bouyed by the sound of crashing waves
+from long ago.  The echos of memories seem vividly real here, as if an
+enchantment holds these sounds and smells within the tomb.  Dancing candle light
+fills the tomb, lending feeble light and casting more shadows than it dispells.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11087
+D1
+~
+~
+0 0 11089
+D2
+~
+~
+0 0 11081
+D3
+~
+~
+0 0 11088
+S
+#11087
+The Ancient Burial Chamber of the Last Great King~
+Salt water pools on the floor here with an eerie green glow coming from below
+the surface.  The bones of a dozen enemies litter the water haphazarly, one
+skull stares lifelessly out of the pool its jaw missing for unknown reasons.  
+Above the pool on the wall is a pair of cutlasses crossed below a skull that has
+a rather noticable hole through it.  The sound of rough laughter hangs in the
+air, creating a spine-tingling chill.  
+~
+110 8 0 0 0 0
+D2
+~
+~
+0 0 11086
+S
+#11088
+The Ancient Burial Chamber of the Last Great King~
+The floor along the edge of the wall has been transformed into a trench that has
+been filled with salty water.  Below the water an eerie green glow radiates
+beneath piles of bones.  The opposite wall has been lined with kegs of rum to
+ease the passage into Cool drafts float through the tomb, carrying salty air and
+a pirate's wicked laugh.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11086
+D2
+~
+~
+0 0 11090
+S
+#11089
+The Ancient Burial Chamber of the Last Great King~
+The floor along the edge of the wall has been transformed into a trench that has
+been filled with salty water.  Below the water an eerie green glow radiates
+beneath piles of bones.  The opposite wall has been lined with kegs of rum to
+ease the passage into Cool drafts float through the tomb, carrying salty air and
+a pirate's wicked laugh.  
+~
+110 8 0 0 0 0
+D2
+~
+~
+0 0 11095
+D3
+~
+~
+0 0 11086
+S
+#11090
+The Ancient Burial Chamber of the Last Great King~
+Salty air mixes with death and decay here, bouyed by the sound of crashing waves
+from long ago.  The echos of memories seem vividly real here, as if an
+enchantment holds these sounds and smells within the tomb.  Dancing candle light
+fills the tomb, lending feeble light and casting more shadows than it dispells.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11088
+D1
+~
+~
+0 0 11081
+D2
+~
+~
+0 0 11084
+D3
+~
+~
+0 0 11091
+S
+#11091
+The Ancient Burial Chamber of the Last Great King~
+The walkway is raised here, and on both sides of the tunnel water has been
+pooled with an eerie green light beneath it.  Merfolk orbs light the path to the
+unknown at the end of the hallway.  The uniforms of fallen soldiers hang on the
+walls here, trophies of battles long since won.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11090
+D3
+~
+~
+0 0 11092
+S
+#11092
+The Ancient Burial Chamber of the Last Great King~
+The walkway is raised here, and on both sides of the tunnel water has been
+pooled with an eerie green light beneath it.  Merfolk orbs light the path to the
+unknown at the end of the hallway.  The uniforms of fallen soldiers hang on the
+walls here, trophies of battles long since won.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11091
+D3
+~
+~
+0 0 11093
+S
+#11093
+The Ancient Burial Chamber of the Last Great King~
+The walkway is raised here, and on both sides of the tunnel water has been
+pooled with an eerie green light beneath it.  Merfolk orbs light the path to the
+unknown at the end of the hallway.  The uniforms of fallen soldiers hang on the
+walls here, trophies of battles long since won.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11092
+D3
+~
+~
+0 0 11094
+S
+#11094
+The Ancient Burial Chamber of the Last Great King~
+A pool of green lit water has gathered here, littered with the bones of enemies
+long since vanquished.  The uniforms of varying armies have been hung here as
+trophies, each of them is shredded nearly beyond recognition and stained by the
+blood of the fallen.  Enchanted orbs from the mermaid lands beneath the seas
+have been placed here, casting eerie white light throughout the chamber.  A
+stack of wicked looking chained cannon balls stands in the corner looking lost
+beside a decayed cannon.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11093
+S
+#11095
+The Ancient Burial Chamber of the Last Great King~
+Salty air mixes with death and decay here, bouyed by the sound of crashing waves
+from long ago.  The echos of memories seem vividly real here, as if an
+enchantment holds these sounds and smells within the tomb.  Dancing candle light
+fills the tomb, lending feeble light and casting more shadows than it dispells.
+~
+110 8 0 0 0 0
+D0
+~
+~
+0 0 11089
+D1
+~
+~
+0 0 11096
+D2
+~
+~
+0 0 11085
+D3
+~
+~
+0 0 11081
+S
+#11096
+The Ancient Burial Chamber of the Last Great King~
+Eerie green water fills the trenches on either side of the hallway.  
+Periodically the shimmer of gold peeks out from under the bones of the fallen.
+The floor is roughly hewn and leads to much stumbling and falling.  Merfolk
+enchanted orbs have been used to light this hallway, although they are far less
+frequent here than in other places in the chambers.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11097
+D3
+~
+~
+0 0 11095
+S
+#11097
+The Ancient Burial Chamber of the Last Great King~
+Eerie green water fills the trenches on either side of the hallway.  
+Periodically the shimmer of gold peeks out from under the bones of the fallen.
+The floor is roughly hewn and leads to much stumbling and falling.  Merfolk
+enchanted orbs have been used to light this hallway, although they are far less
+frequent here than in other places in the chambers.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11098
+D3
+~
+~
+0 0 11096
+S
+#11098
+The Ancient Burial Chamber of the Last Great King~
+Eerie green water fills the trenches on either side of the hallway.  
+Periodically the shimmer of gold peeks out from under the bones of the fallen.
+The floor is roughly hewn and leads to much stumbling and falling.  Merfolk
+enchanted orbs have been used to light this hallway, although they are far less
+frequent here than in other places in the chambers.  
+~
+110 8 0 0 0 0
+D1
+~
+~
+0 0 11099
+D3
+~
+~
+0 0 11097
+S
+#11099
+The Ancient Burial Chamber of the Last Great King~
+The trench of saltwater has been cut short and leads to a very large pool of
+water.  The green light is fainter here, and amplified by millions of shining
+golden surfaces.  On a raised platform that looks impossible to reach an
+astounding amount of gold has been left.  Chalices and jewelry hang and fall
+haphazardly along the pile.  A top the pile an irvory tower capped with a giant
+pearl and a very ornate crown.  Tiny replicas of pirate ships line the entrance
+to the fake ocean, each looking ready to fire and give it's life to protect the
+ultimate treasure.  
+~
+110 8 0 0 0 0
+D3
+~
+~
+0 0 11098
+S
+$~

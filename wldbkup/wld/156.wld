@@ -1,0 +1,406 @@
+#15600
+A Narrow Mountain Trail (I)~
+The narrow trail hugs the mountainside as it curves upwards. The constant roar
+of the nearby volcano leaves the mountain in a state of upheaval, resulting in
+numerous landslides. The path is badly damaged from the barrage of rocks and
+boulders that has fallen down the mountainside. One wrong step could easily
+send a person tumbling over the edge into oblivion.
+~
+156 65600 0 0 0 0
+D0
+~
+~
+0 0 4203158
+D4
+~
+~
+0 0 15601
+S
+#15601
+A Narrow Mountain Trail (I)~
+The peak of this enormous mountain is hidden behind a shroud of mists and
+clouds. Rockslides are a constant threat due to the upheaval from the
+neighboring volcano. Boulders and debris have fallen over the path, leaving
+nothing but a narrow ledge to traverse. The part that remains is badly damaged
+and awkward to navigate. The narrow trail continues down and to the south.
+~
+156 65600 0 0 0 44
+D2
+~
+~
+0 0 15602
+D5
+~
+~
+0 0 15600
+S
+#15602
+A Narrow Mountain Trail (I)~
+A thick mist shrouds the narrow path. The mist lingers in the air, making it
+impossible to see the ground clearly. Boulders and debris covering the path
+make it difficult to obtain secure footing on this extremely narrow trail. One
+wrong step could easily send a person over the side of the mountain. Frequent
+thundering crashes from above suggest rockslides are a regular occurrence in
+this place. The trail heads north and south.
+~
+156 65536 0 0 0 44
+D0
+~
+~
+0 0 15601
+D2
+~
+~
+0 0 15603
+S
+#15603
+A Narrow Mountain Trail (I)~
+The trail hugs a huge volcanic mountain. The mountainside is composed of black
+stone that seems to be in a constant state of upheaval. Rocks could come
+crashing down the mountain at any moment as the nearby volcano erupts with fury.
+The path is already badly damaged from the impact of previous landslides. 
+Chunks of rock are missing, creating gaps in the path that could send a person
+tumbling down the mountain. A thick mist covers the mountainside, making it all
+the more difficult to move along this dangerous path. The path heads to the
+north and south.
+~
+156 65536 0 0 0 53
+D0
+~
+~
+0 0 15602
+D2
+~
+~
+0 0 15604
+S
+#15604
+A Narrow Mountain Trail (I)~
+The volcanic mountain thunders from above, seemingly ready to explode at any
+moment. The ground shakes with power, and the rocks seem to loosen underfoot.
+A thick mist cloaks the mountainside, making it impossible to see dangers that
+may fall from above. The path is already badly damaged from the impact of
+previous landslides. Boulders and and debris cover the trail, making it
+difficult to cross. The parts of the trail that remain are riddled with gaps
+that could send a person tumbling down the mountain. The little that remains of
+the path heads to the north and south.
+~
+156 65536 0 0 0 53
+D0
+~
+~
+0 0 15603
+D2
+~
+~
+0 0 15605
+S
+#15605
+A Narrow Mountain Trail (I)~
+The large mountain looming overhead produces a constant rumbling sound that
+fills the air with its fury. Several large boulders have toppled accross the
+trail, leaving it badly damaged. The thin trail hugs the mountain as it changes
+direction. Previous landslides have cleared away all the vegetation that might
+once have grown along the path, leaving it barren. A strange mist, cold and
+unwelcoming, shrouds the mountainside. The path continues to the north and
+east.
+~
+156 65536 0 0 0 53
+D0
+~
+~
+0 0 15604
+D1
+~
+~
+0 0 15606
+S
+#15606
+A Narrow Mountain Trail (I)~
+The thin trail hugs the mountain as it changes direction. The mountain appears
+to be a huge pile of black stones, many of which have toppled over the trail,
+damaging it badly. The air thins at this high altitude, turning cold and moist.
+The mountain walls seem to become more overbearing as the trail progresses. A
+thick gray mist covers the mountainside like a veil. Small pebbles and rocks
+slide down the side of the mountain as if anticipating an oncoming rockslide. 
+The path continues to the south and west.
+~
+156 65536 0 0 0 53
+D2
+~
+~
+0 0 15607
+D3
+~
+~
+0 0 15605
+S
+#15607
+A Mountain Pass (I)~
+Two immense mountains meet here to form a pass. The trail is wide and sturdy.
+The colossal mountains block the wind, making the area warm and secure. 
+Shadows loom all around, as the tall mountain peaks block out the light. 
+Despite the darkened skies, several small plants and shrubs line the trail. 
+Large black birds can be seen flying in circles above, searching for prey and
+squawking loudly at each other. The trail heads to the north and south.
+~
+156 65536 0 0 0 5
+D0
+~
+~
+0 0 15606
+D2
+~
+~
+0 0 15608
+S
+#15608
+Before a Giant Cave (I)~
+The mountain range closes in to the south and west to create an alcove. The
+stones in the mountainside are extremely smooth and glossy, a result that could
+not have occurred naturally. To the east, a giant cave stands carved out of the
+mountainside. The magnitude of the cave is awe-inspiring. The size of the cave
+warrants taking a moment to pause and speculate about what creatures might live
+within it. Thick tangles of vines and cobwebs hang over the mouth of the cave,
+making it difficult to see farther inside.
+~
+156 65540 0 0 0 83
+D0
+~
+~
+0 0 15607
+D3
+~
+foliage~
+0 0 15609
+S
+#15609
+The Hidden Path (I)~
+A small path lies hidden by a magical spell cast long ago. The spell seems to
+be fading in power, as the eastern wall fades in and out of existence. The
+trail is clean and well-kept. Patches of green and yellow grass line the dirt
+path. The sounds of a stream coursing down the mountainside can be heard in the
+distance. The pathway continues to the west, and the entrance to a large cavern
+can be seen to the east.
+~
+156 65536 0 0 0 55
+D1
+~
+~
+0 0 15608
+D3
+~
+~
+0 0 15610
+S
+#15610
+A Grassy Knoll (I)~
+Hidden within the mountain pass, this small knoll is covered with blue-green
+grass and smatterings of flowers. Several large trees can be found on the
+hillside, offering shade during the day from the warm sunlight. A small dirt
+path heading east and west traverses the hill and makes for a pleasant walking
+trail.
+~
+156 65536 0 0 0 64
+D1
+~
+~
+0 0 15609
+D3
+~
+~
+0 0 15611
+S
+#15611
+A Grassy Knoll (I)~
+The small knoll is covered with several varieties of grasses, which blend to
+form pleasant textures of blue, green, and yellow. Wildflowers complement the
+rich, grassy field by adding a bright mix of colors to the hillside. Several
+large oaks provide a shady place to rest. The sounds of a gurgling stream can
+be heard in the distance. A dirt path traversing the hill heads to the north
+and to the east.
+~
+156 65536 0 0 0 64
+D0
+~
+~
+0 0 15612
+D1
+~
+~
+0 0 15610
+S
+#15612
+A Grassy Knoll (I)~
+A wide assortment of wildflowers covers the hillside. The aroma from their
+blossoms fills the air with a sweet fragrance that is almost intoxicating. 
+Several small trees have been planted that are strange and unusual-looking. 
+The trees have bright, colorful leaves that seem to sparkle in the sunlight. 
+Honeyed syrup is tapped and flows freely from the tree trunks. A dirt path
+heading through the knoll travels to the south and west of here.
+~
+156 65536 0 0 0 64
+D2
+~
+~
+0 0 15611
+D3
+~
+~
+0 0 15613
+S
+#15613
+A Grassy Knoll (I)~
+The hillside is covered in a variety of colorful grasses that sway gently in the
+breeze. The grass is soft and warm, perfect for a leisurely stroll. Vibrantly
+colored flowers scattered about the field add to the brilliant texture of the
+landscape. Tall, picturesque trees offer a place to rest away from the heat of
+the sun. A small dirt trail heading through the knoll goes east and west.
+~
+156 65536 0 0 0 64
+D1
+~
+~
+0 0 15612
+D3
+~
+~
+0 0 15614
+S
+#15614
+A Grassy Knoll (I)~
+Several trees are scattered about the hillside. Bright, juicy fruits, nurtured
+by the rich soil and warm sun, hang from the branches of the trees. The leaves
+gently sway in the warm breeze that comes from the nearby mountain range. The
+bouquet from the wildflowers growing throughout the area adds a pleasant
+fragrance to the air, which is complemented by the soothing sounds of a stream
+running nearby. A dirt path, traversing the hillside, travels to the east and
+west.
+~
+156 65536 0 0 0 64
+D1
+~
+~
+0 0 15613
+D3
+~
+~
+0 0 15615
+S
+#15615
+A Grassy Knoll (I)~
+A pleasant fragrance fills the air from the blossoming wildflowers that cover
+the knoll. The colorful buds complement the blue, green, and yellow grasses
+that grow along the hillside to help create a rich and textured landscape. The
+area is completely quiet, save for the sound of running water coming from a
+creek or stream in the distance. Despite the picturesque view from the knoll,
+there is something indefinably unsettling about the environment. A dirt path
+continues through the knoll to the east and west.
+~
+156 65536 0 0 0 64
+D1
+~
+~
+0 0 15614
+D3
+~
+~
+0 0 15616
+S
+#15616
+A Grassy Knoll (I)~
+The soft green grasses are warm and pleasant to walk on. The dark soil is the
+perfect breeding ground for the colorful array of wildflowers growing on the
+knoll. Large, succulent fruits grow on the tall, shady trees. A warm breeze
+coming down from the mountain range creates soft whistling sounds as it passes
+through the leaves of the trees and through the blades of grass. In spite of
+its idyllic appearance, the knoll has an intangible quality that is somehow
+disturbing. The dirt path traversing the knoll heads east and west.
+~
+156 65536 0 0 0 64
+D1
+~
+~
+0 0 15615
+D3
+~
+~
+0 0 15617
+S
+#15617
+A Grassy Knoll (I)~
+The rolling hillside is covered in soft and colorful grasses. Several large
+trees offer shade and fruit for anyone wanting to partake of their pleasures. 
+The fertile soil nourishes a wide variety of wildflowers that grow throughout
+the field. Many of the flowers are in season, and their blossoms add a sweet
+aroma to the air. The hillside is eerily quiet. Despite the surrounding
+beauty, there is an overwhelming sense of sorrow coming from the creatures that
+live here. The dirt path heads north to the top of the hill and east along the
+grassy knoll.
+~
+156 65536 0 0 0 64
+D0
+~
+~
+0 0 15618
+D1
+~
+~
+0 0 15616
+S
+#15618
+Atop the Hillside (I)~
+The hillside provides a spectacular view overlooking the entire knoll. A large
+spring of crystal clear water feeds a creek running down the western side of the
+hill. Colorful fish glide through the clear water with a grace that is
+captivating. Tall green reeds sway along the edge of the spring. Blue-green
+grass and blossoming wildflowers cover the remainder of the hillside. Several
+large boulders encircling the pond provide an ideal resting spot. Despite its
+serene appearances, the hillside has an ominous quality that is elusive to the
+eye.
+~
+156 65536 0 0 0 64
+D2
+~
+~
+0 0 15617
+D3
+~
+~
+0 0 15619
+S
+#15619
+Along a Creek (I)~
+The water looks cool and refreshing as it gently flows over the various rocks
+and stones that line the creek. Schools of minnows and small fish can be seen
+swiftly swimming downstream. Large green reeds flourish along the bank of the
+creek. The water is shallow enough to walk through however, the wet stones look
+slippery and could be hazardous if traversed too quickly. The stream is being
+fed from the east and continues down towards the west.
+~
+156 65536 0 0 0 78
+D1
+~
+~
+0 0 15618
+D3
+~
+~
+0 0 15620
+S
+#15620
+On a Creek (I)~
+Tall green plants lining the edge of the creek sway in the breeze. The floor of
+the creek is lined with stones that glimmer through the water. The stones'
+luster is comparable to that of precious gems, and their beauty seems wasted
+sitting on the bottom of a remote creek. Despite their radiance, the stones are
+slippery and difficult to walk on. The water is deep and flows quickly in this
+part of the creek. Further movement east or west of here warrants caution.
+~
+156 65536 0 0 0 78
+D1
+~
+~
+0 0 15619
+S
+$~

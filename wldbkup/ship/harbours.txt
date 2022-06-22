@@ -1,0 +1,76 @@
+*Port List:    Y    X    Name
+#HARBOUR       1160 1638 The City~
+#HARBOUR       1152 827  Test Port~
+
+
+*This is a 60+ mapped movement, pretty much opposite sides of the continent
+#COURSE
+Vnum           1
+Name           The City to Test Port~
+Port_Orig      1160 1638
+Port_Dest      1152 827
+Step           1153 1660 
+Step           1153 1682
+Step           1161 1702
+Step           1169 1719
+Step           1179 1731 *5
+Step           1191 1758
+Step           1218 1783
+Step           1258 1783
+Step           1281 1763
+Step           1297 1740 *10
+Step           1320 1746
+Step           1343 1734
+Step           1358 1719
+Step           1378 1713
+Step           1399 1710 *15
+Step           1403 1678
+Step           1423 1658
+Step           1443 1638
+Step           1472 1600
+Step           1472 1555 *20
+Step           1474 1508
+Step           1471 1483
+Step           1478 1421
+Step           1458 1401
+Step           1448 1381 *25
+Step           1443 1349
+Step           1431 1329
+Step           1433 1309
+Step           1473 1291
+Step           1553 1301 *30
+Step           1624 1302
+Step           1654 1262
+Step           1669 1222
+Step           1679 1182
+Step           1722 1132 *35
+Step           1737 1070
+Step           1767 978
+Step           1777 894
+Step           1787 824
+Step           1797 744 *40
+Step           1797 684
+Step           1782 632
+Step           1732 612
+Step           1692 618
+Step           1640 637 *45
+Step           1592 671
+Step           1562 715
+Step           1542 767
+Step           1482 797
+Step           1392 799 *50
+Step           1333 827
+Step           1313 727 
+Step           1233 742
+Step           1188 764
+Step           1175 774 *55
+Step           1163 805
+Step           1193 824
+Step           1174 832
+Step           1158 825
+Step           1155 827 *60
+Step           1153 828
+End
+
+#END
+

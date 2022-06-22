@@ -1,0 +1,295 @@
+#5800
+The Beginning~
+Welcome to the Realms of Kuvia! If you have just completed making your first
+character, congratulations. This is The Beginning, the start of every
+character's journey in this dangerous and exciting world. You are still a
+novice, and have lessons to learn before you are ready to go and interact with
+your fellow players and the world around you. Read each room description in
+this area for important information on what to do next. Proceed north by typing
+'north' into your prompt and pressing enter or return. Words in '' are
+commands. You may type 'exit' at any time to see available exits. Also, by
+typing 'autoexit', exits will automatically be displayed when you enter a room.
+~
+58 8 0 0 0 0
+D0
+~
+~
+0 0 5801
+S
+#5801
+The Path of Enlightenment: Wayfinder~
+There are many commands, some of which you will use a lot and some of which will
+rarely cross your screen. On the Path of Enlightenment you will learn the most
+basic and most useful commands, and some of the principles of a text-based game.
+Most commands can be abbreviated to one or more letters, since it is tedious to
+repeatedly type out a command over and over. The basic movement commands are
+north, east, south, west, up, and down, each of which shorten to their first
+letter. Try following the path east to your next lesson.
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5802
+D2
+~
+~
+0 0 5800
+S
+#5802
+The Path of Enlightenment: Vision~
+Use the 'look' command to view the room you are in. The entire world is made of
+a series of "rooms", each representing a small area of the game. Someone seems
+to have dropped their bag here- go ahead and take it, if its on the ground it's
+yours. Type 'get bag' to pick up the bag, which puts it in your 'inventory'. 
+Use 'examine' to look at an object and its contents, using the syntax 'examine
+<object>'.
+~
+58 0 0 0 0 0
+D2
+~
+~
+0 0 5803
+D3
+~
+~
+0 0 5801
+S
+#5803
+The Path of Enlightenment: Possessions~
+You now have in your possession, if you got it in the last room, a bag and 25
+gold coins. Use 'inventory' to see the items you currently carry on your
+person, and 'equipment' to see what items you are wearing. Good god, you're
+running around in your skivvies! Fortunately, a shop keeper has been positioned
+here to help passersby with such a problem as this. Use 'list' to see what
+goods are for sale and for how much. Use 'buy <item#>' to fork over the gold in
+return for that item. It is suggested that you buy one of each item before
+going down. By the way, 'wear all' - you have got some equipment already.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5802
+D5
+~
+~
+0 0 5804
+S
+#5804
+The Path of Enlightenment: Possessions II~
+If you followed the instructions of the last room and bought one of everything,
+you should have a canteen, a hat, the prodding stick, a pair of sandals, faded
+blue jeans, and a flannel shirt. Use the 'wear' command to wear equipment,
+'hold' to hold the canteen, and 'wield' to wield the stick. Different items are
+used in different ways: the clothing is meant to be worn, the canteen holds
+water to drink from when held, and the stick is your first weapon. Proceed west
+when you have tried these commands.
+~
+58 0 0 0 0 0
+D3
+~
+~
+0 0 5805
+D4
+~
+~
+0 0 5803
+S
+#5805
+The Path of Enlightenment: Combat~
+There will always be someone or something against you. Always. Now that you
+are prepared, you may face your first foe- the nightmare leech. It is a wary
+foe, and will not attack you, but it must be overcome to continue eastward. 
+Use 'consider' to tell how strong a foe is compared to you, and 'kill <target>'
+to initate combat. If you need to, 'flee' to another room and 'rest' to
+regenerate some hit points. At the end of combat 'get all corpse' and see what
+you find.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5806
+D1
+~
+~
+0 0 5804
+S
+#5806
+The Path of Enlightenment: Nourishment~
+Congratulations on having mastered your fears. Buried within fears are your
+expectations, and what more could you expect from a well-fought battle than a
+good meal? Lo, a kipling pie appeared in the corpse of the leech! Food and
+water are both healthy parts of a complete breakfast, and essential to your
+survival. Your hit points, mana, and movements will regenerate much slower when
+you are hungry or thirsty, so take the time to eat up!
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5807
+D2
+~
+~
+0 0 5805
+S
+#5807
+The Path of Enlightenment: Persona~
+Use the 'score' command to view your personal status. Such information as your
+name, your level, and spell affects will appear. Notice the spot for saving
+throws and armor class: those kinds of scores you want to decrease, as the lower
+they are, the lower the chance of you being fully affected by an attack (saving
+throws for special attacks, armor class for melee attacks). Your Hit points,
+Mana, and moVements are displayed in your prompt, above the bar where you put in
+commands.
+~
+58 0 0 0 0 0
+D2
+~
+~
+0 0 5808
+D3
+~
+~
+0 0 5806
+S
+#5808
+The Path of Enlightenment: Growth~
+You will grow more powerful and more knowledgeable with time, maybe become a
+legendary player. At the class guilds in Taris'Vaal, the main city in the
+Realm, you can learn the tools of your trade, the skills of warriors and thieves
+and the spells of clerics and mages. You can only practice skills and spells of
+your level and class, and this consumes practices which you should have. Don't
+expect to train everything to the max right now, but get ones that will help you
+raise your level. Use the 'practice' command to see what you can practice, and
+'practice <skill>'. These guilds are located on the southernmost street of the
+city, just north of the southern gate.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5807
+D5
+~
+~
+0 0 5809
+S
+#5809
+The Path of Enlightenment: Identity~
+Type 'score'- this will display your basic statistics. These will change with
+time, as you level up (this affects Hp, Mana, moVements, and sometimes Armor
+Class, Hit Roll, and Damage Roll), as you decide whether you want to be good,
+neutral, or evil (this is your alignment, which ranges from -1000 to 1000).
+                                                                                                                                             As you get closer to the light, your shadow becomes more defined. Fight!
+
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5810
+D4
+~
+~
+0 0 5808
+S
+#5810
+The Path of Enlightenment: Shortcuts~
+Congratulations on making it this far- you are almost ready to go into the real
+game world. You would be wise to figure out how to abbreviate commands: it'll
+make your life a lot easier. Most commands can be shortened to within the first
+few letters of the full command- try out some of the commands you've learned
+already, just abbreviate them. If you hang out south of here for a little
+while, your shadow should come back, and you can try abbreviating combat
+commands against it.
+~
+58 0 0 0 0 0
+D2
+~
+~
+0 0 5809
+D3
+~
+~
+0 0 5811
+S
+#5811
+The Path of Enlightenment: Doors~
+Beyond this door to the east is the final path before you go to the outside
+world. First, you need to figure out how the heck you open this door! If you
+try to 'open door' you will find it is locked, but fortunately the one who
+locked it in the first place dropped the key. It's on the ground, so it is
+yours to use- get key, and 'unlock door', then 'open door' and proceed towards
+your final destination.
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5810
+D2
+~
+door~
+2 5811 5812
+S
+#5812
+The Path of Enlightenment: Socialization!~
+What's a massive multiplayer game without a little communication? Fortunately,
+we gods have provided you with diverse means of communication, the most basic of
+which are 'say <message>' and socials such as hug, wave, and explode. There are
+other methods of communication as well, and just about anything you can imagine
+to do is a social- if it isn't a social already, suggest it to a god, and it
+will be one soon! Read 'help communication' for more information on this topic.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5811
+D1
+~
+~
+0 0 5813
+S
+#5813
+The Path of Enlightenment: Help~
+There is always help for those who ask for it. If you want to know more about a
+command, type 'help <topic>' to read what the gods have to say about it. To
+further educate yourself, read some of the related help files suggested at the
+end of the file. If you think something should have a help file, suggest it to
+a god and it probably will be one soon!
+~
+58 0 0 0 0 0
+D3
+~
+~
+0 0 5812
+D5
+~
+~
+0 0 5814
+S
+#5814
+The End of the Path: Do's and Do-NOT's~
+To get an overview of the do's and dont's, type <policy>. These are a few
+rules, which must be abided by for you to be allowed to stay. We try to keep
+them short and to the point. The last command you'll learn here is 'recall'. 
+This will transport you to the center of the main city. From here on out, you
+are your own guide. If you need help, just ask around- may the gods of Kuvia
+look favorably upon you in your exploits. Type 'recall' or head south into the
+guildhall to leave this place and move on to greener pastures.
+~
+58 0 0 0 0 0
+D2
+~
+~
+0 0 6301
+D4
+~
+~
+0 0 5813
+S
+$~

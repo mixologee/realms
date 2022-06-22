@@ -1,0 +1,116 @@
+Name: Ponnet
+Pass: PoyeAkDa0rv5M
+Titl: the Savant
+Logs: -1
+Sex : 1
+Levl: 16
+Id  : 327
+Brth: 1245944130
+Plyd: 700105
+Last: 1246644235
+Pmpt: (null)
+Host: 72.128.68.228
+Hite: 191
+Wate: 157
+Alin: -69
+Act : ghq 0 0 0
+Aff : 0 0 0 0
+Pref: hoE 0 0 0
+Wimp: 10
+Room: 6916
+Lern: 5
+Hung: 17
+Hit : 228/110
+Mana: 12/196
+Move: 228/230
+Str : 14/0
+Int : 16
+Wis : 14
+Dex : 14
+Con : 14
+Cha : 16
+Ac  : 100
+Gold: 134869
+Exp : 5059114
+Hrol: 5
+Drol: 4
+Page: 0
+Reca: 12000
+Mkls: 143
+Deth: 1
+Clan: 100
+Wmg : 1
+Qstt: 0
+OreI: 100
+OreG: 100
+OreB: 100
+OreC: 100
+OreT: 100
+OreM: 98
+OreA: 100
+OreS: 100
+GemD: 100
+GemC: 100
+GemJ: 100
+GemR: 100
+GemE: 100
+GemS: 100
+GemG: 100
+GemT: 100
+Dyng: -1
+ScrW: 0
+Page: 0
+News: 16
+Gnew: 0
+Etho: 2
+Sec : 1
+TDD : 82261
+TDT : 3971
+Skil:
+1 95
+2 95
+4 95
+5 95
+6 95
+8 95
+10 95
+19 95
+20 95
+21 95
+25 95
+26 95
+29 95
+30 95
+31 95
+32 95
+33 95
+37 95
+38 95
+39 95
+50 95
+55 95
+83 95
+98 95
+154 10
+155 15
+156 10
+164 95
+0 0
+Prof:
+0 0
+Wood:
+0 0
+Scal:
+0 0
+Skin:
+0 0
+Affs:
+1 12 -20 17 0
+50 1 0 0 11
+19 7 0 0 4
+164 9 -45 17 0
+0 0 0 0 0
+Alis: 1
+ooc
+gossip $1
+1

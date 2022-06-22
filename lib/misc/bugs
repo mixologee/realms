@@ -1,0 +1,46 @@
+Malander (Jul 31) [ 6300] create water doesnt work, creates food
+Accarid  (May  5) [ 6402] Modifier to hitroll on oedit c for weapons does not appear on appraise.
+Accarid  (May 10) [ 6531] Hit Points:  13556(6778)     Mana:  6778(6778)     Movement:  5127(5127)
+Accarid  (May 11) [ 6433] Brief doesn't work.
+Accarid  (May 16) [16022] Throw items still don't get damage dice/hitroll modifier/etc. under C) Values.
+Accarid  (May 16) [16022] His/her modifiers don't seem to work, not just in socials.
+Accarid  (May 17) [16030] A scroll does not show all of the spells it holds.
+Accarid  (May 25) [2400697] Some of the exits on the island around zone 146 are broken.
+Accarid  (May 25) [2396701] The last bug reported seems to have to do with the new wilderness map system we've got going.
+Bluntmaster (Jun  1) [ 6305] fix wilderness to make sure altars load at startup
+Araevin  (Jun 20) [ 6396] Cannot sell equipment worth money to horus the swordsmaster in taris vaal
+Araevin  (Jun 20) [3001063] when casting invisible while sitting it first says "you cast spell" and immediatly after it says "you cannot do this while sitting"
+Araevin  (Jun 21) [ 4660] when invisible and i attack i still remain invisible,and it is a player casted spell, not god invisibility
+Accarid  (Jun 23) [  401] When a target falls unconscious, melee combat ceases for the aggressor.
+Accarid  (Jun 23) [14600] You can still plunder someone after they regen their hps back after death
+Accarid  (Jun 23) [14600] I think that zone 146 is affected completely by the NO_TELEPORT NO_RECALL flags when it is only put on a few rooms.
+Accarid  (Jun 24) [ 5803] Wear all doesn't make you hold a light.
+Accarid  (Jun 25) [ 5800] Email addresses are not accepted at creation.
+Accarid  (Jun 25) [ 4617] Energy Drain kills the game.
+Accarid  (Jun 25) [ 7257] The guilds in The City aren't working.
+Accarid  (Jun 25) [ 4617] Crystalgate is broken somehow!
+Ponnet   (Jul  3) [ 7219] mage spells do the same damage regardless of spell level or mana used... magic missile and call lightning both do the same damage
+Ponnet   (Jul  3) [  425] orb satchell does not work as a light
+Accarid  (Jul  3) [  400] There is no wait time for falling into a death trap.
+Bardicer (Jul  5) [ 5800] new
+Araevin  (Jul  8) [ 7215] i am able to put a container in a container
+Timtek   (Jul 10) [ 5802] policy doesn't show the policy
+Timtek   (Jul 10) [ 5802] on the eq screen, eq condition has extra blank space in front of the word perfect.
+Timtek   (Jul 10) [ 5802] not so much a bug but in the inv screen, quantities of items should be at the end so things line up properly.
+Timtek   (Jul 10) [ 5802] the help system does not work.
+Timtek   (Jul 10) [ 5803] in "mud school" the room The Path of Enlightenment: Possesions mentions a shop but there does not seem to be one. Players can not buy anything.
+Timtek   (Jul 10) [ 6396] when buying From the shopkeeper you get a message about YOU not having the item, when selling TO the shopkeeper he says HE doesn't stock the item.
+Timtek   (Jul 10) [ 6396] exp gain is to high for sac'ing corpses and items. Very easy to abuse.
+Timtek   (Jul 10) [ 6309] not sure about this but backstab seems to hit even when it doesn't. It said i miss and yet the custodian died.
+Timtek   (Jul 10) [ 5803] went back to shop in newbie school and dood is there now, maybe he's invis? I quaffed a pink...
+Timtek   (Jul 10) [ 6322] when trying to leave the city, I get the message that I'm too powerful for that area, but I'm only level 7.
+Xiron    (Jul 11) [ 5800] when trying to buy sandals in the newbie shop, it seems to crash the mud
+Xiron    (Jul 11) [ 6301] the guidebook you receive at creation, when typing read guidebook says the pages of the book are too worn to read...
+Xiron    (Jul 11) [ 6310] as I gain levels I lose -5 mana
+Accarid  (Jul 11) [ 6531] Teleport won't send to wilderness.
+Timtek   (Jul 13) [ 6900] I typed learn fishing and the mud crashed. Did it again and it crashed again. This was as a god.
+Timtek   (Jul 13) [ 6041] learn fishing bug also occurs if players type it. I tested this with twitch he's level 1 or 2.
+Accarid  (Jul 13) [ 1100] AFK flag doesn't show up when you're In the Mist.
+Accarid  (Jul 15) [ 6531] Status on a piece of mail does not change when it is read.
+Accarid  (Jul 15) [ 6531] Saving drafts crashes the game.
+Araevin  (Jul 19) [ 6354] where my stats should be displayed it says (null)

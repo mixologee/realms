@@ -1,0 +1,129 @@
+#6000
+god board~
+a holy god board~
+The god board has been integrated into the wall, and pulses quietly. ~
+~
+16 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+999 0 0 32
+#6001
+Laser Cannon~
+a huge laser cannon~
+This shouldn't be laying around.~
+~
+1 abcr 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 32
+A
+17 -30
+#6002
+titantium battle armor~
+titanium battle armor~
+Something big must have died here.~
+~
+9 cr 0 0 0 ad 0 0 0 0 0 0 0
+50 0 0 0
+0 0 0 32
+A
+13 100
+#6003
+Proton Cannon~
+a twin proton cannon~
+A Massive cannon is lying here.~
+~
+5 abcr 0 0 0 an 0 0 0 0 0 0 0
+30 50 50 12
+9999 0 0 41
+A
+18 50
+A
+19 50
+#6004
+pacman arcade game~
+a pac-man arcade game~
+An upright Pac-Man arcade machine stands against the wall.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0
+999999 0 0 33
+#6005
+donkey kong arcade game~
+a donkey kong arcade game~
+An upright Donkey Kong arcade machine stands against the wall.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0
+999999 0 0 33
+#6006
+a defender arcade game~
+a defender arcade game~
+An upright Defender arcade machine stands against the wall.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0
+999999 0 0 33
+#6007
+a joust arcade game~
+a joust arcade game~
+An upright Joust arcade machine stands against the wall.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+999999 0 0 33
+#6008
+a ms. pac-man arcade game~
+a ms. pac-man arcade game~
+A Ms. Pac-man table top arcade machine sits here.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0
+999999 0 0 33
+#6009
+a donkey kong jr. arcade game~
+a donkey kong jr. arcade game~
+A Donkey Kong Jr. table top arcade machine sits here.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0
+999999 0 0 33
+#6010
+a gauntlet arcade game~
+a gauntlet arcade game~
+A Gauntlet table top arcade machine sits here.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0
+999999 0 0 33
+#6011
+a mario bros. arcade game~
+a mario bros. arcade game~
+A Mario Bros. table top arcade machine sits here.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 33
+#6012
+bag doritos~
+a lil' bag of doritos~
+A small shiny red bag is on the ground.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+24 0 0 0
+0 1 0 20
+#6013
+bag chips~
+a lil' bag of chips~
+A small shiny bag is lying here.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+24 0 0 0
+0 1 0 20
+#6014
+reese cup~
+a reese's peanutbutter cup~
+A tasty peanutbutter cup is on the ground.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+24 0 0 0
+0 1 0 20
+$~

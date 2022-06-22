@@ -1,0 +1,311 @@
+#12000
+behemoth armor~
+behemoth plate armor~
+A MASSIVE set of plate armor lies here, waiting for a gargantuan host.~
+~
+9 mnop 0 0 0 ad 0 0 0 0 0 0 0
+20 0 0 0
+0 0 0 0
+A
+18 10
+A
+19 10
+A
+24 -5
+#12001
+staff Kain~
+the electrum staff of Kain~
+A long, heavy-looking staff of banded grey metal twists and gyrates within itself here.~
+~
+5 jlnop 0 0 0 an 0 0 0 0 0 0 0
+0 6 5 7
+10 7000 0 30
+A
+12 60
+A
+13 10
+#12002
+robe Kain~
+a ragged black robe, lined with chainmail~
+A ragged black robe lies here, with chainmail glimmering through its holes.~
+~
+9 jlnopw 0 0 0 ad 0 0 0 0 0 0 0
+2 0 0 0
+15 7000 0 30
+A
+12 40
+A
+13 7
+#12003
+staff~
+a holey stone, transparent and holey~
+A holey stone lies here, looking holey.~
+~
+4 0 0 0 0 ao 0 0 0 0 0 0 0
+30 10 10 75
+0 0 0 15
+#12004
+robe~
+a blood-stained robe of the Ludrix clergy~
+A silk robe lies here, its pure whiteness tainted by the spilt blood of its previous occupant.~
+~
+11 kmp 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+7 0 0 30
+A
+2 -1
+A
+12 10
+A
+13 15
+#12005
+pike~
+an intricately engraved pike of Ludrix~
+An intricately engraved pike as long as a man lies on the ground at your feet.~
+~
+5 kmnw e 0 0 an 0 0 0 0 0 0 0
+10 6 7 14
+15 9000 0 30
+A
+1 3
+A
+19 5
+#12006
+Karma tuna~
+a frozen tuna~
+A thoroughly solid albacore lies here, looking rather stricken and frozen.~
+~
+5 rv 0 0 0 an 0 0 0 0 0 0 0
+10 8 8 5
+10 0 0 0
+A
+12 127
+A
+13 127
+A
+18 10
+A
+19 10
+A
+24 -10
+A
+17 -100
+#12007
+Araevin's scimitar~
+Araevin's double-bladed, adamantine scimitar~
+A double-bladed scimitar of adamantine lies balanced on the side of its hilt.~
+~
+5 hrv d 0 0 anr 0 0 0 0 0 0 0
+4 6 6 3
+0 0 0 0
+A
+18 5
+A
+19 5
+A
+1 3
+A
+5 3
+#12008
+Esterok staff~
+Esterok's Staff of Wonder~
+A peculiar red and white staff crackles with energy as it hovers in the air.~
+~
+5 rv de 0 0 an 0 0 0 0 0 0 0
+0 7 6 6
+0 0 0 0
+A
+12 40
+A
+5 3
+A
+3 3
+A
+24 -1
+A
+17 -7
+#12009
+Hex electrum longsword~
+Hex's epic longsword, crafted of electrum~
+A dark metal longsword crackles with energy in the air before you.~
+~
+5 rsv e 0 0 an 0 0 0 0 0 0 0
+10 7 7 3
+10 0 0 0
+A
+18 10
+A
+19 5
+A
+8 1
+#12010
+armor leather~
+light leather body armor~
+A piece of leather body armor lies here in a stiff fold.~
+~
+9 kw 0 0 0 ad 0 0 0 0 0 0 0
+2 0 0 0
+5 1000 0 30
+A
+13 10
+A
+21 -2
+#12011
+shield tower~
+a tower shield emblazoned with the symbol of Ludrix~
+A broad, tall tower shield lies on the ground with enough space beneath it for a child to lie.~
+~
+9 kmnow 0 0 0 aj 0 0 0 0 0 0 0
+20 0 0 0
+40 0 0 30
+A
+13 20
+A
+12 -40
+#12012
+shortsword sword~
+an angled shortsword~
+A short, angled sword lies here, standing off the ground at an odd angle.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+5 8 5 3
+5 9000 0 30
+A
+18 3
+A
+19 1
+A
+12 -12
+#12013
+helmet~
+a helmet with wings~
+A winged helmet stands here, just about ready to take off.~
+~
+9 kw 0 0 0 ae 0 0 0 o 0 0 0
+3 0 0 0
+10 7000 0 30
+A
+18 3
+A
+24 -1
+A
+17 3
+#12014
+bow~
+a curved wooden bow~
+A curved bow of white wood lies here, its string hanging loose.~
+~
+25 kpw e 0 0 an 0 0 0 0 0 0 0
+10 6 6 3
+5 9000 0 30
+A
+2 3
+A
+12 20
+#12015
+quiver~
+a shoulder quiver~
+A white leather quiver lies here, its strap tangled around the bag.~
+~
+37 kw 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+3 4000 0 20
+A
+17 -3
+A
+24 -1
+A
+2 1
+#12016
+arrow~
+a slate-tipped arrow~
+An arrow with a slate head lies here.~
+~
+29 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 20
+A
+19 3
+A
+18 3
+#12017
+chainmail~
+chainmail armor of a battlemage, blackened by fire~
+A blackened shirt of chainmail lies on the ground.~
+~
+9 knopw 0 0 0 ad 0 0 0 0 0 0 0
+3 0 0 0
+10 9000 0 30
+A
+12 20
+A
+13 10
+#12018
+cloak~
+a lavender cloak~
+A once brilliant purple cloak lies here, its color lost to time.~
+~
+11 kmno 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+4 10000 0 35
+A
+1 3
+A
+19 4
+#12019
+boots~
+a pair of tall, steel-plated boots~
+A pair of steel-plated combat boots stands here, ready to stomp some toes.~
+~
+9 kmno 0 0 0 ag 0 0 0 0 0 0 0
+4 0 0 0
+17 10000 0 35
+A
+1 1
+A
+13 20
+#12020
+broadsword ruby~
+Darok's ruby broadsword~
+A semitransparent broadsword of red stone lies here, glittering in the light.~
+~
+5 kmno e 0 0 an 0 0 0 0 0 0 0
+5 12 6 3
+18 100000 0 35
+A
+13 30
+A
+1 3
+#12021
+ring intellect~
+a ring of intellect~
+A smooth, shiny ring lies here.~
+~
+11 w 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+3 1000 0 0
+A
+3 5
+A
+4 5
+A
+1 -5
+A
+2 -5
+#12022
+ring might~
+a ring of might~
+A rough ring of red metal lies here.~
+~
+11 w 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+3 1000 0 0
+A
+1 5
+A
+2 5
+A
+3 -5
+A
+4 -5
+$~

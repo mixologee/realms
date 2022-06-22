@@ -1,0 +1,70 @@
+#11200
+zombie~
+a zombie~
+A large zombie is dripping his flesh here.
+~
+A large, half-decayed human stands before you. Its eyes are cold and empty, literally, and his brains seem to be pouring out from his head.
+~
+6264 0 0 0 80 0 0 0 -500 E
+25 -30 5 30d50+5000 10d20+40
+100 300000
+8 8 0
+BareHandAttack: 4
+Clss: 1
+E
+#11201
+mummy~
+a mummy~
+A large mummy stumbles around the room.
+~
+A large, tightly wrapped mummy with dark beady eyes stares at you blankly. Dust
+flies from his mouth with every grunt and groan he makes.
+~
+40 0 0 0 8272 0 0 0 -500 E
+28 -30 5 30d100+6000 4d10+30
+0 400000
+8 8 0
+BareHandAttack: 10
+Clss: 1
+E
+#11202
+lita queen~
+Queen Lita~
+Marshall's wife Queen Lita is roaming about angrily.
+~
+A once beautiful woman, but now old and decaying. her face is drooped and
+her eyes are cold as ice.
+~
+166136 0 0 0 16 0 0 0 -1000 E
+35 -30 2 30d100+27500 10d5+50
+100000 500000
+8 8 2
+Clss: 1
+E
+#11203
+apprentice mage~
+an apprentice mage~
+A young mage is here practicing her craft.
+~
+A strange looking girl, with a pale grey face. Her hair is dark and long,
+reaching down to her ass.
+~
+237657 0 0 0 56 0 0 0 -250 E
+25 0 2 30d200+10000 20d1+30
+5000 425000
+8 8 2
+Clss: 5
+E
+#11204
+goblin orc~
+a half-orc half-goblin creature~
+A short, stout half-orc half-goblin creature stands here with a hammer.
+~
+It looks unfinished.
+~
+42 0 0 0 0 0 0 0 0 E
+99 20 -10 1d1+30000 1d1+0
+0 0
+8 8 0
+E
+$

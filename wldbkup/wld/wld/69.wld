@@ -1,0 +1,1775 @@
+#6900
+A Laboratory Deep Within the Sewers~
+This "lab" appears to be some kind of control center. The entire northwall is
+a solid grid of monitors, spewing code at lightning speeds. A slender
+reclining chair sits mid-room, complete with wireless keyboard and holster.
+Techno music rumbles through the air, while a sweet pungeant aroma drifts
+about lazily.
+~
+69 8200 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 6902
+D2
+&gSouth of here lie the tranquil gardens of Tek.&n
+~
+~
+0 0 6903
+D3
+&gTo the west of you is another control room.&n
+~
+~
+0 0 6904
+D4
+~
+gateway~
+2 6900 6905
+S
+#6901
+Tek's Sacred Garden~
+This section of the lab was designed to grow maintain and of course harvest,
+Tek's most sacred cannabis plants. Mounted to the walls are large lighting
+structures, designed to mimic and enhance solar light. The plants themselves
+are magnificent, standing roughly 10 feet tall, they're bent over heavily
+from the massive sticky colas. This God obviously take his hobbies quite
+seriously.
+~
+69 28 0 0 0 0
+D0
+~
+~
+0 0 6903
+D2
+~
+~
+0 0 -1
+S
+#6902
+Covert Ops in the Laboratory~
+The monitors that cover the walls in this part of the lab seem slightly
+differant. Slowly you realize it's not the The Game that's being monitored.
+The citizens flashing across the screen's by the hundreds look broken, indeed
+their very spirits seem enslaved. Freedom is not an option in this other
+world. It would seem Tek is hoping to save these "med" heads somehow.
+~
+69 2568 0 0 0 0
+D3
+~
+~
+0 0 6900
+S
+#6903
+A Hallway in the Lab~
+This hallway connects the main lab to the botanical lab. The hallway walls
+are covered in scrolling zone, mob and object stats. Each character or
+symbol is a differant color and in the darkend room, the light show is
+quite amazing.
+~
+69 8 0 0 0 0
+D0
+~
+~
+0 0 6900
+D2
+~
+~
+0 0 6901
+S
+#6904
+A Laboratory Deep Within the Sewers~
+Once again the walls around you are covered in monitors. Images of each
+player in the game flash across the screen, displaying even the most mundane
+detail of the individuals life. In each corner of the room there is a large
+marijuanna plant, carefully trimmed and trained by Tek himself, in the
+ancient art of banzai.
+~
+69 8 0 0 0 0
+D1
+~
+~
+0 0 6900
+S
+#6905
+Before a Small Oak Door, Deep Within the Sewers~
+The sewer ends rather abruptly, before a small door in the floor. Though
+made of wood, it appears to be extremely durable. Bright flashing
+white light peaks thru the keyhole at you, enticingly.
+~
+69 29 0 0 0 0
+D0
+~
+~
+0 0 6906
+D2
+~
+~
+0 0 -1
+D5
+~
+gateway~
+2 6900 6900
+S
+#6906
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, the smell seems to cling
+to your clothes and skin. The stone walls are crumbling in places,
+making the whole are seem rather unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6907
+D2
+~
+~
+0 0 6905
+S
+#6907
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, the smell seems to cling
+to your clothes and skin. The stone walls are crumbling in places,
+making the whole are seem rather unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6908
+D2
+~
+~
+0 0 6906
+S
+#6908
+A Dank and Dirty Room, Deep Within the Sewers.~
+Murky fetid water sloshes out of the small canal.
+The smell is downright offensive and you notice the 
+cockroaches seem to be rather large in this section.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6917
+D1
+~
+~
+0 0 6909
+D2
+~
+~
+0 0 6907
+D3
+~
+~
+0 0 6915
+S
+#6909
+A Dank and Dirty Room, Deep Within the Sewers.~
+Murky fetid water sloshes out of the small canal.
+The smell is downright offensive and you notice the
+cockroaches seem to be rather large in this section.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6910
+D3
+~
+~
+0 0 6908
+S
+#6910
+A Dank and Dirty Room, Deep Within the Sewers.~
+The water in the canal rushes by, splashing the stone walkway
+and making navigation tricky. The stink is everywhere. Insects
+scatter at your footsteps and quickly disappear into the walls.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6911
+D1
+~
+~
+0 0 6940
+D2
+~
+~
+0 0 6909
+D3
+~
+~
+0 0 6917
+S
+#6911
+A Dank and Dirty Room, Deep Within the Sewers.~
+Murky fetid water sloshes out of the small canal.
+The walkway is a bit slippery, better watch your step,
+lest you end up in the canal with the rats.
+~
+69 131081 0 0 0 0
+D2
+~
+~
+0 0 6910
+D3
+~
+~
+0 0 6912
+S
+#6912
+A Dank and Dirty Room, Deep Within the Sewers.~
+The canal overflows onto the walkway here, it looks like some rat 
+carcass's are blocking the water flow. The walkway is slippery 
+with slime and muck.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6916
+D1
+~
+~
+0 0 6911
+D2
+~
+~
+0 0 6917
+D3
+~
+~
+0 0 6913
+S
+#6913
+A Dank and Dirty Room, Deep Within the Sewers.~
+Murky fetid water sloshes out of the small canal. Black moss covers the
+already slippery walkway, even more trechorous. Better watch your step,
+lest you fall into black waters of the canal.
+~
+69 131081 0 0 0 0
+D1
+~
+~
+0 0 6912
+D2
+~
+~
+0 0 6914
+S
+#6914
+A Dank and Dirty Room, Deep Within the Sewers.~
+The water in the canal rushes by, splashing the stone walkway
+and making navigation tricky. The stink is everywhere. Insects
+scatter at your footsteps and quickly disappear into the walls.
+
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6913
+D1
+~
+~
+0 0 6917
+D2
+~
+~
+0 0 6915
+D3
+~
+~
+0 0 6933
+S
+#6915
+A Dank and Dirty Room, Deep Within the Sewers.~
+Murky fetid water sloshes out of the small canal.
+The smell is downright offensive and you notice the
+cockroaches seem to be rather large in this section.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6914
+D1
+~
+~
+0 0 6908
+S
+#6916
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, the smell seems to cling
+to your clothes and skin. The stone walls are crumbling in places,
+making the whole are seem rather unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6918
+D2
+~
+~
+0 0 6912
+S
+#6917
+The Center of a Dank and Dirty Room.~
+Your standing in the center of a large room. This place connects to various 
+corridors in all directions. The sound of murky water drip dropping,
+reverberates through the area. A few gnawed bones lay scattered on the
+ground, further increasing the ominous feeling of death that lingers in
+this evil place.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6912
+D1
+~
+~
+0 0 6910
+D2
+~
+~
+0 0 6908
+D3
+~
+~
+0 0 6914
+D4
+A small faded metal trapdoor.
+~
+trapdoor~
+1 6905 6999
+S
+#6918
+A Filthy Room, Deep Within the Sewers.~
+A small canal channels the brown murky water through the sewer. The area 
+is dark and humid. There doesn't seem to be much down here, except
+for cockroaches and dead things.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6923
+D1
+~
+~
+0 0 6919
+D2
+~
+~
+0 0 6916
+D3
+~
+~
+0 0 6926
+S
+#6919
+A Filthy Room, Deep Within the Sewers.~
+A small canal channels the brown murky water through the sewers. Walking
+along side it, you see random bits of filth floating by. The putrid smell is
+enough to turn even the strongest stomach.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6920
+D3
+~
+~
+0 0 6918
+S
+#6920
+A Filthy Room, Deep Within the Sewers.~
+A small canal channels the brown murky water through the sewers. Walking
+along it, you notice an arm floating by lazily downstream. The sight of it
+makes you wonder what else is floating around in this mess.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6921
+D1
+~
+~
+0 0 6934
+D2
+~
+~
+0 0 6919
+D3
+~
+~
+0 0 6923
+S
+#6921
+A Filthy Room, Deep Within the Sewers.~
+A small canal channels the brown fetid water through the sewer.
+Walking along side it, you see a few dead bloated rats floating by. 
+~
+69 131081 0 0 0 0
+D2
+~
+~
+0 0 6920
+D3
+~
+~
+0 0 6922
+S
+#6922
+A Filthy Room, Deep Within the Sewers.~
+A small canal channels the brown murky water through the sewers. Walking
+along side it, you see random bits of filth floating by. The putrid smell is
+enough to turn even the strongest stomach.
+~
+69 131081 0 0 0 0
+D1
+~
+~
+0 0 6921
+D2
+~
+~
+0 0 6923
+D3
+~
+~
+0 0 6924
+S
+#6923
+The Center of a Filthy Room.~
+The whole area stinks. Pieces of bone and rotting flesh lie about the ground
+in abundance. Something down here has been feeding and it's not to shy 
+about it. The center of the room, is covered in murky brown water, and  
+a few stray rat carcass's lie, half sunken, in the muck.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6922
+D1
+~
+~
+0 0 6920
+D2
+~
+~
+0 0 6918
+D3
+~
+~
+0 0 6925
+D4
+a rusty grate
+~
+grate~
+1 0 6958
+S
+#6924
+A Filthy Room, Deep Within the Sewers.~
+A small canal channels the murky water through the bowels of the sewers.
+walking along side it, you spot a head half-sunkenly floating by. The sight
+makes your stomach turn.
+~
+69 131081 0 0 0 0
+D1
+~
+~
+0 0 6922
+D2
+~
+~
+0 0 6925
+S
+#6925
+A Filthy Room, Deep Within the Sewers.~
+A small canal channels the brown murky water through the sewers. Walking
+along side it, you see random bits of filth floating by. The putrid smell is
+enough to turn even the strongest stomach.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6924
+D1
+~
+~
+0 0 6923
+D2
+~
+~
+0 0 6926
+D3
+~
+~
+0 0 6927
+S
+#6926
+A Filthy Room, Deep Within the Sewers.~
+A small canal channels the brown murky wather through the sewers. walking
+along side it, it's hard not to notice the uniquely foul stench. At your
+feet, cockroaches scurry about, softly clicking on the stone.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6925
+D1
+~
+~
+0 0 6918
+S
+#6927
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, the smell seems to cling
+to your clothes and skin. The stone walls are crumbling in places,
+making the whole area seem rather unsafe.
+~
+69 131081 0 0 0 0
+D1
+~
+~
+0 0 6925
+D3
+~
+~
+0 0 6928
+S
+#6928
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, the smell seems to cling
+to your clothes and skin. The stone walls are crumbling in places,
+making the whole area seem rather unsafe.
+~
+69 131081 0 0 0 0
+D1
+~
+~
+0 0 6927
+D2
+~
+~
+0 0 6929
+S
+#6929
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, the smell seems to cling
+to your clothes and skin. The stone walls are crumbling in places,
+making the whole area seem rather unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6928
+D2
+~
+~
+0 0 6930
+S
+#6930
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, the smell seems to cling
+to your clothes and skin. The stone walls are crumbling in places,
+making the whole area seem rather unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6929
+D2
+~
+~
+0 0 6931
+S
+#6931
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, the smell seems to cling
+to your clothes and skin. The stone walls are crumbling in places,
+making the whole area seem rather unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6930
+D2
+~
+~
+0 0 6932
+S
+#6932
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6931
+D1
+~
+~
+0 0 6933
+D2
+~
+~
+0 0 6941
+S
+#6933
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, the smell seems to cling
+to your clothes and skin. The stone walls are crumbling in places,
+making the whole are seem rather unsafe.
+~
+69 131081 0 0 0 0
+D1
+~
+~
+0 0 6914
+D3
+~
+~
+0 0 6932
+S
+#6934
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D1
+~
+~
+0 0 6935
+D3
+~
+~
+0 0 6920
+S
+#6935
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D2
+~
+~
+0 0 6936
+D3
+~
+~
+0 0 6934
+S
+#6936
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6935
+D2
+~
+~
+0 0 6937
+S
+#6937
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, the smell seems to cling to your
+clothes and skin. The hard stone walls are crumbling in some places, making
+the whole area seem rather unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6936
+D2
+~
+~
+0 0 6938
+S
+#6938
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, the smell seems to cling to your
+clothes and skin. The hard stone walls are crumbling in some places, making
+the whole area seem rather unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6937
+D2
+~
+~
+0 0 6939
+S
+#6939
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, the smell seems to cling to your
+clothes and skin. The hard stone walls are crumbling in some places, making
+the whole area seem rather unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6938
+D2
+~
+~
+0 0 6957
+D3
+~
+~
+0 0 6940
+S
+#6940
+A Passageway Deep Within The Sewers.~
+The air around you is warm and moist, the smell seems to cling
+to your clothes and skin. The stone walls are crumbling in places,
+making the whole are seem rather unsafe.
+~
+69 131081 0 0 0 0
+D1
+~
+~
+0 0 6939
+D3
+~
+~
+0 0 6910
+S
+#6941
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6932
+D2
+~
+~
+0 0 6942
+S
+#6942
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6941
+D2
+~
+~
+0 0 6943
+S
+#6943
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6942
+D2
+~
+~
+0 0 6944
+S
+#6944
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6943
+D2
+~
+~
+0 0 6945
+S
+#6945
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6944
+D2
+~
+~
+0 0 6946
+S
+#6946
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6945
+D1
+~
+~
+0 0 6947
+S
+#6947
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D1
+~
+~
+0 0 6948
+D3
+~
+~
+0 0 6946
+S
+#6948
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D1
+~
+~
+0 0 6949
+D3
+~
+~
+0 0 6947
+S
+#6949
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D1
+~
+~
+0 0 6950
+D3
+~
+~
+0 0 6948
+S
+#6950
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D1
+~
+~
+0 0 6951
+D3
+~
+~
+0 0 6949
+S
+#6951
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D1
+~
+~
+0 0 6952
+D3
+~
+~
+0 0 6950
+S
+#6952
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6953
+D3
+~
+~
+0 0 6951
+S
+#6953
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6954
+D2
+~
+~
+0 0 6952
+S
+#6954
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6955
+D2
+~
+~
+0 0 6953
+S
+#6955
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, the smell seems to cling
+to your clothes and skin. The stone walls are crumbling in places,
+making the whole area seem rather unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6956
+D2
+~
+~
+0 0 6954
+S
+#6956
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6957
+D2
+~
+~
+0 0 6955
+S
+#6957
+A Passageway Deep Within the Sewers.~
+The air around you is warm and moist, and the smell seems to cling to your
+clothes and skin. The stone walls are falling apart and crumbling in places,
+making the whole area seem quite unsafe.
+~
+69 131081 0 0 0 0
+D0
+~
+~
+0 0 6939
+D2
+~
+~
+0 0 6956
+S
+#6958
+Standing Over a Rusty Grate.~
+The sewer path dead-ends here. There's an old rusty grate in the center of 
+the floor. Fetid water flows between it's bars and down into the belly 
+of the murky sewers below.
+~
+69 65545 0 0 0 0
+D2
+~
+~
+0 0 6959
+D5
+an old rusty grate
+~
+grate~
+1 0 6923
+S
+#6959
+A Nasty Sewer Passageway.~
+The tunnel floor is spotted with large puddles of stagnant sewer water. The
+result is a rather funky stench that simply will not go away. The low light
+levels hide most of the smaller insects that infest the area, but every so
+often something larger crawls out of the walls and scurries down the tunnel.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6958
+D2
+~
+~
+0 0 6960
+S
+#6960
+A Nasty Sewer Passageway.~
+Echo's of distant roars bounce through the tunnel. The stone walls are
+covered in dirt, grime, and the occasional bloody splatter. Puddles of old
+stagnant water are scattered across the floor and provide the perfect
+breeding ground for mosquitos and other insects.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6959
+D1
+~
+~
+0 0 6975
+D3
+~
+~
+0 0 6961
+S
+#6961
+A Nasty Sewer Passageway.~
+The tunnel floor is spotted with large puddles of stagnant sewer water. The
+result is a rather funky stench that simply will not go away. The low light
+levels hide most of the smaller insects that infest the area, but every so
+often something larger crawls out of the walls and scurries down the tunnel.
+~
+69 65545 0 0 0 0
+D1
+~
+~
+0 0 6960
+D2
+~
+~
+0 0 6962
+S
+#6962
+A Nasty Sewer Passageway.~
+Echo's of distant roars bounce through the tunnel. The stone walls are
+covered in dirt, grime, and the occasional bloody splatter. Puddles of old
+stagnant water are scattered across the floor and provide the perfect
+breeding ground for mosquitos and other insects.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6961
+D3
+~
+~
+0 0 6963
+S
+#6963
+A Nasty Sewer Passageway.~
+The tunnel goes on for what seems like forever. Bugs scurry across the ground
+and disappear quickly into cracks in the stone walls. The smell pervades the
+area and you notice a furry type of mold covering the ceiling.
+~
+69 65545 0 0 0 0
+D1
+~
+~
+0 0 6962
+D2
+~
+~
+0 0 6964
+S
+#6964
+A Nasty Sewer Passageway.~
+The tunnel floor is spotted with large puddles of stagnant sewer water. The
+result is a rather funky stench that simply will not go away. The low light
+levels hide most of the smaller insects that infest the area, but every so
+often something larger crawls out of the walls and scurries down the tunnel.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6963
+D2
+~
+~
+0 0 6965
+D3
+~
+~
+0 0 6976
+S
+#6965
+A Nasty Sewer Passageway.~
+Echo's of distant roars bounce through the tunnel. The stone walls are
+covered in dirt, grime, and the occasional bloody splatter. Puddles of old
+stagnant water are scattered across the floor and provide the perfect
+breeding ground for mosquitos and other insects.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6964
+D1
+~
+~
+0 0 6966
+S
+#6966
+A Nasty Sewer Passageway.~
+The tunnel goes on for what seems like forever. Bugs scurry across the ground
+and disappear quickly into cracks in the stone walls. The smell pervades the
+area and you notice a furry type of mold covering the ceiling.
+~
+69 65545 0 0 0 0
+D2
+~
+~
+0 0 6967
+D3
+~
+~
+0 0 6965
+S
+#6967
+A Nasty Sewer Passageway.~
+The tunnel floor is spotted with large puddles of stagnant sewer water. The
+result is a rather funky stench that simply will not go away. The low light
+levels hide most of the smaller insects that infest the area, but every so
+often something larger crawls out of the walls and scurries down the tunnel.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6966
+D1
+~
+~
+0 0 6968
+S
+#6968
+A Nasty Sewer Passageway.~
+Echo's of distant roars bounce through the tunnel. The stone walls are
+covered in dirt, grime, and the occasional bloody splatter. Puddles of old
+stagnant water are scattered across the floor and provide the perfect
+breeding ground for mosquitos and other insects.
+~
+69 65545 0 0 0 0
+D1
+~
+~
+0 0 6969
+D3
+~
+~
+0 0 6967
+S
+#6969
+A Nasty Sewer Passageway.~
+The tunnel goes on for what seems like forever. Bugs scurry across the ground
+and disappear quickly into cracks in the stone walls. The smell pervades the
+area and you notice a furry type of mold covering the ceiling.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6970
+D3
+~
+~
+0 0 6968
+S
+#6970
+A Nasty Sewer Passageway.~
+The tunnel floor is spotted with large puddles of stagnant sewer water. The
+result is a rather funky stench that simply will not go away. The low light
+levels hide most of the smaller insects that infest the area, but every so
+often something larger crawls out of the walls and scurries down the tunnel.
+~
+69 65545 0 0 0 0
+D1
+~
+~
+0 0 6971
+D2
+~
+~
+0 0 6969
+S
+#6971
+A Nasty Sewer Passageway.~
+Echo's of distant roars bounce through the tunnel. The stone walls are
+covered in dirt, grime, and the occasional bloody splatter. Puddles of old
+stagnant water are scattered across the floor and provide the perfect
+breeding ground for mosquitos and other insects.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6972
+D3
+~
+~
+0 0 6970
+S
+#6972
+A Nasty Sewer Passageway.~
+The tunnel goes on for what seems like forever. Bugs scurry across the ground
+and disappear quickly into cracks in the stone walls. The smell pervades the
+area and you notice a furry type of mold covering the ceiling.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6973
+D1
+~
+~
+0 0 6984
+D2
+~
+~
+0 0 6971
+S
+#6973
+A Nasty Sewer Passageway.~
+Echo's of distant roars bounce through the tunnel. The stone walls are
+covered in dirt, grime, and the occasional bloody splatter. Puddles of old
+stagnant water are scattered across the floor and provide the perfect
+breeding ground for mosquitos and other insects.
+~
+69 65545 0 0 0 0
+D2
+~
+~
+0 0 6972
+D3
+~
+~
+0 0 6974
+S
+#6974
+A Nasty Sewer Passageway.~
+The tunnel floor is spotted with large puddles of stagnant sewer water. The
+result is a rather funky stench that simply will not go away. The low light
+levels hide most of the smaller insects that infest the area, but every so
+often something larger crawls out of the walls and scurries down the tunnel.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6975
+D1
+~
+~
+0 0 6973
+S
+#6975
+A Nasty Sewer Passageway.~
+The tunnel goes on for what seems like forever. Bugs scurry across the ground
+and disappear quickly into cracks in the stone walls. The smell pervades the
+area and you notice a furry type of mold covering the ceiling.
+~
+69 65545 0 0 0 0
+D2
+~
+~
+0 0 6974
+D3
+~
+~
+0 0 6960
+S
+#6976
+A Nasty Sewer Passageway.~
+Echo's of distant roars bounce through the tunnel. The stone walls are
+covered in dirt, grime, and the occasional bloody splatter. Puddles of old
+stagnant water are scattered across the floor and provide the perfect
+breeding ground for mosquitos and other insects.
+~
+69 65545 0 0 0 0
+D1
+~
+~
+0 0 6964
+D3
+~
+~
+0 0 6977
+S
+#6977
+A Nasty Sewer Passageway.~
+Echo's of distant roars bounce through the tunnel. The stone walls are
+covered in dirt, grime, and the occasional bloody splatter. Puddles of old
+stagnant water are scattered across the floor and provide the perfect
+breeding ground for mosquitos and other insects.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6978
+D1
+~
+~
+0 0 6976
+S
+#6978
+A Nasty Sewer Passageway.~
+The tunnel floor is spotted with large puddles of stagnant sewer water. The
+result is a rather funky stench that simply will not go away. The low light
+levels hide most of the smaller insects that infest the area, but every so
+often something larger crawls out of the walls and scurries down the tunnel.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6979
+D2
+~
+~
+0 0 6977
+S
+#6979
+A Nasty Sewer Passageway.~
+The tunnel goes on for what seems like forever. Bugs scurry across the ground
+and disappear quickly into cracks in the stone walls. The smell pervades the
+area and you notice a furry type of mold covering the ceiling.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6980
+D2
+~
+~
+0 0 6978
+S
+#6980
+A Smelly Nasty Room in the Sewers.~
+This small room is absolutely disgusting.  Mold and other assorted nastiness
+covers the dark stone walls. The ground below your feet is sticky and covered
+in a thick brown film, that not only sticks, but stinks.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6981
+D1
+~
+~
+0 0 6983
+D2
+~
+~
+0 0 6979
+S
+#6981
+A Smelly Nasty Room in the Sewers.~
+This small room is absolutely disgusting.  Mold and other assorted nastiness
+covers the dark stone walls. The ground below your feet is sticky and covered
+in a thick brown film. A small access tube leads up into the reservoir.
+~
+69 65545 0 0 0 0
+D1
+~
+~
+0 0 6982
+D2
+~
+~
+0 0 6980
+D4
+~
+~
+0 0 7000
+S
+#6982
+A Smelly Nasty Room in the Sewers.~
+This small room is absolutely disgusting.  Mold and other assorted nastiness
+covers the dark stone walls. The ground below your feet is sticky and covered
+in a thick brown film, that not only sticks, but stinks.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6998
+D2
+~
+~
+0 0 6983
+D3
+~
+~
+0 0 6981
+S
+#6983
+A Smelly Nasty Room in the Sewers.~
+This small room is absolutely disgusting.  Mold and other assorted nastiness
+covers the dark stone walls. The ground below your feet is sticky and covered
+in a thick brown film, that not only sticks, but stinks.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6982
+D3
+~
+~
+0 0 6980
+S
+#6984
+A Nasty Sewer Passageway.~
+The tunnel floor is spotted with large puddles of stagnant sewer water. The
+result is a rather funky stench that simply will not go away. The low light
+levels hide most of the smaller insects that infest the area, but every so
+often something larger crawls out of the walls and scurries down the tunnel.
+~
+69 65545 0 0 0 0
+D1
+~
+~
+0 0 6985
+D3
+~
+~
+0 0 6972
+S
+#6985
+A Nasty Sewer Passageway.~
+Echo's of distant roars bounce through the tunnel. The stone walls are
+covered in dirt, grime, and the occasional bloody splatter. Puddles of old
+stagnant water are scattered across the floor and provide the perfect
+breeding ground for mosquitos and other insects.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6986
+D3
+~
+~
+0 0 6984
+S
+#6986
+A Nasty Sewer Passageway.~
+The tunnel goes on for what seems like forever. Bugs scurry across the ground
+and disappear quickly into cracks in the stone walls. The smell pervades the
+area and you notice a furry type of mold covering the ceiling.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6987
+D2
+~
+~
+0 0 6985
+S
+#6987
+A Nasty Sewer Passageway.~
+The tunnel floor is spotted with large puddles of stagnant sewer water. The
+result is a rather funky stench that simply will not go away. The low light
+levels hide most of the smaller insects that infest the area, but every so
+often something larger crawls out of the walls and scurries down the tunnel.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6988
+D2
+~
+~
+0 0 6986
+S
+#6988
+A Smelly Nasty Room in the Sewers.~
+This small room is absolutely disgusting.  Mold and other assorted nastiness
+covers the dark stone walls. The ground below your feet is sticky and covered
+in a thick brown film, that not only sticks, but stinks.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6989
+D2
+~
+~
+0 0 6987
+D3
+~
+~
+0 0 6991
+S
+#6989
+A Smelly Nasty Room in the Sewers.~
+This small room is absolutely disgusting.  Mold and other assorted nastiness
+covers the dark stone walls. The ground below your feet is sticky and covered
+in a thick brown film. A small access tube leads up into the reservoir.
+~
+69 65545 0 0 0 0
+D2
+~
+~
+0 0 6988
+D3
+~
+~
+0 0 6990
+D4
+~
+~
+0 0 7008
+S
+#6990
+A Smelly Nasty Room in the Sewers.~
+This small room is absolutely disgusting.  Mold and other assorted nastiness
+covers the dark stone walls. The ground below your feet is sticky and covered
+in a thick brown film, that not only sticks, but stinks.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6992
+D1
+~
+~
+0 0 6989
+D2
+~
+~
+0 0 6991
+S
+#6991
+A Smelly Nasty Room in the Sewers.~
+This small room is absolutely disgusting.  Mold and other assorted nastiness
+covers the dark stone walls. The ground below your feet is sticky and covered
+in a thick brown film, that not only sticks, but stinks.
+~
+69 65545 0 0 0 0
+D0
+~
+~
+0 0 6990
+D1
+~
+~
+0 0 6988
+S
+#6992
+A Nasty Sewer Passageway.~
+The tunnel floor is spotted with large puddles of stagnant sewer water. The
+result is a rather funky stench that simply will not go away. The low light
+levels hide most of the smaller insects that infest the area, but every so
+often something larger crawls out of the walls and scurries down the tunnel.
+~
+69 65545 0 0 0 0
+D2
+~
+~
+0 0 6990
+D3
+~
+~
+0 0 6993
+S
+#6993
+A Nasty Sewer Passageway.~
+Echo's of distant roars bounce through the tunnel. The stone walls are
+covered in dirt, grime, and the occasional bloody splatter. Puddles of old
+stagnant water are scattered across the floor and provide the perfect
+breeding ground for mosquitos and other insects.
+~
+69 65545 0 0 0 0
+D1
+~
+~
+0 0 6992
+D3
+~
+~
+0 0 6994
+S
+#6994
+A Nasty Sewer Passageway.~
+The tunnel goes on for what seems like forever. Bugs scurry across the ground
+and disappear quickly into cracks in the stone walls. The smell pervades the
+area and you notice a furry type of mold covering the ceiling.
+~
+69 65545 0 0 0 0
+D1
+~
+~
+0 0 6993
+D3
+~
+~
+0 0 6995
+S
+#6995
+A Nasty Sewer Passageway.~
+The tunnel floor is spotted with large puddles of stagnant sewer water. The
+result is a rather funky stench that simply will not go away. The low light
+levels hide most of the smaller insects that infest the area, but every so
+often something larger crawls out of the walls and scurries down the tunnel.
+~
+69 65545 0 0 0 0
+D1
+~
+~
+0 0 6994
+D3
+~
+~
+0 0 6996
+S
+#6996
+A Nasty Sewer Passageway.~
+Echo's of distant roars bounce through the tunnel. The stone walls are
+covered in dirt, grime, and the occasional bloody splatter. Puddles of old
+stagnant water are scattered across the floor and provide the perfect
+breeding ground for mosquitos and other insects.
+~
+69 65545 0 0 0 0
+D1
+~
+~
+0 0 6995
+D3
+~
+~
+0 0 6997
+S
+#6997
+A Nasty Sewer Passageway.~
+The tunnel goes on for what seems like forever. Bugs scurry across the ground
+and disappear quickly into cracks in the stone walls. The smell pervades the
+area and you notice a furry type of mold covering the ceiling.
+~
+69 65545 0 0 0 0
+D1
+~
+~
+0 0 6996
+D3
+~
+~
+0 0 6998
+S
+#6998
+A Nasty Sewer Passageway.~
+The tunnel floor is spotted with large puddles of stagnant sewer water. The
+result is a rather funky stench that simply will not go away. The low light
+levels hide most of the smaller insects that infest the area, but every so
+often something larger crawls out of the walls and scurries down the tunnel.
+~
+69 65545 0 0 0 0
+D1
+~
+~
+0 0 6997
+D2
+~
+~
+0 0 6982
+S
+#6999
+A Hidden Room, Deep Within the Sewers.~
+This room has no exits except for the one you climbed up through.
+It appears to be some kind of safe place. A few chests and some long
+forgotten armor lie about.
+~
+69 131085 0 0 0 0
+D5
+&gAn old faded metal trapdoor.&n
+~
+trapdoor~
+1 0 6917
+S
+$~

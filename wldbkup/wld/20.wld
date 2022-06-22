@@ -1,0 +1,345 @@
+#2000
+A beaten path~
+The only signs that this area of grass differs from the surroundings are the
+obvious marks of footsteps.  Grass is bent into the shape of a path, indicating
+that something, someone, or some group has used this area as a trail for some
+time now.  
+~
+20 0 0 0 0 0
+D3
+~
+~
+0 0 2001
+S
+#2001
+A beaten path~
+The evidence of a traveled path becomes slightly more evident here, with a small
+shack clearly visible to the north.  While the path itself seems abandoned, it
+would be foolish to think that one was not being watched on a path so obviously
+often traversed.  
+~
+20 0 0 0 0 0
+D0
+~
+~
+0 0 2002
+D1
+~
+~
+0 0 2000
+S
+#2002
+Before a small wooden cabin~
+The beaten path comes to an end at the foot of a small wooden cabin to the
+north.  The cabin itself seems abandoned, as it has fallen into a state of some
+disrepair.  Rotted wood, as well as broken windows give the clearest evidence
+that, at least on the surface, nobody has dwelled here for some time.  
+~
+20 0 0 0 0 0
+D0
+~
+~
+0 0 2003
+D2
+~
+~
+0 0 2001
+S
+#2003
+The main room of the cabin~
+The inside of this cabin looks much like the outside; decrepit.
+Dust covers the floor, and the paltry furnishings scattered throughout the cabin are visibly deteriorated with age and weather.
+However, one item, a sturdy looking lantern, rests on the north wall, looking recently used.
+Perhaps this cabin is not as abandoned as once thought?
+~
+20 0 0 0 0 0
+D1
+~
+~
+0 0 2005
+D2
+~
+~
+0 0 2002
+D3
+~
+~
+0 0 2004
+D5
+~
+~
+0 0 2006
+S
+#2004
+A pantry~
+The remains of a room used for food storage are here.  The squeaking of rats and
+the chittering of other various insects can be heard amongst what is left of the
+shelving.  
+~
+20 0 0 0 0 0
+D1
+~
+~
+0 0 2003
+S
+#2005
+A spartan bedroom~
+This room, barren save for a poorly-preserved bed in the corner, is what remains
+of the bedroom of the owner of this cabin.  The only exit is to the entry room
+of the cabin.  
+~
+20 0 0 0 0 0
+D3
+~
+~
+0 0 2003
+S
+#2006
+Climbing a steel ladder~
+This rather sturdy ladder descends into some sort of hidden area beneath the
+cabin.  The tunnel containing the ladder has been intricately designed, showing
+no signs of caving in.  Faint sounds of laughter and discussion can be heard
+from beneath, and the only exits are to the cabin above and the unknown below.
+
+~
+20 0 0 0 0 0
+D4
+~
+~
+0 0 2003
+D5
+~
+~
+0 0 2007
+S
+#2007
+At the foot of a ladder~
+Tunnels split off in all directions from this entrance area.  Voices can be
+heard in the distance, leading to the obvious conclusion that humans constructed
+this ant-like tunnel network.  
+~
+20 0 0 0 0 0
+D0
+~
+~
+0 0 2009
+D1
+~
+~
+0 0 2010
+D2
+~
+~
+0 0 2011
+D3
+~
+~
+0 0 2008
+D4
+~
+~
+0 0 2006
+S
+#2008
+A lantern-lit passage~
+This tunnel, stretching from east to west, is just another segment of the
+underground tunnel network.  Voices can be heard in both directions, but it is
+difficult to discern whether the inhabitants would be pleased to greet any
+unknowns.  
+~
+20 0 0 0 0 0
+D1
+~
+~
+0 0 2007
+D3
+~
+~
+0 0 2012
+S
+#2009
+New BuildWalk Room~
+This unfinished room was created by Timotheus.
+~
+20 0 0 0 0 0
+D2
+~
+~
+0 0 2007
+S
+#2010
+New BuildWalk Room~
+This unfinished room was created by Timotheus.
+~
+20 0 0 0 0 0
+D3
+~
+~
+0 0 2007
+S
+#2011
+New BuildWalk Room~
+This unfinished room was created by Timotheus.
+~
+20 0 0 0 0 0
+D0
+~
+~
+0 0 2007
+S
+#2012
+A lantern-lit passage~
+This tunnel, stretching from east to west, is just another segment of the
+underground tunnel network.  Voices can be heard in both directions, but it is
+difficult to discern whether the inhabitants would be pleased to greet any
+unknowns.  
+~
+20 0 0 0 0 0
+D1
+~
+~
+0 0 2008
+D3
+~
+~
+0 0 2013
+S
+#2013
+The end of the passage, before a chamber~
+The passage comes to an end here, with the entrance to a seemingly large chamber
+blocked by steel double doors.  The only exits are to the east towards the
+entrance, or to the north through the doors.  
+~
+20 8 0 0 0 0
+D0
+A sturdy steel door stands at the entrance to the north room.
+~
+doors~
+1 0 2014
+D1
+~
+~
+0 0 2012
+S
+#2014
+A strange laboratory~
+The walls of this chamber are lined with strange devices and shelves containing
+books and chemicals.  A small desk sits in the corner of the chamber, stacked
+high with papers and texts.  A familiar scent fills the room, perhaps cluing one
+in as to the reason why this laboratory is underground.  
+~
+20 8 0 0 0 0
+D0
+~
+~
+0 0 2017
+D1
+~
+~
+0 0 2019
+D2
+The double doors lead back into the main passage.
+~
+doors~
+1 0 2013
+D3
+~
+~
+0 0 2015
+S
+#2015
+A strange laboratory~
+The walls of this chamber are lined with strange devices and shelves containing
+books and chemicals.  A small desk sits in the corner of the chamber, stacked
+high with papers and texts.  A familiar scent fills the room, perhaps cluing one
+in as to the reason why this laboratory is underground.  
+~
+20 8 0 0 0 0
+D0
+~
+~
+0 0 2016
+D1
+~
+~
+0 0 2014
+S
+#2016
+A strange laboratory~
+The walls of this chamber are lined with strange devices and shelves containing
+books and chemicals.  A small desk sits in the corner of the chamber, stacked
+high with papers and texts.  A familiar scent fills the room, perhaps cluing one
+in as to the reason why this laboratory is underground.  
+~
+20 8 0 0 0 0
+D1
+~
+~
+0 0 2017
+D2
+~
+~
+0 0 2015
+S
+#2017
+A strange laboratory~
+The walls of this chamber are lined with strange devices and shelves containing
+books and chemicals.  A small desk sits in the corner of the chamber, stacked
+high with papers and texts.  A familiar scent fills the room, perhaps cluing one
+in as to the reason why this laboratory is underground.  
+~
+20 8 0 0 0 0
+D1
+~
+~
+0 0 2018
+D2
+~
+~
+0 0 2014
+D3
+~
+~
+0 0 2016
+S
+#2018
+A strange laboratory~
+The walls of this chamber are lined with strange devices and shelves containing
+books and chemicals.  A small desk sits in the corner of the chamber, stacked
+high with papers and texts.  A familiar scent fills the room, perhaps cluing one
+in as to the reason why this laboratory is underground.  
+~
+20 8 0 0 0 0
+D2
+~
+~
+0 0 2019
+D3
+~
+~
+0 0 2017
+S
+#2019
+A strange laboratory~
+The walls of this chamber are lined with strange devices and shelves containing
+books and chemicals.  A small desk sits in the corner of the chamber, stacked
+high with papers and texts.  A familiar scent fills the room, perhaps cluing one
+in as to the reason why this laboratory is underground.  
+~
+20 8 0 0 0 0
+D0
+~
+~
+0 0 2018
+D3
+~
+~
+0 0 2014
+S
+#2083
+An unfinished room~
+You are in an unfinished room.
+~
+20 0 0 0 0 0
+S
+$~

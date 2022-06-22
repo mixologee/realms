@@ -1,0 +1,40 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C39&c]. Type NEWS 39 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+&YNew Commands&n
+&Y------------&n
+
+I have added some commands for in-game viewing of bugs/typo/idea files.
+Sadly I couldn't get them to work as I really wanted to and show up as
+a linked list just yet, but this will do for now.
+
+The commands are as follows:
+
+vbugs
+vtypos
+videas
+
+I will keep working on making them into linked lists so that we can 
+remove them from online as well by <#> in the list, but for now at least
+non-programmers can access these files to see if there is anything they
+can fix in-game such as typos or bugs pertaining to triggers etc.
+
+&M-Slurk&n
+

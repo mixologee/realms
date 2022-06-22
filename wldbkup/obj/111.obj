@@ -1,0 +1,169 @@
+#11100
+treasure gold~
+a big pile of treasure~
+A huge pile of gold coins and valuables sits in the middle of the room.~
+~
+20 0 0 0 0 a 0 0 0 0 0 0 0
+3000000 0 0 0
+0 0 0 0
+#11101
+key figurine~
+a small key shaped figurine~
+A small figurine in the shape of a key is resting on the ground.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#11102
+key gem stone~
+a small gemstone~
+A small, oddly shaped gemstone sits on the ground.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#11103
+key ivory~
+a small, ivory key~
+A small key-shaped piece of ivory is sitting here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#11104
+key treasure~
+a key to the treasury~
+A small steel key is sitting on the ground here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#11105
+key queen~
+key to Queen Ramona's Chamber~
+A large key with the letter "R" inscribed on it is lying here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#11106
+sword~
+a double-edged sword~
+A large, double-edge sword creates a small glare in the room.~
+~
+5 mn 0 0 0 an 0 0 0 0 0 0 0
+0 7 7 3
+0 0 0 25
+A
+19 5
+A
+18 1
+#11107
+shield bodyguard~
+a bodyguard's shield~
+A shield that would be good for guarding leans against something.~
+~
+9 0 0 0 0 aj 0 0 0 0 0 0 0
+8 0 0 0
+10 0 0 25
+A
+13 20
+A
+24 -2
+#11108
+armor plated~
+Some thickly plated armor~
+A suit of thickly plated armor is piled on the ground.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+10 0 0 0
+10 0 0 25
+A
+18 3
+A
+13 15
+#11109
+leggings chain~
+a pair of chain leggings~
+A pair of sturdy leggings made from chain are here.~
+~
+9 0 0 0 0 af 0 0 0 0 0 0 0
+5 0 0 0
+7 0 0 25
+A
+12 30
+A
+19 3
+#11110
+dagger~
+a thin, elegant dagger~
+An elegant, jeweled dagger with a thin blade is lying here.~
+~
+5 nt 0 0 0 an 0 0 0 0 0 0 0
+0 8 5 11
+0 0 0 25
+A
+18 7
+A
+19 1
+#11111
+crown~
+the crown of Queen Ramona~
+A crown once belonging to Queen Ramona sits on the ground.~
+~
+11 0 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 25
+A
+13 40
+A
+24 -1
+#11112
+ring diamond~
+a gold banded diamond ring~
+A large diamond set in a small golden ring is lying here.~
+~
+11 0 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 25
+A
+13 25
+A
+13 30
+#11113
+necklace~
+an ornate gold necklace~
+A beautifully crafted necklace of intertwined gold is lying here.~
+~
+11 0 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 25
+A
+13 30
+A
+24 -2
+#11114
+sceptre~
+a large, jewel encrusted sceptre~
+A large sceptre covered in jewels gleams on the ground.~
+~
+11 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 25
+A
+12 30
+A
+13 15
+#11115
+armlet~
+a swirling metallic armlet~
+A well-crafted metallic armlet is rolling around on the ground.~
+~
+9 0 0 0 0 ai 0 0 0 0 0 0 0
+2 0 0 0
+0 0 0 25
+A
+24 -2
+A
+12 30
+$~

@@ -1,0 +1,209 @@
+#3300
+sapphire rod~
+a glowing blue sapphire rod~
+A dark blue sapphire rod glows on the ground.~
+~
+18 cdqu 0 0 0 aop 0 0 0 0 0 0 0
+0 0 0 0
+12 14600 0 0
+A
+12 12
+A
+13 13
+#3301
+stone key triangle~
+a triangular stone~
+A heavy-looking stone of polished granite gleams in the light on the ground.~
+~
+18 cq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+26 0 0 0
+#3302
+stone~
+a peculiar orange stone~
+A peculiar orange stone is here.~
+~
+18 cq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#3303
+stone~
+a peculiar orange stone~
+A peculiar orange stone is here.~
+~
+18 cq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#3304
+stone~
+a peculiar orange stone~
+A peculiar orange stone is here.~
+~
+18 cq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#3305
+stone~
+a peculiar orange stone~
+A peculiar orange stone is here.~
+~
+18 cq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#3306
+stone~
+a peculiar orange stone~
+A peculiar orange stone is here.~
+~
+18 cq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#3307
+stone~
+a peculiar orange stone~
+A peculiar orange stone is here.~
+~
+18 cq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#3308
+stone~
+a peculiar orange stone~
+A peculiar orange stone is here.~
+~
+18 cq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#3309
+stone~
+a peculiar orange stone~
+A peculiar orange stone is here.~
+~
+18 cq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#3310
+stone~
+a peculiar orange stone~
+A peculiar orange stone is here.~
+~
+18 cq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#3311
+stone~
+a peculiar orange stone~
+A peculiar orange stone is here.~
+~
+18 cq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#3312
+stone~
+a peculiar orange stone~
+A peculiar orange stone is here.~
+~
+18 cq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#3313
+stone~
+a peculiar orange stone~
+A peculiar orange stone is here.~
+~
+18 cq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#3314
+skin lurker~
+a shadowy lurker skin~
+A thick shadow crawls this way and that, attempting to escape the light.~
+~
+9 uE 0 0 0 ak 0 0 0 c 0 0 0
+10 0 0 0
+10 1000 0 30
+A
+24 -3
+A
+17 -15
+A
+13 10
+#3315
+staff necromancer~
+the staff of a necromancer~
+A macabre staff decorated with human bones and topped with a skull lies here.~
+~
+3 jlop bd 0 0 ao 0 0 0 0 0 0 0
+30 6 3 45
+25 1000 0 20
+#3316
+femur~
+a human femur~
+A human femur lies here, looking lonely without its body.~
+~
+5 0 0 0 0 anr 0 0 0 0 0 0 0
+0 6 6 6
+15 0 0 0
+#3317
+robe necromancer~
+a ragged necromancer's robe~
+A ragged black cotton robe flutters lightly on the breeze here.~
+~
+11 jnop 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+5 155 0 25
+A
+12 30
+#3318
+Strider blade~
+the Strider's shadowy blade~
+A shadowy blade flickers in the light on the ground.~
+~
+5 jlmn 0 0 0 an 0 0 0 0 0 0 0
+0 16 4 11
+19 1000 0 33
+A
+19 5
+#3319
+chaps~
+a pair of dark leather chaps~
+A pair of dark leather chaps is lying here.~
+~
+9 jmn 0 0 0 af 0 0 0 0 0 0 0
+3 0 0 0
+25 100 0 33
+A
+13 20
+A
+24 -1
+#3320
+cowl~
+a cowl of marsh weeds~
+A pile of marsh weeds sits here, taking the shape of a cowl.~
+~
+9 jlmn d 0 0 ae 0 0 0 0 0 0 0
+3 0 0 0
+5 100 0 33
+A
+18 3
+#3321
+boots~
+a pair of sneaky boots~
+A pair of boots hides behind itself.~
+~
+11 0 0 0 0 ag 0 0 0 t 0 0 0
+0 0 0 0
+10 10000 0 20
+#3322
+chains~
+an ethereal chain~
+A seemingly endless chain twists and churns in the air, passing through itself.~
+~
+11 fghqs d 0 0 aq 0 0 0 x 0 0 0
+0 0 0 0
+0 0 0 25
+A
+2 -3
+A
+12 30
+$~

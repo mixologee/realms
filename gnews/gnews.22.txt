@@ -1,0 +1,60 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C22&c]. Type NEWS 22 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+New Builder Commands
+
+For all builders, these commands can help you find out whether or not
+your keys are linked to the correct doors.  The following new commands
+have been implemented just for you!
+
+finddoor <obj / vnum> - if you have the key in your inventory, you can
+                        type finddoor key or keyname and it will search
+                        the whole world looking or a door that that key
+                        will open, if you do not have the key on you, 
+                        you can type finddoor <vnum> and it will do the 
+                        same lookup and display all doors it will unlock
+                        along with the direction that door is in.  The
+                        following printout displays what you would see.
+
+finddoor key or finddoor 7249 will display the following if you have
+this key in your inventory
+
+
+Doors unlocked by key [7249] a jail key are:
+[  1] Room 7255, west (cell)
+[  2] Room 7264, east (cell)
+[  3] Room 7265, west (cell)
+
+
+findkey <direction> - if you are in a room that has a locked door and 
+                      need to know what key opens it, you can simply
+                      stand there and type findkey <door direction> 
+                      and it will display the key, and if it loads to any
+                      mob (given to X mob if its in zedit command) The
+                      following is a printout using room 7255 as an 
+                      example.
+
+Checking load info for the obj a jail key...
+  [ 7255] Jail House (Given to Sheriff Kabinoff [7221][1 Max])
+
+I haven't checked a locked door that has no key though, not sure i even 
+checked against that in the code.. Find out and let me know!!
+
+-S

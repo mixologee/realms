@@ -1,0 +1,187 @@
+#11200
+figurine statue~
+a small statue of a young woman~
+A small statue in the form of a beautiful young woman is here.~
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#11201
+key~
+a small, rusty key~
+A small, rusted out old key is lying here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#11202
+ring defense~
+a ring of defense~
+A large ring that covers three knuckles is lying here.~
+~
+9 jt 0 0 0 ab 0 0 0 0 0 0 0
+3 0 0 0
+2 50000 0 15
+A
+13 10
+A
+17 -30
+#11203
+pants~
+a pair of lightly padded pants~
+A pair of lightly padded pants are lying on the ground here.~
+~
+9 jop 0 0 0 af 0 0 0 0 0 0 0
+5 0 0 0
+3 75000 0 25
+A
+12 20
+A
+13 20
+#11204
+cloak damned~
+a cloak of the damned~
+A large, black cloak that appears cursed is lying hewre.~
+~
+11 jl 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+4 100000 0 23
+A
+17 -15
+A
+13 20
+#11205
+amulet damned~
+an amulet of the damned~
+A strange, evil looking amulet is lying here.~
+~
+9 jl 0 0 0 ac 0 0 0 0 0 0 0
+1 0 0 0
+5 25000 0 24
+A
+19 2
+A
+24 -3
+#11206
+bracelet damned~
+a bracelet of the damned~
+A large, cursed looking bracelet is lying on the ground.~
+~
+9 j 0 0 0 am 0 0 0 0 0 0 0
+2 0 0 0
+5 25000 0 25
+A
+17 -20
+A
+18 4
+#11207
+armor cursed~
+a set of cursed armor~
+A large set of black armor is here.~
+~
+9 jnop 0 0 0 ad 0 0 0 0 0 0 0
+10 0 0 0
+0 0 0 25
+A
+24 -4
+A
+13 20
+#11208
+sleeves black~
+a pair of black sleeves~
+A pair of jet black sleeves are siting on the ground here.~
+~
+11 jop 0 0 0 ai 0 0 0 0 0 0 0
+0 0 0 0
+10 50000 0 25
+A
+13 30
+A
+12 40
+#11209
+orb power~
+a large orb of power~
+A large orb emitting powerful energy is lying here.~
+~
+11 op 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+10 75000 0 25
+A
+24 -3
+A
+12 40
+#11210
+boots magic~
+a pair of magical boots~
+A pair of boots seeping magic from them is lying here.~
+~
+11 op 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0
+5 25000 0 0
+A
+12 25
+#11211
+ring attack~
+a rink of quick attack~
+A small ring good for fighting is lying here.~
+~
+9 jmn 0 0 0 ab 0 0 0 0 0 0 0
+1 0 0 0
+10 75757 0 29
+A
+18 6
+A
+19 1
+#11212
+glove mischief~
+a michievous glove~
+A small pair of gloves that look like they would cause trouble is lying here.~
+~
+11 jop 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0
+5 50000 0 0
+A
+12 40
+A
+1 3
+#11213
+key~
+a small piece of twisted metal~
+A small piece of twisted metal is lying on the ground.~
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#11250
+mace cursed~
+a terribly cursed mace~
+A mace that is twisted from the weight of its curse is lying here.~
+~
+5 jop 0 0 0 an 0 0 0 0 0 0 0
+10 5 10 5
+0 2000000 0 30
+A
+12 50
+A
+13 30
+#11251
+dagger cursed~
+a terribly cursed dagger~
+A large dagger that has been twisted under the weight of its curse is lying here.~
+~
+5 jmnt 0 0 0 an 0 0 0 0 0 0 0
+0 10 4 11
+0 2000000 0 30
+A
+19 8
+A
+18 2
+#11299
+dress halo wings angel sara~
+a shimmering angelic dress adorned with precious gems~
+A pile of heavenly material is getting wrinkled here.~
+~
+9 ab 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+$~

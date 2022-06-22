@@ -1,0 +1,722 @@
+#13200
+shroud~
+the Executioner's black shroud~
+A filthy shroud lies here - even the flies avoid it.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+-3 0 0 0
+7 15600 0 35
+A
+13 10
+A
+18 7
+#13201
+key sword~
+a sword-shaped iron key~
+A key shaped like a sword is stuck in the ground here.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+15 0 0 0
+#13202
+crossbow bow charon~
+the crossbow of Charon~
+A heavy-looking, black metal crossbow sits on its side.~
+~
+27 mnp e 0 0 an 0 0 0 0 0 0 0
+10 25 3 1
+35 76000 0 36
+E
+bow~
+The damage dice on this object should be 25d4.
+~
+A
+18 20
+A
+13 40
+#13203
+claws~
+the severed claws of the pit demonstrator~
+A pair of bloody claws scuttle about.~
+~
+11 jmop d 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0
+14 14000 0 35
+A
+13 25
+A
+12 10
+#13204
+brain~
+the brain of the manic demonstrator~
+A semitransparent blue brain pulses its way towards you across the ground.~
+~
+11 agjnop d 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+8 90000 0 35
+A
+13 10
+A
+12 30
+#13205
+fist~
+the severed fist of the crusher demonstrator~
+A severed fist flops about, searching for a body.~
+~
+11 0 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0
+14 14000 0 35
+A
+19 5
+A
+13 25
+#13206
+helmet~
+the black metal helmet of charon~
+A black metal helmet stares at you with empty eyes.~
+~
+9 mn 0 0 0 ae 0 0 0 l 0 0 0
+7 0 0 0
+15 76000 0 36
+A
+18 5
+#13207
+darkmetal armor~
+the darkmetal armor of Charon~
+A spiked suit of armor sits in pieces on the ground.~
+~
+9 jmn 0 0 0 adfl 0 0 0 0 0 0 0
+-20 0 0 0
+127 127000 0 36
+A
+18 10
+A
+19 10
+#13208
+key~
+the cell key for the first circle~
+A thin, jagged key shines in the light.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+15 0 0 0
+#13209
+quiver~
+Charon's dragonhide arm quivers~
+A pair of arm quivers fashioned from black dragonhide lies side by side.~
+~
+11 0 0 0 0 ai 0 0 0 0 0 0 0
+0 0 0 0
+28 28000 0 36
+A
+18 7
+A
+13 20
+#13210
+key spade~
+a spade-shaped iron key~
+A spade-shaped iron key lies lopsided on the ground.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+16 0 0 0
+#13211
+key~
+the cell key for the second circle~
+A thin, jagged key shines in the light.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+16 0 0 0
+#13212
+key~
+the cell key for the third circle~
+A thin, jagged key shines in the light.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+17 0 0 0
+#13213
+key~
+the cell key for the fourth circle~
+A thin, jagged key shines in the light.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+19 0 0 0
+#13214
+key~
+the cell key for the fifth circle~
+A thin, jagged key shines in the light.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+20 0 0 0
+#13215
+key~
+the cell key for the sixth circle~
+A thin, jagged key shines in the light.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+21 0 0 0
+#13216
+key~
+the cell key for the seventh circle~
+A thin, jagged key shines in the light.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+21 0 0 0
+#13217
+key~
+the cell key for the eighth circle~
+A thin, jagged key shines in the light.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+22 0 0 0
+#13218
+key~
+the cell key for the ninth circle~
+A thin, jagged key shines in the light.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+23 0 0 0
+#13219
+key~
+a triangular iron key~
+A triangular key lies here on the ground.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+17 0 0 0
+#13220
+key pronged~
+a pronged iron key~
+A pronged key lies on the ground.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+20 0 0 0
+#13221
+spear~
+an etherium spear~
+A shadowy spear hovers here in midair, its surface a swirling chiaroscuro.~
+~
+5 bjkmns de 0 0 an 0 0 0 0 0 0 0
+7 7 7 14
+0 12600 0 25
+#13222
+key~
+a star-shaped iron key~
+A star-shaped iron key is lying here.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+22 0 0 0
+#13223
+key hexagon~
+a hexagonal iron key~
+A hexagonal iron key is lying here.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+23 0 0 0
+#13224
+key skull~
+a skull-shaped iron key~
+A skull-shaped iron key grins on the ground.~
+~
+18 0 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+24 0 0 0
+#13225
+key~
+an octagonal iron key~
+An octagonal iron key lies on the ground.~
+~
+18 f 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+25 0 0 0
+#13226
+key~
+a twisted iron key~
+A twisted iron key is lying here.~
+~
+18 f 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0
+26 0 0 0
+#13227
+Trema robe~
+a gray silk robe~
+A gray silk robe fit for a king has been left on the ground.~
+~
+11 mop 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+2 10000 0 36
+A
+13 20
+A
+12 5
+A
+22 -5
+#13228
+crown Trema~
+Trema's shattered crown~
+A crown lies in three pieces on the ground.~
+~
+9 jmop d 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+15 10000 0 36
+#13229
+cap Pluto~
+the Cap of Invisibility~
+A silver cloth cap shimmers in and out of existence.~
+~
+11 f 0 0 0 ae 0 0 0 c 0 0 0
+0 0 0 0
+15 10000 0 5
+A
+3 3
+#13230
+dagger shadow~
+an etherium shadow dagger~
+A dagger of etherium wavers in the light.~
+~
+5 lmnpw d 0 0 anr 0 0 0 0 0 0 0
+0 12 6 11
+17 10000 0 38
+A
+19 7
+#13231
+cloak darkness~
+a cloak of darkness~
+The cover of dark lies manifested on the ground in the form of a cloak.~
+~
+9 0 0 0 0 ac 0 0 0 0 0 0 0
+-10 0 0 0
+0 10000 0 0
+A
+2 3
+A
+18 3
+#13232
+shield spiked~
+a spiked adamantine shield~
+A heavy spiked shield gleams on the ground.~
+~
+5 lmno 0 0 0 an 0 0 0 0 0 0 0
+-7 16 6 6
+30 10000 0 38
+A
+19 9
+A
+17 -12
+A
+13 25
+#13233
+halberd~
+a heavy steel halberd~
+A heavy halberd throws off waves of negative energy through the area.~
+~
+5 jlmno e 0 0 an 0 0 0 0 0 0 0
+7 7 7 3
+30 10000 0 38
+#13234
+loincloth cloth labrinth~
+a loincloth stitched with a labrinthine icon~
+A loincloth with a red symbol on its front lies in a heap.~
+~
+9 jk d 0 0 af 0 0 0 0 0 0 0
+-5 0 0 0
+17 10000 0 25
+A
+13 12
+A
+19 6
+#13235
+cigar~
+a smoldering cigar~
+An ever-burning cigar is here, throwing off sweet fumes into the air.~
+~
+12 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+4 10000 0 40
+A
+13 80
+A
+12 -110
+A
+18 10
+A
+19 -10
+#13236
+jacket~
+a fine silk smoking jacket~
+A fine silk jacket lies here on its back.~
+~
+11 lnop d 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+26 10000 0 40
+A
+12 60
+#13237
+spats~
+a pair of black and white spats~
+A pair of tall shoes stands here like leather towers.~
+~
+11 0 d 0 0 agh 0 0 0 0 0 0 0
+0 0 0 0
+12 10000 0 15
+A
+18 5
+A
+24 -2
+#13238
+pie~
+a human meat pie~
+A pie sits on the ground, casting off a delicious aroma.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+6 0 0 -1
+5 100 0 0
+E
+pie~
+This pie is stuffed with the flesh of Arthir's victims, those he poisoned with
+his other treacherous baked goods. He proceeded to sell these pies to the
+people of Taris'Vaal and beyond, making a fortune while ridding himself of the
+evidence, one pie at a time. He was caught when he decided to poison every pie
+and ship them out, killing thousands. His punishment is to live in a cell with
+only his poison pies for sustenance.
+~
+#13239
+veil~
+a veil of the Chaos Society~
+A silken veil bearing the mark of the Chaos Society is laid out on the ground.~
+~
+11 0 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+5 1000 0 36
+A
+18 5
+A
+19 5
+#13240
+crystalgate gate~
+a crystal gate~
+&WA large crystalline archway stands in the center of the rocky spit of land.~
+~
+35 0 0 0 0 a 0 0 0 0 0 0 0
+4 0 0 0
+90000 0 0 0
+#13241
+gloves~
+a pair of vermillion silk gloves~
+A pair of fiery red elbow-length silk gloves is here.~
+~
+11 jnop d 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0
+6 0 0 33
+A
+12 40
+#13242
+dress~
+a tight vermillion silk dress~
+A little red dress is laid out on the ground here.~
+~
+11 0 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+7 10000 0 33
+A
+12 40
+#13243
+ring bone~
+a ring made of a sliced human femur~
+A carved bone ring sits on its side upon the ground.~
+~
+11 jkmnu 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+7 10000 0 35
+A
+13 10
+A
+24 -2
+#13244
+hair vest~
+a vest of human hair~
+A strange vest of woven yellow, black, and brown hair lies here in a tangle.~
+~
+9 jkmn 0 0 0 ad 0 0 0 0 0 0 0
+-10 0 0 0
+25 10000 0 35
+A
+19 3
+#13245
+britches~
+a pair of britches, made of stitched human skin~
+A pair of human skin britches lies here.~
+~
+11 jkmn 0 0 0 af 0 0 0 0 0 0 0
+0 0 0 0
+14 10000 0 35
+A
+1 2
+A
+13 10
+#13246
+brassiere~
+a pair of leather brassiers, lined with human teeth~
+A pair of leather brassiers lined with teeth sits here.~
+~
+9 jkmn 0 0 0 ai 0 0 0 0 0 0 0
+-3 0 0 0
+18 10000 0 35
+A
+13 20
+#13247
+skin lethifold~
+the scaly shadow skin of Lethifold~
+A scaled shadow drifts across the ground, twisting this way and that.~
+~
+11 0 d 0 0 aj 0 0 0 0 0 0 0
+0 0 0 0
+0 10000 0 35
+A
+21 -3
+A
+24 -3
+A
+23 -3
+A
+17 -10
+#13248
+wings Lucifer~
+the severed wings of Lucifer~
+A pair of severed wings lies here on the ground.~
+~
+11 jlmop d 0 0 ai 0 0 0 0 0 0 0
+0 0 0 0
+40 10000 0 40
+A
+13 50
+#13249
+claws Lucifer~
+the severed claws of Lucifer~
+A pair of bloody claws lies here on the ground.~
+~
+11 jlmopw 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0
+10 10000 0 40
+A
+18 5
+A
+19 5
+#13250
+aura Lucifer~
+Lucifer's Aura of Demonic Flames~
+A ring of demonic flames dances in the air before your eyes.~
+~
+11 jlmopu d 0 0 aq 0 0 0 0 0 0 0
+0 0 0 0
+0 10000 0 40
+A
+13 30
+A
+12 30
+#13251
+scales red~
+a pile of red dragon scales~
+A load of red dragon scales have been left here in a heap.~
+~
+32 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+100 10000 0 0
+#13252
+guitar bard~
+the bardic guitar of Diskord~
+A sharp-looking string instrument pulses with evil on the ground.~
+~
+5 jlnopB e 0 0 an 0 0 0 0 0 0 0
+3 7 5 6
+25 10000 0 33
+#13253
+bracelet~
+a broad electrum bracelet~
+A bracelet of banded metal crackles with energy.~
+~
+11 jnopu d 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+2 10000 0 40
+A
+12 40
+A
+13 27
+#13254
+belt skull~
+a leather belt decorated with shrunken human heads~
+A leather belt lined with shrunken heads sits here, staring at you with many eyes.~
+~
+11 jnop d 0 0 al 0 0 0 0 0 0 0
+0 0 0 0
+27 10000 0 40
+A
+20 -4
+A
+17 -2
+A
+8 1
+#13255
+hand glory~
+a Hand of Glory~
+A shriveled hand stands here on its wrist.~
+~
+1 agwB d 0 0 ap 0 0 0 0 0 0 0
+0 0 -1 0
+10 10000 0 20
+A
+13 27
+A
+12 44
+A
+24 -1
+#13256
+medallion~
+a medallion of undead protection~
+A medallion engraved with a strange sigil lies on the ground at your feet.~
+~
+9 wB 0 0 0 ac 0 0 0 0 0 0 0
+-5 0 0 0
+30 10000 0 20
+A
+13 30
+A
+12 30
+#13257
+socks wool~
+a pair of dirty, but cozy wool socks~
+A pair of dirty wool socks lies here in its own dust.~
+~
+11 r 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0
+14 10000 0 3
+A
+13 15
+A
+12 30
+#13258
+bracelet~
+a bracelet of twined banshee hair~
+A smelly, fire-charred bracelet of brown hair lies here.~
+~
+11 kos d 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+3 10000 0 10
+A
+24 -2
+A
+9 5
+A
+4 2
+A
+12 27
+#13259
+pie~
+an unfinished human pie~
+A half-baked pie sits here, looking rather sorry for itself.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+5 0 0 0
+10 100 0 0
+#13260
+cot~
+a filthy cot~
+A filthy cot stands against one wall, covered in a bed of straw.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+127 0 -1 0
+1000000 0 0 0
+#13261
+oven~
+a crummy oven~
+A poor excuse for an oven holds itself up against a wall of the cell.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+50 0 -1 0
+1000000 0 0 0
+#13262
+jacket blazer business~
+a dissheveled blazer jacket~
+A dissheveled jacket lies in the dirt.~
+~
+11 0 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+14 5000 0 30
+A
+3 3
+A
+12 30
+#13263
+gloves chameleon~
+the chameleon's gloves~
+A pair of mottled gloves lies on the floor, blending together.~
+~
+11 jkmn 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0
+5 1000 0 35
+A
+18 5
+A
+19 2
+#13264
+Mule toenail~
+a shard of the Mule's big yellow toenail~
+A grungy yellow toenail the size of a horseshoe and thick as a floorboard lies here.~
+~
+4 g d 0 0 ao 0 0 0 0 0 0 0
+47 2 2 55
+30 1000 0 40
+#13265
+Thulgax dagger~
+Thulgax's sacrificial dagger~
+A jagged, runed dagger lies on the ground.~
+~
+5 bgjlnpBD 0 0 0 an 0 0 0 0 0 0 0
+0 7 6 11
+4 10000 0 40
+A
+19 5
+A
+12 30
+A
+3 3
+#13266
+firegem gem~
+a fire gem, blazing with eternal flames~
+A brilliant red gem sits here, enshrouded in magical flames.~
+~
+1 jkmopu d 0 0 ap 0 0 0 0 0 0 0
+0 0 -1 0
+10 10000 0 38
+E
+gem~
+holds charges of fireshield, level 48 5 charges max
+~
+A
+12 20
+A
+13 40
+#13267
+helm Krux~
+the helm of Krux~
+A wickedly sharp helm rests on the ground, staring with empty eyes.~
+~
+9 jlmnow 0 0 0 ae 0 0 0 0 0 0 0
+5 0 0 0
+10 9000 0 35
+A
+18 4
+A
+24 -2
+$~

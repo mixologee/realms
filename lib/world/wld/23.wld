@@ -1,0 +1,1402 @@
+#2300
+In a Wide Sewer Tunnel~
+You are in an unfinished room.
+~
+23 131080 0 0 0 0
+D0
+~
+~
+0 0 12299
+D2
+~
+~
+0 0 2301
+S
+#2301
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2300
+D2
+~
+~
+0 0 2302
+S
+#2302
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2301
+D1
+~
+~
+0 0 2303
+D2
+~
+~
+0 0 2350
+S
+#2303
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D1
+~
+~
+0 0 2304
+D3
+~
+~
+0 0 2302
+D4
+The Temple of Midgaard floats above you.
+~
+~
+0 -1 -1
+S
+#2304
+An Intersection in the Sewer~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2305
+D1
+~
+~
+0 0 2307
+D2
+~
+~
+0 0 2306
+D3
+~
+~
+0 0 2303
+S
+#2305
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2308
+D2
+~
+~
+0 0 2304
+S
+#2306
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2304
+D2
+~
+~
+0 0 2334
+S
+#2307
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D1
+~
+~
+0 0 2337
+D3
+~
+~
+0 0 2304
+S
+#2308
+A Collapsed Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D2
+~
+~
+0 0 2305
+S
+#2309
+In a Guardtower, Overlooking the Cemetery~
+You are in an unfinished room.
+~
+23 65544 0 0 0 0
+D3
+~
+~
+0 0 12294
+D5
+~
+~
+0 0 2310
+S
+#2310
+The Base of a Guardtower~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D1
+~
+~
+0 0 2311
+D4
+~
+~
+0 0 2309
+S
+#2311
+The Twisted Gates to the Graveyard~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2312
+D3
+~
+~
+0 0 2310
+S
+#2312
+A Crumbling Brick Path~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D0
+~
+~
+0 0 2318
+D1
+~
+~
+0 0 2313
+D2
+~
+~
+0 0 2319
+D3
+~
+~
+0 0 2311
+S
+#2313
+A Crumbling Brick Path~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D0
+~
+~
+0 0 2320
+D1
+~
+~
+0 0 2314
+D2
+~
+~
+0 0 2321
+D3
+~
+~
+0 0 2312
+S
+#2314
+A Crumbling Brick Path~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D0
+~
+~
+0 0 2322
+D1
+~
+~
+0 0 2315
+D2
+~
+~
+0 0 2323
+D3
+~
+~
+0 0 2313
+S
+#2315
+A Crumbling Brick Path~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D0
+~
+~
+0 0 2324
+D1
+~
+~
+0 0 2316
+D2
+~
+~
+0 0 2325
+D3
+~
+~
+0 0 2314
+S
+#2316
+A Crumbling Brick Path~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D0
+~
+~
+0 0 2326
+D1
+~
+~
+0 0 2317
+D2
+~
+~
+0 0 2327
+D3
+~
+~
+0 0 2315
+S
+#2317
+A Funeral Pyre, Piled High With Rotten Corpses~
+This unfinished room was created by Accarid.
+~
+23 131072 1 0 0 0
+D3
+~
+~
+0 0 2316
+S
+#2318
+A Plot of Crowded Gravestones~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D2
+~
+~
+0 0 2312
+D5
+~
+~
+0 0 2328
+S
+#2319
+A Plot of Crowded Gravestones~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D0
+~
+~
+0 0 2312
+S
+#2320
+A Plot of Crowded Gravestones~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D2
+~
+~
+0 0 2313
+S
+#2321
+A Plot of Crowded Gravestones~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D0
+~
+~
+0 0 2313
+D5
+~
+~
+0 0 2329
+S
+#2322
+A Plot of Crowded Gravestones~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D2
+~
+~
+0 0 2314
+S
+#2323
+A Plot of Crowded Gravestones~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D0
+~
+~
+0 0 2314
+D5
+~
+~
+0 0 2330
+S
+#2324
+A Plot of Crowded Gravestones~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D2
+~
+~
+0 0 2315
+D5
+~
+~
+0 0 2331
+S
+#2325
+A Plot of Crowded Gravestones~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D0
+~
+~
+0 0 2315
+D5
+~
+~
+0 0 2332
+S
+#2326
+A Plot of Crowded Gravestones~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D2
+~
+~
+0 0 2316
+D5
+~
+~
+0 0 2333
+S
+#2327
+A Plot of Crowded Gravestones~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D0
+~
+~
+0 0 2316
+S
+#2328
+In a Water-Filled Grave~
+This unfinished room was created by Accarid.
+~
+23 131080 0 0 0 9
+D4
+~
+~
+0 0 2318
+S
+#2329
+A Water-Filled Grave~
+This unfinished room was created by Accarid.
+~
+23 131080 0 0 0 9
+D4
+~
+~
+0 0 2321
+S
+#2330
+A Water-Filled Grave~
+This unfinished room was created by Accarid.
+~
+23 131080 0 0 0 9
+D4
+~
+~
+0 0 2323
+S
+#2331
+A Water-Filled Grave~
+This unfinished room was created by Accarid.
+~
+23 131080 0 0 0 9
+D4
+~
+~
+0 0 2324
+S
+#2332
+A Water-Filled Grave~
+This unfinished room was created by Accarid.
+~
+23 131080 0 0 0 9
+D4
+~
+~
+0 0 2325
+S
+#2333
+A Water-Filled Grave~
+This unfinished room was created by Accarid.
+~
+23 131080 0 0 0 9
+D4
+~
+~
+0 0 2326
+S
+#2334
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2306
+D2
+~
+~
+0 0 2335
+S
+#2335
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2334
+D2
+~
+~
+0 0 2336
+S
+#2336
+An Intersection in the Sewer~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2335
+D1
+~
+~
+0 0 2347
+D2
+~
+~
+0 0 2339
+D3
+~
+~
+0 0 2348
+S
+#2337
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2349
+D1
+~
+~
+0 0 2338
+D3
+~
+~
+0 0 2307
+S
+#2338
+A Collapsed Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D3
+~
+~
+0 0 2337
+S
+#2339
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2336
+D2
+~
+~
+0 0 2340
+S
+#2340
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2339
+D1
+~
+~
+0 0 2346
+D2
+~
+~
+0 0 2341
+S
+#2341
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2340
+D2
+~
+~
+0 0 2342
+S
+#2342
+An Intersection Cluttered With Crates~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2341
+D1
+~
+~
+0 0 2345
+D2
+~
+~
+0 0 2344
+D3
+~
+~
+0 0 2343
+S
+#2343
+A Partially Cleared Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D1
+~
+~
+0 0 2342
+S
+#2344
+A Partially Cleared Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2342
+S
+#2345
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D1
+~
+~
+0 0 2351
+D3
+~
+~
+0 0 2342
+S
+#2346
+An Artificial Alcove~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D3
+~
+~
+0 0 2340
+S
+#2347
+A Collapsed Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D3
+~
+~
+0 0 2336
+S
+#2348
+A Collapsed Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D1
+~
+~
+0 0 2336
+S
+#2349
+An Artificial Alcove~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D2
+~
+~
+0 0 2337
+S
+#2350
+An Artificial Alcove~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2302
+S
+#2351
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2357
+D1
+~
+~
+0 0 2352
+D3
+~
+~
+0 0 2345
+S
+#2352
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D1
+~
+~
+0 0 2353
+D3
+~
+~
+0 0 2351
+S
+#2353
+An Intersection in the Sewer~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2354
+D1
+~
+~
+0 0 2356
+D2
+~
+~
+0 0 2355
+D3
+~
+~
+0 0 2352
+S
+#2354
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2371
+D2
+~
+~
+0 0 2353
+S
+#2355
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2353
+D2
+~
+~
+0 0 2363
+S
+#2356
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D1
+~
+~
+0 0 2358
+D3
+~
+~
+0 0 2353
+S
+#2357
+An Artificial Alcove~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D2
+~
+~
+0 0 2351
+S
+#2358
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D1
+~
+~
+0 0 2359
+D2
+~
+~
+0 0 2362
+D3
+~
+~
+0 0 2356
+S
+#2359
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D1
+~
+~
+0 0 2360
+D3
+~
+~
+0 0 2358
+S
+#2360
+A Makeshift Altar~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D2
+~
+~
+0 0 2361
+D3
+~
+~
+0 0 2359
+S
+#2361
+A Partially Cleared Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2360
+S
+#2362
+An Artificial Alcove~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2358
+S
+#2363
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65536 0 0 0 0
+D0
+~
+~
+0 0 2355
+D2
+~
+~
+0 0 2364
+D3
+~
+~
+0 0 2370
+S
+#2364
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65536 0 0 0 0
+D0
+~
+~
+0 0 2363
+D2
+~
+~
+0 0 2365
+S
+#2365
+A Partially Collapsed Intersection~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2364
+D1
+~
+~
+0 0 2366
+S
+#2366
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65536 0 0 0 0
+D1
+~
+~
+0 0 2367
+D3
+~
+~
+0 0 2365
+S
+#2367
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65536 0 0 0 0
+D0
+~
+~
+0 0 2369
+D1
+~
+~
+0 0 2368
+D3
+~
+~
+0 0 2366
+S
+#2368
+A Dead End~
+This unfinished room was created by Accarid.
+~
+23 65536 0 0 0 0
+D3
+~
+~
+0 0 2367
+S
+#2369
+An Artificial Alcove~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D2
+~
+~
+0 0 2367
+S
+#2370
+An Artificial Alcove~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D1
+~
+~
+0 0 2363
+S
+#2371
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2372
+D2
+~
+~
+0 0 2354
+S
+#2372
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D0
+~
+~
+0 0 2373
+D2
+~
+~
+0 0 2371
+S
+#2373
+An Intersection in the Sewer~
+This unfinished room was created by Accarid.
+~
+23 131080 0 0 0 0
+D0
+~
+~
+0 0 2375
+D1
+~
+~
+0 0 2376
+D2
+~
+~
+0 0 2372
+D3
+~
+~
+0 0 2374
+S
+#2374
+A Collapsed Tunnel~
+This unfinished room was created by Accarid.
+~
+23 131080 0 0 0 0
+D1
+~
+~
+0 0 2373
+S
+#2375
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 131080 0 0 0 0
+D0
+~
+~
+0 0 2379
+D2
+~
+~
+0 0 2373
+S
+#2376
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 131080 0 0 0 0
+D1
+~
+~
+0 0 2377
+D3
+~
+~
+0 0 2373
+S
+#2377
+A Dark Sewer Tunnel~
+This unfinished room was created by Accarid.
+~
+23 131080 0 0 0 0
+D1
+~
+~
+0 0 2378
+D3
+~
+~
+0 0 2376
+S
+#2378
+A Collapsed Tunnel~
+This unfinished room was created by Accarid.
+~
+23 65544 0 0 0 0
+D3
+~
+~
+0 0 2377
+S
+#2379
+A Collapsed Tunnel~
+This unfinished room was created by Accarid.
+~
+23 131080 0 0 0 0
+D2
+~
+~
+0 0 2375
+S
+#2380
+A Shadowed Street~
+You are in an unfinished room.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 12042
+D3
+~
+~
+0 0 2381
+S
+#2381
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2380
+D3
+~
+~
+0 0 2382
+S
+#2382
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2381
+D3
+~
+~
+0 0 2383
+S
+#2383
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2382
+D3
+~
+~
+0 0 2384
+S
+#2384
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2383
+D3
+~
+~
+0 0 2385
+S
+#2385
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2384
+D3
+~
+~
+0 0 2386
+S
+#2386
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2385
+D3
+~
+~
+0 0 2387
+S
+#2387
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2386
+D3
+~
+~
+0 0 2388
+S
+#2388
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2387
+D2
+~
+~
+0 0 2398
+S
+#2389
+A Shadowed Street~
+You are in an unfinished room.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 12032
+D3
+~
+~
+0 0 2390
+S
+#2390
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2389
+D3
+~
+~
+0 0 2391
+S
+#2391
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2390
+D2
+~
+~
+0 0 19821
+D3
+~
+~
+0 0 2392
+S
+#2392
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2391
+D3
+~
+~
+0 0 2393
+S
+#2393
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2392
+D3
+~
+~
+0 0 2394
+S
+#2394
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2393
+D3
+~
+~
+0 0 2395
+S
+#2395
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2394
+D3
+~
+~
+0 0 2396
+S
+#2396
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D1
+~
+~
+0 0 2395
+D3
+~
+~
+0 0 2397
+S
+#2397
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D0
+~
+~
+0 0 2399
+D1
+~
+~
+0 0 2396
+S
+#2398
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D0
+~
+~
+0 0 2388
+D2
+~
+~
+0 0 2399
+S
+#2399
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+23 65536 1 0 0 0
+D0
+~
+~
+0 0 2398
+D2
+~
+~
+0 0 2397
+S
+$~

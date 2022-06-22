@@ -1,0 +1,404 @@
+#7200
+woman jen ral~
+Jen Ral~
+Jen Ral is here, tending to her store.
+~
+It looks unfinished.
+~
+188442 0 0 0 16 0 0 0 0 E
+50 -30 -10 30d1000+10000 30d100+50
+1000000 1
+8 8 2
+E
+#7201
+Ket man~
+Ket~
+Ket is here, sharpening some swords.
+~
+It looks unfinished.
+~
+188442 0 0 0 16 0 0 0 0 E
+50 -30 -10 30d1000+10000 30d100+50
+1000000 1
+8 8 1
+E
+#7202
+ratsmit man armorer~
+Ratsmit the armorer~
+Ratsmit the armorer is here working, as usual.
+~
+It looks unfinished.
+~
+188442 0 0 0 16 0 0 0 0 E
+50 -30 -10 30d1000+10000 30d100+50
+1000000 1
+8 8 1
+E
+#7203
+stilrenia gnome woman girl~
+Stilrenia the gnome~
+Stilrenia is here, rummaging through some junk.
+~
+The tiny female gnome before you, is upbeat and cheery. She wears a pair of
+small overalls and a cute lil' red cone hat.
+~
+188442 0 0 0 16 0 0 0 0 E
+50 -30 -10 30d1000+10000 30d100+50
+1 1
+8 8 2
+E
+#7204
+ardnas woman~
+Ardnas Nnyl~
+Ardnas Nnyl is here concocting a new a wondrous potion.
+~
+It looks unfinished.
+~
+188442 0 0 0 16 0 0 0 0 E
+50 -30 -10 30d1000+10000 30d100+50
+1000000 1
+8 8 2
+E
+#7205
+man money~
+I. Need Money~
+I. Need Money is here counting some loot.
+~
+It looks unfinished.
+~
+188443 0 0 0 16 0 0 0 0 E
+50 -30 -10 30d1000+10000 30d100+50
+1 1
+8 8 1
+E
+#7206
+postal drake~
+Postal Drake~
+The postal drake awaits the next message.
+~
+It looks unfinished.
+Give me letter I mail them.
+~
+188442 128 0 0 16 0 0 0 0 E
+50 -30 -10 30d1000+10000 30d100+50
+1 1
+8 8 0
+E
+#7207
+guildmistress woman cleric~
+the cleric guildmistress~
+The guildmistress of the clerics is here.
+~
+This beautiful woman has taught the arts of healing to would be clerics for
+countless ages. She wears a long, flowing, white robe and leather sandals.
+Her bright green eyes are accentuated by her fiery red hair.
+~
+188442 0 0 0 16 0 0 0 0 E
+50 -30 -10 30d1000+10000 30d100+50
+1 1
+8 8 2
+E
+#7208
+man mage guildmaster~
+the mage guildmaster~
+The master of mages is here studying.
+~
+The old man before you has studied the magical arts all his life. He wears
+a long dark blue robe and a matching pointy hat. His long scruffy white
+beard is the only proof of his prolific age.
+~
+188442 0 0 0 16 0 0 0 0 E
+50 -30 -10 30d1000+10000 30d100+50
+1 1
+8 8 1
+E
+#7209
+warrior man guildmaster~
+the warrior guildmaster~
+The mightiest of warriors is here practicing.
+~
+Big doesn't even begin to describe the hulking beast of a man before you.
+Wearing nothing but a loin cloth and some leather boots, and standing about
+seven feet tall, he is quite an intimidating character. His huge muscular
+arms could easily squash you like a bug.
+~
+188442 0 0 0 16 0 0 0 0 E
+50 -30 -10 30d1000+10000 30d100+50
+1 1
+8 8 1
+E
+#7210
+thief mistress guildmistress woman~
+the thief guildmistress~
+The mistress of the the thieves is here.
+~
+This woman sits in the shadows motionless, and barely visible. Unless your
+here for a lesson, becareful, her hands are most certainly quicker than
+your eyes.
+~
+188442 0 0 0 16 0 0 0 0 E
+50 -30 -10 30d1000+10000 30d127+50
+1 1
+8 8 2
+E
+#7211
+punk kid~
+a young punk~
+A young punk stands around, looking for opportunity.
+~
+A young kid stands here, scrawny and weak. His eyes are glazed over with a
+look of possible insanity. His hair is disheveled, and he probably hasn't
+bathed in weeks.
+~
+254024 0 0 0 0 0 0 0 0 E
+5 0 10 5d5+100 5d5+10
+1000 20000
+8 8 1
+E
+#7212
+Huskie puppy~
+huskie puppy~
+A brave huskie puppy is here.
+~
+It looks unfinished.
+~
+16398 0 0 0 0 0 0 0 0 E
+2 20 7 2d15+20 1d4+0
+0 1
+8 8 2
+BareHandAttack: 4
+E
+#7213
+kitten~
+fierce kitten~
+A fierce lil' kitten is ready to pounce.
+~
+It looks unfinished.
+~
+16398 0 0 0 0 0 0 0 0 E
+2 20 6 2d13+18 1d4+0
+0 1
+8 8 1
+E
+#7214
+Iguana lizard~
+a fierce iguana~
+A fierce looking iguana is here.
+~
+It looks unfinished.
+~
+16394 0 0 0 0 0 0 0 0 E
+1 20 7 1d20+5 1d4+0
+0 1
+8 8 1
+BareHandAttack: 10
+E
+#7215
+squirrel~
+a vicious squirrel~
+A vicious squirrel is ready to attack.
+~
+It looks unfinished.
+~
+16398 0 0 0 0 0 0 0 0 E
+1 20 7 1d18+5 1d3+0
+0 1
+8 8 2
+BareHandAttack: 4
+E
+#7216
+ferret~
+a crazed ferret~
+A crazed ferret is here twitching.
+~
+It looks unfinished.
+~
+16398 0 0 0 0 0 0 0 0 E
+1 20 10 1d18+5 1d3+0
+0 1
+8 8 2
+BareHandAttack: 4
+E
+#7217
+elephant~
+a pig sized elephant~
+A potbelly pig sized elephant is here.
+~
+It looks unfinished.
+~
+16394 0 0 0 0 0 0 0 0 E
+4 20 5 14d8+50 2d7+0
+0 1
+8 8 2
+BareHandAttack: 7
+E
+#7218
+Marmet rodent~
+a marmet~
+A crazed aquatic rodent is here.
+~
+It looks unfinished.
+~
+16394 0 0 0 0 0 0 0 0 E
+4 20 5 14d8+50 2d15+0
+0 1
+8 8 1
+BareHandAttack: 4
+E
+#7219
+fuzzy nuts squirrel~
+Fuzzy nuts~
+Fuzzy Nuts is here ready to attack.
+~
+It looks unfinished.
+~
+16398 0 0 0 0 0 0 0 0 E
+4 20 4 14d8+50 2d15+0
+0 1
+8 8 1
+BareHandAttack: 8
+E
+#7220
+Sandy~
+Sandy~
+Sandy is here, cuddling the pets.
+~
+The beautiful woman before you, has long brown hair and deep brown eyes. Her
+gently freckled smile, lights up the whole room, and brings comfort to
+everyone she meets.
+~
+59418 0 0 0 16 0 0 0 0 E
+50 -30 -10 30d1000+10000 30d100+50
+0 1
+8 8 2
+E
+#7221
+man sheriff Kabinoff~
+Sheriff Kabinoff~
+Sherrif Kabinoff is here, keeping an eye on the prisoners.
+~
+This portly pig is charged with keeping order in The City. Sadly he's as
+corrupt as a cop can get. You might be safer with the criminals.
+~
+2122 0 0 0 16 0 0 0 1000 E
+20 -5 3 20d10+700 4d5+18
+420 200000
+8 8 1
+E
+#7222
+man citizen~
+a citizen~
+A friendly citizen is standing here.
+~
+Just your everyday average joe. This guy was captured when he was a kid,
+and has lived here on the island ever since. At this point he doesn't even
+consider himself a prisoner.
+~
+2120 0 0 0 0 0 0 0 1000 E
+10 0 2 10d10+175 3d3+5
+420 900
+8 8 1
+E
+#7223
+pirate man~
+a pirate~
+A pirate is standing here.
+~
+This swashbuckler sneers at you as he catches your eye. You can see he's
+been drinking for some time, as he staggers through the crowd.
+~
+72 0 0 0 0 0 0 0 0 E
+10 -20 2 10d10+200 2d5+10
+200 80000
+8 8 1
+E
+#7224
+woman citizen~
+a female citizen~
+A female citizen is standing here.
+~
+A comely lass passes through the crowd, looking demurely down at the ground.
+She catches your eye for just a moment, and half smiles. Then she's gone.
+~
+72 0 0 0 0 0 0 0 0 E
+5 0 5 5d10+75 1d5+5
+100 700
+8 8 2
+E
+#7225
+child boy~
+a boy~
+A rammy little boy runs about.
+~
+The little boy immediately begins attacking you with a wooden sword when you
+catch his eye.  After you half-heartedly parry his blows, he turns away,
+distracted by a new face.  
+~
+72 0 0 0 0 0 0 0 0 E
+4 10 5 10d5+10 2d4+2
+10 420
+8 8 1
+E
+#7226
+girl child~
+a girl~
+A cute little girl is playing with her doll.
+~
+This little girl giggles as she notices your attention. She holds up her
+dolly, inviting you to play, and gets a small tear in her eye as you turn
+away.
+~
+72 0 0 0 0 0 0 0 0 E
+4 10 5 10d5+10 2d4+2
+10 420
+8 8 2
+E
+#7227
+Pirate Overlord~
+the pirate overlord~
+The pirate overlord is standing here.
+~
+It looks unfinished.
+~
+59402 0 0 0 0 0 0 0 -1000 E
+30 -20 0 30d10+10000 6d5+35
+100000 900000
+8 8 1
+E
+#7228
+Pirate~
+a greasy pirate~
+A greasy pirate is standing here.
+~
+It looks unfinished.
+~
+6216 0 0 0 0 0 0 0 0 E
+15 5 2 12d10+500 3d5+10
+420 150000
+8 8 1
+E
+#7229
+quest questmaster~
+the QuestMaster~
+A small, well respected man stands here lost in thought, with a look of confusion on his face.
+~
+It looks unfinished.
+~
+2097160 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#7230
+Metaphysician doctor physician~
+the Metaphysician~
+A shapely nurse eyes you, imagining all the things she can do to make you better.
+~
+Pervert. I'll toss you some eyecandy later.
+~
+10 0 0 0 0 0 0 0 0 E
+50 4 -20 10d10+500 8d8+8
+500 250000
+8 8 2
+E
+$

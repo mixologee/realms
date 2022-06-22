@@ -1,0 +1,291 @@
+#2300
+crowbar sharp metal~
+a twisted sharpened crowbar~
+A twisted, sharpened crowbar lies awkwardly at your feet.~
+~
+5 kmnp 0 0 0 anr 0 0 0 0 0 0 0
+5 7 7 11
+6 500 0 30
+A
+19 7
+A
+2 1
+#2301
+vambraces~
+a pair of stone vambraces~
+A pair of vambraces made of cemented pebbles lies here.~
+~
+9 kmnp 0 0 0 ai 0 0 0 0 0 0 0
+4 0 0 0
+20 500 0 30
+A
+13 30
+#2302
+armor darkling~
+a set of serrated darkling armor~
+A set of ebony armor covered in serrated edges lies on the ground. Must be hard to touch.~
+~
+9 kmn 0 0 0 ad 0 0 0 0 0 0 0
+3 0 0 0
+20 700 0 30
+A
+19 5
+A
+13 -30
+A
+17 -10
+#2303
+chest~
+a dark chest of wonders~
+A deep ebony chest of buffed mahogany sits in the center of the room, surrounded by a mote of dust.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+100 5 0 0
+10000 0 0 0
+#2304
+darkling love~
+the love of the darklings~
+A gauzy grey sphere floats in the air before you, radiating thin rays of white light.~
+~
+1 k d 0 0 ap 0 0 0 0 0 0 0
+0 0 -1 0
+0 10000 0 39
+A
+13 25
+A
+12 25
+#2305
+top leaves~
+a top of holly leaves~
+A tight-fitting shirt of two huge holly leaves lies here.~
+~
+9 k 0 0 0 adk 0 0 0 0 0 0 0
+2 0 0 0
+3 100 0 35
+A
+13 20
+A
+12 10
+A
+19 1
+#2306
+skirt holly~
+a skirt of huge holly leaves~
+A skirt of huge holly leaves lies here.~
+~
+11 k 0 0 0 afl 0 0 0 0 0 0 0
+0 0 0 0
+5 100 0 35
+A
+12 10
+A
+19 2
+#2307
+whip holly~
+a whip woven of lithe holly branches~
+A whip of holly branches lies here, its waxy leaves glinting in the light.~
+~
+5 kop 0 0 0 an 0 0 0 0 0 0 0
+7 16 3 2
+3 500 0 35
+A
+12 25
+A
+19 2
+#2308
+broadsword sword~
+a light, well-crafted broadsword~
+A very heavy-looking broadsword lies here, making dirt angels.~
+~
+5 kmno e 0 0 an 0 0 0 0 0 0 0
+5 5 10 3
+5 9000 0 35
+A
+1 3
+A
+19 5
+#2309
+darkling armor~
+a suit of darkling plate armor~
+An ebony suit of armor made of interlocking plates lies here, gleaming in the light.~
+~
+9 kmnow 0 0 0 ad 0 0 0 0 0 0 0
+4 0 0 0
+10 9000 0 40
+A
+1 1
+A
+13 30
+#2310
+robe~
+a misty robe of willow vines~
+An arrangement of willow vines here implies that it is meant to be worn.~
+~
+11 knop 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+3 300 0 30
+A
+12 25
+A
+2 2
+#2311
+ring thorns~
+a thorned ring~
+A ring of thorny thistles lies here. It would surely be painful to wear.~
+~
+11 kmopw 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+3 0 0 35
+A
+18 -7
+A
+13 20
+A
+4 2
+#2312
+cuff thorns~
+a cuff of thorned branches~
+A wristcuff of thorned branches lies here. It would surely be uncomfortable to wear.~
+~
+11 kmopw 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+3 0 0 35
+A
+17 -2
+A
+13 20
+#2313
+crown thorns~
+a crown of thorns~
+A crown made of thorned branches stands here on its own.~
+~
+11 kmopw 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+3 0 0 35
+A
+13 20
+A
+24 -2
+A
+4 2
+#2314
+kris obsidian~
+an obsidian kris~
+A dagger of sharp-edged obsidian rests on the ground, its facets glinting in the light.~
+~
+5 kmnpw 0 0 0 anr 0 0 0 0 0 0 0
+7 7 6 11
+7 0 0 35
+A
+18 2
+A
+19 3
+#2315
+gauntlets~
+a pair of darkling bladed gauntlets~
+A pair of gauntlets with a blade on every edge lies here, glinting dangerously.~
+~
+9 kmnpw 0 0 0 ah 0 0 0 0 0 0 0
+4 0 0 0
+14 0 0 35
+A
+19 3
+#2316
+skirt chainmail~
+a skirt of white gold chainmail~
+A silvery skirt of chainmail shines in the light.~
+~
+9 kmnow 0 0 0 af 0 0 0 0 0 0 0
+4 0 0 0
+20 0 0 35
+A
+18 2
+A
+13 20
+#2317
+scabbard~
+a rune-engraved scabbard~
+A scabbard made of the hard wood at the center of an ash tree lies here, its many sigils glowing blue.~
+~
+11 kmnow 0 0 0 al 0 0 0 0 0 0 0
+0 0 0 0
+7 0 0 35
+A
+13 20
+A
+18 2
+A
+17 -4
+#2318
+armguards~
+a pair of silver armguards trimmed with quetzl feathers~
+A pair of very shiny metal arguards trimmed with bright green feathers is here.~
+~
+9 knopw 0 0 0 ai 0 0 0 0 0 0 0
+1 0 0 0
+20 0 0 35
+A
+12 20
+A
+13 10
+#2319
+choker~
+a spiked oak choker~
+A choker made of interlocking wooden blocks lies here.~
+~
+11 knopw 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+7 0 0 35
+A
+12 30
+A
+3 1
+#2320
+fur coat weasel~
+a dire weasel fur coat~
+A coat of stinky weasel fur lies here, repelling insects.~
+~
+9 kw 0 0 0 ak 0 0 0 0 0 0 0
+2 0 0 0
+20 0 0 35
+A
+12 10
+A
+13 10
+A
+18 2
+A
+19 1
+#2321
+longbow bow darkling~
+a darkling-crafted composite longbow~
+A peculiar, twisted longbow lies here, its string vibrating with internal energy.~
+~
+25 kopw e 0 0 an 0 0 0 0 0 0 0
+10 5 10 11
+10 0 0 35
+#2322
+quiver~
+a darkling arm quiver~
+An armguard with a slot to hold arrows lies here.~
+~
+37 kw 0 0 0 ai 0 0 0 0 0 0 0
+0 0 0 0
+5 0 0 35
+A
+2 1
+A
+17 -5
+A
+18 2
+#2323
+arrow~
+an arrow with a barbed tip~
+An arrow with a barbed tip stands point-down in the ground.~
+~
+29 kw 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 35
+A
+19 3
+$~

@@ -1,0 +1,30 @@
+Sep 10 20:16:53 :: SYSERR: rand_number() should be called with lowest, then highest. (-10, 1), not (1, -10).
+Sep 10 20:16:53 :: nusage: 4   sockets connected, 4   sockets playing
+Sep 10 20:16:54 :: SYSERR: rand_number() should be called with lowest, then highest. (-10, 1), not (1, -10).
+Sep 10 20:16:55 :: SYSERR: rand_number() should be called with lowest, then highest. (-10, 1), not (1, -10).
+Sep 10 20:16:56 :: SYSERR: rand_number() should be called with lowest, then highest. (-10, 1), not (1, -10).
+Sep 10 20:17:34 :: SYSERR: rand_number() should be called with lowest, then highest. (0, 1), not (1, 0).
+Sep 10 20:17:36 :: SYSERR: rand_number() should be called with lowest, then highest. (0, 1), not (1, 0).
+Sep 10 20:17:37 :: SYSERR: rand_number() should be called with lowest, then highest. (0, 1), not (1, 0).
+Sep 10 20:17:38 :: SYSERR: rand_number() should be called with lowest, then highest. (0, 1), not (1, 0).
+Sep 10 20:17:39 :: SYSERR: rand_number() should be called with lowest, then highest. (0, 1), not (1, 0).
+Sep 10 20:18:24 :: SYSERR: rand_number() should be called with lowest, then highest. (-25, 1), not (1, -25).
+Sep 10 20:18:25 :: SYSERR: rand_number() should be called with lowest, then highest. (-25, 1), not (1, -25).
+Sep 10 20:18:26 :: SYSERR: rand_number() should be called with lowest, then highest. (-25, 1), not (1, -25).
+Sep 10 20:18:27 :: SYSERR: rand_number() should be called with lowest, then highest. (-25, 1), not (1, -25).
+Sep 10 20:18:27 :: Sam advanced 1 level to level 13.
+Sep 10 20:19:23 :: Sam has quit the game.
+Sep 10 20:19:23 :: Losing player: Sam.
+Sep 10 20:19:36 :: Samehdi [host-72-174-208-39.ljn-co.client.bresnan] has connected.
+Sep 10 20:19:40 :: Samehdi had no variable file
+Sep 10 20:19:40 :: Samehdi un-renting and entering game.
+Sep 10 20:19:40 :: Samehdi (level 42) has 0 objects (max 30).
+Sep 10 20:21:25 :: SYSERR: rand_number() should be called with lowest, then highest. (0, 1), not (1, 0).
+Sep 10 20:21:26 :: SYSERR: rand_number() should be called with lowest, then highest. (0, 1), not (1, 0).
+Sep 10 20:21:27 :: SYSERR: rand_number() should be called with lowest, then highest. (0, 1), not (1, 0).
+Sep 10 20:21:34 :: Samehdi has quit the game.
+Sep 10 20:21:34 :: Losing player: Samehdi.
+Sep 10 20:21:53 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 10 20:25:02 :: WARNING: EOF on socket read (connection broken by peer)
+Sep 10 20:25:02 :: Closing link to: Accarid.
+Sep 10 20:25:23 :: Accarid [pool-71-244-78-70.atc.east.verizon.net] has reconnected.

@@ -1,0 +1,2233 @@
+#7300
+City Ave. and Olney Ave.~
+City ave. heads south from this corner, while olney leads east along the
+north edge of the projects. Trash litters the street and the whole area
+smells kind of funny.
+~
+73 0 0 0 0 21
+D1
+~
+~
+0 0 7301
+D2
+~
+~
+0 0 7310
+S
+#7301
+Olney Avenue~
+This street runs along the north side of the projects. The whole area looks
+run down. The buildings are in bad shape, and the street looks as if it has
+never been cleaned. On top of all this, residents must contend with the
+rampant gang activity.
+~
+73 0 0 0 0 21
+D1
+~
+~
+0 0 7302
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7300
+S
+#7302
+Olney Avenue~
+Olney ave. is well known in the projects for being a trouble spot. Gang
+activity is a daily struggle for the poor residents simply trying to scrape
+out an existence here.
+~
+73 0 0 0 0 21
+D1
+~
+~
+0 0 7303
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7301
+S
+#7303
+Denny St. and Olney Ave.~
+Denny st. dead-ends here on the north side of the projects. The whole place
+has a strange feeling of imminent danger all about. Better watch your back,
+just to be on the safe side.
+~
+73 0 0 0 0 21
+D1
+~
+~
+0 0 7304
+D2
+~
+~
+0 0 7313
+D3
+~
+~
+0 0 7302
+S
+#7304
+Olney Avenue~
+Olney ave. is well known in the projects for being a trouble spot. Gang
+activity is a daily struggle for the poor residents simply trying to scrape
+out an existence here.
+~
+73 0 0 0 0 21
+D1
+~
+~
+0 0 7305
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7303
+S
+#7305
+Olney Avenue~
+This street runs along the north side of the projects. The whole area looks
+run down. The buildings are in bad shape, and the street looks as if it has
+never been cleaned. On top of all this, residents must contend with the
+rampant gang activity.
+~
+73 0 0 0 0 21
+D1
+~
+~
+0 0 7306
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7304
+S
+#7306
+Broad St. and Olney Ave.~
+Broad st. dead-ends here on the north side of the projects. The whole place
+has a strange feeling of imminent danger all about. Better watch your back,
+just in case.
+~
+73 0 0 0 0 21
+D1
+~
+~
+0 0 7307
+D2
+~
+~
+0 0 7316
+D3
+~
+~
+0 0 7305
+S
+#7307
+Olney Avenue~
+Olney ave. is well known in the projects for being a trouble spot. Gang
+activity is a daily struggle for the poor residents simply trying to scrape
+out an existence here.
+~
+73 0 0 0 0 21
+D1
+~
+~
+0 0 7308
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7306
+S
+#7308
+Olney Avenue~
+This street runs along the north side of the projects. The whole area looks
+run down. The buildings are in bad shape, and the street looks as if it has
+never been cleaned. On top of all this, residents must contend with the
+rampant gang activity.
+~
+73 0 0 0 0 21
+D1
+~
+~
+0 0 7309
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7307
+S
+#7309
+High St. and Olney Ave.~
+High st. heads south from this corner, while Olney leads west along the north
+edge of the projects. Trash litters the street and the whole area smells kind
+of strange.
+~
+73 0 0 0 0 21
+D2
+~
+~
+0 0 7319
+D3
+~
+~
+0 0 7308
+S
+#7310
+City Ave.~
+This dirty street marks the western border of the projects. Crime on the
+perimeter street is much less than that of the inner project streets, and
+people walk around going about their business.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7300
+D1
+~
+~
+0 0 7311
+D2
+~
+~
+0 0 7320
+S
+#7311
+Empty Building~
+This home is currently for sale.
+~
+73 0 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7310
+S
+#7312
+Empty Building~
+This home is currently for sale.
+~
+73 0 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7313
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7313
+Denny Street~
+This is the north side of the projects. It's not quite a crazy as the central
+area, but it still has it's fair shair of deviance, so be sure to keep your
+eyes open.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7303
+D1
+~
+~
+0 0 7314
+D2
+~
+~
+0 0 7323
+D3
+~
+~
+0 0 7312
+S
+#7314
+Empty Building~
+This home is currently for sale.
+~
+73 0 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7313
+S
+#7315
+&CThe House of &RSIN&B~
+Irridescent black silk of the finest make has been draped over the walls of
+this over-large room, it's length pooling at the floor and spilling into the
+room. Several piles of plush red velvet pillows have been scattered about
+hecticly, and all look very inviting to all who enter.  Several elegant silver
+candleholders have been set around the room for lighting, their very design
+gothic in nature. Hidden in the recesses of the wall-hanging silk are a
+multitude of chains and cuffs, visible only when the light from any of a
+plethora of candles  catches their high-shine silver surfaces. The center of
+the room is dominated by a very ornate hand carved four post bed of the finest
+cherry oak wood. It's surface has been polished to a deep shine, and it has been
+adorned with black silk sheets that caress the floor on all sides. As with all
+the silk in the room, the sheets also seem to hide something silver and glinting
+beneath their surface. The soft scent of vanilla and patchouli floats
+effortlessly within the air, enticing all who enter.
+~
+73 6656 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7316
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7316
+Broad Street~
+This is the north side of the projects. It's not quite a crazy as the central
+area, but it still has it's fair shair of deviance, so be sure to keep your
+eyes open.
+~
+73 40960 0 0 0 21
+D0
+~
+~
+0 0 7306
+D1
+~
+~
+0 0 7317
+D2
+~
+~
+0 0 7326
+D3
+~
+~
+0 0 7315
+S
+#7317
+&YHeaven&B~
+make a room decript and mudmail to tek.
+~
+73 6656 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7316
+S
+#7318
+Empty Building~
+This home is currently for sale.
+~
+73 0 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7319
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7319
+High Street~
+This dusty street marks the eastern border of the projects. Crime on the
+perimeter street is much less than that of the inner project streets, and
+people walk about, living out their rough lives.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7309
+D2
+~
+~
+0 0 7329
+D3
+~
+~
+0 0 7318
+S
+#7320
+City Ave.~
+The street heads north to south along the edge of the projects. Not much
+tends to go on around here, never the less, the gangs do roam the area,
+better watch yourself just in case.
+~
+73 8192 0 0 0 21
+D0
+~
+~
+0 0 7310
+D1
+~
+~
+0 0 7321
+D2
+~
+~
+0 0 7330
+S
+#7321
+&CToker's House&B~
+Have your god char change this room description
+~
+73 6664 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7320
+S
+#7322
+House of the Blue Dragons~
+This is the hideout of the blue dragons. When nothing is going on this place
+can get pretty crowded with blues hanging out and planning their next attack
+on the red dragons.
+~
+73 8200 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7323
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7323
+Denny Street~
+Just south of here, is the center of the projects. Unfortunatly that's also
+the direction needed to head out of the projects. To the west you see a
+house with a large blue dragon emblem.
+~
+73 14848 0 0 0 21
+D0
+~
+~
+0 0 7313
+D1
+~
+~
+0 0 7324
+D2
+~
+~
+0 0 7333
+D3
+~
+~
+0 0 7322
+S
+#7324
+&CThe Greatest Crackden Ever&B~
+Write a room descript an mudmail it to tek.
+~
+73 2560 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7323
+S
+#7325
+&CRimmer's House&b~
+make a room descript an mudmail to tek.
+~
+73 39424 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7326
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7326
+Broad Street~
+Just south of here, is the center of the projects. Unfortunatly that's also
+the direction needed to head out of the projects. Tread carefully brave
+adventurer.
+~
+73 40960 0 0 0 21
+D0
+~
+~
+0 0 7316
+D1
+~
+~
+0 0 7327
+D2
+~
+~
+0 0 7336
+D3
+~
+~
+0 0 7325
+S
+#7327
+&CDoobie's House&B~
+write a room description an mudmail to tek
+~
+73 39424 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7326
+S
+#7328
+Empty Building~
+This home is currently for sale.
+~
+73 0 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7329
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7329
+High Street~
+The street heads north to south along the edge of the projects. Not alot
+seems to go on around here, better watch yourself anyway, just in case.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7319
+D2
+~
+~
+0 0 7339
+D3
+~
+~
+0 0 7328
+S
+#7330
+City Ave. and Marshall St.~
+This intersection marks the begining of Marshall street. It is considered the
+roughest street in the projects. Thieves lurk about, day and night, along
+with smugglers, assasins and the like.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7320
+D1
+~
+~
+0 0 7331
+D2
+~
+~
+0 0 7340
+S
+#7331
+Marshall Street~
+This street is known for being dangerous. Crime runs rampant in this part
+of the projects, forcing most residents to stay inside their homes at night.
+During the daytime children still come out to play, sadly, some never return
+home.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7332
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7330
+S
+#7332
+Marshall Street~
+This street is appalling. Trash and garbage are everywhere, the residents
+are filthy and the few who aren't criminals seem hungry and scared, all the
+time. Most of the buildings along the street are falling apart, some even
+lacking a decent roof.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7333
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7331
+S
+#7333
+Denny St. and Marshall St.~
+You are standing at one of the two most dangerous intersections in the
+projects. Rumbles spontaniously erupting are not uncommon around here. Trash,
+insects and vermin are everywhere. It would be wise to head out of here as
+quickly as possible.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7323
+D1
+~
+~
+0 0 7334
+D2
+~
+~
+0 0 7343
+D3
+~
+~
+0 0 7332
+S
+#7334
+Marshall Street~
+This is the center of the projects. Not even The City guards, have the balls
+to come in here. The gangs own this place and everyone knows it. Frequently
+the street is blocked off at the intersections, Broad and Denny, so the two
+dragon crews have somewhere to rumble.
+~
+73 32768 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7335
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7333
+S
+#7335
+Marshall Street~
+This is the center of the projects. Not even The City guards, have the balls
+to come in here. The gangs own this place and everyone knows it. Frequently
+the street is blocked off at the intersections, Denny and Broad, so the two
+dragon crews have somewhere to rumble.
+~
+73 32768 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7336
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7334
+S
+#7336
+Broad St. and Marshall St.~
+You are standing at one of the two most dangerous intersections in the
+projects. Rumbles spontaniously erupting are not uncommon around here. Trash,
+insects and vermin are everywhere. It would be wise to head out of here as
+quickly as possible.
+~
+73 32768 0 0 0 21
+D0
+~
+~
+0 0 7326
+D1
+~
+~
+0 0 7337
+D2
+~
+~
+0 0 7346
+D3
+~
+~
+0 0 7335
+S
+#7337
+Marshall Street~
+This street is appalling. Trash and garbage are everywhere, the residents
+are filthy and the few who aren't criminals seem hungry and scared, all the
+time. Most of the buildings along the street are falling apart, some even
+lacking a decent roof.
+~
+73 32768 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7338
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7336
+S
+#7338
+Marshall Street~
+This street is known for being dangerous. Crime runs rampant in this part
+of the projects, forcing most residents to stay inside their homes at night.
+During the daytime children still come out to play, sadly, some never return
+home.
+~
+73 32768 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7339
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7337
+S
+#7339
+High St. and Marshall St.~
+This intersection marks the begining of Marshall street. It is considered the
+roughest street in the projects. Thieves lurk about, day and night, along
+with smugglers, assasins and the like.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7329
+D2
+~
+~
+0 0 7349
+D3
+~
+~
+0 0 7338
+S
+#7340
+City Ave.~
+The street heads north to south along the edge of the projects. Not much
+tends to go on around here, never the less, the gangs do roam the area,
+better watch yourself just in case.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7330
+D1
+~
+~
+0 0 7341
+D2
+~
+~
+0 0 7350
+S
+#7341
+Empty Building~
+This home is currently for sale.
+~
+73 0 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7340
+S
+#7342
+&CKelly's Purgatory&b~
+Walking into the cottage, the first thing noticeable is the faint smell of
+jasmine.  An ornate tapestry, depicting a dragon of red, and gold, hangs on the
+far wall.  A small, bronze statue of Buddha rests beneath it, holding a stick of
+incense, and you now understand where the pleasant smell of jasmine originates
+from, as you watch the smoke curl to the rafters above.  To the left, a small
+cot can be seen, covered in furs and intricately woven quilts.  It rests beneath
+a large window, the wood pain stakingly carved into dragons, and scrolling into
+a beautiful latice at the top.  A changing screen, made of very fine rice paper
+and framed in a deep mohogany, with ancient mandarin symbols painted onto the
+paper, in red and gold, offers modesty, yet invites sensuality.  The comfort is
+not lost on the weary traveler, and at once, you feel relaxed, allowing the
+energy of this place to envelop your soul.  
+~
+73 6656 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7343
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7343
+Denny Street~
+The further north you go, the worse this street seems get. More and more
+trash seems to be collecting on the street and near the sides of the
+buildings around you.
+~
+73 8192 0 0 0 21
+D0
+~
+~
+0 0 7333
+D1
+~
+~
+0 0 7344
+D2
+~
+~
+0 0 7353
+D3
+~
+~
+0 0 7342
+S
+#7344
+Empty Building~
+This home is currently for sale.
+~
+73 0 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7343
+S
+#7345
+&CKeb's House&B~
+This home is currently for sale.
+~
+73 39424 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7346
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7346
+Broad Street~
+The further north you go, the worse this street seems get. More and more
+trash seems to be collecting on the street and near the sides of the
+buildings around you. The house to the east has a red dragon emblem on it.
+~
+73 40960 0 0 0 21
+D0
+~
+~
+0 0 7336
+D1
+~
+~
+0 0 7347
+D2
+~
+~
+0 0 7356
+D3
+~
+~
+0 0 7345
+S
+#7347
+House of the Red Dragons~
+This is the hideout of the red dragons. When nothing is going on this place
+can get pretty crowded with reds hanging out and planning their next attack
+on the blue dragons.
+~
+73 32776 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7346
+S
+#7348
+Empty Building~
+This home is currently for sale.
+~
+73 0 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7349
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7349
+High Street~
+The street heads north to south along the edge of the projects. Not alot
+seems to go on around here, better watch yourself anyway, just in case.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7339
+D2
+~
+~
+0 0 7359
+D3
+~
+~
+0 0 7348
+S
+#7350
+City Ave.~
+This dirty street marks the western border of the projects. Crime on the
+perimeter street is much less than that of the inner project streets, and
+people walk around going about their business.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7340
+D1
+~
+~
+0 0 7351
+D2
+~
+~
+0 0 7360
+S
+#7351
+Empty Building~
+This home is currently for sale.
+~
+73 0 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7350
+S
+#7352
+&CPhreana's Joint&n~
+write a descript an mudmail to tek.
+~
+73 2560 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7353
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7353
+Denny Street~
+Denny street heads north deeper into the projects, and south back towards
+the comforts of The City. Perhaps south is the better idea of the two,
+considering some of the terrible horror stories going around about this
+wretched place.
+~
+73 8192 0 0 0 21
+D0
+~
+~
+0 0 7343
+D1
+~
+~
+0 0 7354
+D2
+~
+~
+0 0 7363
+D3
+~
+~
+0 0 7352
+S
+#7354
+&CArrumar's Hold&B~
+This home is currently for sale.
+~
+73 2560 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7353
+S
+#7355
+&CCeityna's Pleasure Palace&B~
+Make a room description and mudmail it to tek.
+~
+73 39424 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7356
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7356
+Broad Street~
+Broad street heads north deeper into the projects, and south back towards
+the comforts of The City. Perhaps south is the better idea of the two,
+considering some of the terrible horror stories going around about this
+wretched place.
+~
+73 40960 0 0 0 21
+D0
+~
+~
+0 0 7346
+D1
+~
+~
+0 0 7357
+D2
+~
+~
+0 0 7366
+D3
+~
+~
+0 0 7355
+S
+#7357
+&CEZ's Temple to Tek and Bluntmaster&B~
+Make a room descript an mudmail it to tek
+~
+73 39424 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7356
+S
+#7358
+Empty Building~
+This home is currently for sale.
+~
+73 0 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7359
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7359
+High Street~
+This dusty street marks the eastern border of the projects. Crime on the
+perimeter street is much less than that of the inner project streets, and
+people walk about, living out their rough lives.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7349
+D2
+~
+~
+0 0 7369
+D3
+~
+~
+0 0 7358
+S
+#7360
+City Ave.~
+The street heads north to south along the edge of the projects. Not much
+tends to go on around here, never the less, the gangs do roam the area,
+better watch yourself just in case.
+~
+73 8192 0 0 0 21
+D0
+~
+~
+0 0 7350
+D1
+~
+~
+0 0 7361
+D2
+~
+~
+0 0 7370
+S
+#7361
+&CTaha's House&B~
+Write a room description an mudmail it to tek.
+~
+73 2560 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7360
+S
+#7362
+&CHouse of Bondage&B~
+Make a room description and mudmail it to tek.
+~
+73 68096 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7363
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7363
+Denny Street~
+The further north you go, the worse this street seems get. More and more
+trash seems to be collecting on the street and near the sides of the
+buildings around you.
+~
+73 8192 0 0 0 21
+D0
+~
+~
+0 0 7353
+D1
+~
+~
+0 0 7364
+D2
+~
+~
+0 0 7373
+D3
+~
+~
+0 0 7362
+S
+#7364
+&CThe Blackhole&B~
+All the laws of physics are broken as everything gravitates to the black
+singularity before you. All particles of matter break down to form
+stuff smaller than anything previously known. Odd pockets of plasma and
+light radiation swirl about above your head and come crashing down
+obliterating everything nearby. A field of darkmatter seems to form a
+shield protecting this contradiction to reality from the imploding star.
+~
+73 68096 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7363
+S
+#7365
+&CKing Lawrybeard's Castle&B~
+Make a room description an mudmail it to tek.
+~
+73 2560 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7366
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7366
+Broad Street~
+The further north you go, the worse this street seems get. More and more
+trash seems to be collecting on the street and near the sides of the
+buildings around you.
+~
+73 40960 0 0 0 21
+D0
+~
+~
+0 0 7356
+D1
+~
+~
+0 0 7367
+D2
+~
+~
+0 0 7376
+D3
+~
+~
+0 0 7365
+S
+#7367
+&CDevievoker's House&B~
+Make a room description  and mudmail it to tek :)
+~
+73 2560 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7366
+S
+#7368
+Empty Building~
+This home is currently for sale.
+~
+73 0 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7369
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7369
+High Street~
+The street heads north to south along the edge of the projects. Not alot
+seems to go on around here, better watch yourself anyway, just in case.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7359
+D2
+~
+~
+0 0 7379
+D3
+~
+~
+0 0 7368
+S
+#7370
+City Ave.~
+This dirty street marks the western border of the projects. Crime on the
+perimeter street is much less than that of the inner project streets, and
+people walk around going about their business.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7360
+D1
+~
+~
+0 0 7371
+D2
+~
+~
+0 0 7380
+S
+#7371
+Ye Old Corner Shop~
+This little shop provides tasty morsels from all over the world. It's a 
+bit dirty and the prices aren't very good, and yet it still maintains
+a feeling of welcome-ness to all.
+~
+73 8 0 0 0 24
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7370
+S
+#7372
+&CUribam's Hovel&n~
+write a room descript and mudmail it to tek.
+~
+73 10752 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7373
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7373
+Denny Street~
+Denny street heads north deeper into the projects, and south back towards
+the comforts of The City. Perhaps south is the better idea of the two,
+considering some of the terrible horror stories going around about this
+wretched place.
+~
+73 10752 0 0 0 21
+D0
+~
+~
+0 0 7363
+D1
+~
+~
+0 0 7374
+D2
+~
+~
+0 0 7383
+D3
+~
+~
+0 0 7372
+S
+#7374
+&CAnkah's Temple&B~
+Write a room description an mudmail it to tek.
+~
+73 2560 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7373
+S
+#7375
+&CGreed's Horde&b~
+right a descript an mudmail it to me 
+~
+73 6656 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7376
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7376
+Broad Street~
+Broad street heads north deeper into the projects, and south back towards
+the comforts of The City. Perhaps south is the better idea of the two,
+considering some of the terrible horror stories going around about this
+wretched place.
+~
+73 8192 0 0 0 21
+D0
+~
+~
+0 0 7366
+D1
+~
+~
+0 0 7377
+D2
+~
+~
+0 0 7386
+D3
+~
+~
+0 0 7375
+S
+#7377
+&CChris's &RJ&W/&Go&W/&Gi&W/&Gn&W/&Gt&W>&n~
+Despite the fact that this room is located within the city projects, the
+sheer oppulance belies the outter facade. Treasures of every description are
+place tastefully about this cavernous room, almost all looted from the
+pirate masters on the island. The faint smell of ganja pervades the room,
+and bottles of Tanqueray 10 gin can be seen within a series of frosted glass
+cabinets. Wine racks line the southern wall, brimming with perhaps the
+greatest collection in existance of the lands finest vintages. A black cat
+and a white cat are curled up head-to-tail next to each other forming a
+living, purring yin yang.
+~
+73 2560 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7376
+S
+#7378
+Empty Building~
+This home is currently for sale.
+~
+73 0 0 0 0 23
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7379
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7379
+High Street~
+This dusty street marks the eastern border of the projects. Crime on the
+perimeter street is much less than that of the inner project streets, and
+people walk about, living out their rough lives.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7369
+D2
+~
+~
+0 0 7389
+D3
+~
+~
+0 0 7378
+S
+#7380
+City Ave. and Clearfield St.~
+This corner marks the begining of City ave. It heads north to the other side
+of the projects. To the south of here, you can see Fairmount park, and The
+City beyond that.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7370
+D1
+~
+~
+0 0 7381
+D2
+~
+~
+0 0 7390
+S
+#7381
+Clearfield Street~
+This is the best street in the projects. It's also no coincidence that it's
+the closest street to The City. Like most urban development projects the
+City takes good care of one street, only to allow the decay and collapse of
+the other streets deeper within, to go unseen.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7382
+D2
+~
+~
+0 0 7391
+D3
+~
+~
+0 0 7380
+S
+#7382
+Clearfield Street~
+This street is well kept and clean. Its close proximity to the rest of The
+City, ensures that it will always be well protected from crime. It is often
+used to show how succesful the projects have been in offering affordable,
+and safe housing.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7383
+D2
+~
+~
+0 0 7392
+D3
+~
+~
+0 0 7381
+S
+#7383
+Denny St. and Clearfield St.~
+Denny and Clearfield intersect here. Heading north from here will take you 
+deeper into the projects, while The City lies to the south.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7373
+D1
+~
+~
+0 0 7384
+D2
+~
+~
+0 0 7393
+D3
+~
+~
+0 0 7382
+S
+#7384
+Clearfield Street~
+This is the best street in the projects. It's also no coincidence that it's
+the closest street to The City. Like most urban development projects the
+City takes good care of one street, only to allow the decay and collapse of
+the other streets deeper within, to go unseen.
+~
+73 8192 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7385
+D2
+~
+~
+0 0 7394
+D3
+~
+~
+0 0 7383
+S
+#7385
+Clearfield Street~
+This is the best street in the projects. It's also no coincidence that it's
+the closest street to The City. Like most urban development projects the
+City takes good care of one street, only to allow the decay and collapse of
+the other streets deeper within, to go unseen.
+~
+73 8192 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7386
+D2
+~
+~
+0 0 7395
+D3
+~
+~
+0 0 7384
+S
+#7386
+Broad St. and Clearfield St.~
+Broad and Clearfield intersect here. Heading north from here will take you 
+deeper into the projects, while The City lies to the south.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7376
+D1
+~
+~
+0 0 7387
+D2
+~
+~
+0 0 7396
+D3
+~
+~
+0 0 7385
+S
+#7387
+Clearfield Street~
+This street is well kept and clean. Its close proximity to the rest of The
+City, ensures that it will always be well protected from crime. It is often
+used to show how succesful the projects have been in offering affordable,
+and safe housing.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7388
+D2
+~
+~
+0 0 7397
+D3
+~
+~
+0 0 7386
+S
+#7388
+Clearfield Street~
+This is the best street in the projects. It's also no coincidence that it's
+the closest street to The City. Like most urban development projects the
+City takes good care of one street, only to allow the decay and collapse of
+the other streets deeper within, to go unseen.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7389
+D2
+~
+~
+0 0 7398
+D3
+~
+~
+0 0 7387
+S
+#7389
+High St. and Clearfield St.~
+This corner marks the begining of High st. It heads north to the other side
+of the projects. To the south of here, you can see Fairmount park, and The
+City beyond that.
+~
+73 0 0 0 0 23
+D0
+~
+~
+0 0 7379
+D2
+~
+~
+0 0 7399
+D3
+~
+~
+0 0 7388
+S
+#7390
+Fairmount Park~
+Fairmount park is full of tree's and lush green plant life. The walking path
+is well maintained, as is the rest of the park. Small grills are set up, in
+various places for bbq'ing and picnics.
+~
+73 0 0 0 0 3
+D0
+~
+~
+0 0 7380
+D1
+~
+~
+0 0 7391
+S
+#7391
+Fairmount Park~
+Fairmount park is full of tree's and lush green plant life. The walking path
+is well maintained, as is the rest of the park. A horseshoe pit has been
+setup for the folks having cookouts.
+~
+73 0 0 0 0 3
+D0
+~
+~
+0 0 7381
+D1
+~
+~
+0 0 7392
+D3
+~
+~
+0 0 7390
+S
+#7392
+Fairmount Park~
+Fairmount park is full of tree's and lush green plant life. The walking path
+is well maintained, as is the rest of the park. Small grills are set up, in
+various places for bbq'ing and picnics.
+~
+73 0 0 0 0 3
+D0
+~
+~
+0 0 7382
+D1
+~
+~
+0 0 7393
+D3
+~
+~
+0 0 7391
+S
+#7393
+Denny Street~
+The City Projects lie to the north. This large housing project was built
+recently to hold the wave of new prisoners expected to decend on the island.
+The houses are meager at best, but at least they're cheap.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7383
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7200
+D3
+~
+~
+0 0 7392
+S
+#7394
+&CTwitch's Crib&B~
+   This is the home of Twitch.  If your're a guest here, wipe your feet before
+you come in, and don't steal my stuff.  
+~
+73 2568 0 0 0 23
+D0
+~
+~
+0 0 7384
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7395
+&CWarehouse of the Underground Pirate&B~
+This unfinished room was created by Tek.
+~
+73 2568 0 0 0 23
+D0
+~
+~
+0 0 7385
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7396
+Broad Street~
+The City Projects lie to the north. This large housing project was built
+recently to hold the wave of new prisoners expected to decend on the island.
+The houses are meager at best, but at least they're cheap.
+~
+73 0 0 0 0 21
+D0
+~
+~
+0 0 7386
+D1
+~
+~
+0 0 7397
+D2
+~
+~
+0 0 7203
+D3
+~
+~
+0 0 -1
+S
+#7397
+Fairmount Park~
+Fairmount park is full of tree's and lush green plant life. The walking path
+is well maintained, as is the rest of the park. Small grills are set up, in
+various places for bbq'ing and picnics.
+~
+73 0 0 0 0 3
+D0
+~
+~
+0 0 7387
+D1
+~
+~
+0 0 7398
+D3
+~
+~
+0 0 7396
+S
+#7398
+Fairmount Park~
+Fairmount park is full of tree's and lush green plant life. The walking path
+is well maintained, as is the rest of the park. A horseshoe pit has been
+setup for the folks having cookouts.
+~
+73 0 0 0 0 3
+D0
+~
+~
+0 0 7388
+D1
+~
+~
+0 0 7399
+D3
+~
+~
+0 0 7397
+S
+#7399
+Fairmount Park~
+Fairmount park is full of tree's and lush green plant life. The walking path
+is well maintained, as is the rest of the park. Small grills are set up, in
+various places for bbq'ing and picnics.
+~
+73 0 0 0 0 3
+D0
+~
+~
+0 0 7389
+D3
+~
+~
+0 0 7398
+S
+$~

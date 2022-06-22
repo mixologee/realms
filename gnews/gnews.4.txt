@@ -1,0 +1,36 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+                   ::::    ::: :::::::::: :::       :::  :::::::: 
+                  :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+                 :+:+:+  +:+ +:+        +:+       +:+ +:+         
+                +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+               +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+              #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+             ###    #### ##########   ###   ###    ########   
+                                          
+-------------------------------------------------------------------
+News file [&C4&c]. Type NEWS 4 to re-read this article at a later date.
+-------------------------------------------------------------------&n
+
+Along with the other channels being logged, wiznet is also in the
+mylog command. On a side note, I posted this on mudconnect.com last 
+night:
+
+Realms of Kuvia is now open for Beta testing. We have a few players 
+now and would like to expand on our base some more so we can test more 
+extensively. There is usually a god on, but if not please feel free to 
+use the bug and idea commands. Beta testers will be givin ore and gems 
+to custom build a set of eq to get themselves started. If no god is 
+available when you log in, please feel free to explore and buy some 
+starter gear to get you going. Go to the post office and mail a note 
+to Mixologee, Anubis, or Slurk saying you are a beta tester. Wihtin 
+24 hours you will be given 1000 of each ore and 1000 of each gem to 
+create you custom set. 
+
+Any other god can do this as well but so you hve a heads up.

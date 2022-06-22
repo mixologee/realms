@@ -1,0 +1,1544 @@
+#11100
+Queen Ramona's Chamber~
+Not much here.
+~
+111 131072 0 0 0 0
+D0
+~
+door~
+2 11105 11101
+S
+#11101
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 98304 0 0 0 0
+D1
+~
+~
+0 0 11102
+D2
+~
+door~
+2 11105 11100
+D3
+~
+~
+0 0 11104
+S
+#11102
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  A small whisper can be heard like its
+coming from inside the walls.  
+~
+111 98304 0 0 0 0
+D0
+~
+door~
+2 11103 11103
+D3
+~
+~
+0 0 11101
+S
+#11103
+Queen Ramona's Sanctuary~
+This unfinished room was created by Bluntmaster.
+~
+111 163840 0 0 0 0
+D2
+~
+door~
+2 11103 11102
+D5
+~
+floorboard~
+2 11104 11173
+S
+#11104
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11101
+D3
+~
+~
+0 0 11105
+S
+#11105
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11106
+D1
+~
+~
+0 0 11104
+S
+#11106
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11107
+D2
+~
+~
+0 0 11105
+S
+#11107
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11108
+D2
+~
+~
+0 0 11106
+S
+#11108
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11112
+D2
+~
+~
+0 0 11107
+D3
+~
+~
+0 0 11109
+S
+#11109
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11108
+D3
+~
+~
+0 0 11110
+S
+#11110
+Third Level of Bearlifax's Tomb~
+A small tapestry adorns the walls here, depicting a beautiful woman in royal
+garb.  Sounds echo through the halls eerily and moss covers the walls from the
+ceiling to the floor.  This are of the chamber has been sealed away for quite a
+while.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11109
+D3
+~
+door~
+2 11102 11111
+S
+#11111
+Queen Ramona's Hidden Chamber~
+This unfinished room was created by Bluntmaster.
+~
+111 131072 0 0 0 0
+D1
+~
+door~
+2 11102 11110
+S
+#11112
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11113
+D3
+~
+~
+0 0 11108
+S
+#11113
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11119
+D1
+~
+~
+0 0 11114
+D2
+~
+~
+0 0 11112
+S
+#11114
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11115
+D3
+~
+~
+0 0 11113
+S
+#11115
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11116
+D3
+~
+~
+0 0 11114
+S
+#11116
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11117
+D3
+~
+~
+0 0 11115
+S
+#11117
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  A small crack can be seen in the wall here
+behind a portrait of Ramona.  
+~
+111 65536 0 0 0 0
+D2
+~
+door~
+2 11101 11118
+D3
+~
+~
+0 0 11116
+S
+#11118
+Queen Ramona's Hidden Chamber~
+This unfinished room was created by Bluntmaster.
+~
+111 131072 0 0 0 0
+D0
+~
+door~
+2 11101 11117
+S
+#11119
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D2
+~
+~
+0 0 11113
+D3
+~
+~
+0 0 11120
+S
+#11120
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11119
+D3
+~
+~
+0 0 11121
+S
+#11121
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11122
+D1
+~
+~
+0 0 11120
+S
+#11122
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11123
+D2
+~
+~
+0 0 11121
+S
+#11123
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11124
+D2
+~
+~
+0 0 11122
+S
+#11124
+Third Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D2
+~
+~
+0 0 11123
+D4
+~
+~
+0 0 11147
+S
+#11125
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11157
+D3
+~
+~
+0 0 11126
+S
+#11126
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11125
+D3
+~
+~
+0 0 11127
+S
+#11127
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11126
+D3
+~
+~
+0 0 11128
+S
+#11128
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11129
+D1
+~
+~
+0 0 11127
+S
+#11129
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11141
+D2
+~
+~
+0 0 11128
+D3
+~
+~
+0 0 11130
+S
+#11130
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11129
+D3
+~
+~
+0 0 11131
+S
+#11131
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11130
+D3
+~
+~
+0 0 11132
+S
+#11132
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11133
+D1
+~
+~
+0 0 11131
+S
+#11133
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11134
+D2
+~
+~
+0 0 11132
+S
+#11134
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11135
+D2
+~
+~
+0 0 11133
+S
+#11135
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11136
+D2
+~
+~
+0 0 11134
+D4
+~
+coverstone~
+2 11020 11021
+S
+#11136
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11137
+D2
+~
+~
+0 0 11135
+S
+#11137
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11138
+D2
+~
+~
+0 0 11136
+S
+#11138
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11139
+D2
+~
+~
+0 0 11137
+S
+#11139
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11140
+D3
+~
+~
+0 0 11138
+S
+#11140
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11146
+D3
+~
+~
+0 0 11139
+S
+#11141
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11142
+D2
+~
+~
+0 0 11129
+S
+#11142
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11143
+D1
+~
+~
+0 0 11172
+D2
+~
+~
+0 0 11141
+S
+#11143
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11144
+D2
+~
+~
+0 0 11142
+S
+#11144
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11145
+D1
+~
+~
+0 0 11169
+D2
+~
+~
+0 0 11143
+S
+#11145
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11146
+D2
+~
+~
+0 0 11144
+S
+#11146
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11147
+D2
+~
+~
+0 0 11145
+D3
+~
+~
+0 0 11140
+S
+#11147
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11148
+D2
+~
+~
+0 0 11146
+D5
+~
+~
+0 0 11124
+S
+#11148
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11149
+D3
+~
+~
+0 0 11147
+S
+#11149
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11150
+D3
+~
+~
+0 0 11148
+S
+#11150
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D2
+~
+~
+0 0 11151
+D3
+~
+~
+0 0 11149
+S
+#11151
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11150
+D1
+~
+~
+0 0 11168
+D2
+~
+~
+0 0 11152
+S
+#11152
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11151
+D2
+~
+~
+0 0 11153
+S
+#11153
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11152
+D2
+~
+~
+0 0 11154
+D3
+~
+~
+0 0 11169
+S
+#11154
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11153
+D2
+~
+~
+0 0 11155
+S
+#11155
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11154
+D2
+~
+~
+0 0 11156
+D3
+~
+~
+0 0 11171
+S
+#11156
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11155
+D2
+~
+~
+0 0 11157
+S
+#11157
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11156
+D1
+~
+~
+0 0 11158
+D2
+~
+~
+0 0 11125
+S
+#11158
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11159
+D3
+~
+~
+0 0 11157
+S
+#11159
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11160
+D3
+~
+~
+0 0 11158
+S
+#11160
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11161
+D3
+~
+~
+0 0 11159
+S
+#11161
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11162
+D2
+~
+~
+0 0 11160
+S
+#11162
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11163
+D2
+~
+~
+0 0 11161
+S
+#11163
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11164
+D2
+~
+~
+0 0 11162
+S
+#11164
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11165
+D2
+~
+~
+0 0 11163
+S
+#11165
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D0
+~
+~
+0 0 11166
+D2
+~
+~
+0 0 11164
+S
+#11166
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D2
+~
+~
+0 0 11165
+D3
+~
+~
+0 0 11167
+S
+#11167
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11166
+D3
+~
+~
+0 0 11168
+S
+#11168
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11167
+D3
+~
+~
+0 0 11151
+S
+#11169
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11153
+D3
+~
+~
+0 0 11170
+S
+#11170
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11169
+D3
+~
+~
+0 0 11144
+S
+#11171
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11155
+D3
+~
+~
+0 0 11172
+S
+#11172
+Second Level of Bearlifax's Tomb~
+Among the lower levels, sounds echo through the halls eerily.  Moss grows up the
+walls from the ground and down from the ceilings.  This area of the chamber has
+been sealed away for some time now.  
+~
+111 65536 0 0 0 0
+D1
+~
+~
+0 0 11171
+D3
+~
+~
+0 0 11142
+S
+#11173
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D0
+~
+~
+0 0 11174
+D3
+~
+~
+0 0 11192
+D4
+~
+floorboard~
+2 0 11103
+S
+#11174
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D0
+~
+~
+0 0 11175
+D2
+~
+~
+0 0 11173
+S
+#11175
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D0
+~
+~
+0 0 11176
+D2
+~
+~
+0 0 11174
+D3
+~
+~
+0 0 11193
+S
+#11176
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D0
+~
+~
+0 0 11177
+D2
+~
+~
+0 0 11175
+S
+#11177
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D0
+~
+~
+0 0 11178
+D2
+~
+~
+0 0 11176
+S
+#11178
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D2
+~
+~
+0 0 11177
+D3
+~
+~
+0 0 11179
+S
+#11179
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D1
+~
+~
+0 0 11178
+D3
+~
+~
+0 0 11180
+S
+#11180
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D1
+~
+~
+0 0 11179
+D3
+~
+~
+0 0 11181
+S
+#11181
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D1
+~
+~
+0 0 11180
+D3
+~
+~
+0 0 11182
+S
+#11182
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D1
+~
+~
+0 0 11181
+D3
+~
+~
+0 0 11183
+S
+#11183
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D1
+~
+~
+0 0 11182
+D2
+~
+~
+0 0 11184
+S
+#11184
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D0
+~
+~
+0 0 11183
+D2
+~
+~
+0 0 11185
+S
+#11185
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D0
+~
+~
+0 0 11184
+D1
+~
+~
+0 0 11197
+D2
+~
+~
+0 0 11186
+S
+#11186
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D0
+~
+~
+0 0 11185
+D2
+~
+~
+0 0 11187
+S
+#11187
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D0
+~
+~
+0 0 11186
+D2
+~
+~
+0 0 11188
+S
+#11188
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D0
+~
+~
+0 0 11187
+D1
+~
+~
+0 0 11189
+S
+#11189
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D1
+~
+~
+0 0 11190
+D3
+~
+~
+0 0 11188
+S
+#11190
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D1
+~
+~
+0 0 11191
+D3
+~
+~
+0 0 11189
+S
+#11191
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D1
+~
+~
+0 0 11192
+D3
+~
+~
+0 0 11190
+S
+#11192
+Bottom of Bearlifax's Tomb~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D1
+~
+~
+0 0 11173
+D3
+~
+~
+0 0 11191
+S
+#11193
+A Baby Dragon's Lair~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D1
+~
+~
+0 0 11175
+D3
+~
+~
+0 0 11194
+S
+#11194
+A Treasure Vault~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D1
+~
+~
+0 0 11193
+S
+#11197
+A Baby Dragon's Lair~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D1
+~
+~
+0 0 11198
+D3
+~
+~
+0 0 11185
+S
+#11198
+A Treasure Vault~
+This is the treasure vault of the tomb.
+~
+111 131072 0 0 0 0
+D3
+~
+~
+0 0 11197
+S
+$~

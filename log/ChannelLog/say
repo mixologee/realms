@@ -1,0 +1,669 @@
+[Tue Jun 30 12:28:28] T-Mech 420a69: All systems normal.
+[Tue Jun 30 12:29:40] Slurk: test
+[Tue Jun 30 12:29:43] Slurk: test 2
+[Tue Jun 30 12:29:45] Slurk: test3
+[Tue Jun 30 12:29:51] T-Mech 420a69: All systems normal.
+[Tue Jun 30 12:53:02] T-Mech 420a69: All system scans show no intruder activity.
+[Tue Jun 30 13:02:01] Slurk: test
+[Tue Jun 30 13:02:18] Slurk: NULL
+[Tue Jun 30 13:02:21] T-Mech 420a69: All systems normal.
+[Tue Jun 30 13:02:24] Slurk: N  U  L   L
+[Wed Jul  1 09:43:39] Bluntmaster: follow rq
+[Fri Jul  3 10:11:49] Ponnet: hello
+[Fri Jul  3 10:11:51] Bluntmaster: hi
+[Fri Jul  3 10:11:58] Ponnet: is there any way to get damage to show?
+[Fri Jul  3 10:12:05] Bluntmaster: how much youve done?
+[Fri Jul  3 10:12:17] Bluntmaster: like per hit?
+[Fri Jul  3 10:12:27] Ponnet: aye
+[Fri Jul  3 10:12:29] Ponnet: or spell
+[Fri Jul  3 10:12:40] Bluntmaster: umm....im sure that could be added
+[Fri Jul  3 10:12:52] Bluntmaster: lemme dig around and see what i can do
+[Fri Jul  3 10:14:02] Ponnet: and a sac all command
+[Fri Jul  3 10:14:11] Bluntmaster: sac all cant do
+[Fri Jul  3 10:14:22] Bluntmaster: well can but that would be bad idea
+[Fri Jul  3 10:14:31] Ponnet: how come?
+[Fri Jul  3 10:14:34] Bluntmaster: someone could com in room and sac all when someone else is lookin through corpses
+[Fri Jul  3 10:14:42] Ponnet: okay
+[Fri Jul  3 10:14:55] Bluntmaster: but damage thing i should be able to do without much prob
+[Fri Jul  3 10:15:00] Ponnet: cool
+[Fri Jul  3 10:15:21] Bluntmaster: gimme a few mins to code it
+[Fri Jul  3 12:38:18] Ponnet: all my combat spells do the same damage range
+[Fri Jul  3 12:38:32] Bluntmaster: damage with spells is based on level + random amount
+[Fri Jul  3 12:39:19] Ponnet: so there is no point to having more than one damage spell since magic missile and fireball and call lightning do the same damage, but magic missile is only 5 mana
+[Fri Jul  3 12:39:44] Bluntmaster: oh
+[Fri Jul  3 12:39:47] Bluntmaster: i see whatcha mean
+[Fri Jul  3 12:39:50] Ponnet: that is what I mean, sorry
+[Fri Jul  3 12:39:58] Bluntmaster: well currently yes
+[Fri Jul  3 12:40:09] Bluntmaster: spell damage is something that still needs to be revisited
+[Fri Jul  3 12:40:16] Bluntmaster: formst
+[Fri Jul  3 12:40:30] Ponnet: okay, just wanted to make sure you knew, cause it will frustrate the hell out of players
+[Fri Jul  3 12:41:01] Bluntmaster: do me a favor
+[Fri Jul  3 12:41:05] Ponnet: gladly
+[Fri Jul  3 12:41:11] Bluntmaster: add that to the bug list
+[Fri Jul  3 12:41:19] Bluntmaster: i know its not a bug but just to remind me
+[Fri Jul  3 12:41:42] Ponnet: done
+[Fri Jul  3 12:41:45] Bluntmaster: acc follow
+[Fri Jul  3 12:41:47] Bluntmaster: thans pon
+[Fri Jul  3 12:41:48] Ponnet: hell accarid
+[Fri Jul  3 12:41:51] Ponnet: one second
+[Fri Jul  3 12:41:53] Accarid: wassup Ponnet
+[Fri Jul  3 12:41:56] Ponnet: how do I repair equipment
+[Fri Jul  3 12:42:03] Ponnet: just messing with your mud
+[Fri Jul  3 12:42:20] Bluntmaster: oh hang on
+[Fri Jul  3 12:42:25] Ponnet: telling blunt what he is doing wrong
+[Fri Jul  3 12:42:28] Ponnet: oh, he lest
+[Fri Jul  3 12:42:43] Ponnet: avoiding work... I got two clients that have not paid and it makes me pissy
+[Fri Jul  3 12:42:51] Accarid: Yeah, that would make me pissy too.
+[Fri Jul  3 12:43:05] Accarid: What's your line of work?
+[Fri Jul  3 12:43:10] Ponnet: so I am looking at new muds and trying out DBZ... its so wierd and makes no sense cause the show makes no sense
+[Fri Jul  3 12:43:26] Ponnet: engineer, civil environmental, mostly surface water and solid waste
+[Fri Jul  3 12:43:29] Accarid: Heh, the show is so edited that it no longer makes sense in English
+[Fri Jul  3 12:43:34] Ponnet: woah
+[Fri Jul  3 12:43:36] Accarid: Heh, the show is so edited that it no longer makes sense in English
+[Fri Jul  3 12:43:45] Accarid: It makes a LOT more sense in Japanese.
+[Fri Jul  3 12:43:55] Bluntmaster: ok type repair here
+[Fri Jul  3 12:44:00] Ponnet: ah... well for not knowing anything I am the highest powerleveled char
+[Fri Jul  3 12:44:09] Ponnet: so its just a powerleveling mud
+[Fri Jul  3 12:44:36] Ponnet: mmm complicated
+[Fri Jul  3 12:44:46] Bluntmaster: type ore
+[Fri Jul  3 12:44:49] Bluntmaster: and type gem
+[Fri Jul  3 12:45:07] Ponnet: mmmm any hints on material properties of both
+[Fri Jul  3 12:45:15] Bluntmaster: repair doesnt make a difference
+[Fri Jul  3 12:45:18] Accarid: I don't think there are any so far.
+[Fri Jul  3 12:45:21] Ponnet: okay
+[Fri Jul  3 12:45:28] Bluntmaster: i can add them rq....
+[Fri Jul  3 12:45:42] Ponnet: need to get identify
+[Fri Jul  3 12:45:50] Bluntmaster: appraise
+[Fri Jul  3 12:45:54] Bluntmaster: appraise item
+[Fri Jul  3 12:45:57] Ponnet: it still has big dents
+[Fri Jul  3 12:45:57] Accarid: Want me to think something up to make ores/lumber/things actually mean something, Bluntmaster?
+[Fri Jul  3 12:46:18] Bluntmaster: ' ores and gems are for making eq
+[Fri Jul  3 12:46:24] Bluntmaster: they have a purpose
+[Fri Jul  3 12:46:26] Ponnet: heh, repair lowers damage
+[Fri Jul  3 12:46:44] Ponnet: I mean makes it more damaged, my staff went from 1280/5000 to 1270/5000
+[Fri Jul  3 12:46:47] Accarid: Damn, your amulet got ROCKed.
+[Fri Jul  3 12:46:54] Bluntmaster: lemme look at code
+[Fri Jul  3 12:47:10] Ponnet: well I only can do 30 damage at a max per round and fight mobs that hit for 50 to 100
+[Fri Jul  3 12:47:37] Accarid: That's by casting spells only?
+[Fri Jul  3 12:47:51] Ponnet: I rarely hit with my weapon and it is 1d5 anyway
+[Fri Jul  3 12:48:03] Accarid: Sounds like you need a better weapon.
+[Fri Jul  3 12:48:07] Ponnet: yeah, found out today that all spells do the same damage, but bluntmaster was aware
+[Fri Jul  3 12:48:14] Ponnet: I am a mage, can't find any better staves
+[Fri Jul  3 12:48:29] Accarid: It doesn't need to be a staff, so long as it is wieldable by a wizard.
+[Fri Jul  3 12:48:45] Ponnet: well I have found little, but you are not really open yet so no worries
+[Fri Jul  3 12:48:56] Ponnet: got anything lieing around
+[Fri Jul  3 12:49:04] Accarid: I have something
+[Fri Jul  3 12:49:08] Accarid: I could either give it to you
+[Fri Jul  3 12:49:13] Accarid: or tell you where to find it
+[Fri Jul  3 12:49:17] Accarid: but it might be a bit difficult
+[Fri Jul  3 12:49:22] Ponnet: life is difficult
+[Fri Jul  3 12:49:25] Accarid: I make my zones a little tricky at times
+[Fri Jul  3 12:49:37] Accarid: The Taris'Vaal Caverns is where it's at
+[Fri Jul  3 12:49:46] Ponnet: I have teleported in there
+[Fri Jul  3 12:50:10] Ponnet: +40 max hit.. is that hit roll or hit points
+[Fri Jul  3 12:50:11] Accarid: From recall in Taris'Vaal, it's south, all east until you see the @ symbol.
+[Fri Jul  3 12:50:18] Accarid: Hit points.
+[Fri Jul  3 12:50:19] Bluntmaster: hit points
+[Fri Jul  3 12:50:23] Bluntmaster: hitroll says hitroll
+[Fri Jul  3 12:50:33] Bluntmaster: wait how is ponn a wizard?
+[Fri Jul  3 12:50:40] Accarid: He started as one?
+[Fri Jul  3 12:50:42] Ponnet: thanks blunt... ah, gotta find my way back to recall
+[Fri Jul  3 12:50:49] Bluntmaster: did we rename mage?
+[Fri Jul  3 12:50:54] Ponnet: aye, I have not learned how to multi... I want to be a necromancer
+[Fri Jul  3 12:50:56] Bluntmaster: oh ok
+[Fri Jul  3 12:50:57] Accarid: It used to be magic user
+[Fri Jul  3 12:51:10] Ponnet: thanks
+[Fri Jul  3 12:51:31] Bluntmaster: ok you can go now
+[Fri Jul  3 12:51:38] Ponnet: okay, i am off
+[Fri Jul  3 12:54:49] Accarid: use bearings
+[Fri Jul  3 12:54:56] Accarid: it's at nine o clock
+[Fri Jul  3 12:54:58] Accarid: you walked over it
+[Fri Jul  3 12:56:11] Accarid: down
+[Fri Jul  3 13:11:29] Accarid: Beef jerkey- the lifeblood of all adventurers.
+[Fri Jul  3 13:21:19] Accarid: try push mud?
+[Sun Jul  5 21:49:09] Accarid: Is that so?
+[Sun Jul  5 21:49:11] Accarid: !
+[Sun Jul  5 21:49:13] Araevin: it is
+[Sun Jul  5 21:49:16] Accarid: Okay.
+[Sun Jul  5 21:49:22] Accarid: Grr I haven't made that weep social
+[Sun Jul  5 21:49:25] Accarid: -weep weep-
+[Sun Jul  5 21:49:26] Accarid: there
+[Sun Jul  5 21:49:28] Accarid: happy!
+[Sun Jul  5 21:49:30] Accarid: ??
+[Sun Jul  5 21:49:32] Araevin: would u like an explanation (and of course it's not that big of a deal)
+[Sun Jul  5 21:49:37] Accarid: sure
+[Sun Jul  5 21:49:38] Accarid: :D
+[Sun Jul  5 21:49:59] Araevin: when i asked for my PW i asked for a variation of caps SrB
+[Sun Jul  5 21:50:10] Araevin: not just srb
+[Sun Jul  5 21:50:18] Accarid: mhm
+[Sun Jul  5 21:50:32] Araevin: gah i'm deaf
+[Sun Jul  5 21:50:41] Accarid: irl no less
+[Sun Jul  5 21:50:57] Araevin: irl?
+[Sun Jul  5 21:51:04] Accarid: in real life
+[Sun Jul  5 21:51:06] Accarid: gnoob
+[Sun Jul  5 21:51:08] Accarid: !
+[Sun Jul  5 21:51:10] Araevin: irl, but the pw thing i don't care about too much
+[Sun Jul  5 21:51:57] Araevin: just kinda funny i can put this thing on you :P
+[Sun Jul  5 21:52:50] Accarid: >.>
+[Sun Jul  5 21:52:55] Accarid: <.<
+[Sun Jul  5 21:52:58] Accarid: >.>
+[Sun Jul  5 21:52:59] Accarid: <.<
+[Sun Jul  5 21:52:59] Accarid: >.>
+[Sun Jul  5 21:53:00] Accarid: <.<
+[Sun Jul  5 21:53:51] Accarid: DO A LITTLE DANCE
+[Sun Jul  5 21:53:51] Accarid: MAKE A LITTLE LOVE
+[Sun Jul  5 21:53:52] Accarid: GET DOWN TONIGHT
+[Sun Jul  5 21:53:52] Accarid: (>^.^)>
+[Sun Jul  5 21:53:52] Accarid: <(^.^<)
+[Sun Jul  5 21:53:52] Accarid: (>^.^)>
+[Sun Jul  5 21:53:52] Accarid: <(^.^<)
+[Sun Jul  5 21:53:52] Accarid: GET DOWN TONIGHT
+[Sun Jul  5 21:54:00] Araevin: lmfao
+[Sun Jul  5 21:54:31] Accarid: I shouldn't have gone vis :/
+[Sun Jul  5 21:54:59] Araevin: wat is ampersand, when u do it it says Ch'yeah, thats how i kno u made it
+[Sun Jul  5 21:55:50] Araevin: and wtf is preceptor?!
+[Sun Jul  5 21:56:02] Accarid: ampersand is a secret among scholars
+[Sun Jul  5 21:56:08] Accarid: such as myself and my sister
+[Sun Jul  5 21:56:16] Accarid: from whom you surely heard of this great secret from
+[Sun Jul  5 21:56:24] Accarid: I must discipline her, brb.
+[Sun Jul  5 21:56:33] Araevin: ?!
+[Sun Jul  5 21:56:50] Araevin: i typed social, and it said that was a social,,,,,,,
+[Sun Jul  5 21:58:33] Accarid: Yeah. I think I made that.
+[Sun Jul  5 21:58:44] Araevin: i think so, it just says Ch,yeah
+[Sun Jul  5 21:58:57] Araevin: Ch'yeah
+[Sun Jul  5 21:59:22] Araevin: hmmmm
+[Sun Jul  5 21:59:32] Accarid: Ampersand is a great secret, like that of the Golden Dawn.
+[Sun Jul  5 21:59:43] Accarid: None shall know without first becoming a master scholar!
+[Sun Jul  5 21:59:50] Araevin: wat do u mean golden sun?
+[Sun Jul  5 21:59:58] Araevin: i see
+[Sun Jul  5 22:00:23] Araevin: golden dawn* my bad
+[Sun Jul  5 22:00:27] Accarid: np
+[Sun Jul  5 22:00:30] Accarid: I got ya
+[Sun Jul  5 22:00:31] Accarid: gnoob
+[Sun Jul  5 22:00:36] Araevin: lol
+[Sun Jul  5 22:00:45] Araevin: just as much as u
+[Sun Jul  5 22:01:38] Accarid: Okay Ima go find shit to kill on D2
+[Sun Jul  5 22:01:47] Accarid: I wanna beat Baal again
+[Sun Jul  5 22:01:49] Araevin: wait
+[Sun Jul  5 22:01:53] Accarid: kk
+[Sun Jul  5 22:01:58] Araevin: wat time u gonna get me?
+[Sun Jul  5 22:02:03] Accarid: I dunno yet
+[Sun Jul  5 22:02:08] Araevin: make it like after 12 then
+[Sun Jul  5 22:02:09] Accarid: When works for you?
+[Sun Jul  5 22:02:11] Accarid: Okay
+[Sun Jul  5 22:02:13] Accarid: after 12
+[Sun Jul  5 22:02:16] Araevin: i will be awake then
+[Sun Jul  5 22:02:25] Accarid: Cool, see you then dawg
+[Sun Jul  5 22:02:30] Araevin: PEACE!
+[Sun Jul  5 22:02:35] Accarid: CH'YEA
+[Tue Jul  7 08:54:34] Sallana: This mud hurts my eyes.
+[Sun Jul 12 12:45:50] Araevin: l
+[Mon Jul 13 01:45:26] Timtek: hi
+[Mon Jul 13 13:18:27] Slurktest: what
+[Mon Jul 13 14:25:00] Bluntmaster: follow
+[Mon Jul 13 14:27:17] Bluntmaster: here would be good
+[Mon Jul 13 14:27:33] Accarid: Needs descriptions, looks like
+[Mon Jul 13 14:27:34] Bluntmaster: fergot how much has already been done :P
+[Mon Jul 13 14:27:39] Accarid: Is that it?
+[Mon Jul 13 14:27:41] Bluntmaster: check it
+[Mon Jul 13 14:27:54] Bluntmaster: ok read the room descs around this square
+[Mon Jul 13 14:27:57] Accarid: Want me to fancify this text eh
+[Mon Jul 13 14:27:57] Bluntmaster: thats the story to the zone
+[Mon Jul 13 14:28:10] Bluntmaster: you can fancify it but keep the story the same
+[Mon Jul 13 14:28:19] Accarid: Always, it wouldn't be the same without it!
+[Mon Jul 13 14:28:21] Bluntmaster: its a great storyline for the zone
+[Mon Jul 13 14:28:27] Accarid: nods I've looked through this one
+[Mon Jul 13 14:28:57] Bluntmaster: ok so yea
+[Mon Jul 13 14:29:18] Bluntmaster: really seems like just this area and then fanciy wherever else in here you see fit
+[Mon Jul 13 14:29:18] Accarid: what's with the -1 on OLC Info
+[Mon Jul 13 14:29:25] Bluntmaster: means it has no exit
+[Mon Jul 13 14:29:49] Bluntmaster: at some point i would like to finish this zone
+[Mon Jul 13 14:29:56] Accarid: The layout isn't finished?
+[Mon Jul 13 14:29:57] Bluntmaster: its got some pretty kick ass stuff in it actually
+[Mon Jul 13 14:30:01] Bluntmaster: not completely
+[Mon Jul 13 14:30:06] Bluntmaster: i still have to do 2 more tombs
+[Mon Jul 13 14:30:14] Bluntmaster: the initial layout is done and its runnable
+[Mon Jul 13 14:30:18] Accarid: I'll start work either this evening or tomorrow morning
+[Mon Jul 13 14:30:28] Bluntmaster: but can only run the initial tombs of all 4 and then the catacombs of 2
+[Mon Jul 13 14:33:58] Bluntmaster: at some point i will get around to finishing the rest of the catacombs
+[Mon Jul 13 14:34:08] Bluntmaster: been too busy wit rl and code stuff
+[Mon Jul 13 14:36:47] Accarid: my sister just flew the coop, bbiab
+[Mon Jul 13 16:19:33] Bluntmaster: looks right but not calcin right
+[Mon Jul 13 16:19:48] Slurk: should be more checks
+[Mon Jul 13 16:19:58] Slurk: cause you're doing if [0][0] &&
+[Mon Jul 13 16:20:12] Slurk: but thats forcing that whole row to be the same
+[Mon Jul 13 16:20:19] Slurk: if 00 filled but 10 isnt
+[Mon Jul 13 16:20:26] Slurk: its not caught in that check
+[Mon Jul 13 16:20:31] Bluntmaster: well standard is only rows
+[Mon Jul 13 16:20:44] Bluntmaster: like row 1 only is stand, row 1 and 2 ( 6 ppl) standard etc
+[Mon Jul 13 16:20:54] Slurk: oh
+[Mon Jul 13 16:20:57] Bluntmaster: otherwise not standard
+[Mon Jul 13 16:21:03] Slurk: why not add into do_stat_player
+[Mon Jul 13 16:21:11] Slurk: their form position for god only viewing
+[Mon Jul 13 16:21:16] Slurk: so you can see what the code thinks you are in
+[Mon Jul 13 16:21:21] Slurk: maybe its not setting right
+[Mon Jul 13 16:21:24] Bluntmaster: reform shows info
+[Mon Jul 13 16:21:34] Slurk: oh
+[Mon Jul 13 16:22:12] Bluntmaster: like it shows it right ' its ok atleast its registering all 3 ppl now
+[Mon Jul 13 16:22:56] Bluntmaster: its cool, progress is progress
+[Mon Jul 13 20:29:11] Bluntmaster: follow rq
+[Mon Jul 13 20:29:52] Bluntmaster: still not workin quite right
+[Mon Jul 13 20:30:00] Accarid: I don't see anything that you're doing
+[Mon Jul 13 20:30:19] Accarid: No strings yet?
+[Mon Jul 13 21:17:43] Accarid: Want me to load you the items that you can't buy?
+[Mon Jul 13 21:17:52] Icaron: You said it crashes when you buy 1?
+[Mon Jul 13 21:18:12] Icaron: is it just the 1 item or everything on the list?
+[Mon Jul 13 21:18:23] Accarid: It's any item with a quantity of 1.
+[Mon Jul 13 21:18:36] Accarid: We're still trying to figure out why it happens
+[Mon Jul 13 21:18:44] Icaron: your still using the stock tba shop code?
+[Mon Jul 13 21:18:46] Icaron: Thanks
+[Mon Jul 13 21:18:55] Accarid: I don't know
+[Mon Jul 13 21:18:57] Accarid: I don't deal with code
+[Mon Jul 13 21:19:00] Icaron: ahh
+[Mon Jul 13 21:19:05] Accarid: But I do know that the game is heavily modified
+[Mon Jul 13 21:19:29] Icaron: looks decent so far
+[Mon Jul 13 21:19:38] Accarid: Thanks
+[Mon Jul 13 21:19:42] Icaron: i like tooling around new places to see what people come up with
+[Mon Jul 13 21:19:54] Accarid: I've seen some.. interesting things.
+[Mon Jul 13 21:20:27] Icaron: This is the 'mudschool' i take it for newbs?
+[Mon Jul 13 21:20:36] Accarid: I made this zone
+[Mon Jul 13 21:21:16] Icaron: helps out people new to muds
+[Mon Jul 13 21:21:37] Accarid: Which is very important in an age in which few people know what a text based game is.
+[Mon Jul 13 21:21:46] Icaron: how long the place been up? yeah consoles killing muds
+[Mon Jul 13 21:22:04] Accarid: It's been around for like five years, but went down for three.
+[Mon Jul 13 21:22:21] Icaron: whats the slist command or spells list?
+[Mon Jul 13 21:22:21] Accarid: Practice is the command to see learnable spells and skills.
+[Mon Jul 13 21:22:28] Icaron: read my mind
+[Mon Jul 13 21:22:38] Accarid: I figured you'd be wondering by now :p
+[Mon Jul 13 21:23:02] Icaron: list expands on levels id assume? shows 2 right now
+[Mon Jul 13 21:23:05] Accarid: Classes are a work in progress
+[Mon Jul 13 21:23:23] Accarid: It bugs me very much, I like players being able to use their characters to the fullest.
+[Mon Jul 13 21:23:36] Icaron: unfinished classes? you have a full time coder?
+[Mon Jul 13 21:23:51] Accarid: Well, we have two coders with real lives :/
+[Mon Jul 13 21:24:09] Icaron: coders always have grand ideas.. until they try to find the time to actually do them
+[Mon Jul 13 21:24:31] Accarid: I want to learn to code, but I'm still in school, which sorta gets in the way.
+[Mon Jul 13 21:24:43] Icaron: im surprised you picked tba over one of the more advanced ones
+[Mon Jul 13 21:25:07] Accarid: Simpler is probably better for making an original game.
+[Mon Jul 13 21:25:16] Icaron: ive always liked the smaug.. thats true less to rip out
+[Mon Jul 13 21:25:28] Accarid: And just changing words is cheap.
+[Mon Jul 13 21:25:43] Accarid: (like Medieva, cough cough)
+[Mon Jul 13 21:25:55] Accarid: Something stuck in my text-based throat.
+[Mon Jul 13 21:25:58] Icaron: not sure if ive seen the shop crash bug in the tba before.. ive messed with that in the past
+[Mon Jul 13 21:26:15] Icaron: Med oh yeah.. the 'unique' code lol
+[Mon Jul 13 21:26:17] Accarid: So it's most likely something we did.
+[Mon Jul 13 21:26:23] Accarid: It's not DIKU, I swear!
+[Mon Jul 13 21:26:31] Accarid: I'm the best coder alive, you can't sue me!
+[Mon Jul 13 21:26:40] Accarid: I'm a bitter ex-avatar :p
+[Mon Jul 13 21:27:00] Icaron: nothings really original or unique.. everythings based off same ideas an structure pretty much
+[Mon Jul 13 21:27:14] Accarid: It's best to do your best rather than deny the truth.
+[Mon Jul 13 21:27:35] Accarid: The vast majority of MUDs and components of almost any RPG is rooted in Dungeons and Dragons.
+[Mon Jul 13 21:27:39] Icaron: nakedmud if you get it running is pretty bare bones.. where you go from there usually is pretty unique
+[Mon Jul 13 21:28:04] Icaron: thats the theme here? hairy dwarves etc?
+[Mon Jul 13 21:28:28] Accarid: But we do use the ability scores and damage dice like DnD
+[Mon Jul 13 21:28:48] Icaron: the shopkeeper is injured too.. so there's an update thing going on.. or somebody attacked him recently
+[Mon Jul 13 21:28:59] Accarid: He's a PEACEFUL-flagged mob
+[Mon Jul 13 21:29:03] Accarid: So it's an update thing
+[Mon Jul 13 21:29:09] Accarid: I think it has to do with the regeneration rate
+[Mon Jul 13 21:29:23] Accarid: The problem with injured mobiles is restricted to zones attached to the main city, though
+[Mon Jul 13 21:29:30] Accarid: Which is both a pain and a paradox.
+[Mon Jul 13 21:29:35] Icaron: circle buggy as hell.. tba is supposed to eliminate most of that
+[Mon Jul 13 21:29:52] Accarid: tbaMUD is like Circle 2.0 isn't it?
+[Mon Jul 13 21:30:11] Icaron: if i remember right its just debugged 3.1 or a later version
+[Mon Jul 13 21:30:22] Icaron: with a few cosmetics attached to it
+[Mon Jul 13 21:30:56] Icaron: its had an odd structure to it to. the files are kinda wiggy. im used to the newer smaug files personally
+[Mon Jul 13 21:31:07] Accarid: So I take it you code?
+[Mon Jul 13 21:31:16] Icaron: to cram new things into smaug.. its less mucking about.. just amateur stuff
+[Mon Jul 13 21:31:33] Icaron: ive been into a few projects over the years.. im more of an area builder
+[Mon Jul 13 21:31:40] Accarid: As am I.
+[Mon Jul 13 21:31:49] Accarid: I design features too, like our new formation system.
+[Mon Jul 13 21:32:03] Icaron: you want to learn coding.. mess with the stock codes.. an put snippets into them.. easiest way to learn
+[Mon Jul 13 21:32:14] Accarid: Good plan, I'll try that sometime
+[Mon Jul 13 21:32:22] Accarid: We have a cool guy who can help me with DG code too, Fizban
+[Mon Jul 13 21:32:24] Icaron: i use cygwin.. thats a free compiler
+[Mon Jul 13 21:33:00] Icaron: has a debugger and a stack trace function.. that will tell you where its crashing in the code
+[Mon Jul 13 21:33:11] Accarid: Cool, I'm going to write that down
+[Mon Jul 13 21:33:25] Icaron: google cygwin.. takes awhile to download it
+[Mon Jul 13 21:33:41] Icaron: get all the development kits for it.. it runs on pretty much any system
+[Mon Jul 13 21:33:58] Accarid: I'm not the administrator, I can't download anything without a key
+[Mon Jul 13 21:34:09] Accarid: So I'll just jot it down and run it by the higher ups.
+[Mon Jul 13 21:35:23] Icaron: there probably aware of it or use something similar
+[Mon Jul 13 21:35:41] Icaron: well going to catch Raw.. good luck with it. ill try an pop back later on
+[Mon Jul 13 21:35:47] Icaron: nice to meet you
+[Mon Jul 13 21:35:48] Accarid: Cool, I'll probably be here.
+[Mon Jul 13 21:35:51] Accarid: Nice to meet you too.
+[Tue Jul 14 08:50:18] Bluntmaster: but just isnt hitting the ifs right
+[Tue Jul 14 08:54:27] Bluntmaster: its weird
+[Tue Jul 14 08:54:59] Bluntmaster: maybe i need to just go off of form_pos numbers instead of the way im doing it...
+[Tue Jul 14 08:57:08] Slurk: what does form_pos return, just a single int?
+[Tue Jul 14 08:57:14] Bluntmaster: 0-14
+[Tue Jul 14 08:57:38] Slurk: that'd work just as well though
+[Tue Jul 14 08:58:42] Slurk: maybe form_pos should be an array instead of an int?
+[Tue Jul 14 08:58:59] Slurk: so you can return x/y position
+[Tue Jul 14 08:59:06] Slurk: though shouldnt matter
+[Tue Jul 14 09:03:05] Bluntmaster: it shouldnt make adiff
+[Tue Jul 14 09:03:19] Bluntmaster: i had a function that returned the true false fvalue of the pos array and it was all good
+[Tue Jul 14 09:04:51] Slurk: and it wouldnt make sense to even try to do something like if (!GET_FORM_POS(ch) >= 3) form=standard ?
+[Tue Jul 14 09:05:01] Slurk: off a loop to count through
+[Tue Jul 14 09:08:37] Bluntmaster: well the problem is still comin up with a true false representation of the form positions
+[Tue Jul 14 09:09:07] Bluntmaster: or i could be like go through all followers and if niumbers = 1, 2, 3 only or 1, 2, 3, 4, 5, 6 only etc
+[Tue Jul 14 09:09:25] Bluntmaster: but that gets really processor intensive
+[Tue Jul 14 09:09:38] Bluntmaster: which is why i went with the array of true false
+[Tue Jul 14 09:09:46] Slurk: either way though.. if the form is displaying correctly and from leader point of view is returning the correct [x][y] of each
+[Tue Jul 14 09:10:02] Bluntmaster: it does com out correct
+[Tue Jul 14 09:10:15] Bluntmaster: so the biggest issue is covered
+[Tue Jul 14 09:10:23] Bluntmaster: now its the little things that are fuckin me up
+[Tue Jul 14 09:11:04] Slurk: would it be more process heavy if you checked one row at a time
+[Tue Jul 14 09:11:12] Slurk: and set another value to true for each row
+[Tue Jul 14 09:11:22] Slurk: then one more if for if row1=true and row2=true etc
+[Tue Jul 14 09:11:36] Slurk: though that only works for standard really
+[Tue Jul 14 09:12:11] Bluntmaster: only gonna work for standard
+[Tue Jul 14 09:12:34] Bluntmaster: the values are in there correct tho thats to problem
+[Tue Jul 14 09:12:44] Bluntmaster: t/f is all correct
+[Tue Jul 14 09:15:03] Slurk: wonder if math can come into play to check.. row1=3, row2=12, row3=20, row4=30, row5=39.. so can maybe say if sumof row1=3 and sumof row2=12 its standard, and for like spear its if row1=1 and row2=8 etcetc
+[Tue Jul 14 09:15:24] Slurk: use formposition to be a count
+[Tue Jul 14 09:15:33] Slurk: cause you cant fake that really
+[Tue Jul 14 09:15:47] Slurk: rows have to be specific #s to be full
+[Tue Jul 14 09:16:10] Bluntmaster: true....
+[Tue Jul 14 09:16:26] Slurk: I wouldnt count the wholeform as a # thouhg, cause that can be fudged to return wrong vals
+[Tue Jul 14 09:16:48] Slurk: but you might need to fake row1 to not use 0
+[Tue Jul 14 09:16:55] Slurk: to keep things standard
+[Tue Jul 14 09:16:56] Bluntmaster: so do formpos+formpos etc and then be like 3, 15, etc =- standard
+[Tue Jul 14 09:17:11] Bluntmaster: we could try that sure
+[Tue Jul 14 09:17:28] Slurk: cause row1+row2=15
+[Tue Jul 14 09:17:39] Slurk: has to always = 15
+[Tue Jul 14 09:17:42] Slurk: if they are full
+[Tue Jul 14 09:17:48] Slurk: cept that form pos 0
+[Tue Jul 14 09:17:51] Slurk: would be tricky
+[Tue Jul 14 09:17:58] Slurk: so might need to offset
+[Tue Jul 14 09:18:05] Slurk: formpos+1 or start at 1 and leave blank
+[Tue Jul 14 09:18:27] Slurk: changes overall counts, but would be safer than counting on a 0 to be a placeholder
+[Tue Jul 14 09:19:02] Bluntmaster: hmmm good point
+[Tue Jul 14 09:19:42] Bluntmaster: rebooting
+[Tue Jul 14 09:20:04] Slurk: hah i had prompt up
+[Tue Jul 14 09:20:06] Slurk: but no biggie
+[Tue Jul 14 09:20:14] Bluntmaster: follow
+[Tue Jul 14 09:20:29] Bluntmaster: there it is
+[Tue Jul 14 09:20:35] Slurk: using #s?
+[Tue Jul 14 09:20:39] Bluntmaster: formval
+[Tue Jul 14 09:20:46] Bluntmaster: good idea man
+[Tue Jul 14 09:20:52] Slurk: glad it works
+[Tue Jul 14 09:20:57] Bluntmaster: me too
+[Tue Jul 14 09:21:03] Slurk: makes it easier to see what things are
+[Tue Jul 14 09:21:12] Bluntmaster: k gotta do some work, bbiab
+[Tue Jul 14 09:21:14] Slurk: cause if spear is like front center, middle left/right
+[Tue Jul 14 09:21:16] Slurk: its all math
+[Tue Jul 14 09:21:21] Slurk: i got meeting in 125
+[Tue Jul 14 09:21:22] Slurk: 15
+[Tue Jul 14 09:21:23] Bluntmaster: will be much cleaner
+[Tue Jul 14 09:21:33] Bluntmaster: k ttyl
+[Tue Jul 14 10:02:00] Bluntmaster: need to send timtek the info to create a help file for prompt
+[Tue Jul 14 10:47:19] Slurk: stupid prompt :p
+[Tue Jul 14 10:47:20] Slurk: hating it
+[Tue Jul 14 11:02:11] Bluntmaster: just need it to do default prompt at sign in or somethin
+[Tue Jul 14 11:02:28] Bluntmaster: and when you can, shoot timtek the info he needs to make a helpfile for it
+[Tue Jul 14 11:02:44] Bluntmaster: formation shit is workin now btw
+[Tue Jul 14 11:02:48] Bluntmaster: thanks for the awesome idea
+[Tue Jul 14 11:02:59] Bluntmaster: saved me a huge headache and tons of time
+[Tue Jul 14 11:06:19] Slurk: glad its working, i have default prompt stuff set up i think
+[Tue Jul 14 11:06:34] Slurk: just checking a few things out
+[Tue Jul 14 11:06:38] Slurk: trying diff options
+[Tue Jul 14 11:06:53] Slurk: id rather have customized and not standard.. its boring!
+[Tue Jul 14 11:07:17] Bluntmaster: when you get a chance, check out formation.c near the bottom
+[Tue Jul 14 11:07:26] Slurk: lemme know if it makes ok.. i noticed your in formation.c
+[Tue Jul 14 11:07:26] Bluntmaster: we need to come up with more than the formations i have there
+[Tue Jul 14 11:07:36] Bluntmaster: but im makin it easy to see what each one is etc
+[Tue Jul 14 11:07:53] Slurk: nod i see em
+[Tue Jul 14 11:07:55] Bluntmaster: im just adding comments in in there
+[Tue Jul 14 11:08:00] Bluntmaster: makin it look nice etc
+[Tue Jul 14 11:08:23] Bluntmaster: also decided standard turns into phalanx eventually
+[Tue Jul 14 11:08:55] Bluntmaster: brb runnin to the store
+[Tue Jul 14 11:17:26] Bluntmaster: back
+[Tue Jul 14 11:19:30] Bluntmaster: prompt &B<%h&Bhp %m&Bmn %v&Bmv>&n
+[Tue Jul 14 11:21:21] Slurk: added 2 forms to bottom, didnt put into if statements yet.. thinking of others
+[Tue Jul 14 11:23:50] Slurk: dont need to do a 3set for each right?
+[Tue Jul 14 11:25:32] Slurk: 3rd one down there
+[Tue Jul 14 11:30:19] Bluntmaster: yea doesnt have to be
+[Tue Jul 14 11:30:35] Bluntmaster: can be a single set formation thats not a problem
+[Tue Jul 14 11:32:01] Slurk: ok so did 3 at the bottom with formtots, didnt check against others though
+[Tue Jul 14 11:32:12] Slurk: gotta make sure #s dont match up anywhere cause it can cause probs
+[Tue Jul 14 11:32:34] Bluntmaster: should never be a problem really
+[Tue Jul 14 11:32:45] Slurk: well if you have formtot of 24 for say standard
+[Tue Jul 14 11:32:53] Slurk: and a formtot of 24 for shield
+[Tue Jul 14 11:32:57] Bluntmaster: true
+[Tue Jul 14 11:32:57] Slurk: it would not know whats what
+[Tue Jul 14 11:33:04] Slurk: so gotta try to avoid dups
+[Tue Jul 14 11:33:05] Bluntmaster: it would default to first one
+[Tue Jul 14 11:33:11] Slurk: yeah prob
+[Tue Jul 14 11:33:18] Slurk: but would give wrong bonus down the line
+[Tue Jul 14 11:33:27] Bluntmaster: thats where the true false stuff came into play
+[Tue Jul 14 11:33:40] Bluntmaster: but who cares we can keep an eye on that
+[Tue Jul 14 11:33:43] Slurk: yeah
+[Tue Jul 14 11:33:44] Bluntmaster: and adjust accordingly
+[Tue Jul 14 11:34:01] Slurk: its ok, i dont think I duped anything but put at lest 3 more graphs at bottom.. lemme know what u think
+[Tue Jul 14 11:34:02] Bluntmaster: need to fix the prompt tho
+[Tue Jul 14 11:34:12] Bluntmaster: they look good
+[Tue Jul 14 11:34:16] Bluntmaster: ill get them added
+[Tue Jul 14 11:34:21] Bluntmaster: i just added them in structs
+[Tue Jul 14 11:34:31] Slurk: yeah prompt is being a bitch.. trying a few diff things to make sure I didnt miss adding something to it
+[Tue Jul 14 11:35:27] Bluntmaster: well my prompt is defaulting to the last thing you say
+[Tue Jul 14 11:35:30] Bluntmaster: or i say
+[Tue Jul 14 11:35:38] Slurk: prompt test or prompt default
+[Tue Jul 14 11:35:40] Slurk: will fix that for now
+[Tue Jul 14 11:35:51] Bluntmaster: yea
+[Tue Jul 14 11:35:51] Slurk: but customization still grabbing random shit yeah
+[Tue Jul 14 11:35:55] Bluntmaster: gotcha
+[Tue Jul 14 11:36:06] Bluntmaster: need to add color to hp/mn/mv
+[Tue Jul 14 11:36:09] Bluntmaster: in test
+[Tue Jul 14 11:36:14] Bluntmaster: in test
+[Tue Jul 14 11:36:14] Slurk: i know
+[Tue Jul 14 11:36:21] Slurk: just did it as a quick fix for now
+[Tue Jul 14 11:36:21] Bluntmaster: k
+[Tue Jul 14 11:36:25] Bluntmaster: works for me
+[Tue Jul 14 11:36:47] Bluntmaster: its weird because custom prompt works until somone talks :P
+[Tue Jul 14 11:36:54] Slurk: yeah
+[Tue Jul 14 11:37:01] Slurk: i think im missing something on the tail
+[Tue Jul 14 11:37:15] Slurk: i think i need to always add a \0 to the tail of prompts
+[Tue Jul 14 11:37:22] Slurk: but not sure if thats it or not
+[Tue Jul 14 11:37:29] Bluntmaster: yea
+[Tue Jul 14 11:37:40] Bluntmaster: by good practices should always end it with that
+[Tue Jul 14 11:37:56] Slurk: test
+[Tue Jul 14 11:40:11] Slurk: i think its adding it right, since the one loop looks for the \0 was figuring that i might be missing it
+[Tue Jul 14 11:49:18] Slurk: annoying.. just cant seem to find this slutty bug that wont stop catching extra info
+[Tue Jul 14 11:50:52] Bluntmaster: ok your forms are added
+[Tue Jul 14 11:51:00] Slurk: nice
+[Tue Jul 14 11:51:04] Bluntmaster: soooo
+[Tue Jul 14 11:51:14] Bluntmaster: the next step is figuring out what bonuses ppl get where in each form :P
+[Tue Jul 14 11:51:28] Slurk: and how to give them to them
+[Tue Jul 14 11:51:35] Bluntmaster: thats the easy part actually
+[Tue Jul 14 11:51:53] Bluntmaster: couple simple switches
+[Tue Jul 14 11:52:03] Slurk: i think standard gets nothing
+[Tue Jul 14 11:52:08] Slurk: no bonus or deduction
+[Tue Jul 14 11:52:19] Slurk: or maybe xp bonus
+[Tue Jul 14 11:52:28] Slurk: something small and useless cause its standard!
+[Tue Jul 14 11:52:37] Bluntmaster: well they get the standard xp bonuses for forming
+[Tue Jul 14 11:52:45] Slurk: nod
+[Tue Jul 14 11:53:40] Slurk: id think for sphere the middleman/men should get damage reduction obviously
+[Tue Jul 14 11:53:58] Slurk: that being position 5 8 11
+[Tue Jul 14 11:54:01] Slurk: only
+[Tue Jul 14 11:54:49] Slurk: we need our forums back up working :p  would be best to open it up to everyone that acually logs :p
+[Tue Jul 14 11:57:48] Bluntmaster: i need to install forums again
+[Tue Jul 14 11:58:43] Slurk: i was on this one forum site thatworked well.. lemme see if i can find out what they use.. prolly phpbb or whatever the standard is
+[Tue Jul 14 12:02:08] Slurk: i think most forums need mysql installed, and i think teh mysql you installed doesnt actually work :p
+[Tue Jul 14 12:04:34] Slurk: go download this   http://www.ohloh.net/p/phpbb/download?filename=phpBB-3.0.5.zip
+[Tue Jul 14 12:04:43] Slurk: ill page through the install :p
+[Tue Jul 14 12:06:07] Slurk: god i hate lunchtime.. work network slows down soo much :p
+[Tue Jul 14 12:06:14] Bluntmaster: reinstalling it now
+[Tue Jul 14 12:06:51] Bluntmaster: loooooooove yum
+[Tue Jul 14 12:07:00] Bluntmaster: ok mysql reinstalled
+[Tue Jul 14 12:07:44] Slurk: hrm realmsofkuvia.com doesnt even come up :p
+[Tue Jul 14 12:10:05] Slurk: woo go network
+[Tue Jul 14 12:10:10] Slurk: cant recon to the box
+[Tue Jul 14 12:11:46] Slurk: jesus i hate this
+[Tue Jul 14 12:12:41] Slurk: make sure you have PHP 4.3.3 or better installed.. pref like 6.0 or soething that supports mysql
+[Tue Jul 14 12:15:35] Bluntmaster: 5.2.x
+[Tue Jul 14 12:16:02] Bluntmaster: newest one
+[Tue Jul 14 12:17:28] Bluntmaster: ok page comes up as testing text with http://realmsofkuvia.com
+[Tue Jul 14 12:18:53] Slurk: i cant keep a damn connection to your box
+[Tue Jul 14 12:20:28] Bluntmaster: no good
+[Tue Jul 14 12:20:31] Slurk: ok is ee where the index file is
+[Tue Jul 14 12:20:38] Bluntmaster: ok well php is installed
+[Tue Jul 14 12:20:43] Bluntmaster: apache is running
+[Tue Jul 14 12:20:48] Bluntmaster: and mysql was reinstalled
+[Tue Jul 14 12:21:04] Slurk: mysql keeps giving me error that it cant find shit though.. hrm
+[Tue Jul 14 12:21:30] Bluntmaster: weird
+[Tue Jul 14 12:21:30] Slurk: decompress that zip file into /var/www/html
+[Tue Jul 14 12:21:37] Bluntmaster: what zip file?
+[Tue Jul 14 12:21:44] Slurk: did you dl the zip file for phpbb?
+[Tue Jul 14 12:21:50] Bluntmaster: oh....
+[Tue Jul 14 12:21:52] Bluntmaster: lemme check
+[Tue Jul 14 12:21:55] Slurk: http://www.ohloh.net/p/phpbb/download?filename=phpBB-3.0.5.zip
+[Tue Jul 14 12:24:39] Bluntmaster: k done
+[Tue Jul 14 12:25:10] Slurk: god connection pissin me off :p
+[Tue Jul 14 12:25:45] Bluntmaster: bbiam, gonna grab some food
+[Tue Jul 14 12:25:52] Bluntmaster: i need to get you setup with VNC access
+[Tue Jul 14 12:26:00] Bluntmaster: would prolly make life easier
+[Tue Jul 14 12:26:10] Slurk: possibly
+[Tue Jul 14 12:32:08] Bluntmaster: ok vnc addy for you would be realmsofkuvia.com:5903:2
+[Tue Jul 14 12:32:11] Bluntmaster: then your normal pwd
+[Tue Jul 14 12:34:32] Slurk: how do you setup vnc. i havent had a use for it in a while
+[Tue Jul 14 12:39:59] Bluntmaster: ok
+[Tue Jul 14 12:40:04] Bluntmaster: just install vnc viewer
+[Tue Jul 14 12:40:17] Bluntmaster: then when you open it put in the addy i gave you
+[Tue Jul 14 12:40:21] Bluntmaster: and itll ask for a pwd
+[Tue Jul 14 12:40:28] Bluntmaster: should atleat
+[Tue Jul 14 12:41:24] Bluntmaster: gonna go grab some lunch, bbiaf
+[Tue Jul 14 15:04:17] Slurk: test
+[Tue Jul 14 15:10:32] Slurk: p
+[Tue Jul 14 15:10:34] Slurk: p
+[Tue Jul 14 15:10:35] Slurk: pp
+[Tue Jul 14 15:10:37] Slurk: pp pp
+[Tue Jul 14 15:10:40] Slurk: %p
+[Tue Jul 14 15:10:43] Slurk: %p %p
+[Tue Jul 14 15:27:46] Slurktest: etst
+[Wed Jul 15 20:32:45] Bluntmaster: hey
+[Wed Jul 15 20:32:52] Bluntmaster: only here a sec hows it goin
+[Thu Jul 16 13:22:01] Accarid: all my test equipment :P
+[Thu Jul 16 13:22:19] Slurk: still
+[Thu Jul 16 13:22:27] Accarid: must be equipment
+[Thu Jul 16 13:22:33] Accarid: but tis still a problem
+[Thu Jul 16 13:23:02] Accarid: should I look for flags on my items that could do it?
+[Thu Jul 16 13:23:28] Slurk: drop all, lemme see
+[Thu Jul 16 13:23:31] Slurk: easier than loading
+[Thu Jul 16 13:23:53] Slurk: oh hah wth :p
+[Thu Jul 16 13:23:57] Slurk: one of your eqs is funky
+[Thu Jul 16 13:24:14] Accarid: rem them one at a time until it evens out?
+[Thu Jul 16 13:24:17] Accarid: last one you removed is it?
+[Thu Jul 16 13:24:40] Slurk: ohh
+[Thu Jul 16 13:24:44] Slurk: this might
+[Thu Jul 16 13:24:56] Slurk: that has +127 LEVEL
+[Thu Jul 16 13:25:03] Slurk: 127 levels of hps maybe
+[Thu Jul 16 13:25:10] Accarid: hmm
+[Thu Jul 16 13:25:14] Slurk: lets see
+[Thu Jul 16 13:25:20] Slurk: hm
+[Thu Jul 16 13:25:22] Slurk: maybe not
+[Thu Jul 16 13:25:31] Accarid: I think it adds levels to skills
+[Thu Jul 16 13:25:45] Accarid: but they all do the same damage so no way to know that way
+[Thu Jul 16 13:28:05] Accarid: brb
+[Fri Jul 17 16:19:48] Bluntmaster: may have to go back to using the full map loaded stuff
+[Fri Jul 17 16:20:06] Slurk: whys that
+[Fri Jul 17 16:20:13] Bluntmaster: well its just not quite right
+[Fri Jul 17 16:20:38] Bluntmaster: and i cant figure out why its bein the way it is
+[Fri Jul 17 16:21:20] Slurk: no biggie really.. saved lots of loading/memtime
+[Fri Jul 17 16:21:22] Bluntmaster: atleas the old way it worked right
+[Fri Jul 17 16:21:36] Bluntmaster: well the load time was mainly the populating part i think]
+[Fri Jul 17 16:21:42] Bluntmaster: populating with mobs'
+[Fri Jul 17 16:21:49] Bluntmaster: which i can do another way
+[Fri Jul 17 16:22:19] Bluntmaster: just a thought still
+[Fri Jul 17 16:22:24] Bluntmaster: not sure yet what im gonna do
+[Fri Jul 17 16:22:29] Bluntmaster: thats why im workin on forms right now :P
+[Fri Jul 17 16:22:35] Bluntmaster: altho thats almost done :P
+[Fri Jul 17 16:23:27] Bluntmaster: i just need a better way to do reform instead of reform 0-14
+[Fri Jul 17 16:23:59] Slurk: nodnod
+[Fri Jul 17 16:24:21] Bluntmaster: like f, c and b are easy enough but forward center and backcenter are not so easy
+[Fri Jul 17 16:28:03] Slurk: maybe sep function.. reform(chardata *ch, char formpos)  if is_abbref("bc" || "backcenter"  reform to #
+[Fri Jul 17 16:28:33] Bluntmaster: yea but like i said row 1 3 and 5 are easy its 2 and 4 that are a little trickier
+[Fri Jul 17 16:29:12] Slurk: maybe reform player <row> <pos>  where pos = left center right
+[Fri Jul 17 16:29:26] Slurk: so reform bluntmater 3 center
+[Fri Jul 17 16:30:45] Bluntmaster: nah ill do like fl, fc, fr, fcl, fcc, fcr, cl, cc, cr, bcl, bcc, bcr, bl,bc,br i think
+[Fri Jul 17 16:31:11] Slurk: thats a lot of extra explaining
+[Fri Jul 17 16:31:58] Slurk: cause you got 3 rows of center
+[Fri Jul 17 16:31:59] Bluntmaster: yea but les coding
+[Fri Jul 17 16:32:30] Bluntmaster: less code = less chance for code to screw up
+[Fri Jul 17 16:32:45] Slurk: true, more confusion on front-end though
+[Fri Jul 17 16:33:03] Slurk: how will you designate 2-3-4 rows?
+[Fri Jul 17 16:33:09] Slurk: its front/back and 3 centers :p
+[Fri Jul 17 16:33:19] Slurk: center =3  precenter and post center :p
+[Fri Jul 17 16:34:44] Bluntmaster: front center, center and back center
+[Fri Jul 17 16:35:24] Bluntmaster: havent really thought about it too much
+[Fri Jul 17 16:35:32] Bluntmaster: ok time to leave work
+[Fri Jul 17 16:35:37] Bluntmaster: have a good weekend homie
+[Fri Jul 17 16:35:56] Slurk: alright
+[Sat Jul 18 21:51:58] Bluntmaster: ok its actin weird still///
+[Sat Jul 18 21:52:08] Accarid: What should it be doing?
+[Sat Jul 18 21:54:31] Bluntmaster: well the reform im changing it but its not taking right
+[Sat Jul 18 22:09:11] Accarid: I got your email and sent myrna her email info
+[Sat Jul 18 22:10:38] Bluntmaster: rebooting rq
+[Sun Jul 19 16:22:57] Accarid: Hey
+[Sun Jul 19 16:23:08] Accarid: I'm back in this window =p
+[Sun Jul 19 16:24:21] Accarid: Guess you're not here anymore.
+[Sun Jul 19 16:25:32] Armeline: why do i keep getting auto zone reset
+[Sun Jul 19 16:26:21] Accarid: Okay I'm here
+[Sun Jul 19 16:26:24] Accarid: Um
+[Sun Jul 19 16:26:29] Accarid: Auto zone reset?
+[Sun Jul 19 16:26:43] Armeline: (Zone Info) :: Auto zone reset: Limbo - Internal (P) (Zone 0)
+[Sun Jul 19 16:26:54] Armeline: i get that with all the zones
+[Sun Jul 19 16:26:56] Accarid: Yeah, we created notifications of most stuff we need to know
+[Sun Jul 19 16:27:04] Accarid: ERm, the command..
+[Sun Jul 19 16:27:12] Accarid: log
+[Sun Jul 19 16:27:26] Accarid: o that's not it
+[Sun Jul 19 16:27:40] Accarid: setlog
+[Sun Jul 19 16:27:46] Accarid: setlog <field> toggles on/off
+[Sun Jul 19 16:27:54] Accarid: So I'd do setlog all and then setlog the ones you don't want off
+[Sun Jul 19 16:28:03] Armeline: i fixed it
+[Sun Jul 19 16:28:06] Accarid: so setlog zone turns it off.
+[Sun Jul 19 16:28:13] Armeline: i got news for you
+[Sun Jul 19 16:28:19] Accarid: Yeah?
+[Sun Jul 19 16:28:31] Armeline: ankhu lives with me now and im engaged
+[Sun Jul 19 16:28:35] Accarid: Cool =D
+[Sun Jul 19 16:28:39] Accarid: When's the wedding?
+[Sun Jul 19 16:28:46] Armeline: not for a long time
+[Sun Jul 19 16:28:55] Armeline: he has to get rid of wife first lmao
+[Sun Jul 19 16:29:09] Accarid: Nice.
+[Sun Jul 19 16:29:15] Accarid: I can help with that.
+[Sun Jul 19 16:29:38] Armeline: i wish
+[Sun Jul 19 16:30:13] Armeline: so how you been havent seen you
+[Sun Jul 19 16:31:13] Accarid: I've been alright
+[Sun Jul 19 16:31:15] Accarid: Dealing with real life
+[Sun Jul 19 16:31:31] Accarid: I went to a concert two days ago
+[Sun Jul 19 16:31:31] Armeline: its been like that with me haveny been playing med much eather
+[Sun Jul 19 16:31:36] Armeline: whose
+[Sun Jul 19 16:31:46] Accarid: A bunch of people, like..
+[Sun Jul 19 16:32:10] Accarid: There were like sixty bands
+[Sun Jul 19 16:32:41] Accarid: In This Moment played
+[Sun Jul 19 16:32:43] Armeline: cool
+[Sun Jul 19 16:33:55] Accarid: I can't remember the name of a couple bands, they're pretty popular though
+[Sun Jul 19 16:34:02] Accarid: Mostly punk rock screamin' and shit
+[Sun Jul 19 16:34:08] Accarid: So I didn't like most of it
+[Sun Jul 19 16:34:58] Armeline: aww
+[Sun Jul 19 16:35:59] Armeline: ankhu moved here on the 9th
+[Sun Jul 19 16:41:14] Accarid: Cool
+[Sun Jul 19 16:41:37] Accarid: I thought he moved in with you a long time ago
+[Sun Jul 19 16:41:42] Accarid: Or were you just planning on it?
+[Sun Jul 19 16:52:28] Armeline: planningo n it
+[Sun Jul 19 17:02:08] Accarid: God my computer is getting really slow
+[Sun Jul 19 17:02:14] Accarid: I think I need to restart
+[Sun Jul 19 17:02:16] Accarid: I'll be back in a bit
+[Mon Jul 20 14:35:16] Bluntmaster: i hate when dumb shit happens like this :P
+[Mon Jul 20 14:36:38] Slurk: it happens
+[Mon Jul 20 14:37:33] Slurk: i'm still recovering from reinstalling windows at home cause of stupid crap i did :p
+[Mon Jul 20 14:37:54] Slurk: thankfully its a gateway that my wife wanted, so it had an auto-recoverty w/o destruction option
+[Mon Jul 20 14:38:05] Slurk: so it copies everything into a folder before wiping it and reinstalling
+[Mon Jul 20 14:38:43] Bluntmaster: we should only be down for about an hour or so for it to repair itself
+[Mon Jul 20 14:39:19] Slurk: need to remember to make a partition this time and have automatic code backup onto partition :p
+[Mon Jul 20 14:39:28] Slurk: just in case!
+[Mon Jul 20 14:39:37] Slurk: mike used to back it up to an external HD like nightly
+[Mon Jul 20 14:39:52] Slurk: brb gotta go grab somethin to drink.. been at my desk all day
+[Mon Jul 20 14:48:57] Slurk: k bakc
+[Mon Jul 20 14:48:59] Slurk: back too
+[Mon Jul 20 14:50:04] Accarid: Today seems like a day for work.
+[Mon Jul 20 14:50:15] Accarid: But what kind of work remains uncertain.

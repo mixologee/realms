@@ -1,0 +1,176 @@
+diff -BbuprN -x '*.o' tbamud-3.55/src/structs.h tbamud-3.55+mail/src/structs.h
+--- tbamud-3.55/src/structs.h	2008-01-16 23:21:16.000000000 +0000
++++ tbamud-3.55+mail/src/structs.h	2008-02-25 12:12:11.884750000 +0000
+@@ -465,6 +468,7 @@
+ #define OPT_USEC	100000		/* 10 passes per second */
+ #define PASSES_PER_SEC	(1000000 / OPT_USEC)
+ #define RL_SEC		* PASSES_PER_SEC
++#define RL_MIN		* 60 RL_SEC
+ 
+ #define PULSE_ZONE      (10 RL_SEC)
+ #define PULSE_MOBILE    (10 RL_SEC)
+@@ -472,8 +476,9 @@
+ #define PULSE_AUTOSAVE	(60 RL_SEC)
+ #define PULSE_IDLEPWD	(15 RL_SEC)
+ #define PULSE_SANITY	(30 RL_SEC)
+-#define PULSE_USAGE	(5 * 60 RL_SEC)	/* 5 mins */
+-#define PULSE_TIMESAVE	(30 * 60 RL_SEC) /* should be >= SECS_PER_MUD_HOUR */
++#define PULSE_USAGE	    ( 5 RL_MIN)	/* 5 mins */
++#define PULSE_TIMESAVE	(30 RL_MIN) /* should be >= SECS_PER_MUD_HOUR */
++#define PULSE_HOURLY	(60 RL_MIN)
+ 
+ /* Variables for the output buffering system */
+ #define MAX_SOCK_BUF            (24 * 1024) /* Size of kernel's sock buf   */
+@@ -595,6 +600,8 @@ struct obj_data {
+    struct obj_data *next_content; /* For 'contains' lists             */
+    struct obj_data *next;         /* For the object list              */
+    struct char_data *sitting_here;/* who is sitting in it             */
++
++   struct mail_data *in_mail;     /* Which mail object is attached to */
+ };
+ 
+ /* File Element for Objects BEWARE: Changing it will ruin rent files  */
+@@ -799,6 +806,7 @@ struct mob_special_data {
+    byte default_pos;        /* Default position for NPC                */
+    byte damnodice;          /* The number of damage dice's	       */
+    byte damsizedice;        /* The size of the damage dice's           */
++   struct mail_edit_data *ml_list;  /* Mail info for sending from mobs by script */
+ };
+ 
+ /* An affect structure. */
+@@ -1098,6 +1106,21 @@ struct autowiz_data {
+   int min_wizlist_lev;    /* Minimun level to show on wizlist.	*/
+ };
+ 
++struct mail_config {
++  int mail_allowed;           /* Is mudmail allowed? (to disable whole mudmail system) Yes         */
++  int objects_allowed;        /* object mailing allowed                                Yes         */
++  int gold_allowed;           /* gold mailing allowed?                                 Yes         */
++  int stamp_cost;             /* Stamp Cost                                            150 coins   */
++  int object_cost;            /* Cost per object for each attachment                   30 coins    */
++  int min_level;              /* Min level that can mail                               1           */
++  int min_free_level;         /* Min level for free mail                               Immortal    */
++  int allow_drafts;           /* Can players save draft mudmails?                      Yes         */
++  int draft_timeout;          /* No. of days a draft mail can stay in the outbox       28 days     */
++  int safe_mailing;           /* Can players be attacked or stolen from while mailing? Yes         */
++  int min_mail_anywhere;      /* Min level that can send mail from anywhere?           Immortal    */
++  int min_send_to_all;        /* Min level that can send mail to all players?          Implementor */
++};
++
+ /* The main configuration structure; */
+ struct config_data {
+   char                   *CONFFILE;	/* config file path	 */
+@@ -1106,6 +1129,7 @@ struct config_data {
+   struct room_numbers    room_nums;	/* room numbers          */
+   struct game_operation  operation;	/* basic operation       */
+   struct autowiz_data    autowiz;	/* autowiz related stuff */
++  struct mail_config     mail;		/* config for mudmails   */
+ };
+ 
+ #ifdef MEMORY_DEBUG
+Files tbamud-3.55/src/tba+mail - src only.zip and tbamud-3.55+mail/src/tba+mail - src only.zip differ
+diff -BbuprN -x '*.o' tbamud-3.55/src/utils.c tbamud-3.55+mail/src/utils.c
+--- tbamud-3.55/src/utils.c	2008-01-16 23:21:14.000000000 +0000
++++ tbamud-3.55+mail/src/utils.c	2008-02-24 15:54:33.212875000 +0000
+@@ -735,3 +735,51 @@ void char_from_furniture(struct char_dat
+ 
+  return;
+ }
++
++char* add_commas(long X)
++{
++  int oldlen = 0;
++  int newlen = 0;
++  int numcommas = 0;
++  int i;
++  int j;
++  char temp[MAX_INPUT_LENGTH];
++  static char commastring[MAX_INPUT_LENGTH];
++
++  *temp='\0';
++  *commastring='\0';
++
++  sprintf(temp,"%ld",X);
++  oldlen = strlen(temp);
++  if (X < 0) //don't count the negative sign
++  {
++    numcommas = (oldlen-2)/3;
++    newlen = oldlen + numcommas;
++  }
++  else
++  {
++    numcommas = (oldlen-1)/3;
++    newlen = oldlen + numcommas;
++  }
++
++  //build the new string from the right,
++  //inserting commas as needed
++  for(i=oldlen, j=newlen; i>0; i--,j--)
++  {
++      if ((i-1)%3 == 0) //need a comma after this digit
++      {
++        commastring[newlen-j] = temp[oldlen-i];
++        if (temp[oldlen-i] != '-')
++        {
++          j--;
++          commastring[newlen - j] = ',';
++        }
++      }
++      else
++      {
++        commastring[newlen-j] = temp[oldlen-i];
++      }
++  }
++  commastring[newlen] = '\0';
++  return commastring;
++}
+diff -BbuprN -x '*.o' tbamud-3.55/src/utils.h tbamud-3.55+mail/src/utils.h
+--- tbamud-3.55/src/utils.h	2008-01-16 23:21:14.000000000 +0000
++++ tbamud-3.55+mail/src/utils.h	2008-02-25 12:12:07.212875000 +0000
+@@ -36,6 +36,7 @@ void	core_dump_real(const char *who, int
+ int     count_color_chars(char *string);
+ int	room_is_dark(room_rnum room);
+ int     levenshtein_distance(char *s1, char *s2);
++char    *add_commas(long X);
+ 
+ #define core_dump()		core_dump_real(__FILE__, __LINE__)
+ 
+@@ -330,6 +331,7 @@ void char_from_furniture(struct char_dat
+ 
+ #define GET_DEFAULT_POS(ch)	((ch)->mob_specials.default_pos)
+ #define MEMORY(ch)		((ch)->mob_specials.memory)
++#define MOB_MAIL(ch)		((ch)->mob_specials.ml_list)
+ 
+ #define STRENGTH_APPLY_INDEX(ch) \
+         ( ((GET_ADD(ch) ==0) || (GET_STR(ch) != 18)) ? GET_STR(ch) :\
+@@ -401,6 +403,8 @@ void char_from_furniture(struct char_dat
+ #define CAN_WEAR(obj, part)	OBJWEAR_FLAGGED((obj), (part))
+ #define GET_OBJ_SHORT(obj)      ((obj)->short_description)
+ 
++#define IN_MAIL(obj)	((obj)->in_mail)
++
+ /* Compound utilities and other macros. */
+ /* Used to compute version. To see if the code running is newer than 3.0pl13, 
+  * you would use: #if _CIRCLEMUD > CIRCLEMUD_VERSION(3,0,13) */
+@@ -582,6 +586,20 @@ void char_from_furniture(struct char_dat
+ #define CONFIG_WELC_MESSG       config_info.operation.WELC_MESSG
+ #define CONFIG_START_MESSG      config_info.operation.START_MESSG
+ 
++/* Mudmail Configuraton */
++#define CONFIG_CAN_MAIL          config_info.mail.mail_allowed
++#define CONFIG_CAN_MAIL_OBJ      config_info.mail.objects_allowed
++#define CONFIG_CAN_MAIL_GOLD     config_info.mail.gold_allowed
++#define CONFIG_STAMP_COST        config_info.mail.stamp_cost
++#define CONFIG_OBJECT_COST       config_info.mail.object_cost
++#define CONFIG_MIN_MAIL_LEVEL    config_info.mail.min_level
++#define CONFIG_FREE_MAIL_LEVEL   config_info.mail.min_free_level
++#define CONFIG_DRAFTS_ALLOWED    config_info.mail.allow_drafts
++#define CONFIG_DRAFT_TIMEOUT     config_info.mail.draft_timeout
++#define CONFIG_SAFE_MAILING      config_info.mail.safe_mailing
++#define CONFIG_MIN_MAIL_ANYWHERE config_info.mail.min_mail_anywhere
++#define CONFIG_MIN_SEND_TO_ALL   config_info.mail.min_send_to_all
++
+ /* Autowiz */
+ #define CONFIG_USE_AUTOWIZ      config_info.autowiz.use_autowiz
+ #define CONFIG_MIN_WIZLIST_LEV  config_info.autowiz.min_wizlist_lev
+

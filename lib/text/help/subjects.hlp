@@ -1,0 +1,59 @@
+&G COMBAT
+
+&WTo gain exp and become a master of The Game, you must fight monsters
+and other non-player characters. To see your classes spells or skills,
+type practice. Most skills and spells have help files available.
+
+Commands to check out:
+&GKILL HIT WIELD FLEE ASSIST TRACK AUTO-ASSIST WIMPY&n
+#
+&G COMMUNICATION COMMUNICATE
+
+&WThere are numerous channels to talk to other players on. The following
+are the known communication channels:
+&C---------------------------------------------------------------------------
+&GSAY GSAY SHOUT HOLLER TELL ASK WHISPER MAIL RECEIVE CHECK GOSSIP GRATS 
+&C--------------------------------------------------------------------------- 
+&WTo turn off a channel:
+&C---------------------------------------------------------------------------
+&GNOTELL NOSHOUT NOGOSSIP NOGRATZ
+&C---------------------------------------------------------------------------&n
+#
+&G INFORMATION
+
+&WThe following &Gcommands &Wwill help to keep you update with the game, and
+also give you your player stats:
+&C---------------------------------------------------------------------------
+&GSCORE HELP INFO WHO NEWS TIME WEATHER WHERE CONSIDER LEVELS WIZLIST
+IMMLIST CREDITS TOGGLE FLAGS WIZHELP
+&C---------------------------------------------------------------------------&n
+#
+&G MOVEMENT
+
+&WTo move your character around, you simply type a direction. Valid
+choices are &GNORTH EAST SOUTH &Wand &GWEST&W.
+
+Other movement based commands:
+&C---------------------------------------------------------------------------
+&GLOOK EXITS ENTER LEAVE SLEEP
+WAKE REST SIT STAND
+&C---------------------------------------------------------------------------&n
+#
+&G OBJECTS
+
+&WYou can manipulate and interact with objects in many differant ways. These
+are some of the more common &Gcommands &Wto do so:
+&C---------------------------------------------------------------------------
+&GGET DROP GRAB INVENTORY EXAMINE EAT JUNK DONATE  
+TASTE SIP GIVE POUR WEAR DRINK REMOVE EQUIPMENT
+&C---------------------------------------------------------------------------&n
+#
+&G OTHER
+
+&WThese &Gcommands &Ware important but don't fit in anywhere special:
+&C---------------------------------------------------------------------------
+&GBUG IDEA QUIT SAVE BRIEF COMPACT TITLE NOSUMMON COMMANDS SOCIALS DSPLAY
+&GMINE ORE GEMS SMITH IMPROVE REPAIR
+&C---------------------------------------------------------------------------&n
+#
+$ 

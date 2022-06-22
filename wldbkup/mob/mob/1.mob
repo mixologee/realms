@@ -1,0 +1,61 @@
+#100
+jenna dog husky~
+Jenna~
+A beautiful, red husky runs around the room frantically, excited about having company.
+~
+   As she looks at you with her deep blue eyes, your heart starts to melt
+instantly.  Her fluffy coat of soft, smooth hair puffs up as she begins to play.
+She is the epitomy of man's best friend, always there when BluntMaster needs
+her.  But don't let her sunny disposition fool you.  This dog is not one to be
+triffled with.  
+~
+52684827 0 0 0 0 0 0 0 0 E
+99 -30 -20 30d50+30000 30d50+50
+1 1
+8 8 2
+BareHandAttack: 8
+Clss: 2
+E
+#101
+raver kid~
+a party kid~
+A young man who looks tired from a night of partying is chillin' here.
+~
+This young man has dirty blonde hair and a pale complexion.  He's wearing baggy
+pants and a brightly colored t-shirt.  He looks at you with a warm smile and
+goes back to what he was doing.  
+~
+72 0 0 0 0 0 0 0 0 E
+2 15 10 10d3+50 2d5+2
+50 500
+8 8 1
+Clss: 1
+E
+#102
+raver kid~
+a party kid~
+A young woman bounces around happily.
+~
+This girl is smokin'.  She has a gorgeous smile and a figure to die for.  She
+smiles sweetly at you as she goes about her business, spreading happiness to
+everyone around.  
+~
+72 0 0 0 0 0 0 0 0 E
+3 15 5 5d5+50 1d10+2
+75 500
+8 8 2
+Clss: 1
+E
+#103
+mob test~
+testing mob kw mob test~
+A test mob stands here.
+~
+It looks unfinished.
+~
+536870920 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+$

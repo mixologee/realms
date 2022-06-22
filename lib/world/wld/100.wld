@@ -1,0 +1,1296 @@
+#10000
+A Small Cave Entrance~
+The hole opens up into a dark, dank cave, leading to the west.  A raw smell of
+decaying flesh and old mildew fills the air.  A faint echo of footsteps titters
+through the room.  
+~
+100 131073 0 0 0 0
+D3
+~
+~
+0 0 10001
+D4
+~
+~
+0 0 1049972
+S
+#10001
+A Narrow Cavern~
+The cave continues deeper into darkness.  There is a faint light coming from the
+room to the west.  The smell of decaying flesh gets stronger as the cave goes
+deeper.  A low moaning echoes through the room.  
+~
+100 131073 0 0 0 0
+D1
+~
+~
+0 0 10000
+D3
+~
+~
+0 0 10002
+S
+#10002
+A Narrow Cavern~
+There is a small torch flickering in the corner of the room.  It's life is just
+about over.  The smell of rotting flesh wafts heavily through the room.  Water
+trickles down the walls and drips from the ceiling, creating a steady dripping
+sound.  
+~
+100 131073 0 0 0 0
+D1
+~
+~
+0 0 10001
+D2
+~
+~
+0 0 10003
+S
+#10003
+A Narrow Hallway~
+The cavern opens up into a very well decorated, but narrow hallway.  The smell
+of decayed flesh is quite overpowering here.  The walls are carved of what
+appears to be molten rock, shiny and black.  A quick scent of brimstone floats
+in and out of the room almost instantly.  
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10002
+D2
+~
+~
+0 0 10004
+S
+#10004
+A Large Burial Chamber~
+Along the walls are holes, with small plaques above each hole.  Inside the holes
+are what appear to be caskets.  The smell of death fills the air, making
+breathing a little dificult.  
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10003
+D2
+~
+~
+0 0 10005
+D3
+~
+~
+0 0 10006
+S
+#10005
+A Large Burial Chamber~
+The walls are filled with pine boxes, and plaques above each box.  The smell of
+death fills the air.  A low moaning can be heard coming from deep within the
+burial chamber.  
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10004
+D3
+~
+~
+0 0 10007
+S
+#10006
+A Large Burial Chamber~
+The walls are filled with pine boxes, and plaques above each box.  The smell of
+death fills the air.  A low moaning can be heard coming from deep within the
+burial chamber.  
+~
+100 65536 0 0 0 0
+D1
+~
+~
+0 0 10004
+D2
+~
+~
+0 0 10007
+S
+#10007
+A Large Burial Chamber~
+Along the walls are holes, with small plaques above each hole.  Inside the holes
+are what appear to be caskets.  The smell of death fills the air, making
+breathing a little dificult.  
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10006
+D1
+~
+~
+0 0 10005
+D2
+~
+~
+0 0 10008
+S
+#10008
+A Large Burial Chamber~
+Along the walls are holes, with small plaques above each hole.  Inside the holes
+are what appear to be caskets.  The smell of death fills the air, making
+breathing a little dificult.  
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10007
+D2
+~
+~
+0 0 10009
+D3
+~
+~
+0 0 10010
+S
+#10009
+A Large Burial Chamber~
+The walls are filled with pine boxes, and plaques above each box.  The smell of
+death fills the air.  A low moaning can be heard coming from deep within the
+burial chamber.  
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10008
+D3
+~
+~
+0 0 10011
+S
+#10010
+A Large Burial Chamber~
+The walls are filled with pine boxes, and plaques above each box.  The smell of
+death fills the air.  A low moaning can be heard coming from deep within the
+burial chamber.  
+~
+100 65536 0 0 0 0
+D1
+~
+~
+0 0 10008
+D2
+~
+~
+0 0 10011
+S
+#10011
+A Large Burial Chamber~
+Along the walls are holes, with small plaques above each hole. Inside the holes
+are what appear to be caskets. The smell of death fills the air, making
+breathing a little difficult.
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10010
+D1
+~
+~
+0 0 10009
+D2
+~
+~
+0 0 10012
+S
+#10012
+A Narrow Hallway~
+The burial chambers let out into a narrow hallway.  Torches line the walls,
+shedding just enough light to see the floor.  The walls are made of a shiny,
+black rock that smells a little like brimstone.  
+~
+100 131072 0 0 0 0
+D0
+~
+~
+0 0 10011
+D3
+~
+~
+0 0 10013
+S
+#10013
+A Narrow Hallway~
+Torches line the walls, shedding just enough light to see the floor.  The walls
+are made of a shiny, black rock that smells a little like brimstone.  The
+moaning that was once low, begins to get louder and louder.  
+~
+100 131072 0 0 0 0
+D1
+~
+~
+0 0 10012
+D3
+~
+~
+0 0 10014
+S
+#10014
+A Narrow Hallway~
+Torches line the walls, shedding just enough light to see the floor.  The walls
+are made of a shiny, black rock that smells a little like brimstone.  The
+moaning that was once low, begins to get louder and louder.  
+~
+100 131072 0 0 0 0
+D1
+~
+~
+0 0 10013
+D3
+~
+~
+0 0 10015
+S
+#10015
+A Narrow Hallway~
+Torches line the walls, shedding just enough light to see the floor.  The walls
+are made of a shiny, black rock that smells a little like brimstone.  The
+moaning that was once low, begins to get louder and louder.  
+~
+100 131072 0 0 0 0
+D1
+~
+~
+0 0 10014
+D3
+~
+~
+0 0 10016
+S
+#10016
+A Narrow Hallway~
+Torches line the walls, shedding just enough light to see the floor.  The walls
+are made of a shiny, black rock that smells a little like brimstone.  The
+moaning that was once low, begins to get louder and louder.  
+~
+100 131072 0 0 0 0
+D1
+~
+~
+0 0 10015
+D3
+~
+~
+0 0 10017
+S
+#10017
+A Narrow Hallway~
+Torches line the walls, shedding just enough light to see the floor.  The walls
+are made of a shiny, black rock that smells a little like brimstone.  The
+moaning that was once low, begins to get louder and louder.  
+~
+100 131072 0 0 0 0
+D1
+~
+~
+0 0 10016
+D3
+~
+~
+0 0 10018
+S
+#10018
+A Narrow Hallway~
+Torches line the walls, shedding just enough light to see the floor.  The walls
+are made of a shiny, black rock that smells a little like brimstone.  The
+moaning that was once low, begins to get louder and louder.  
+~
+100 131072 0 0 0 0
+D1
+~
+~
+0 0 10017
+D3
+~
+~
+0 0 10019
+S
+#10019
+Before a Large Gate~
+The hallway takes a turn south here, leading into a large gate.  Heat permeates
+through the gates from the south.  Some loud screams of pain echo through the
+room, coming from the south.  This gate is obviously here to keep something in
+and something out.  
+~
+100 131072 0 0 0 0
+D1
+~
+~
+0 0 10018
+D2
+~
+gate~
+2 10001 10020
+S
+#10020
+Beyond the Gates of the Hoarde~
+The gate opens into another narrow hallway.  The walls are covered in expensive
+paintings and tapestries.  Heat blows into the room from deep within the hall.
+Loud screams of pain follow the hot breeze.  
+~
+100 65536 0 0 0 0
+D0
+~
+gate~
+2 10001 10018
+D2
+~
+~
+0 0 10021
+S
+#10021
+A Damp, Dark Tunnel~
+The hallway takes a sharp turn here, leading deeper into the hoarde.  Loud
+shrieks of pain and anguish fill the room, coming from deep within these walls.
+A faint whiff of brimstone floats softly through the air, almost unoticeably.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10020
+D3
+~
+~
+0 0 10022
+S
+#10022
+A Damp, Dark Tunnel~
+The hallway takes a sharp turn here, leading deeper into the hoarde.  Loud
+shrieks of pain and anguish fill the room, coming from deep within these walls.
+A faint whiff of brimstone floats softly through the air, almost unoticeably.  
+~
+100 65537 0 0 0 0
+D1
+~
+~
+0 0 10021
+D2
+~
+~
+0 0 10023
+S
+#10023
+A Damp, Dark Tunnel~
+The hallway leads deeper into the hoarde.  The walls are covered in rich
+artwork.  Loud shrieks of pain and anguish fill the room, coming from deep
+within these walls.  A faint whiff of brimstone floats softly through the air,
+almost unoticeably.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10022
+D1
+~
+~
+0 0 10024
+S
+#10024
+A Damp, Dark Tunnel~
+The hallway leads deeper into the hoarde.  The walls are covered in rich
+tapestries.  Loud shrieks of pain and anguish fill the room, coming from deep
+within these walls.  A faint whiff of brimstone floats softly through the air,
+almost unoticeably.  
+~
+100 65537 0 0 0 0
+D1
+~
+~
+0 0 10025
+D3
+~
+~
+0 0 10023
+S
+#10025
+A Damp, Dark Tunnel~
+The hallway takes a sharp turn here, leading deeper into the hoarde.  Loud
+shrieks of pain and anguish fill the room, coming from deep within these walls.
+A faint whiff of brimstone floats softly through the air, almost unoticeably.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10026
+D3
+~
+~
+0 0 10024
+S
+#10026
+A Damp, Dark Tunnel~
+The walls are covered in rich tapestries.  Loud shrieks of pain and anguish fill
+the room, coming from deep within these walls.  A faint whiff of brimstone
+floats through the air.  The room is pitch black with half-burnt torches lining
+the way.  
+~
+100 65537 0 0 0 0
+D1
+~
+~
+0 0 10027
+D2
+~
+~
+0 0 10025
+S
+#10027
+A Damp, Dark Tunnel~
+The walls are covered in expensive paintings and sculptures. Loud shrieks of
+pain and anguish fill the room, coming from deep within these walls. A faint
+whiff of brimstone floats through the air. The walls are pitch black, with
+half-burnt torches lining the walls.
+~
+100 65537 0 0 0 0
+D1
+~
+~
+0 0 10028
+D3
+~
+~
+0 0 10026
+S
+#10028
+A Damp, Dark Tunnel~
+The walls are covered in expensive paintings and sculptures.  Loud shrieks of
+pain and anguish fill the room, coming from deep within these walls.  A faint
+whiff of brimstone floats through the air.  The room is pitch black with
+half-burnt torches lining the w
+~
+100 65537 0 0 0 0
+D1
+~
+~
+0 0 10029
+D3
+~
+~
+0 0 10027
+S
+#10029
+A Damp, Dark Tunnel~
+The walls are covered in expensive paintings and sculptures.  Loud shrieks of
+pain and anguish fill the room, coming from deep within these walls.  A faint
+whiff of brimstone floats through the air.  The room is pitch black with
+half-burnt torches lining the w
+~
+100 65537 0 0 0 0
+D1
+~
+~
+0 0 10030
+D3
+~
+~
+0 0 10028
+S
+#10030
+A Damp, Dark Tunnel~
+The walls are covered in expensive paintings and sculptures.  Loud shrieks of
+pain and anguish fill the room, coming from deep within these walls.  A faint
+whiff of brimstone floats through the air.  The room is pitch black with
+half-burnt torches lining the w
+~
+100 65537 0 0 0 0
+D2
+~
+~
+0 0 10031
+D3
+~
+~
+0 0 10029
+S
+#10031
+A Damp, Dark Tunnel~
+The shrieks of pain and anguish coming from deep within these walls is almost
+defeaning now.  A faint whiff of brimstone floats through the air.  The room is
+pitch black with half-burnt torches lining the way.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10030
+D2
+~
+~
+0 0 10032
+S
+#10032
+A Damp, Dark Tunnel~
+The shrieks of pain and anguish coming from deep within these walls is almost
+defeaning now.  A faint whiff of brimstone floats through the air.  The room is
+pitch black with half-burnt torches lining the way.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10031
+D2
+~
+~
+0 0 10033
+S
+#10033
+Before a Large Door~
+A large door stands here, guarding the pirate's treasures.  Several large
+statues are in the room, looking almost alive.  The statues are very hideous,
+with horns and sharp teeth.  Smoke billows from one of the statue's nose.  
+Perhaps it is some sort of exhaus
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10032
+D2
+~
+door~
+2 10002 10034
+S
+#10034
+A Hot Tunnel~
+The tunnel is carved out of molten rock.  The smooth surface shines brightly
+under the torches lining the walls.  The strong smell of brimstone brings tears
+to the eyes with its potency.  
+~
+100 65536 0 0 0 0
+D0
+~
+door~
+2 10002 10033
+D5
+~
+~
+0 0 10035
+S
+#10035
+A Hot Tunnel~
+The heat coming from below begins to get quite intense.  The tunnel is carved
+out of molten rock, glimmering softly in the light form a lone torch on the
+wall.  The smell of brimstone clogs the air, making it difficult to breathe.  
+~
+100 65536 0 0 0 0
+D4
+~
+~
+0 0 10034
+D5
+~
+~
+0 0 10036
+S
+#10036
+A Hot Tunnel~
+The tunnel hits its bottom here, with a strong gust of hot air coming from the
+south.  Loud shrieks of pain and suffering can be heard echoing from the south
+as well.  Whatever is making that sound must be in serious pain.  
+~
+100 65536 0 0 0 0
+D2
+~
+~
+0 0 10037
+D4
+~
+~
+0 0 10035
+S
+#10037
+Before the Lair of the Masters~
+The shrieks of pain become deafeningly loud here.  The smell of brimstone is
+slowly fading into the smell of fire.  The pirate masters are supposedly guarded
+by demons at all times as to asure the safety of the masters.  
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10036
+D2
+~
+~
+0 0 10038
+S
+#10038
+In the Demon's Keep~
+Large pits of fire line the walls, leaving only a narrow space to walk on.  The
+heat blazes from the floor along the base of the walls.  Demon spirits float
+about aimlessly through the area.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10037
+D1
+~
+~
+0 0 10051
+D2
+~
+~
+0 0 10039
+D3
+~
+~
+0 0 10058
+S
+#10039
+North of the Center~
+The path meets with the base of the walls here.  A much safer way to travel if
+you don't count all the demons flying about.  Atleast there are no worries of
+falling off the edge here.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10038
+D2
+~
+~
+0 0 10040
+S
+#10040
+Center of the Demon's Keep~
+All paths in this facility meet here.  The mixture of painful shrieks and
+intense heat make this room virtually unbearable.  Small pieces of rock fall
+from the ceiling.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10039
+D1
+~
+~
+0 0 10042
+D2
+~
+~
+0 0 10043
+D3
+~
+~
+0 0 10041
+D4
+~
+ceiling~
+2 10003 10059
+S
+#10041
+West of the Center~
+The path meets with the base of the walls here.  A much safer way to travel if
+you don't count all the demons flying about.  Atleast there are no worries of
+falling off the edge here.  
+~
+100 65537 0 0 0 0
+D1
+~
+~
+0 0 10040
+D3
+~
+~
+0 0 10055
+S
+#10042
+East of the Center~
+The path meets with the base of the walls here.  A much safer way to travel if
+you don't count all the demons flying about.  Atleast there are no worries of
+falling off the edge here.  
+~
+100 65537 0 0 0 0
+D1
+~
+~
+0 0 10048
+D3
+~
+~
+0 0 10040
+S
+#10043
+South of the Center~
+The path meets with the base of the walls here.  A much safer way to travel if
+you don't count all the demons flying about.  Atleast there are no worries of
+falling off the edge here.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10040
+D2
+~
+~
+0 0 10044
+S
+#10044
+In the Demon's Keep~
+Along the base of the wall are pits of sharp, pointed earthen spikes.  It
+becomes quite apparent where the shrieks of pain originated.  Several bodies are
+strewn about on the spikes, leaving pools of blood beneath them.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10043
+D1
+~
+~
+0 0 10045
+D3
+~
+~
+0 0 10052
+S
+#10045
+In the Demon's Keep~
+Along the base of the wall are pits of sharp, pointed earthen spikes.  Several
+bodies are strewn about on the spikes, leaving pools of blood beneath them.  It
+becomes quite apparent where the shrieks of pain originated.  
+~
+100 65537 0 0 0 0
+D1
+~
+~
+0 0 10046
+D3
+~
+~
+0 0 10044
+S
+#10046
+In the Demon's Keep~
+Along the base of the walls, the large chunks of ice turn into large, earthen
+spikes.  Several bodies are strewn about on the spikes, leaving pools of blood
+beneath them.  It becomes quite apparent where the shrieks of pain originated.
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10047
+D3
+~
+~
+0 0 10045
+S
+#10047
+In the Demon's Keep~
+The cold is almost unbearable, even for a demon.  Along the base of the wall,
+large chunks of ice help make the room quite frigid.  Demon spirits float about
+aimlessly through the area, shrieking in pain.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10048
+D2
+~
+~
+0 0 10046
+S
+#10048
+In the Demon's Keep~
+Demon spirits float about aimlessly through the area.  The cold is almost
+unbearable, even for a demon.  Along the base of the wall, large chunks of ice
+help make the room quite frigid.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10049
+D2
+~
+~
+0 0 10047
+D3
+~
+~
+0 0 10042
+S
+#10049
+In the Demon's Keep~
+Along the base of the wall, large chunks of ice help make the room quite frigid.
+Demon spirits float about aimlessly through the area.  The cold is almost
+unbearable, even for a demon.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10050
+D2
+~
+~
+0 0 10048
+S
+#10050
+In the Demon's Keep~
+Demon spirits float about aimlessly through the area.  Half of the room is hot
+and the other half is cold.  Along the base the pits of fire turn into large
+chunks of ice.  
+~
+100 65537 0 0 0 0
+D2
+~
+~
+0 0 10049
+D3
+~
+~
+0 0 10051
+S
+#10051
+In the Demon's Keep~
+The heat blazes from the floor along the base of the walls.  Large pits of fire
+line the walls, leaving only a narrow space to walk on.  Demon spirits float
+about aimlessly through the area.  
+~
+100 65537 0 0 0 0
+D1
+~
+~
+0 0 10050
+D3
+~
+~
+0 0 10038
+S
+#10052
+In the Demon's Keep~
+Lagre pits of earthen spikes line the base of the walls here.  Several bodies
+are lying impaled on these spikes, leaving pools of blood at the base of the
+pit.  The shrieks of pain no doubt came from these bodies, perhaps sacrificial
+in nature, or perhaps merely fun for the demons.  
+~
+100 65537 0 0 0 0
+D1
+~
+~
+0 0 10044
+D3
+~
+~
+0 0 10053
+S
+#10053
+In the Demon's Keep~
+Along the base of the walls, the large pits of earthen spikes turn into what
+appears to be open air.  Loud screams can be heard echoing from deep within the
+empty space beneath the walkway.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10054
+D1
+~
+~
+0 0 10052
+S
+#10054
+In the Demon's Keep~
+Demon spirits float about aimlessly through the area, shrieking in pain.  Along
+the base of the walls is what appears to be open air, perhaps a bottomless pit
+of sorts.  Loud screams can be heard echoing from deep within the empty space
+beneath the walkway.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10055
+D2
+~
+~
+0 0 10053
+S
+#10055
+In the Demon's Keep~
+Loud screams can be heard echoing from deep within the empty space beneath the
+walkway.  Along the base of the walls is what appears to be open air, perhaps a
+bottomless pit of sorts.  Demon spirits float about aimlessly through the area.
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10056
+D1
+~
+~
+0 0 10041
+D2
+~
+~
+0 0 10054
+S
+#10056
+In the Demon's Keep~
+Demon spirits float about aimlessly through the area.  Along the base of the
+walls is what appears to be open air, perhaps a bottomless pit of sorts.  Loud
+screams can be heard echoing from deep within the empty space beneath the
+walkway.  
+~
+100 65537 0 0 0 0
+D0
+~
+~
+0 0 10057
+D2
+~
+~
+0 0 10055
+S
+#10057
+In the Demon's Keep~
+Along the base of the walls, the bottomless pit turns into pits of fire.  The
+room begins to heat up more and more, as the shrieks of pain fly up from below.
+A lone hand remains hanging from the walkway, with no body left attached as it
+has been eaten by the flames.  
+~
+100 65537 0 0 0 0
+D1
+~
+~
+0 0 10058
+D2
+~
+~
+0 0 10056
+S
+#10058
+In the Demon's Keep~
+Demon spirits float about aimlessly through the area.  The heat blazes from the
+floor along the base of the walls.  Large pits of fire line the walls, leaving
+only a narrow space to walk on.  
+~
+100 65537 0 0 0 0
+D1
+~
+~
+0 0 10038
+D3
+~
+~
+0 0 10057
+S
+#10059
+A Hidden Staircase~
+This concealed staircase must lead to something wonderful.  The staircase is
+very narrow and steep.  The sounds of clanging weapons and destructive spells
+can be heard from above.  
+~
+100 65536 0 0 0 0
+D4
+~
+~
+0 0 10060
+D5
+~
+~
+0 0 10040
+S
+#10060
+In the Masters' Hallway~
+The hallway goes in every direction from here.  Painful shrieks come from all
+directions, as if this area were some sort of torture spot.  The clanging of
+metal on metal comes from the north and west.  The whirring sounds of spells
+come from the south and east.  
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10061
+D1
+~
+~
+0 0 10073
+D2
+~
+~
+0 0 10069
+D3
+~
+~
+0 0 10064
+D5
+~
+~
+0 0 10059
+S
+#10061
+In the Masters' Hallway~
+The walls are covered with several different types of battle armor.  Leather
+armor, gauntlets, and other various pieces of armor are hanging neatly.  All of
+the armor is cleaned as well as can be, but some blood stains still remain on
+most of the equipment.  
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10062
+D2
+~
+~
+0 0 10060
+S
+#10062
+In the Masters' Hallway~
+The walls are covered with several different large daggers.  All of the daggers
+are shined up as well as can be, but most of the blood stains still remain on
+the weapons.  
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10063
+D2
+~
+~
+0 0 10061
+S
+#10063
+In the Masters' Hallway~
+The walls are covered with several different throwing daggers and stars.  All of
+these throwing weapons are heavily used and heavily stained with the blood of
+fallen victims.  Most of the items are quite rusty and old.  
+~
+100 65536 0 0 0 0
+D0
+~
+door~
+2 10003 10065
+D2
+~
+~
+0 0 10062
+S
+#10064
+In the Masters' Hallway~
+The walls are covered with several different types of battle armor.  Chest
+plates, gauntlets, and other various pieces of armor are hanging neatly.  All of
+the armor is shined as well as can be, but some blood stains still remain on
+several pieces of armor.  
+~
+100 65536 0 0 0 0
+D1
+~
+~
+0 0 10060
+D3
+~
+~
+0 0 10066
+S
+#10065
+The Master Thief's Chamber~
+The walls are covered in several different types of weapons used by only the
+greatest thieves in the land.  Throwing stars, knives and darts cover the south
+wall.  The east and west walls are covered in a variety of daggers and short
+swords.  
+~
+100 65536 0 0 0 0
+D2
+~
+door~
+2 10003 10063
+S
+#10066
+In the Masters' Hallway~
+The walls are covered with several different battle axes.  All of the axes are
+polished as well as can be, but most of the blood stains still remain on the
+weapons.  
+~
+100 65536 0 0 0 0
+D1
+~
+~
+0 0 10064
+D3
+~
+~
+0 0 10067
+S
+#10067
+In the Masters' Hallway~
+The walls are covered with several different large swords.  All of the axes are
+polished as well as can be, but most of the blood stains still remain on the
+weapons.  
+~
+100 65536 0 0 0 0
+D1
+~
+~
+0 0 10066
+D3
+~
+door~
+2 10003 10068
+S
+#10068
+The Master Warrior's Chambers~
+This room wreaks of old blood and guts.  In the corner is some freshly bloodied
+armor and weapons.  Several large, intimidating weapons line the walls,
+including axes, swords, and pikes.  
+~
+100 65536 0 0 0 0
+D1
+~
+door~
+2 10003 10067
+S
+#10069
+In the Masters' Hallway~
+The walls are lined with several dark colored robes.  Some of these robes have
+small holes in them while others are stained with blood.  One empty hook remains
+on the wall.  
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10060
+D2
+~
+~
+0 0 10070
+S
+#10070
+In the Masters' Hallway~
+This wall is covered in different staves, short swords and jewel encrusted
+daggers.  Most of the weapons look used, although there are a staves that look
+still untouched, hanging on the wall, waiting to be put to use.  
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10069
+D2
+~
+~
+0 0 10071
+S
+#10071
+In the Masters' Hallway~
+Several large ankhs line the walls here.  Along with these ankhs are several
+different books.  The books are in pristine condition, bound in what appears to
+be some kind of skin.  
+~
+100 65536 0 0 0 0
+D0
+~
+~
+0 0 10070
+D2
+~
+door~
+2 10003 10072
+S
+#10072
+The Master Mage's Chamber~
+This chamber is very somber and a bit frightening.  A large podium sits in the
+center of the room with an opened book resting on it.  The walls are filled with
+shelves, containing scrolls and potions of all sorts.  
+~
+100 65536 0 0 0 0
+D0
+~
+door~
+2 10003 10071
+S
+#10073
+In the Masters' Hallway~
+This wall is covered in different kinds of maces and other blunt weapons.  Most
+of the weapons look unused, although there are a few blood-stained maces on the
+wall.  
+~
+100 65536 0 0 0 0
+D1
+~
+~
+0 0 10074
+D3
+~
+~
+0 0 10060
+S
+#10074
+In the Masters' Hallway~
+The walls are lined with several light colored robes.  Some of these robes have
+large holes in them while others are stained with blood.  One empty hook remains
+on the wall.  
+~
+100 65536 0 0 0 0
+D1
+~
+~
+0 0 10075
+D3
+~
+~
+0 0 10073
+S
+#10075
+In the Masters' Hallway~
+Several large crosses line the walls here.  Along with the crosses are several
+different bibles.  The books are in pristine condition, as well as all the
+crosses.  
+~
+100 65536 0 0 0 0
+D1
+~
+door~
+2 10003 10076
+D3
+~
+~
+0 0 10074
+S
+#10076
+The Master Cleric's Chamber~
+This chamber is very uplifting and tranquil.  A large podium sits in the center
+of the room with an opened book resting on it.  The walls are filled with
+shelves, containing scrolls and potions of healing and protection.  
+~
+100 65536 0 0 0 0
+D3
+~
+door~
+2 10003 10075
+S
+$~

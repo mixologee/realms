@@ -1,0 +1,1524 @@
+#1000
+The Path to D'Arythnia~
+Cobbled walls shoot up out of the ground here, their surface marred by a surplus
+of vines growing up and over the edge.  Along the top of the wall brilliant
+orange and red roses adorn the vines, hanging precariously close to the edge, as
+if about to jump.  A heavy wooden door has been bolted closed against intruders,
+and you suddenly get the feeling that perhaps you shouldn't go in without
+permission.  
+~
+10 16 0 0 0 2
+D0
+~
+~
+0 0 1001
+D2
+~
+~
+0 0 1135
+S
+#1001
+The Archway to D'Arythnia~
+The ancient wooden door creaks as it sits open on its hinges, obviously it is
+not very often used.  Inside the gardens a pathway winds off into the distance,
+overgrown by weeds and flowers.  Insects and birds can be heard calling and
+buzzing in the gardens, a serene and inviting sound.  
+~
+10 4 0 0 0 0
+D0
+~
+~
+0 0 1002
+D2
+~
+~
+0 0 1000
+S
+#1002
+A Winding Garden Path~
+The cobblestone walkway is very difficult to make out here.  Soft music dances
+on the air, seeming to bounce off the walls and rebound back again.  The sound
+of fluttering wings can be heard, as if they were only a heartbeat away.  
+Exotic flowers of the brightest hues seem to grow haphazardly with little
+thought of a pattern.  A large tower can be seen in the center of the gardens,
+its walls crumbling.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1020
+D1
+~
+~
+0 0 1019
+D2
+~
+~
+0 0 1001
+D3
+~
+~
+0 0 1003
+S
+#1003
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1004
+D1
+~
+~
+0 0 1002
+S
+#1004
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D2
+~
+~
+0 0 1003
+D3
+~
+~
+0 0 1005
+S
+#1005
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1006
+D1
+~
+~
+0 0 1004
+S
+#1006
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  '
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1007
+D2
+~
+~
+0 0 1005
+S
+#1007
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1008
+D1
+~
+~
+0 0 1024
+D2
+~
+~
+0 0 1006
+S
+#1008
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1009
+D2
+~
+~
+0 0 1007
+S
+#1009
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1010
+D3
+~
+~
+0 0 1008
+S
+#1010
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1011
+D2
+~
+~
+0 0 1009
+S
+#1011
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1012
+D2
+~
+~
+0 0 1023
+D3
+~
+~
+0 0 1010
+S
+#1012
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1071
+D2
+~
+~
+0 0 1013
+D3
+~
+~
+0 0 1011
+S
+#1013
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1012
+D1
+~
+~
+0 0 1014
+S
+#1014
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D2
+~
+~
+0 0 1015
+D3
+~
+~
+0 0 1013
+S
+#1015
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1014
+D2
+~
+~
+0 0 1016
+S
+#1016
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1015
+D2
+~
+~
+0 0 1017
+D3
+~
+~
+0 0 1025
+S
+#1017
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1016
+D3
+~
+~
+0 0 1018
+S
+#1018
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1017
+D2
+~
+~
+0 0 1019
+S
+#1019
+A Winding Garden Path~
+A cobblestone path meanders lazily around the garden blazing a path for any who
+dare to brave the wildlife.  Wild flowers have cut a swath through the gardens
+overpowering the exotic flowers that once resided here.  In some places it looks
+as if someone has tried to take care of the garden as beds of flowers look
+organized and tended.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1018
+D3
+~
+~
+0 0 1002
+S
+#1020
+A Dainty Patch of Roses~
+In stark contrast to a large portion of the gardens this area is very well
+tended.  Roses of every variety grow here in straight lines that have been
+corded to intricate iron rods that hold them in place.  The heavy scent of the
+flowers hangs in the air.  Cobblestones compose the path that is twice as wide
+here and opens into a small courtyard surrounding a tall tower.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1021
+D2
+~
+~
+0 0 1002
+S
+#1021
+Before the Tower~
+The stone courtyard has been cleaned so well it seems that it should sparkle.  
+The weeds have been pulled from the cobblestones that dot the ground in a
+patchwork quilt that creates a faint pattern of flowers.  The gardens
+immediately surrounding the tower have been cleaned up and organized.  Standing
+here in the center of the gardens the overpowering scent of a dozen different
+flowers fills the air.  Softly buzzing insects can be heard floating on the air
+as they pollinate the exotic and wild flowers that have grown in the gardens.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1022
+D1
+~
+~
+0 0 1025
+D2
+~
+~
+0 0 1020
+D4
+~
+~
+0 0 1026
+S
+#1022
+Before the Tower~
+The stone courtyard has been cleaned so well it seems that it should sparkle.  
+The weeds have been pulled from the cobblestones that dot the ground in a
+patchwork quilt that creates a faint pattern of flowers.  The gardens
+immediately surrounding the tower have been cleaned up and organized.  Standing
+here in the center of the gardens the overpowering scent of a dozen different
+flowers fills the air.  Softly buzzing insects can be heard floating on the air
+as they pollinate the exotic and wild flowers that have grown in the gardens.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1023
+D2
+~
+~
+0 0 1021
+D3
+~
+~
+0 0 1024
+D4
+~
+~
+0 0 1027
+S
+#1023
+A Terrace of Tigerlillies~
+Bright orange flowers have grown closely together in this small garden, their
+black stripes creating the illusion of a tiger pattern.  The cobblestone path
+pools here leaving the perfect view-point for these exotic flowers.  To the
+south a large tower can be seen standing watch over all of the gardens.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1011
+D2
+~
+~
+0 0 1022
+S
+#1024
+A Tidy Orchid Garden~
+Exotic orchids have been clustered here in small circle beds.  Their heady scent
+wafts heavily on the air an intoxicating air coupled with the colors and sights
+of this well-tended garden.  The cobblestone path has been swept clean and the
+weeds removed painstakingly.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1022
+D3
+~
+~
+0 0 1007
+S
+#1025
+A Bed of Daisies~
+This pristinely kept flowerbed contains daisies of all colors.  It has been
+organized in such a way that the flowers create a picture of a coat of arms so
+ancient the meaning has all but been lost in time.  The deep black earth used to
+maintain the flowers lets off a very musky scent that clashes with the soft
+scent of the daisies.  Small rocks have been used to keep the garden seperated
+from the path here.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1016
+D3
+~
+~
+0 0 1021
+S
+#1026
+Within the Tower~
+The tower that looked rickety on the outside is far from unkept inside.  The
+floors have been scrubbed to a high shine and everything in sight has been
+dusted and organized.  Muted marble flooring leads toward an elegant staircase
+that winds up through the tower.  Along the walls a coat of arms has been hung
+at regular intervals.  Small candlesticks and scones have been lit so the flames
+lend a cheerful air to the room.  
+~
+10 4 0 0 0 0
+D0
+~
+~
+0 0 1027
+D1
+~
+~
+0 0 1072
+D4
+~
+~
+0 0 1028
+D5
+~
+~
+0 0 1021
+S
+#1027
+Within the Tower~
+The tower that looked rickety on the outside is far from unkept inside.  The
+floors have been scrubbed to a high shine and everything in sight has been
+dusted and organized.  Muted marble flooring leads toward an elegant staircase
+that winds up through the tower.  Along the walls a coat of arms has been hung
+at regular intervals.  Small candlesticks and scones have been lit so the flames
+lend a cheerful air to the room.  
+~
+10 4 0 0 0 0
+D2
+~
+~
+0 0 1026
+D5
+~
+~
+0 0 1022
+S
+#1028
+An Elegant Staircase~
+Muted marble with golden veins flows up the side of the tower in a very elegant
+staircase.  Intricate black iron rails have been sunk into the stone and stand
+eternally offering support to any who may venture upward.  Several pictures have
+been hung along the way with some serious looking people within them.  The only
+recurring person is a beautiful young woman with intelligent eyes and a smile
+that almost dares the serious ones to ask her to stop.  
+~
+10 0 0 0 0 0
+D4
+~
+~
+0 0 1029
+D5
+~
+~
+0 0 1026
+S
+#1029
+The First Landing~
+The golden veined marble of the staircase pools here in a small landing, and
+continues up the wall to unknown heights.  An ornate bench clad in rich blue
+velvet has been set here with two matching chairs on either side.  A heavy oak
+table watches over the small sitting area.  A small strip of velvet blue rug
+muffles footsteps as the marble floors lead to a hallway within the tower.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1030
+D4
+~
+~
+0 0 1047
+D5
+~
+~
+0 0 1028
+S
+#1030
+Before an Elegant Staircase~
+Cool golden marble leads to a landing in the staircase.  Soft blue velvet carpet
+muffles any footsteps that fall in this hallway.  Elegant pictures have been
+hung here in tribute to a family that no longer resides here in the flesh.  The
+muted light of candles dances and sways in the hallway casting shadows
+throughout.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1031
+D2
+~
+~
+0 0 1029
+S
+#1031
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1032
+D2
+~
+~
+0 0 1030
+D3
+~
+~
+0 0 1046
+S
+#1032
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1033
+D3
+~
+~
+0 0 1031
+S
+#1033
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D2
+~
+~
+0 0 1034
+D3
+~
+~
+0 0 1032
+S
+#1034
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1033
+D2
+~
+~
+0 0 1035
+S
+#1035
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1034
+D2
+~
+~
+0 0 1036
+S
+#1036
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1035
+D2
+~
+~
+0 0 1037
+S
+#1037
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1036
+D3
+~
+~
+0 0 1038
+S
+#1038
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1037
+D3
+~
+~
+0 0 1039
+S
+#1039
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1038
+D3
+~
+~
+0 0 1040
+S
+#1040
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1039
+D3
+~
+~
+0 0 1041
+S
+#1041
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1042
+D1
+~
+~
+0 0 1040
+S
+#1042
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1043
+D2
+~
+~
+0 0 1041
+S
+#1043
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1044
+D2
+~
+~
+0 0 1042
+S
+#1044
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1045
+D2
+~
+~
+0 0 1043
+S
+#1045
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1046
+D2
+~
+~
+0 0 1044
+S
+#1046
+A Hallway in the D'Arythnia Tower~
+Scones have been hung periodically through the hallway containing candles that
+light the hallway.  Drafts of air make the flames dance and cast shadows through
+the hall that seem to dance and shift in an eerie manner.  A rich velvet carpet
+of an inky blue color has been chosen to keep the hallway as quiet as possible.
+The few doorways that stand guard over the hallway have been engraved with the
+family coat of arms.  There seems to be a draft coming from the north.  
+~
+10 0 0 0 0 0
+D0
+An ornate wooden door stands here, with an intricate carving upon the surface.
+Among the twisting vines the coat of arms for the D'Arythnia family is present.
+
+~
+door~
+2 1015 1078
+D1
+~
+~
+0 0 1031
+D3
+~
+~
+0 0 1045
+S
+#1047
+An Elegant Staircase~
+Muted marble with golden veins flows up the side of the tower in a very elegant
+staircase.  Intricate black iron rails have been sunk into the stone and stand
+eternally offering support to any who may venture upward.  Several pictures have
+been hung along the way with some serious looking people within them.  The only
+recurring person is a beautiful young woman with intelligent eyes and a smile
+that almost dares the serious ones to ask her to stop.  
+~
+10 0 0 0 0 0
+D4
+~
+~
+0 0 1049
+D5
+~
+~
+0 0 1029
+S
+#1048
+Sara's Enchanting Alcove~
+This spacious room has been decorated with elegant ottomans, plush rugs, and
+velvety curtains.  Whisps of gossamer material hang from the ceiling offering
+small sanctuaries of silence within the room.  Along the north side of the room
+a very large stained glass window depicting a very romantic love scene beneath
+the stars.  Below it on a very large purple rug is a dark hardwood desk, very
+organized and tidy in appearance.  A large leather bound chair stands behind it
+omniously.  A single black rose hovers within a vase, a sign of eternal love.  
+Golden fairy dust floats in the air, shimmering with magic.  
+~
+10 8192 0 0 0 0
+D0
+~
+~
+0 0 1077
+S
+#1049
+The Second Landing~
+Muted marble with golden veins flows up the side of the tower in a very elegant
+staircase.  Intricate black iron rails have been sunk into the stone and stand
+eternally offering support to any who may venture upward.  Several pictures have
+been hung along the way with some serious looking people within them.  The only
+recurring person is a beautiful young woman with intelligent eyes and a smile
+that almost dares the serious ones to ask her to stop.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1050
+D4
+~
+~
+0 0 1067
+D5
+~
+~
+0 0 1047
+S
+#1050
+Before an Elegant Staircase~
+Cool golden marble leads to a landing in the staircase.  Soft blue velvet carpet
+muffles any footsteps that fall in this hallway.  Elegant pictures have been
+hung here in tribute to a family that no longer resides here in the flesh.  The
+muted light of candles dances and sways in the hallway casting shadows
+throughout.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1051
+D2
+~
+~
+0 0 1049
+S
+#1051
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1052
+D2
+~
+~
+0 0 1050
+D3
+~
+~
+0 0 1066
+S
+#1052
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1053
+D3
+~
+~
+0 0 1051
+S
+#1053
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D2
+~
+~
+0 0 1054
+D3
+~
+~
+0 0 1052
+S
+#1054
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1053
+D2
+~
+~
+0 0 1055
+S
+#1055
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1054
+D2
+~
+~
+0 0 1056
+S
+#1056
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1055
+D2
+~
+~
+0 0 1057
+S
+#1057
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1056
+D3
+~
+~
+0 0 1058
+S
+#1058
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1057
+D3
+~
+~
+0 0 1059
+S
+#1059
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1058
+D3
+~
+~
+0 0 1060
+S
+#1060
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1059
+D3
+~
+~
+0 0 1061
+S
+#1061
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1062
+D1
+~
+~
+0 0 1060
+S
+#1062
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1063
+D2
+~
+~
+0 0 1061
+S
+#1063
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1064
+D2
+~
+~
+0 0 1062
+S
+#1064
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D0
+~
+~
+0 0 1065
+D2
+~
+~
+0 0 1063
+S
+#1065
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1066
+D2
+~
+~
+0 0 1064
+S
+#1066
+The Second Story Hallway of D'Arythnia Tower~
+Soft velvet carpet of the deepest blue muffles footsteps in the hallway here as
+it stretches in both directions uninterrupted.  The golden veined marble of the
+floor yawns up to make the walls and ceiling.  Pictures of a smiling woman
+dominate the decorative portion of this floor, interchanging with the D'Arythnia
+family coat of arms.  Cheerful candles light the hallway with their glow and a
+wealth of dancing shadows.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1051
+D3
+~
+~
+0 0 1065
+S
+#1067
+A Rickety Iron Ladder~
+Stretching out of the golden veined tile of the floor is a rickety looking iron
+ladder.  The surface is rough and flaking in places as it reaches up into
+darkness.  The D'Arythnia coat of arms hangs on the wall behind the ladder.  
+Somewhere up in the darkness a candle has been burning so long that the flame
+seems to be impossibly small.  A cool draft wafts down from the heights above.
+~
+10 0 0 0 0 0
+D4
+~
+~
+0 0 1068
+D5
+~
+~
+0 0 1049
+S
+#1068
+Climbing an Iron Ladder~
+Clinging to the iron ladder feels far more secure than it would've felt just
+looking at the thing.  The surface is marred by years of constant use which has
+made it begin to flake the protective coating.  The ladder is very sturdy and
+leads up into the unknown.  The only light comes from a candle that clings
+desperately to the wall and flickers with a very small flame.  
+~
+10 0 0 0 0 0
+D4
+~
+~
+0 0 1069
+D5
+~
+~
+0 0 1067
+S
+#1069
+A Tiny Observatory~
+A large glass bubble encases this tiny observatory.  Charts and maps lay in
+chaotic organization across the desk.  Metal gadgets and guages hang from the
+walls, measuring whatever they were created to measure.  In the center of the
+room a small inlaid pit has been dug into the ground.  Within the pit a chair
+has been mounted on a stand that forces the person sitting in it to look
+straight up.  In the pit several tables offer up charts and maps which look half
+finished.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1070
+D5
+~
+~
+0 0 1068
+S
+#1070
+An Observatory Bedroom~
+Off to one corner in the observatory a bedroom has been partitioned off for
+nights when hard work made climbing the ladder back down far too dangerous.  A
+small bed stands against the glass bubble wall of the observatory, overlooking a
+drop that makes the stomach of most sane people turn over.  There is also a tiny
+dressing table with a bowl and pitcher for minor self cleaning and a small chest
+for clothing.  
+~
+10 0 0 0 0 0
+D3
+~
+~
+0 0 1069
+S
+#1071
+A Small Fountain Beside the Path~
+The garden looks better tended here than in other areas.  Tamed azaleas have
+been lined up amid small brightly orange grasses and wildflowers.  In the center
+of a small cobbled path is an ornate statue of a sad woman standing in the
+middle of a fountain.  The basin is filled with a small amount of clear water,
+and trace amounts trickle down the statue to replenish what is leaking out and
+into the garden.  
+~
+10 0 0 0 0 0
+D2
+~
+~
+0 0 1012
+S
+#1072
+A Small Alcove~
+Golden veined marble pools here in a small alcove with a formal setting area.  
+Ornate tables stand guard over the velvet upholstered furniature.  The
+D'Arythnia coat of arms has been hung here, a large and imposing reminder of the
+family's honor.  A draft seems to come out of the wall, stirring the coat of
+arms anxiously.  
+~
+10 0 0 0 0 0
+D1
+~
+wall~
+2 1012 1073
+D3
+~
+~
+0 0 1026
+S
+#1073
+Behind the Wall~
+Darkness fills this hallway.  Dripping water can be heard from far off in the
+distance.  The tunnel is very boring and roughly hewed.  Cool air seems to dance
+around the tunnel haphazardly, causing momentary comfort and momentary chills.
+Silver blue light radiates from a source unseen down the dark hallway.  
+~
+10 0 0 0 0 0
+D3
+~
+wall~
+2 1012 1072
+D5
+~
+~
+0 0 1074
+S
+#1074
+A Haphazard Hallway~
+The tunnel is cold and uncomfortable.  Echoing footsteps seem to come from all
+directions, the only thing left to focus on is the eerie light coming from the
+far end of the hallway.  A sharp turn in the tunnel leads back east and into the
+bright light.  
+~
+10 0 0 0 0 0
+D1
+~
+~
+0 0 1075
+D4
+~
+~
+0 0 1073
+S
+#1075
+A Brightly Lit Chamber~
+Silvery blue light infuses the room, seeming to come from everywhere at once.  
+A table sits in the center of the room with a very bright orb floating several
+feet above it.  Charts and maps of constellations hang from every available
+surface.  A circle has been worn into the carpet that was installed here,
+obviously from years of heavy use.  The eastern wall has been blown to bits, and
+rubble left everywhere.  
+~
+10 20 0 0 0 0
+D1
+~
+~
+0 0 1076
+D3
+~
+~
+0 0 1074
+S
+#1076
+A Destroyed Workroom~
+The floors and walls here have been highly polished and look well tended, except
+for the gaping hole in the western wall.  What was once the door lays in several
+pieces on the floor.  In the corner a large desk stands with its drawers pulled
+out and removed.  An ornate chair has been overturned behind the desk, as if
+left there thoughtlessly.  Behind the desk a picture of a very happy family
+stands, the D'Arythnia coat of arms embroidered into the top left corner.  
+~
+10 0 0 0 0 0
+D3
+~
+~
+0 0 1075
+S
+#1077
+An Enchanting View~
+            *      .         .                   .
+    .                                      *         .         *
+                      *            *           .-.
+        *        *         .                  ( (       * 
+                    .                   *      '-'
+  ,\//,.\//\/.         ,\/,   ,\/.//,                       .
+  //o\\/o//o\\ ,.,.,   //o\   /o\\o\\         *     .      
+    |   |  |  /###/#\    |     |  |      .                 *
+    |   |  |  |' '|:|    |`=.='|  |                      
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^""""""""""()()))((()()()()()((())()(/d10
+~
+10 0 0 0 0 0
+D2
+~
+~
+0 0 1048
+S
+#1078
+An Elegant Bedroom~
+Rich velvet carpet has been laid on the marble floors here to muffle sound
+within the room.  A very large and ornate canopy bed dominates the floors, the
+rich blues of the D'Arythnia coat of arms adorn the bedding.  Gold trim has been
+embroidered into the
+~
+10 0 0 0 0 0
+D2
+An ornate wooden door stands here, with an intricate carving upon the surface.
+Among the twisting vines the coat of arms for the D'Arythnia family is present.
+
+~
+door~
+2 1015 1046
+S
+$~

@@ -1,0 +1,653 @@
+#16000
+On a Frozen Lake~
+You are in an unfinished room.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16004
+D1
+~
+~
+0 0 16003
+D3
+~
+~
+0 0 16002
+S
+#16001
+Falling Away from the Light~
+You are in an unfinished room.
+~
+160 136 0 0 0 0
+S
+#16002
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16005
+D1
+~
+~
+0 0 16000
+S
+#16003
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16006
+D3
+~
+~
+0 0 16000
+S
+#16004
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16007
+D1
+~
+~
+0 0 16006
+D2
+~
+~
+0 0 16000
+D3
+~
+~
+0 0 16005
+S
+#16005
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16012
+D1
+~
+~
+0 0 16004
+D2
+~
+~
+0 0 16002
+D3
+~
+~
+0 0 16008
+S
+#16006
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16013
+D1
+~
+~
+0 0 16009
+D2
+~
+~
+0 0 16003
+D3
+~
+~
+0 0 16004
+S
+#16007
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16015
+D1
+~
+~
+0 0 16013
+D2
+~
+~
+0 0 16004
+D3
+~
+~
+0 0 16012
+S
+#16008
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16010
+D1
+~
+~
+0 0 16005
+S
+#16009
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D3
+~
+~
+0 0 16006
+S
+#16010
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16020
+D1
+~
+~
+0 0 16012
+D2
+~
+~
+0 0 16008
+D3
+~
+~
+0 0 16011
+S
+#16011
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D1
+~
+~
+0 0 16010
+S
+#16012
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16016
+D1
+~
+~
+0 0 16007
+D2
+~
+~
+0 0 16005
+D3
+~
+~
+0 0 16010
+S
+#16013
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16014
+D2
+~
+~
+0 0 16006
+D3
+~
+~
+0 0 16007
+S
+#16014
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16019
+D1
+~
+~
+0 0 16025
+D2
+~
+~
+0 0 16013
+D3
+~
+~
+0 0 16015
+S
+#16015
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16018
+D1
+~
+~
+0 0 16014
+D2
+~
+~
+0 0 16007
+D3
+~
+~
+0 0 16016
+S
+#16016
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16017
+D1
+~
+~
+0 0 16015
+D2
+~
+~
+0 0 16012
+D3
+~
+~
+0 0 16020
+S
+#16017
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16021
+D1
+~
+~
+0 0 16018
+D2
+~
+~
+0 0 16016
+S
+#16018
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16022
+D1
+~
+~
+0 0 16019
+D2
+~
+~
+0 0 16015
+D3
+~
+~
+0 0 16017
+S
+#16019
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16023
+D1
+~
+~
+0 0 16024
+D2
+~
+~
+0 0 16014
+D3
+~
+~
+0 0 16018
+S
+#16020
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D1
+~
+~
+0 0 16016
+D2
+~
+~
+0 0 16010
+S
+#16021
+On a Frozen Lake, Before the Fortress~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D1
+~
+~
+0 0 16022
+D2
+~
+~
+0 0 16017
+S
+#16022
+On a Frozen Lake, Before a Heavy Pair of Iron Doors~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16026
+D1
+~
+~
+0 0 16023
+D2
+~
+~
+0 0 16018
+D3
+~
+~
+0 0 16021
+S
+#16023
+On a Frozen Lake, Before the Fortress~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D2
+~
+~
+0 0 16019
+D3
+~
+~
+0 0 16022
+S
+#16024
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D2
+~
+~
+0 0 16025
+D3
+~
+~
+0 0 16019
+S
+#16025
+On a Frozen Lake~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16024
+D3
+~
+~
+0 0 16014
+S
+#16026
+Between Two Portcullises~
+This unfinished room was created by Accarid.
+~
+160 65544 0 0 0 0
+D0
+~
+~
+0 0 16027
+D2
+~
+~
+0 0 16022
+S
+#16027
+An Ice Garden~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16030
+D1
+~
+~
+0 0 16029
+D2
+~
+~
+0 0 16026
+D3
+~
+~
+0 0 16028
+S
+#16028
+An Ice Garden~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16032
+D1
+~
+~
+0 0 16027
+S
+#16029
+An Ice Garden~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16031
+D3
+~
+~
+0 0 16027
+S
+#16030
+A Marble Pedestal in the Ice Garden~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16033
+D1
+~
+~
+0 0 16031
+D2
+~
+~
+0 0 16027
+D3
+~
+~
+0 0 16032
+S
+#16031
+An Ice Garden~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16035
+D1
+~
+foliage~
+1 0 16036
+D2
+~
+~
+0 0 16029
+D3
+~
+~
+0 0 16030
+S
+#16032
+An Ice Garden~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16034
+D1
+~
+~
+0 0 16030
+D2
+~
+~
+0 0 16028
+S
+#16033
+An Ice Garden~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D0
+~
+~
+0 0 16037
+D1
+~
+~
+0 0 16035
+D2
+~
+~
+0 0 16030
+D3
+~
+~
+0 0 16034
+S
+#16034
+An Ice Garden~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D1
+~
+~
+0 0 16033
+D2
+~
+~
+0 0 16032
+S
+#16035
+An Ice Garden~
+This unfinished room was created by Accarid.
+~
+160 65536 1 0 0 0
+D2
+~
+~
+0 0 16031
+D3
+~
+~
+0 0 16033
+S
+#16036
+A Hidden Alcove in the Ice Garden~
+This is the room where the crank to open the portcullis is hidden.
+~
+160 65536 1 0 0 0
+D3
+~
+~
+0 0 16031
+S
+#16037
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+160 65544 0 0 0 0
+D2
+~
+~
+0 0 16033
+S
+$~

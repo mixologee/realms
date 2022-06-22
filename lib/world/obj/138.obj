@@ -1,0 +1,51 @@
+#13800
+hole~
+a hole in the tree trunk~
+undefined~
+~
+15 sv 0 0 0 0 0 0 0 0 0 0 0
+1 0 -1 0
+0 0 0 0
+E
+hole~
+Random trinkets and things of no monetary value can be found in the rubble of
+decayed bark. It seems to have been used as one individual's storage space a
+long time ago.
+~
+#13801
+key iron broken black~
+a broken iron key~
+A broken, black iron key rusts on the ground here.~
+~
+31 cdq 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#13803
+tree~
+a dead tree~
+A dead tree, with branches like skeletal fingers, decays here.~
+Nothing.
+~
+0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0
+500 0 0 0
+E
+tree~
+What little bark remains on the tree blows of into ash with the slightest
+breeze. A large hole in trunk has caved in with ages of wear and abuse.
+~
+#13804
+sign~
+a faded sign~
+A sign with faded writing is dangling here.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0
+500 0 0 0
+E
+sign~
+"By o.der .f the king:
+ No .ne may ev.r ente. th.s mo.nta.n trai. ag..n.
+ Vi.lat.rs wi.l be pu.ished by d.ath."
+~
+$~

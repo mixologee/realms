@@ -1,0 +1,121 @@
+#4000
+pandora penguin~
+Pandora the most lovely Faerie~
+Pandora, Starfallens Faerie Love
+~
+A tiny Violet haired faerie with shockingly green eyes is Starfallen's "adopted"
+child. She absolutely adores Star, and refers to her as Akra. She's very
+curious and though she is ancient in years, her race of Faerie ages slowly,
+making her in mind and personality about 4-5 years old. She's protective to a
+fault of Star, and if she feels her Akra is threatened will be quick to cast
+magic on the culprit.
+~
+4372552 128 0 0 562635256 580 0 0 0 E
+50 -180 -20 10d10+10000 8d8+200
+5000000 3000000
+8 8 0
+BareHandAttack: 14
+Att1: 12
+Clss: 20
+E
+#4001
+slavemaster man ghost~
+the Ghost of a Slavemaster~
+A shadowy, malevolent figure looms in the darkness of the ship.
+~
+The Spirit of the Slavemaster
+~
+1048616 0 0 0 16 0 0 0 0 E
+18 -10 -6 3d5+1000 4d6+20
+100 90000
+8 8 1
+BareHandAttack: 6
+Clss: 1
+E
+#4002
+firstmate first mate~
+the ships first mate~
+The first mate surveys the ship as he did in life, his face twisted in agony.
+~
+The ships first mate
+~
+10 0 0 0 16 0 0 0 0 E
+25 -15 -8 5d9+1800 6d8+35
+500 200000
+8 8 1
+Clss: 1
+E
+#4003
+captain pirate man ghost Derrick~
+the ghost of Kazan, the feared Captain~
+The ghost of the captain mouths commands to his shipmates, only to have them lost to the sea.
+~
+The ship captains ghost
+~
+40 0 0 0 532496 0 0 0 200 E
+28 -10 -10 5d7+2000 3d6+40
+3000 300000
+8 8 0
+Clss: 1
+E
+#4004
+pirate shipmate soul ghost~
+the soul of a lowly shipmate~
+A tortured soul of a shipmate glares at you in despair.
+~
+Tattered clothing drapes around this poor soul. Even in life it's clear that he
+was one of the lowliest members of the crew . The light in his eyes seems to
+beg for release.
+~
+1048616 0 0 0 589824 0 0 0 0 E
+18 5 -4 6d6+800 4d5+20
+50 60000
+8 8 0
+BareHandAttack: 9
+Clss: 1
+E
+#4005
+The spirit of a drunk pirate~
+the spirit of a drunk pirate~
+A tormented spirit totters across the deck, writhing and undulating strangely.
+~
+This pirate was a drunk - ritualistically so. He was drunk when the ship sank,
+and so when his tormented soul remained attached to the ship, it maintained the
+same drunken qualities that the pirate had possessed in life.
+~
+40 0 0 0 0 0 0 0 -100 E
+17 10 -4 3d5+700 4d4+23
+50 70000
+8 8 0
+BareHandAttack: 13
+Clss: 1
+E
+#4006
+spectral slave ghost~
+a spectral slave~
+An enslaved specter glides by, dragging its chains along behind it.
+~
+This poor soul was once enslaved upon the ship. It now is doomed to be reside
+here for the rest of eternity.
+~
+2056 0 0 0 0 0 0 0 100 E
+15 8 -5 4d4+700 5d5+19
+0 120000
+8 8 0
+BareHandAttack: 10
+Clss: 1
+E
+#4007
+lookout ghost specter spirit~
+the spirit of Harold the lookout~
+A semitransparent ghost stands partially hidden behind the mast, quivering in his spectral boots.
+~
+It looks unfinished.
+~
+136 0 0 0 0 0 0 0 0 E
+17 15 0 3d3+1800 2d2+2
+170 28900
+8 8 1
+Clss: 1
+E
+$

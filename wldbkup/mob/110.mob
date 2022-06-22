@@ -1,0 +1,104 @@
+#11000
+spider~
+a large hairy spider~
+A large, hairy spider stares coldly at you.
+~
+This large spider has pitch black hairs covering it's body. Its eyes are blood
+red and its gaping maws are drooling all over the ground.
+~
+8296 0 0 0 0 0 0 0 -500 E
+10 -20 5 20d20+500 10d2+5
+0 75000
+8 8 0
+BareHandAttack: 4
+Clss: 1
+E
+#11001
+zombie~
+a half-decayed zombie~
+A zombie is standing here, falling apart.
+~
+This creature is slowly deteriorating in its trakcs. One of his eyes is hanging
+from the socket of his face, the other is half missing. His clothes are tattered
+and ripped.
+~
+8264 0 0 0 524304 0 0 0 -1000 E
+15 -40 5 20d30+1500 3d10+15
+0 125000
+8 8 1
+Clss: 1
+E
+#11002
+mummy~
+a mummy~
+A large humanoid figure, wrapped in old cloth, is mulling about here.
+~
+This creature is wrapped tightly in an old, white cloth. Under the cloth is nothing
+but crusty, decayed bone and flesh.
+~
+8264 0 0 0 8272 0 0 0 -700 E
+15 -40 5 30d5+2000 4d5+20
+0 200000
+8 8 0
+BareHandAttack: 13
+Clss: 1
+E
+#11003
+ghost king bearlifax~
+the ghost of Bearlifax~
+A ghost resembling the first great king Bearlifax is floating about.
+~
+A very regal looking man, with a long white beard. He was the first
+great king of the pirate island.
+~
+194664 0 0 0 8212 0 0 0 -1000 E
+20 -50 2 20d50+2000 3d3+25
+0 300000
+8 8 1
+Clss: 1
+E
+#11004
+ghost king marshall~
+the ghost of Marshall~
+A ghost resembling the second great king Marshall.
+~
+A younger version of king Bearlifax, his son Marshall. He has white hair,
+down to his shoulders. He also adorns a large scar on his left cheek.
+~
+194665 0 0 0 116 0 0 0 -1000 E
+20 -50 2 20d50+2000 3d3+10
+0 300000
+8 8 1
+Clss: 1
+E
+#11005
+ghost king westley~
+the ghost of Westley~
+A ghost resembling the third great king Westley.
+~
+An even younger looking man, a spitting image of his father
+Marshall. He has white hair, down tot he shoulder. on his right
+cheek is a large burn mark.
+~
+194665 0 0 0 80 0 0 0 1000 E
+20 -55 2 20d25+2000 3d3+10
+0 300000
+8 8 1
+Clss: 1
+E
+#11006
+ghost king archuro~
+the ghost of Archuro~
+A ghost resembling the last great king Archuro is floating about.
+~
+This final king looks nothing like the others. He has darker
+skin and blonde hair. He shows no scars or signs of any kind
+of battle experience.
+~
+194665 0 0 0 80 0 0 0 1000 E
+20 -55 2 30d50+2000 3d3+10
+0 325000
+8 8 1
+Clss: 1
+E
+$

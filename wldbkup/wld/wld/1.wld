@@ -1,0 +1,459 @@
+#100
+Entrance to the House of Tolerance~
+   Welcome to the House of Tolerance. A brief training course on the basics
+of mudding and playing "The Game". Lets start ya with something simple,
+type: LOOK SIGN   -or if yer a little less dramatic like myself, type:
+l sign  ...
+~
+1 67108864 0 0 0 0
+D0
+~
+~
+0 0 101
+D2
+~
+~
+0 0 7283
+E
+sign~
+&WWelcome to The Game.  We are here for your enjoyment.  Please feel free to
+immerse yourself into the world we are creating for you.  If you're here for a
+more social visit, feel free to enter the party area, simply by typeing party
+and hit enter.  The party zone is a safe place where you don't have to worry
+about people or mobs killing you.  Head north for a little know how and to check
+out The House of Tolerance.  Thanks for stopping in and enjoy The Game.  &G-
+BluntMaster and Tek (the creators beeeooooootch!!  )&n
+~
+S
+#101
+The Foyer of Tolerance~
+OK, the first order of business is to type HELP.  The help files are all you
+need to get around and function in this world.  The biggest thing is
+communicating with the other players.  There are several different ways to talk
+to people, including: say, shout, and gossip.  Help COMMUNICATION will list all
+the different ways you can interact with everyone.  
+~
+1 8 0 0 0 0
+D0
+~
+~
+0 0 102
+D2
+~
+~
+0 0 100
+S
+#102
+The Greeting Room~
+The foyer opens up into a nice sized room overlooking a large portion of the
+house. On the east wall is a fake fireplace, with a strange painting hung above.
+On the mantle are several small dragon replicas.
+~
+1 8 0 0 0 0
+D0
+~
+~
+0 0 103
+D2
+~
+~
+0 0 101
+S
+#103
+The Game Room~
+We here at The Game want to create a fully immersive, player interaction driven
+world.  Tek and Bluntmaster have spent many years playing many different MUDs,
+and one day said to each other, "Let's make our own world, none of these are
+quite right.  " And so began the undertaking of The Game.  Please enjoy the
+world we are creating for you.  
+~
+1 8 0 0 0 0
+D0
+~
+~
+0 0 115
+D2
+~
+~
+0 0 102
+D4
+~
+~
+0 0 104
+S
+#104
+Top of the Staircase~
+The stair comes to a stop here.  To the north is an empty room.  To the east is
+the lattrine and a narrow hallway continues south.  
+~
+1 8 0 0 0 0
+D0
+~
+~
+0 0 105
+D1
+~
+~
+0 0 106
+D2
+~
+~
+0 0 107
+D5
+~
+~
+0 0 103
+S
+#105
+An Empty Room~
+This room is empty.  The walls are bare.  The floor has nothing but a little
+dust and some remnants of a former tennant.  
+~
+1 8 0 0 0 0
+D2
+~
+~
+0 0 104
+S
+#106
+The Latrine~
+There is a white toilet and a blue bathtub along the north wall of the room.  
+Along the south side is a sink with a mirror shelf on the wall above.  A blue
+window sits halfway open on the east side.  
+~
+1 8 0 0 0 0
+D3
+~
+~
+0 0 104
+S
+#107
+A Narrow Hallway~
+The hallway runs north and south from here. To the east is a small hole of a room.
+~
+1 8 0 0 0 0
+D0
+~
+~
+0 0 104
+D1
+~
+~
+0 0 108
+D2
+~
+~
+0 0 109
+S
+#108
+Kuei's Hole~
+This room belongs to the God of Rude, aka Kuei.  The walls are painted blue with
+white trim.  A bed rests on the west wall and a small closet in the corner of
+the east wall.  
+~
+1 8 0 0 0 0
+D3
+~
+~
+0 0 107
+S
+#109
+A Narrow Hallway~
+A stairway heads up here.  The hallway heads north to the lattrine and south to
+a room.  The walls are empty and the carpet has been trampled over for several
+years now.  
+~
+1 8200 0 0 0 0
+D0
+~
+~
+0 0 107
+D2
+~
+~
+0 0 110
+D4
+~
+~
+0 0 111
+S
+#110
+BluntMaster's Conference Room~
+The room is cluttered with papers, wires, and other various things.  A few
+matresses lay piled on the floor in the corner.  A computer desk sits next to
+the window.  A bookshelf along the north wall is filled with various reads.  
+~
+1 2568 0 0 0 0
+D0
+~
+undefined~
+0 0 109
+S
+#111
+Landing of a Narrow Stairway~
+There is a small window to the north, leading out to a rooftop with a view.
+The hall leads south to a small room, and there is also a doorway to the
+east.
+~
+1 8 0 0 0 0
+D0
+~
+~
+0 0 112
+D1
+~
+~
+0 0 113
+D2
+~
+~
+0 0 114
+D5
+~
+~
+0 0 109
+S
+#112
+On a Small Rooftop~
+This roof offers a wonderous view of the surrounding area. This looks like
+the perfect place to ponder your existence. There are several other rooftops
+next to this one, but the space between is too distant to jump.
+~
+1 131072 0 0 0 0
+D2
+~
+~
+0 0 111
+S
+#113
+Tek's Chamber~
+The room is total chaos. Clothing is strewn about in piles and there are 1/2
+gallon Rosenbergers iced tea jugs laying everywhere. Sitting atop a desk
+is an old monitor, that twitches like a freak, connected to a half-open HP
+box running linux fedora core 1.
+~
+1 8 0 0 0 0
+D3
+~
+~
+0 0 111
+S
+#114
+The Guvner's Mansion~
+This unfinished room was created by BluntMaster.
+~
+1 8 0 0 0 0
+D0
+~
+~
+0 0 111
+S
+#115
+The Meeting Place~
+Whenever the party is bumpin' and the whole crew is around, this is the favorite
+for people to gather round and chat. There is a white refrigerator along the east
+wall, next to a table with some chairs. Along the west wall is a sink, stove, and
+other various things. A door leads to the basement and one to the back yard.
+~
+1 8 0 0 0 0
+D0
+~
+~
+0 0 119
+D2
+~
+~
+0 0 103
+D5
+~
+~
+0 0 116
+S
+#116
+The Basement of Knowledge~
+This unfinished room was created by BluntMaster.
+~
+1 8 0 0 0 0
+D0
+~
+door~
+0 0 117
+D2
+~
+door~
+0 0 118
+D4
+~
+~
+0 0 115
+S
+#117
+The Basement of Knowledge~
+This unfinished room was created by BluntMaster.
+~
+1 8 0 0 0 0
+D2
+~
+~
+0 0 116
+S
+#118
+The Basement of Knowledge~
+This unfinished room was created by BluntMaster.
+~
+1 8 0 0 0 0
+D0
+~
+door~
+0 0 116
+S
+#119
+Backway to the Wild~
+This small room has a small closet on the west wall.  There are two large
+picture windows next to an open door on the south wall.  There is a small white
+desk along the north wall and some scattered clothes and other things lying
+about.  
+~
+1 8 0 0 0 0
+D0
+~
+~
+0 0 120
+D2
+~
+~
+0 0 115
+S
+#120
+Under the Awning~
+This unfinished room was created by BluntMaster.
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 121
+D2
+~
+~
+0 0 119
+D3
+~
+~
+0 0 125
+S
+#121
+A Debris Littered Cement Path~
+This unfinished room was created by BluntMaster.
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 122
+D2
+~
+~
+0 0 120
+D3
+~
+~
+0 0 124
+S
+#122
+A Rickety Chainlink Fence~
+This unfinished room was created by BluntMaster.
+~
+1 0 0 0 0 0
+D0
+~
+gate~
+1 0 126
+D2
+~
+~
+0 0 121
+D3
+~
+~
+0 0 123
+S
+#123
+The Ruins of a Small Concourse~
+This unfinished room was created by BluntMaster.
+~
+1 0 0 0 0 0
+D1
+~
+~
+0 0 122
+D2
+~
+~
+0 0 124
+S
+#124
+The Tree of Tolerance~
+This unfinished room was created by BluntMaster.
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 123
+D1
+~
+~
+0 0 121
+D2
+~
+~
+0 0 125
+S
+#125
+Under the Awning~
+This unfinished room was created by BluntMaster.
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 124
+D1
+~
+~
+0 0 120
+S
+#126
+A Trashy Alley~
+This unfinished room was created by BluntMaster.
+~
+1 0 0 0 0 23
+D1
+~
+~
+0 0 127
+D2
+~
+gate~
+1 0 122
+D5
+~
+~
+0 0 -1
+S
+#127
+A Trashy Alley~
+This unfinished room was created by BluntMaster.
+~
+1 0 0 0 0 23
+D1
+~
+~
+0 0 7200
+D3
+~
+~
+0 0 126
+S
+$~

@@ -1,0 +1,1130 @@
+act.comm.c:    if (ch->master)
+act.comm.c:      k = ch->master;
+act.comm.c:      tch = tch->next;
+act.comm.c:  if (!ch->desc)
+act.comm.c:    if (!(paper = get_obj_in_list_vis(ch, papername, NULL, ch->carrying))) {
+act.comm.c:    if (!(pen = get_obj_in_list_vis(ch, penname, NULL, ch->carrying))) {
+act.comm.c:    if (!(paper = get_obj_in_list_vis(ch, papername, NULL, ch->carrying))) {
+act.comm.c:    send_editor_help(ch->desc);
+act.comm.c:    string_write(ch->desc, &paper->action_description, MAX_NOTE_LENGTH, 0, backstr);
+act.comm.c:  if (!ch->desc)
+act.comm.c:    if (STATE(i) != CON_PLAYING || i == ch->desc || !i->character )
+act.comm.c:      if (STATE(i) == CON_PLAYING && i != ch->desc && PRF_FLAGGED(i->character, PRF_QUEST))
+act.comm.c:  page_string(ch->desc, info, 1);
+act.comm.c.save:    if (ch->master)
+act.comm.c.save:      k = ch->master;
+act.comm.c.save:      tch = tch->next;
+act.comm.c.save:  if (!ch->desc)
+act.comm.c.save:    if (!(paper = get_obj_in_list_vis(ch, papername, NULL, ch->carrying))) {
+act.comm.c.save:    if (!(pen = get_obj_in_list_vis(ch, penname, NULL, ch->carrying))) {
+act.comm.c.save:    if (!(paper = get_obj_in_list_vis(ch, papername, NULL, ch->carrying))) {
+act.comm.c.save:    send_editor_help(ch->desc);
+act.comm.c.save:    string_write(ch->desc, &paper->action_description, MAX_NOTE_LENGTH, 0, backstr);
+act.comm.c.save:  if (!ch->desc)
+act.comm.c.save:    if (STATE(i) != CON_PLAYING || i == ch->desc || !i->character )
+act.comm.c.save:      if (STATE(i) == CON_PLAYING && i != ch->desc && PRF_FLAGGED(i->character, PRF_QUEST))
+act.comm.c.save:  page_string(ch->desc, info, 1);
+act.informative.c:        page_string(ch->desc, notebuf, TRUE);
+act.informative.c:  if (!ch->desc)
+act.informative.c:  if (!ch->desc)
+act.informative.c:     list_building_to_char(world[ch->in_room].buildings, ch);
+act.informative.c:     list_ship_to_char(world[ch->in_room].ships, ch);
+act.informative.c:     list_vehicle_to_char(world[ch->in_room].vehicles, ch);
+act.informative.c:  if ( world[ch->in_room].portal_stone )
+act.informative.c:      ch_printf(ch, "%s\r\n", world[ch->in_room].portal_stone->description);
+act.informative.c:  if (world[ch->in_room].ferryboat)
+act.informative.c:  list_building_to_char(world[ch->in_room].buildings, ch);
+act.informative.c:  list_ship_to_char(world[ch->in_room].ships, ch);
+act.informative.c:  list_vehicle_to_char(world[ch->in_room].vehicles, ch);
+act.informative.c:  if (!ch->desc)
+act.informative.c:  list_building_to_char(world[ch->in_room].buildings, ch);
+act.informative.c:  list_ship_to_char(world[ch->in_room].ships, ch);
+act.informative.c:  list_vehicle_to_char(world[ch->in_room].vehicles, ch);
+act.informative.c:	REMOVE_FROM_LIST(ch, world[ch->in_room].people, next_in_room);
+act.informative.c:	ch->next_in_room = NULL;
+act.informative.c:	   was_in = ch->in_room;
+act.informative.c:  if (!ch->desc)
+act.informative.c:                BUILDING_DATA *bld = find_building_in_room_by_name(&world[ch->in_room], str_dup(arg));
+act.informative.c:                SHIP_DATA *ship = find_ship_in_room_by_name(&world[ch->in_room], str_dup(arg));
+act.informative.c:                if (world[ch->in_room].ferryboat && isname(arg, "ferryboats"))
+act.informative.c:                                world[ch->in_room].ferryboat->timer,
+act.informative.c:                                (world[ch->in_room].ferryboat->timer > 1 ? "s" : ""));
+act.informative.c:    page_string(ch->desc, desc, FALSE);
+act.informative.c:  for (obj = ch->carrying; obj && !found; obj = obj->next_content) {
+act.informative.c:  if (!ch->desc)
+act.informative.c:  playing_time = *real_time_passed((time(0) - ch->player.time.logon) +
+act.informative.c:				  ch->player.time.played, 0);
+act.informative.c:  if (ch->affected) {
+act.informative.c:    for (aff = ch->affected; aff; aff = aff->next) 
+act.informative.c:  list_obj_to_char(ch->carrying, ch, SHOW_OBJ_SHORT, TRUE);
+act.informative.c:  if (!ch->desc)
+act.informative.c:    page_string(ch->desc, help, 0);
+act.informative.c:  page_string(ch->desc, entry, 0);
+act.informative.c:              (tch->player.sex == SEX_MALE ? "M" : "F"),
+act.informative.c:              (tch->player.sex == SEX_MALE ? "M" : "F"),
+act.informative.c:              (tch->player.sex == SEX_MALE ? "M" : "F"),
+act.informative.c:              (tch->player.sex == SEX_MALE ? "M" : "F"),
+act.informative.c:              (tch->player.sex == SEX_MALE ? "M" : "F"),
+act.informative.c:              (tch->player.sex == SEX_MALE ? "M" : "F"),
+act.informative.c:    page_string(ch->desc, credits, 0);
+act.informative.c:    page_string(ch->desc, news, 0);
+act.informative.c:    page_string(ch->desc, info, 0);
+act.informative.c://    page_string(ch->desc, wizlist, 0);
+act.informative.c:    page_string(ch->desc, immlist, 0);
+act.informative.c:    page_string(ch->desc, handbook, 0);
+act.informative.c:    page_string(ch->desc, policies, 0);
+act.informative.c:    page_string(ch->desc, motd, 0);
+act.informative.c:    page_string(ch->desc, imotd, 0);
+act.informative.c:  page_string(ch->desc, buf, TRUE);
+act.informative.c:  is_in = ch->in_room;
+act.informative.c:    ch->in_room = is_in;
+act.informative.c:        for (i = world[ch->in_room].people; i; i = i->next_in_room) {
+act.informative.c:      if (!CAN_GO(ch, dir) || EXIT_FLAGGED(EXIT(ch, dir), EX_HIDDEN) || (world[ch->in_room].dir_option[dir]->to_room
+act.informative.c:        ch->in_room = world[ch->in_room].dir_option[dir]->to_room;
+act.informative.c:  ch->in_room = is_in;
+act.informative.c:                    (ch->player.sex == SEX_MALE ? "M" : "F"), GET_LEVEL(ch), pc_class_types[(int)GET_CLASS(ch)], 
+act.informative.c:                    (ch->player.sex == SEX_MALE ? "M" : "F"), GET_LEVEL(ch), pc_class_types[(int)GET_CLASS(ch)], 
+act.informative.c:                    (ch->player.sex == SEX_MALE ? "M" : "F"), GET_LEVEL(ch), pc_class_types[(int)GET_CLASS(ch)], 
+act.informative.c:  page_string(ch->desc, news, TRUE);
+act.informative.c:  page_string(ch->desc, gnews, 1);
+act.item.c:	if (!(obj = get_obj_in_list_vis(ch, theobj, NULL, ch->carrying)))
+act.item.c:	for (obj = ch->carrying; obj; obj = next_obj) {
+act.item.c:      for (cont = ch->carrying; cont; cont = cont->next_content)
+act.item.c:    else if (!(obj = get_obj_in_list_vis(ch, arg, NULL, ch->carrying)))
+act.item.c:      if (!ch->carrying)
+act.item.c:	for (obj = ch->carrying; obj; obj = next_obj) {
+act.item.c:      if (!(obj = get_obj_in_list_vis(ch, arg, NULL, ch->carrying)))
+act.item.c:      if (!(obj = get_obj_in_list_vis(ch, arg, NULL, ch->carrying)))
+act.item.c:    else if (!(obj = get_obj_in_list_vis(ch, arg, NULL, ch->carrying))) 
+act.item.c:      if (!(obj = get_obj_in_list_vis(ch, arg, NULL, ch->carrying)))
+act.item.c:      if (!ch->carrying)
+act.item.c:	for (obj = ch->carrying; obj; obj = next_obj) {
+act.item.c:  if (!(temp = get_obj_in_list_vis(ch, arg, NULL, ch->carrying))) {
+act.item.c:  if (!(food = get_obj_in_list_vis(ch, arg, NULL, ch->carrying))) {
+act.item.c:    if (!(from_obj = get_obj_in_list_vis(ch, arg1, NULL, ch->carrying))) {
+act.item.c:    if (!(to_obj = get_obj_in_list_vis(ch, arg1, NULL, ch->carrying))) {
+act.item.c:    if (!(to_obj = get_obj_in_list_vis(ch, arg2, NULL, ch->carrying))) {
+act.item.c: for (obj = ch->carrying; obj; obj = next_obj) {
+act.item.c:    for (obj = ch->carrying; obj; obj = next_obj) {
+act.item.c:    if (!(obj = get_obj_in_list_vis(ch, arg1, NULL, ch->carrying)))
+act.item.c:    if (!(obj = get_obj_in_list_vis(ch, arg1, NULL, ch->carrying)))
+act.item.c:  else if (!(obj = get_obj_in_list_vis(ch, arg, NULL, ch->carrying)))
+act.item.c:  else if (!(obj = get_obj_in_list_vis(ch, arg, NULL, ch->carrying)))
+act.item.c:    if ((i = get_obj_pos_in_equip_vis(ch, arg, NULL, ch->equipment)) < 0)
+act.item.c:	else if (!(obj = get_obj_in_list_vis(ch, arg, NULL, ch->carrying))) {
+act.item.c:	else if (!(obj = get_obj_in_list_vis(ch, arg1, NULL, ch->carrying))) {
+act.movement.c:  for (obj = ch->carrying; obj; obj = obj->next_content)
+act.movement.c://  for (obj = ch->carrying; obj; obj = obj->next_content)
+act.movement.c://  for (obj = ch->carrying; obj; obj = obj->next_content)
+act.movement.c:   if (riding && RIDING(ch)->in_room == ch->in_room)
+act.movement.c:   else if (ridden_by && RIDDEN_BY(ch)->in_room == ch->in_room)
+act.movement.c:  if (AFF_FLAGGED(ch, AFF_CHARM) && ch->master && IN_ROOM(ch) == IN_ROOM(ch->master)) {
+act.movement.c:       if (need_specials_check && ch->master)
+act.movement.c:   if (ch->dragonflight) {
+act.movement.c:    if (need_specials_check && ch->master)
+act.movement.c:  if ((ROOM_FLAGGED(ch->in_room, ROOM_SALTWATER_FISH) ||
+act.movement.c:       ROOM_FLAGGED(ch->in_room, ROOM_FRESHWATER_FISH)) &&
+act.movement.c:   if (riding && same_room && RIDING(ch)->in_room != ch->in_room) {
+act.movement.c:     char_to_room(RIDING(ch), ch->in_room);
+act.movement.c:   } else if (ridden_by && same_room && RIDDEN_BY(ch)->in_room != ch->in_room) {
+act.movement.c:     char_to_room(RIDDEN_BY(ch), ch->in_room);
+act.movement.c: if (ch->desc != NULL)
+act.movement.c:    if(rand_number(1,100) < (GET_WIS(ch) + GET_DEX(ch)+rand_number(1,64)) && tripper != ch && tripper != ch->master)
+act.movement.c:    if (!ch->followers)
+act.movement.c:    for (k = ch->followers; k; k = next) {
+act.movement.c:  for (o = ch->carrying; o; o = o->next_content)
+act.movement.c:        else if (ROOM_FLAGGED(ch->in_room, ROOM_INDOORS))
+act.movement.c:  else if (ch->in_building != NULL)
+act.movement.c:  if (!(furniture = get_obj_in_list_vis(ch, arg, NULL, world[ch->in_room].contents)))
+act.movement.c:  if (ch->master == leader)
+act.movement.c:  if (AFF_FLAGGED(ch, AFF_CHARM) && (ch->master))
+act.movement.c:    act("But you only feel like following $N!", FALSE, ch, 0, ch->master, TO_CHAR);
+act.movement.c:      if (!ch->master)
+act.movement.c:      if (ch->master)
+act.movement.c:   } else if (SECT(ch->in_room) == SECT_WATER_NOSWIM && !has_boat(ch)) {
+act.movement.c:   } else if (ch->dragonflight) {
+act.movement.c:   switch(ch->in_room)
+act.offensive.c:  } else if (AFF_FLAGGED(ch, AFF_CHARM) && (ch->master == vict))
+act.offensive.c:    if (AFF_FLAGGED(ch, AFF_CHARM) && !IS_NPC(ch->master) && !IS_NPC(vict))
+act.offensive.c://    if (ROOM_FLAGGED(ch->in_room, ROOM_ARENA)){
+act.offensive.c:      for (k = ch->followers; k; k = k->next) {
+act.offensive.c:       (FIGHTING(tmp_ch) != vict); tmp_ch = tmp_ch->next_in_room);
+act.offensive.c:  for (victim = world[ch->in_room].people; victim; victim = next_victim) 
+act.offensive.c:  if(!(obj = get_obj_in_list_vis(ch, arg, NULL, ch->carrying))) {
+act.offensive.c:    obj_to_room(obj, ch->in_room);
+act.other.c:  if (IS_NPC(ch) || !ch->desc)
+act.other.c:    if (ch->desc->snoop_by) {
+act.other.c:      write_to_output(ch->desc->snoop_by, "Your victim is no longer among us.\r\n");
+act.other.c:      ch->desc->snoop_by->snooping = NULL;
+act.other.c:      ch->desc->snoop_by = NULL;
+act.other.c:  if (IS_NPC(ch) || !ch->desc)
+act.other.c:    k = (ch->master ? ch->master : ch);
+act.other.c:  if (ch->master) {
+act.other.c:    for (found = 0, f = ch->followers; f; f = f->next)
+act.other.c:    if (ch->master || !(AFF_FLAGGED(ch, AFF_GROUP))) {
+act.other.c:    for (f = ch->followers; f; f = next_fol) {
+act.other.c:  if (tch->master != ch) {
+act.other.c:    k = (ch->master ? ch->master : ch);
+act.other.c:      if (!(mag_item = get_obj_in_list_vis(ch, arg, NULL, ch->carrying))) {
+act.other.c:   if (ch->master)
+act.other.c:   for (f = ch->followers; f; f = f->next)
+act.other.c:  if (ch->master) {
+act.other.c:    for (found = 0, f = ch->followers; f; f = f->next)
+act.other.c:    if (ch->master || !(AFF_FLAGGED(ch, AFF_GROUP))) {
+act.other.c:    for (f = ch->followers; f; f = next_fol) {
+act.other.c:  if (tch->master != ch) {
+act.other.c:  if (!ROOM_FLAGGED(ch->in_room, ROOM_SALTWATER_FISH) &&  !ROOM_FLAGGED(ch->in_room, ROOM_FRESHWATER_FISH) && !ROOM_FLAGGED(ch->in_room, ROOM_TREASUREWATER_FISH)) {
+act.other.c:  if (ROOM_FLAGGED(ch->in_room, ROOM_SALTWATER_FISH)) {
+act.other.c:  } else if (ROOM_FLAGGED(ch->in_room, ROOM_FRESHWATER_FISH)) {
+act.other.c:  } else if (ROOM_FLAGGED(ch->in_room, ROOM_TREASUREWATER_FISH)) {
+act.other.c:        if (!ch->player_specials->first_known)
+act.other.c:        for ( pKnow = ch->player_specials->first_known; pKnow; pKnow = pKnow->next )
+act.other.c://    k = (ch->master ? ch->master : ch);
+act.other.c:    if (ch->master)
+act.other.c:  if (ch->master)
+act.other.c:     for (f = ch->followers; f; f = f->next)
+act.social.c:      targ = get_obj_in_list_vis(ch, arg, NULL, ch->carrying);
+act.wizard.c:    if ((object = get_obj_in_list_vis(ch, name, &number, ch->carrying)) != NULL)
+act.wizard.c:    else if ((object = get_obj_in_equip_vis(ch, name, &number, ch->equipment)) != NULL)
+act.wizard.c:    if ((object = get_obj_in_equip_vis(ch, name, &number, ch->equipment)) != NULL)
+act.wizard.c:    else if ((object = get_obj_in_list_vis(ch, name, &number, ch->carrying)) != NULL)
+act.wizard.c:    else if ((pBld = find_building_in_room_by_name(&world[ch->in_room], str_dup(name))) != NULL)
+act.wizard.c:  if (!ch || !ch->desc)
+act.wizard.c:  if (ch->desc->snooping &&
+act.wizard.c:     (GET_LEVEL(ch->desc->snooping->character) >= GET_LEVEL(ch))) {
+act.wizard.c:    ch->desc->snooping->snoop_by = NULL;
+act.wizard.c:    ch->desc->snooping = NULL;
+act.wizard.c:  if (ch->desc->snoop_by &&
+act.wizard.c:     (GET_LEVEL(ch) >= GET_LEVEL(ch->desc->snoop_by->character))) {
+act.wizard.c:    ch->desc->snoop_by->snooping = NULL;
+act.wizard.c:    ch->desc->snoop_by = NULL;
+act.wizard.c:  if (!ch->desc->snooping)
+act.wizard.c:    ch->desc->snooping->snoop_by = NULL;
+act.wizard.c:    ch->desc->snooping = NULL;
+act.wizard.c:  if (!ch->desc)
+act.wizard.c:  else if (victim->desc->snooping == ch->desc)
+act.wizard.c:    if (ch->desc->snooping)
+act.wizard.c:      ch->desc->snooping->snoop_by = NULL;
+act.wizard.c:    ch->desc->snooping = victim->desc;
+act.wizard.c:    victim->desc->snoop_by = ch->desc;
+act.wizard.c:  if (ch->desc->original)
+act.wizard.c:    ch->desc->character = victim;
+act.wizard.c:    ch->desc->original = ch;
+act.wizard.c:    victim->desc = ch->desc;
+act.wizard.c:    ch->desc = NULL;
+act.wizard.c:  if (!IS_NPC(ch) && !ch->desc->original) {
+act.wizard.c:  if (ch->desc && ch->desc->original) {
+act.wizard.c:    if (ch->desc->original->desc) {
+act.wizard.c:      ch->desc->original->desc->character = NULL;
+act.wizard.c:      STATE(ch->desc->original->desc) = CON_DISCONNECT;
+act.wizard.c:    ch->desc->character = ch->desc->original;
+act.wizard.c:    ch->desc->original = NULL;
+act.wizard.c:    ch->desc->character->desc = ch->desc;
+act.wizard.c:    ch->desc = NULL;
+act.wizard.c:  for (tch = world[IN_ROOM(ch)].people; tch; tch = tch->next_in_room) {
+act.wizard.c:	&& (d != ch->desc || !(PRF_FLAGGED(d->character, PRF_NOREPEAT)))) {
+act.wizard.c:    page_string(ch->desc, buf, TRUE);
+act.wizard.c:    page_string(ch->desc, buf, TRUE);
+act.wizard.c:    page_string(ch->desc, buf, TRUE);
+act.wizard.c:    page_string(ch->desc, buf, TRUE);
+act.wizard.c:   page_string(ch->desc, buf, TRUE);
+act.wizard.c:   page_string(ch->desc, buf, 1);
+act.wizard.c:  page_string(ch->desc, buf, TRUE);
+act.wizard.c://  page_string(ch->desc, buf, 1);
+act.wizard.c:  page_string(ch->desc, buf, 1);
+act.wizard.c.save:    if ((object = get_obj_in_list_vis(ch, name, &number, ch->carrying)) != NULL)
+act.wizard.c.save:    else if ((object = get_obj_in_equip_vis(ch, name, &number, ch->equipment)) != NULL)
+act.wizard.c.save:    if ((object = get_obj_in_equip_vis(ch, name, &number, ch->equipment)) != NULL)
+act.wizard.c.save:    else if ((object = get_obj_in_list_vis(ch, name, &number, ch->carrying)) != NULL)
+act.wizard.c.save:    else if ((pBld = find_building_in_room_by_name(&world[ch->in_room], str_dup(name))) != NULL)
+act.wizard.c.save:  if (!ch || !ch->desc)
+act.wizard.c.save:  if (ch->desc->snooping &&
+act.wizard.c.save:     (GET_LEVEL(ch->desc->snooping->character) >= GET_LEVEL(ch))) {
+act.wizard.c.save:    ch->desc->snooping->snoop_by = NULL;
+act.wizard.c.save:    ch->desc->snooping = NULL;
+act.wizard.c.save:  if (ch->desc->snoop_by &&
+act.wizard.c.save:     (GET_LEVEL(ch) >= GET_LEVEL(ch->desc->snoop_by->character))) {
+act.wizard.c.save:    ch->desc->snoop_by->snooping = NULL;
+act.wizard.c.save:    ch->desc->snoop_by = NULL;
+act.wizard.c.save:  if (!ch->desc->snooping)
+act.wizard.c.save:    ch->desc->snooping->snoop_by = NULL;
+act.wizard.c.save:    ch->desc->snooping = NULL;
+act.wizard.c.save:  if (!ch->desc)
+act.wizard.c.save:  else if (victim->desc->snooping == ch->desc)
+act.wizard.c.save:    if (ch->desc->snooping)
+act.wizard.c.save:      ch->desc->snooping->snoop_by = NULL;
+act.wizard.c.save:    ch->desc->snooping = victim->desc;
+act.wizard.c.save:    victim->desc->snoop_by = ch->desc;
+act.wizard.c.save:  if (ch->desc->original)
+act.wizard.c.save:    ch->desc->character = victim;
+act.wizard.c.save:    ch->desc->original = ch;
+act.wizard.c.save:    victim->desc = ch->desc;
+act.wizard.c.save:    ch->desc = NULL;
+act.wizard.c.save:  if (!IS_NPC(ch) && !ch->desc->original) {
+act.wizard.c.save:  if (ch->desc && ch->desc->original) {
+act.wizard.c.save:    if (ch->desc->original->desc) {
+act.wizard.c.save:      ch->desc->original->desc->character = NULL;
+act.wizard.c.save:      STATE(ch->desc->original->desc) = CON_DISCONNECT;
+act.wizard.c.save:    ch->desc->character = ch->desc->original;
+act.wizard.c.save:    ch->desc->original = NULL;
+act.wizard.c.save:    ch->desc->character->desc = ch->desc;
+act.wizard.c.save:    ch->desc = NULL;
+act.wizard.c.save:  for (tch = world[IN_ROOM(ch)].people; tch; tch = tch->next_in_room) {
+act.wizard.c.save:	&& (d != ch->desc || !(PRF_FLAGGED(d->character, PRF_NOREPEAT)))) {
+act.wizard.c.save:    page_string(ch->desc, buf, TRUE);
+act.wizard.c.save:    page_string(ch->desc, buf, TRUE);
+act.wizard.c.save:    page_string(ch->desc, buf, TRUE);
+act.wizard.c.save:    page_string(ch->desc, buf, TRUE);
+act.wizard.c.save:   page_string(ch->desc, buf, TRUE);
+act.wizard.c.save:   page_string(ch->desc, buf, 1);
+act.wizard.c.save:  page_string(ch->desc, buf, TRUE);
+act.wizard.c.save://  page_string(ch->desc, buf, 1);
+act.wizard.c.save:  page_string(ch->desc, buf, 1);
+aedit.c:  if (IS_NPC(ch) || !ch->desc || STATE(ch->desc) != CON_PLAYING)
+aedit.c:  d = ch->desc;
+arena.c:      if (ch->affected) 
+arena.c:        while (ch->affected)
+arena.c:          affect_remove(ch, ch->affected);
+arena.c:        if (world[tch->in_room].zone == ARENA_ZONE && 
+arena.c:	    (tch->in_room != NOWHERE) && GET_LEVEL(tch)<LVL_IMMORT) {
+arena.c:  page_string(ch->desc, buf, 1);	
+arena.c:  page_string(ch->desc, buf2, 1);	
+arena.c:  if (ROOM_FLAGGED(ch->in_room, ROOM_ARENA) && 
+arena.c:  while (ch->affected)
+arena.c:    affect_remove(ch, ch->affected);
+boards.c:    for (obj = ch->carrying; obj; obj = obj->next_content)
+boards.c:  if (!ch->desc)
+boards.c:  send_editor_help(ch->desc);
+boards.c:  string_write(ch->desc, &(msg_storage[NEW_MSG_INDEX(board_type).slot_num]),
+boards.c:  if (!ch->desc)
+boards.c:    page_string(ch->desc, buf, TRUE);
+boards.c:  page_string(ch->desc, buffer, TRUE);
+buildings.c:	if (ROOM_FLAGGED(ch->in_room, ROOM_BUILDING_WORKS))
+buildings.c:	ch->in_building	= bld;
+buildings.c:	ch->next_in_building	= bld->people;
+buildings.c:	if (!ch || !ch->in_building)
+buildings.c:	REMOVE_FROM_LIST(ch, ch->in_building->people, next_in_building);
+buildings.c:	ch->in_building			= NULL;
+buildings.c:	ch->next_in_building	= NULL;
+buildings.c:	if (!ch || !ch->in_room ||  world[IN_ROOM(ch)].buildings)
+buildings.c:  page_string(ch->desc, buf, TRUE);
+buildings.c://	if (!terrain_type[SECT(ch->in_room)])
+buildings.c:	switch (SECT(ch->in_room))
+buildings.c:			terrain_type[SECT(ch->in_room)]->name);
+buildings.c:		tch_next = tch->next_in_building;
+buildings.c:		if (tch->in_room == bld->rooms[bld->type->entrance] && pexit &&
+buildings.c:			char_to_room(mob, ch->in_room);
+buildings.c:	if (!(bld = find_building_in_room_by_name(&world[ch->in_room], arg)))
+buildings.c:	if (!(pBld = ch->in_building) && !(pShip = ch->in_ship))
+buildings.c:		page_string(ch->desc, sbuf, 0);
+castle.c:  for (ch = world[IN_ROOM(chAtChar)].people; ch; ch = ch->next_in_room)
+castle.c:    if (IS_NPC(ch) && !strncmp(pszName, ch->player.short_descr, iLen))
+castle.c:  for (ch = world[IN_ROOM(chAtChar)].people; ch; ch = ch->next_in_room)
+castle.c:  for (ch = world[IN_ROOM(chAtChar)].people; ch; ch = ch->next_in_room)
+castle.c:  for (ch = world[IN_ROOM(chAtChar)].people; ch; ch = ch->next_in_room) {
+castle.c:  if (ch->player.short_descr && !strncmp(ch->player.short_descr, "King Welmar", 11))
+castle.c:  if (ch->points.mana < 10)
+castle.c:  ch->points.mana -= 10;
+castle.c:    if (!ch->master)
+cedit.c:  if (IS_NPC(ch) || !ch->desc || STATE(ch->desc) != CON_PLAYING)
+cedit.c:  d = ch->desc;
+clan.c:  page_string(ch->desc, buf, TRUE); 
+clan.c:  page_string(ch->desc, buf, TRUE);
+clan.c:  page_string(ch->desc, buf, 1);
+clan.c:  page_string(ch->desc, buf, 1);
+clanedit.c:  d = ch->desc;
+class.c:  ch->real_abils.str_add = 0;
+class.c:    ch->real_abils.intel = 16;
+class.c:    ch->real_abils.wis = 14;
+class.c:    ch->real_abils.dex = 14;
+class.c:    ch->real_abils.str = 14;
+class.c:    ch->real_abils.con = 14;
+class.c:    ch->real_abils.cha = 16;
+class.c:    ch->real_abils.wis = 16;
+class.c:    ch->real_abils.intel = 14;
+class.c:    ch->real_abils.str = 14;
+class.c:    ch->real_abils.dex = 14;
+class.c:    ch->real_abils.con = 14;
+class.c:    ch->real_abils.cha = 16;
+class.c:    ch->real_abils.dex = 16;
+class.c:    ch->real_abils.str = 14;
+class.c:    ch->real_abils.con = 14;
+class.c:    ch->real_abils.intel = 14;
+class.c:    ch->real_abils.wis = 14;
+class.c:    ch->real_abils.cha = 16;
+class.c:    ch->real_abils.str = 16;
+class.c:    ch->real_abils.dex = 14;
+class.c:    ch->real_abils.con = 14;
+class.c:    ch->real_abils.wis = 14;
+class.c:    ch->real_abils.intel = 14;
+class.c:    ch->real_abils.cha = 16;
+class.c:    if (ch->real_abils.str == 18)
+class.c:      ch->real_abils.str_add = rand_number(0, 100);
+class.c:  ch->aff_abils = ch->real_abils;
+class.c:  ch->player_specials->saved.olc_zone = NOWHERE;
+class.c:  ch->player_specials->saved.olc_zone = NOWHERE;
+class.c:  ch->points.max_hit += MAX(4, add_hp);
+class.c:  ch->points.max_move += MAX(12, add_move);
+class.c:    ch->points.max_mana += add_mana;
+commands.c:  for (aff = ch->affected; aff; aff = aff->next) {
+commands.c://  page_string(ch->desc, file2, 1);            
+comm.c:  if (ch->desc && messg && *messg) {
+comm.c:    left = vwrite_to_output(ch->desc, messg, args);
+crystalgate.c:  for (ch = world[CRYGATE_ROOM_MSGS].people; ch; ch = ch->next_in_room) {
+custprompt.c:              ch->points.hit);
+custprompt.c:              ch->points.mana);
+custprompt.c:              ch->points.move);
+db.c:  ch->next = character_list;
+db.c:  if (ch->player_specials != NULL && ch->player_specials != &dummy_mob) {
+db.c:    if (ch->player_specials->poofin)
+db.c:      free(ch->player_specials->poofin);
+db.c:    if (ch->player_specials->poofout)
+db.c:      free(ch->player_specials->poofout);
+db.c:    if (ch->player.title)
+db.c:      free(ch->player.title);
+db.c:    if (ch->player.short_descr)
+db.c:      free(ch->player.short_descr);
+db.c:    if (ch->player.long_descr)
+db.c:      free(ch->player.long_descr);
+db.c:    if (ch->player.description)
+db.c:      free(ch->player.description);
+db.c:    if (ch->player_specials) 
+db.c:      free(ch->player_specials);
+db.c:    if (ch->player.name && ch->player.name != mob_proto[i].player.name)
+db.c:      free(ch->player.name);
+db.c:    if (ch->player.title && ch->player.title != mob_proto[i].player.title)
+db.c:      free(ch->player.title);
+db.c:    if (ch->player.short_descr && ch->player.short_descr != mob_proto[i].player.short_descr)
+db.c:      free(ch->player.short_descr);
+db.c:    if (ch->player.long_descr && ch->player.long_descr != mob_proto[i].player.long_descr)
+db.c:      free(ch->player.long_descr);
+db.c:    if (ch->player.description && ch->player.description != mob_proto[i].player.description)
+db.c:      free(ch->player.description);
+db.c:    if (ch->player_specials->saved.completed_quests)
+db.c:      free(ch->player_specials->saved.completed_quests);
+db.c:    if (ch->proto_script && ch->proto_script != mob_proto[i].proto_script)
+db.c:  while (ch->affected)
+db.c:    affect_remove(ch, ch->affected);
+db.c:  free_followers(ch->followers);
+db.c:  if (ch->desc)
+db.c:    ch->desc->character = NULL;
+db.c:  ch->followers = NULL;
+db.c:  ch->master = NULL;
+db.c:  ch->carrying = NULL;
+db.c:  ch->next = NULL;
+db.c:  ch->next_fighting = NULL;
+db.c:  ch->next_in_room = NULL;
+db.c:  ch->char_specials.position = POS_STANDING;
+db.c:  ch->mob_specials.default_pos = POS_STANDING;
+db.c:  ch->char_specials.carry_weight = 0;
+db.c:  ch->char_specials.carry_items = 0;
+db.c:  ch->mob_specials.default_pos = POS_STANDING;
+db.c:  if (ch->points.max_mana < 100)
+db.c:    ch->points.max_mana = 100;
+db.c:  if (ch->player_specials == NULL)
+db.c:    CREATE(ch->player_specials, struct player_special_data, 1);
+db.c:  ch->player.short_descr = NULL;
+db.c:  ch->player.long_descr = NULL;
+db.c:  ch->player.description = NULL;
+db.c:  ch->player_specials->saved.completed_quests = NULL;
+db.c:  ch->player.time.birth = time(0);
+db.c:  ch->player.time.logon = time(0);
+db.c:  ch->player.time.played = 0;
+db.c:  ch->real_abils.intel = 25;
+db.c:  ch->real_abils.wis = 25;
+db.c:  ch->real_abils.dex = 25;
+db.c:  ch->real_abils.str = 25;
+db.c:  ch->real_abils.str_add = 100;
+db.c:  ch->real_abils.con = 25;
+db.c:  ch->real_abils.cha = 25;
+dg_comm.c:        else if (!(obj = get_obj_in_equip_vis(ch, name, &tmp, ch->equipment))) ;
+dg_comm.c:        else obj = get_obj_in_list_vis(ch, name, NULL, ch->carrying);
+dg_mobcmd.c:      if ((pos = get_obj_pos_in_equip_vis(ch, arg, NULL, ch->equipment)) >= 0) {
+dg_mobcmd.c:      if ((obj = get_obj_in_list_vis(ch, arg, NULL, ch->carrying)) != NULL )
+dg_mobcmd.c:        for (obj = ch->carrying; obj != NULL; obj = obj_next) {
+dg_mobcmd.c:      while ((pos = get_obj_pos_in_equip_vis(ch, arg, NULL, ch->equipment)) >= 0)
+dg_mobcmd.c:    if( ch->desc && GET_LEVEL(ch->desc->original) < LVL_IMPL)
+dg_mobcmd.c:  if (ch->desc && (GET_LEVEL(ch->desc->original) < LVL_IMPL))
+dg_mobcmd.c:    if (ch->desc && (GET_LEVEL(ch->desc->original) < LVL_IMPL))
+dg_mobcmd.c:    if (ch->desc && (GET_LEVEL(ch->desc->original) < LVL_IMPL))
+dg_mobcmd.c:    if (ch->desc && (GET_LEVEL(ch->desc->original) < LVL_IMPL))
+dg_mobcmd.c:    if (ch->desc && (GET_LEVEL(ch->desc->original) < LVL_IMPL))
+dg_mobcmd.c:    if (ch->desc) {
+dg_mobcmd.c:    tmpmob.id = ch->id;
+dg_mobcmd.c:    tmpmob.affected = ch->affected;
+dg_mobcmd.c:    tmpmob.carrying = ch->carrying;
+dg_mobcmd.c:    tmpmob.proto_script = ch->proto_script;
+dg_mobcmd.c:    tmpmob.script = ch->script;
+dg_mobcmd.c:    tmpmob.memory = ch->memory;
+dg_mobcmd.c:    tmpmob.next_in_room = ch->next_in_room;
+dg_mobcmd.c:    tmpmob.next = ch->next;
+dg_mobcmd.c:    tmpmob.next_fighting = ch->next_fighting;
+dg_mobcmd.c:    tmpmob.followers = ch->followers;
+dg_mobcmd.c:    tmpmob.master = ch->master;
+dg_mobcmd.c:    ch->nr = this_rnum;
+dg_mobcmd.c:  if (ch->master == leader) /* already following */
+dg_mobcmd.c:  if (AFF_FLAGGED(ch, AFF_CHARM) && (ch->master))  /* can't override charm */
+dg_mobcmd.c:  if (ch->master) {
+dg_mobcmd.c:    if (ch->master->followers->follower == ch) {	/* Head of follower-list? */
+dg_mobcmd.c:      k = ch->master->followers;
+dg_mobcmd.c:      ch->master->followers = k->next;
+dg_mobcmd.c:      for (k = ch->master->followers; k->next->follower != ch; k = k->next);
+dg_mobcmd.c:    ch->master = NULL;
+dg_mobcmd.c:  ch->master = leader;
+dg_objcmd.c:                next_ch = ch->next_in_room;
+dg_objcmd.c:           next_ch = ch->next_in_room;
+dg_objcmd.c:            next_ch = ch->next_in_room;
+dg_olc.c:  if (IS_NPC(ch) || !ch->desc || STATE(ch->desc) != CON_PLAYING)
+dg_olc.c:  d = ch->desc;
+dg_scripts.c:    for (ch = world[rnum].people; ch !=NULL; ch = ch->next_in_room)
+dg_scripts.c:      for (ch = world[num].people; ch; ch = ch->next_in_room)
+dg_scripts.c:        if (isname(name, ch->player.name) &&
+dg_scripts.c:    for (ch = room->people; ch; ch = ch->next_in_room)
+dg_scripts.c:      if (isname(name, ch->player.name) &&
+dg_scripts.c:    for (ch = world[rm].people;ch ; ch = ch->next_in_room)
+dg_scripts.c:    for (ch = character_list; ch; ch = ch->next)
+dg_scripts.c:      if (isname(name, ch->player.name) &&
+dg_scripts.c:    for (ch = room->people; ch; ch = ch->next_in_room)
+dg_scripts.c:      if (isname(name, ch->player.name) &&
+dg_scripts.c:    for (ch = character_list; ch; ch = ch->next)
+dg_scripts.c:      if (isname(name, ch->player.name) &&
+dg_scripts.c:  for (ch = character_list; ch; ch = ch->next) {
+dg_scripts.c:  for (ch = character_list; ch; ch = ch->next) {
+dg_scripts.c:      for (tch = character_list;tch && !found;tch = tch->next)
+dg_scripts.c:    page_string(ch->desc, sb, 1);
+dg_scripts.c:    snprintf(name, nlen, "%s", ch->player.name);
+dg_scripts.c:        for (object = ch->carrying;object;object=object->next_content)
+dg_scripts.c:          for (object = ch->carrying;object;object=object->next_content)
+dg_scripts.c:      if ((object = get_obj_in_equip_vis(ch, arg1, NULL, ch->equipment)));
+dg_scripts.c:      else if ((object = get_obj_in_list_vis(ch, arg1, NULL, ch->carrying)));
+dg_scripts.c:/* Scans for end of while/switch-blocks. Returns the line containg 'end', or 
+dg_scripts.c:  if (ch->script->global_vars == NULL) return;
+dg_scripts.c:  vars = ch->script->global_vars;
+dg_scripts.c:  if (ch->script->global_vars == NULL) return;
+dg_scripts.c:  for (vars = ch->script->global_vars;vars;vars = vars->next)
+dg_scripts.c:  for (vars = ch->script->global_vars;vars;vars = vars->next)
+dg_triggers.c:  for (ch = world[IN_ROOM(actor)].people; ch; ch = ch->next_in_room) {
+dg_triggers.c:  for (ch = world[IN_ROOM(actor)].people; ch; ch = ch->next_in_room) {
+dg_triggers.c:    ch_next = ch->next_in_room;
+dg_triggers.c:    ch_next = ch->next_in_room;
+dg_triggers.c:  for (ch = world[IN_ROOM(actor)].people; ch; ch = ch->next_in_room) {
+dg_triggers.c:  for (ch = world[IN_ROOM(actor)].people; ch; ch = ch->next_in_room) {
+dg_variables.c:  if (item_in_list(item, ch->carrying) == 0)
+dg_variables.c:        else if ((o = get_obj_in_list(name, ch->carrying)));
+dg_variables.c:            for (i = 0, ch = world[rrnum].people; ch; ch = ch->next_in_room)
+dg_wldcmd.c:            next_ch = ch->next_in_room;
+dg_wldcmd.c:            next_ch = ch->next_in_room;
+dg_wldcmd.c:      next_ch = ch->next_in_room;
+dragons.c:  terrain = get_terrain(ch->map, dragon->dest_x, dragon->dest_y);
+dragons.c:    terrain = get_terrain(ch->map, dragon->dest_x, dragon->dest_y);
+dragons.c:       	ch->x = dragon->dest_x;
+dragons.c:	ch->y = dragon->dest_y;
+dragons.c:	ch->dragonflight = FALSE;
+economy.c:	if (!ch->in_building)
+economy.c:	if (!(tp = ch->in_building->trp))
+economy.c:	if (ch->in_building && ch->in_building->trp)
+economy.c:		pTp = ch->in_building->trp;
+economy.c:	if (ch->in_building && ch->in_building->trp)
+economy.c:		pTp = ch->in_building->trp;
+economy.c:	if (!(obj = get_good_object(ch->last_carrying, goods->vnum)))
+economy.c:	if (ch->in_building && ch->in_building->trp)
+economy.c:		pTp = ch->in_building->trp;
+economy.c:	if (!(obj = get_good_object(ch->last_carrying, pGood->vnum)))
+economy.c:        return (get_all_gold(ch->last_carrying));
+economy.c:                sub_all_gold(ch->last_carrying, &amount);
+fight.c:  ch->next_fighting = combat_list;
+fight.c:    next_combat_list = ch->next_fighting;
+fight.c:  ch->next_fighting = NULL;
+fight.c:  corpse->contains = ch->carrying;
+fight.c:    if (IS_NPC(ch) || ch->desc) {
+fight.c:  ch->carrying = NULL;
+fight.c:  for (obj = ch->carrying; obj; obj = next_obj) 
+fight.c:  while (ch->affected)
+fight.c:    affect_remove(ch, ch->affected);
+fight.c:  if (zone_table[world[ch->in_room].zone].number == WZ_ZONE && !IS_NPC(ch)) {
+fight.c:  if (!(k = ch->master))
+fight.c:  if (ch->in_room != victim->in_room)
+fight.c:  if (ch->nr != real_mobile(DG_CASTER_PROXY) &&
+fight.c:      ch != victim && ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)) {
+fight.c:    if (IS_NPC(ch) && ch->mob_specials.attack_type != 0)
+fight.c:      w_type = ch->mob_specials.attack_type + TYPE_HIT;
+fight.c:      if (IS_NPC(ch) && ch->mob_specials.attack_type != 0)
+fight.c:        w_type = ch->mob_specials.attack_type + TYPE_HIT;
+fight.c:	dam += dice(ch->mob_specials.damnodice, ch->mob_specials.damsizedice);
+fight.c:    if (IS_NPC(ch) && ch->mob_specials.attack_type != 0)
+fight.c:      w_type = ch->mob_specials.attack_type + TYPE_HIT;
+fight.c:      if (IS_NPC(ch) && ch->mob_specials.attack_type != 0)
+fight.c:        w_type = ch->mob_specials.attack_type + TYPE_HIT;
+fight.c:        dam += dice(ch->mob_specials.damnodice, ch->mob_specials.damsizedice);
+fight.c:    next_combat_list = ch->next_fighting;
+fight.c:    for (k = ch->followers; k; k=k->next) {
+fight.c:        (k->follower->in_room == ch->in_room) && !FIGHTING(k->follower))
+fight.c:       val = ch->mob_specials.attack1;
+fight.c:        val = ch->mob_specials.attack2;
+fight.c:            val = ch->mob_specials.attack3;
+formation.c:    if(ch->master==ch)return;
+formation.c:    master=ch->master;
+formation.c:            if(ch->master->formation[x][y]==ch){
+formation.c:                        (IS_NPC(ch) ? ch->player.short_descr : GET_NAME(ch)),
+formation.c:                        (IS_NPC(ch->master) ?
+formation.c:                                ch->master->player.short_descr : GET_NAME(ch->master))
+formation.c:                ch->master->formation[x][y]=NULL;
+formation.c:                        if(ch->master->formation[x][y]&&ch->master->formation[x][y]->in_room!=ch->in_room)
+formation.c:                            send_to_char(buf,ch->master->formation[x][y]);
+formation.c:                send_to_room(ch->in_room, buf);
+formation.c:                ch->master=ch;
+formation.c:                ch->formation[0][1]=ch;
+formation.c:    if(ch->master!=ch){
+formation.c:            if(ch->formation[x][y]){
+formation.c:                if(ch->formation[x][y]==ch){
+formation.c:                    ch->formation[x][y]=NULL;
+formation.c:                    remove_from_formation(ch->formation[x][y]);
+formation.c:    ch->formation[0][1]=ch;
+formation.c:    if(ch->master==ch){
+formation.c:                if(ch->formation[x][y])
+formation.c:    if(ch->master!=ch){
+formation.c:            if(ch->formation[x][y]==player){
+formation.c:    if(ch->formation[x][y]){
+formation.c:    ch->formation[x][y]=player;
+formation.c:    ch->formation[ox][oy]=NULL;
+formation.c:            if(ch->formation[x][y]&&ch->formation[x][y]->in_room!=ch->in_room)
+formation.c:                send_to_char(ch->formation[x][y], buf);
+formation.c:    send_to_room(ch->in_room, buf);
+formation.c:    if(ch->master!=ch){
+formation.c:            if(ch->formation[x][y]){
+formation.c:                if(ch->formation[x][y]==player){
+formation.c:    if(!is_formed(ch) || ch->master == NULL){
+formation.c:            if(ch->master->formation[x][y]){
+formation.c:                if(IS_NPC(ch->master->formation[x][y]))
+formation.c:                switch(GET_CLASS(ch->master->formation[x][y])){
+formation.c:                   GET_NAME(ch->master->formation[x][y]), class,
+formation.c:                   GET_LEVEL(ch->master->formation[x][y]),
+formation.c:                   GET_HIT(ch->master->formation[x][y]),
+formation.c:                   GET_MAX_HIT(ch->master->formation[x][y]),
+formation.c:                   GET_MANA(ch->master->formation[x][y]),
+formation.c:                   GET_MAX_MANA(ch->master->formation[x][y]),
+formation.c:                   GET_MOVE(ch->master->formation[x][y]),
+formation.c:                   GET_MAX_MOVE(ch->master->formation[x][y]));
+formation.c:/*              act(buf,FALSE,ch, 0, ch->master->formation[x][y], TO_CHAR);*/
+formation.c:    if(ch->master == NULL)
+formation.c:      sprintf(a,"%s's FORMATION",GET_NAME(ch->master));
+formation.c:    if(ch->master->formation[0][0])
+formation.c:        center_in_buf(GET_NAME(ch->master->formation[0][0]),20);
+formation.c:    if(ch->master->formation[0][1])
+formation.c:        center_in_buf(GET_NAME(ch->master->formation[0][1]),20);
+formation.c:    if(ch->master->formation[0][2])
+formation.c:        center_in_buf(GET_NAME(ch->master->formation[0][2]),20);
+formation.c:    if(ch->master->formation[1][0])
+formation.c:        center_in_buf(GET_NAME(ch->master->formation[1][0]),20);
+formation.c:    if(ch->master->formation[1][1])
+formation.c:        center_in_buf(GET_NAME(ch->master->formation[1][1]),20);
+formation.c:    if(ch->master->formation[1][2])
+formation.c:        center_in_buf(GET_NAME(ch->master->formation[1][2]),20);
+formation.c:    if(ch->master->formation[2][0])
+formation.c:        center_in_buf(GET_NAME(ch->master->formation[2][0]),20);
+formation.c:    if(ch->master->formation[2][1])
+formation.c:        center_in_buf(GET_NAME(ch->master->formation[2][1]),20);
+formation.c:    if(ch->master->formation[2][2])
+formation.c:        center_in_buf(GET_NAME(ch->master->formation[2][2]),20);
+genmob.c:    next = ch->next;
+genwld.c:      for (tch = world[i].people; tch; tch = tch->next_in_room)
+godcmds.c:  page_string(ch->desc, buf, 1);
+godcmds.c:  if (!(obj = get_obj_in_list_vis(ch, obj_name, NULL, ch->carrying))) {
+godcmds.c:  if (!(obj = get_obj_in_list_vis(ch, obj_name, NULL, ch->carrying))) {
+godcmds.c:        page_string(ch->desc, buf, 1);
+goods.c:	page_string(ch->desc, gbuf, 1);
+goods.c://	obj = obj_to_room(obj, ch->in_room);
+goods.c:		page_string(ch->desc, buf, 0);
+goods.c:			page_string(ch->desc, buf, 0);
+goods.c:		pBld = ch->in_building;
+goods.c://                pTp->in_room                    = pBld->rooms[ch->in_room->number];
+goods.c://		pBld->rooms[ch->in_room->number]->func  = tradingpost;
+goods.c:		page_string(ch->desc, buf, 0);
+goods.c:			page_string(ch->desc, newspaper, 0);
+handler.c:    ch->player.time.birth -= (mod * SECS_PER_MUD_YEAR);
+handler.c:  for (af = ch->affected; af; af = af->next)
+handler.c:  ch->aff_abils = ch->real_abils;
+handler.c:  for (af = ch->affected; af; af = af->next)
+handler.c:  affected_alloc->next = ch->affected;
+handler.c:  ch->affected = affected_alloc;
+handler.c:  if (ch->affected == NULL) {
+handler.c:  REMOVE_FROM_LIST(af, ch->affected, next);
+handler.c:  for (hjp = ch->affected; hjp; hjp = next) {
+handler.c:  for (hjp = ch->affected; hjp; hjp = hjp->next)
+handler.c:  for (hjp = ch->affected; !found && hjp; hjp = next) {
+handler.c:  ch->next_in_room = NULL;
+handler.c:    ch->next_in_room = world[room].people;
+handler.c:    object->next_content = ch->carrying;
+handler.c:    ch->carrying = object;
+handler.c:  if (ch->carrying)
+handler.c:    update_object(ch->carrying, 1);
+handler.c:   * to stuff them back into their own body.  This will set ch->desc we're 
+handler.c:  if (!IS_NPC(ch) && !ch->desc) {
+handler.c:  if (ch->desc) {
+handler.c:    if (ch->desc->original)
+handler.c:        if (d == ch->desc)
+handler.c:      STATE(ch->desc) = CON_CLOSE;
+handler.c://      write_to_output(ch->desc, "%s", CONFIG_MENU);
+handler.c:  if (ch->followers || ch->master)
+handler.c:  while (ch->carrying) {
+handler.c:    obj = ch->carrying;
+handler.c:  if (IS_NPC(ch) || !ch->desc)
+handler.c: * 'ch = ch->next' does bad things if the current character happens to die. The
+handler.c: for(ch = character_list; ch; ch = ch->next)             
+handler.c:  if ((i = get_obj_in_list_vis(ch, name, number, ch->carrying)) != NULL)
+handler.c:    if ((*tar_obj = get_obj_in_list_vis(ch, name, &number, ch->carrying)) != NULL)
+handler.c:        for (hjp = ch->affected; hjp; hjp = hjp->next)
+handler.c:        rtemp = ch->in_room;
+handler.c:        ch->in_room = pRoom;
+handler.c:        for (i = world[ch->in_room].people; i && *numbr; i = i->next_in_room)
+handler.c:                                        ch->in_room = rtemp;
+handler.c:        ch->in_room = rtemp;
+hedit.c:  if (IS_NPC(ch) || !ch->desc || STATE(ch->desc) != CON_PLAYING)
+hedit.c:  d = ch->desc;
+hedit.c:  if (ch->desc)
+hedit.c:    page_string(ch->desc, buf, TRUE);
+hedit.c:  page_string(ch->desc, buf, TRUE);
+helpsys.c:  d = ch->desc;
+helpsys.c:  page_string(ch->desc, buf, 1);
+helpsys.c:  page_string(ch->desc, buf, 1);
+house.c:	page_string(ch->desc,buf,0);
+interpreter.c:/*  for (i = ch->carrying; i; i = i->next_content)
+interpreter.c:    next_ch = ch->next;
+interpreter.c:    if (ch->desc)
+limits.c:  if (++(ch->char_specials.timer) > CONFIG_IDLE_VOID) {
+limits.c:    } else if (ch->char_specials.timer > CONFIG_IDLE_RENT_TIME) {
+limits.c:      if (ch->desc) {
+limits.c:	STATE(ch->desc) = CON_DISCONNECT;
+limits.c:	ch->desc->character = NULL;
+limits.c:	ch->desc = NULL;
+magic.c:  for (tobj = ch->carrying; tobj; tobj = tobj->next_content) {
+magic.c:  if (ch->master != NULL)
+magic.c:    k = ch->master;
+magic.c:    tch_next = tch->next_in_room;
+magic.c:    next_tch = tch->next_in_room;
+mail.c:  page_string(ch->desc, get_mail_text(ml), TRUE);
+mail.c:    string_write(ch->desc, mailwrite, MAX_MAIL_SIZE, recipient, NULL);
+mail.c:    string_write(ch->desc, mailwrite, MAX_MAIL_SIZE, recipient, NULL);
+mailedit.c:  d = ch->desc;
+mailpatch.patch:    ch->desc->mail_to = recipient;
+mailpatch.patch:+   if (*buf2 && (obj = get_obj_in_list_vis(ch, buf2, ch->carrying))) {
+mailpatch.patch:+     ch->desc->mail_vnum = GET_OBJ_VNUM(obj);
+mailpatch.patch:+     ch->desc->mail_vnum = NOTHING;
+mailpatch.patch:    ch->desc->mail_to = recipient;
+mapper.c:	for( pexit = ch->in_room->first_exit; pexit; pexit = pexit->next )
+mapper.c:	map[x][y].vnum = ch->in_room->vnum;
+mapper.c:	map_exits( ch, ch->in_room, x, y, 0 );
+maputils.c:  int WMapX = world[ch->in_room].x;
+maputils.c:  int WMapY = world[ch->in_room].y;
+maputils.c:  if (!ROOM_FLAGGED(ch->in_room, ROOM_WILDERNESS)) {
+maputils.c:    page_string(ch->desc, buf, 1);
+maputils.c:  world[ch->in_room].sector_type = MapSymbolTable[i].Sector;
+maputils.c:  world[ch->in_room].wild_type = MapSymbolTable[i].WildType;
+maputils.c:  world[ch->in_room].name = (char *) MapSymbolTable[i].Name;
+maputils.c:  world[ch->in_room].description = (char *) MapSymbolTable[i].Desc;
+maputils.c:  Wildneress[MAPY - 1 - world[ch->in_room].y][world[ch->in_room].x] = MapSymbolTable[i].Symbol;
+medit.c:  if (IS_NPC(ch) || !ch->desc || STATE(ch->desc) != CON_PLAYING)
+medit.c:  d = ch->desc;
+messanger.c:  Paper = get_obj_in_list_vis(ch, buf, NULL, ch->carrying);
+miner.c:    if (!(obj = get_obj_in_list_vis(ch, buf, NULL, ch->carrying)))
+miner.c:    if (!(obj = get_obj_in_list_vis(ch, buf, NULL, ch->carrying)))
+mobact.c:    next_ch = ch->next;
+mobact.c:          if (aggressive_mob_on_a_leash(ch, ch->master, vict))
+mobact.c:          if (aggressive_mob_on_a_leash(ch, ch->master, vict))
+mobact.c:    if (AFF_FLAGGED(ch, AFF_CHARM) && ch->master && num_followers_charmed(ch->master) > (GET_CHA(ch->master) - 2) / 3) {
+mobact.c:      if (!aggressive_mob_on_a_leash(ch, ch->master, ch->master)) {
+mobact.c:        if (CAN_SEE(ch, ch->master) && !PRF_FLAGGED(ch->master, PRF_NOHASSLE))
+mobact.c:          hit(ch, ch->master, TYPE_UNDEFINED);
+Binary file mobact.o matches
+mob_intelligence.c:    if (!ch->char_specials.fighting)
+mob_intelligence.c://    m=pick_victim(ch->char_specials.fighting); // pick victim was another function i removed cause of it using form 
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room))
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room))
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room)) {
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room)) {
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room)) {
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room)) {
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room)) {
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room)) {
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room)) {
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room)) {
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room))
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room))
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room))
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room))
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room))
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room))
+mob_intelligence.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room))
+newmap.c:  int WMapX = world[ch->in_room].x;
+newmap.c:  int WMapY = world[ch->in_room].y;
+newmap.c:  if (!ROOM_FLAGGED(ch->in_room, ROOM_WILDERNESS)) {
+newmap.c:    page_string(ch->desc, buf, 1);
+newmap.c:  world[ch->in_room].sector_type = MapSymbolTable[i].Sector;
+newmap.c:  world[ch->in_room].wild_type = MapSymbolTable[i].WildType;
+newmap.c:  world[ch->in_room].name = (char *) MapSymbolTable[i].Name;
+newmap.c:  world[ch->in_room].description = (char *) MapSymbolTable[i].Desc;
+newmap.c:  Wildneress[MAPY - 1 - world[ch->in_room].y][world[ch->in_room].x] = MapSymbolTable[i].Symbol;
+oasis.c:  if (!ch->desc || IS_NPC(ch) || rnum == NOWHERE)
+oasis_copy.c:  if (IS_NPC(ch) || !ch->desc || STATE(ch->desc) != CON_PLAYING) 
+oasis_copy.c:  d = ch->desc;
+oasis_copy.c:  struct descriptor_data *d = ch->desc; /* will save us some typing */
+oasis_copy.c:      struct descriptor_data *d = ch->desc;
+oasis_list.c:  page_string(ch->desc, buf, TRUE);
+oasis_list.c:  page_string(ch->desc, buf, TRUE);
+oasis_list.c:  page_string(ch->desc, buf, TRUE);
+oasis_list.c:  page_string(ch->desc, buf, TRUE);
+oasis_list.c:  page_string(ch->desc, buf, TRUE);
+objsave.c:  page_string(ch->desc,buf,0);
+objsave.c:  if (!Crash_save(ch->carrying, fp, 0)) {
+objsave.c:  Crash_restore_weight(ch->carrying);
+objsave.c:  Crash_extract_norents(ch->carrying);
+objsave.c:  Crash_calculate_rent(ch->carrying, &cost);
+objsave.c:    while ((cost > GET_GOLD(ch) + GET_BANK_GOLD(ch)) && ch->carrying) {
+objsave.c:      Crash_extract_expensive(ch->carrying);
+objsave.c:      Crash_calculate_rent(ch->carrying, &cost);
+objsave.c:  if (ch->carrying == NULL) {
+objsave.c:  if (!Crash_save(ch->carrying, fp, 0)) {
+objsave.c:  Crash_extract_objs(ch->carrying);
+objsave.c:  Crash_extract_norents(ch->carrying);
+objsave.c:  if (!Crash_save(ch->carrying, fp, 0)) {
+objsave.c:  Crash_extract_objs(ch->carrying);
+objsave.c:  Crash_extract_norents(ch->carrying);
+objsave.c:  if (!Crash_save(ch->carrying, fp, 0)) {
+objsave.c:  Crash_extract_objs(ch->carrying);
+objsave.c:  norent = Crash_report_unrentables(ch, receptionist, ch->carrying);
+objsave.c:  Crash_report_rent(ch, receptionist, ch->carrying, &totalcost, &numitems, display, factor);
+objsave.c:  if (!ch->desc || IS_NPC(ch))
+oedit.c:  if (IS_NPC(ch) || !ch->desc || STATE(ch->desc) != CON_PLAYING)
+oedit.c:  d = ch->desc;
+oldhedit.c:  if (IS_NPC(ch) || !ch->desc || STATE(ch->desc) != CON_PLAYING)
+oldhedit.c:  d = ch->desc;
+oldhedit.c:  if (ch->desc)
+oldhedit.c:    page_string(ch->desc, buf, TRUE);
+oldhedit.c:  page_string(ch->desc, buf, TRUE);
+oldhelpsys.c:  d = ch->desc;
+oldhelpsys.c:  page_string(ch->desc, buf, 1);
+oldhelpsys.c:  page_string(ch->desc, buf, 1);
+oldmap.c:  int WMapX = world[ch->in_room].x;
+oldmap.c:  int WMapY = world[ch->in_room].y;
+oldmap.c:  if (!ROOM_FLAGGED(ch->in_room, ROOM_WILDERNESS)) {
+oldmap.c:    page_string(ch->desc, buf, 1);
+oldmap.c:  world[ch->in_room].sector_type = MapSymbolTable[i].Sector;
+oldmap.c:  world[ch->in_room].wild_type = MapSymbolTable[i].WildType;
+oldmap.c:  world[ch->in_room].name = (char *) MapSymbolTable[i].Name;
+oldmap.c:  world[ch->in_room].description = (char *) MapSymbolTable[i].Desc;
+oldmap.c:  Wildneress[MAPY - 1 - world[ch->in_room].y][world[ch->in_room].x] = MapSymbolTable[i].Symbol;
+oldobjsave.c:  page_string(ch->desc,buf,0);
+oldobjsave.c:  if (!Crash_save(ch->carrying, fp, 0)) {
+oldobjsave.c:  Crash_restore_weight(ch->carrying);
+oldobjsave.c:  Crash_extract_norents(ch->carrying);
+oldobjsave.c:  Crash_calculate_rent(ch->carrying, &cost);
+oldobjsave.c:    while ((cost > GET_GOLD(ch) + GET_BANK_GOLD(ch)) && ch->carrying) {
+oldobjsave.c:      Crash_extract_expensive(ch->carrying);
+oldobjsave.c:      Crash_calculate_rent(ch->carrying, &cost);
+oldobjsave.c:  if (ch->carrying == NULL) {
+oldobjsave.c:  if (!Crash_save(ch->carrying, fp, 0)) {
+oldobjsave.c:  Crash_extract_objs(ch->carrying);
+oldobjsave.c:  Crash_extract_norents(ch->carrying);
+oldobjsave.c:  if (!Crash_save(ch->carrying, fp, 0)) {
+oldobjsave.c:  Crash_extract_objs(ch->carrying);
+oldobjsave.c:  Crash_extract_norents(ch->carrying);
+oldobjsave.c:  if (!Crash_save(ch->carrying, fp, 0)) {
+oldobjsave.c:  Crash_extract_objs(ch->carrying);
+oldobjsave.c:  norent = Crash_report_unrentables(ch, receptionist, ch->carrying);
+oldobjsave.c:  Crash_report_rent(ch, receptionist, ch->carrying, &totalcost, &numitems, display, factor);
+oldobjsave.c:  if (!ch->desc || IS_NPC(ch))
+players.c:    ch->affected = NULL;
+players.c:    ch->real_abils.str = PFDEF_STR;
+players.c:    ch->real_abils.str_add = PFDEF_STRADD;
+players.c:    ch->real_abils.dex = PFDEF_DEX;
+players.c:    ch->real_abils.intel = PFDEF_INT;
+players.c:    ch->real_abils.wis = PFDEF_WIS;
+players.c:    ch->real_abils.con = PFDEF_CON;
+players.c:    ch->real_abils.cha = PFDEF_CHA;
+players.c:	else if (!strcmp(tag, "Brth"))	ch->player.time.birth	= atol(line);
+players.c:	     if (!strcmp(tag, "Cha "))	ch->real_abils.cha	= atoi(line);
+players.c:	else if (!strcmp(tag, "Con "))	ch->real_abils.con	= atoi(line);
+players.c:	     if (!strcmp(tag, "Desc"))	ch->player.description	= fread_string(fl, buf2);
+players.c:	else if (!strcmp(tag, "Dex "))	ch->real_abils.dex	= atoi(line);
+players.c:	else if (!strcmp(tag, "Int "))	ch->real_abils.intel	= atoi(line);
+players.c:	     if (!strcmp(tag, "Last"))	ch->player.time.logon	= atol(line);
+players.c:	else if (!strcmp(tag, "Plyd"))	ch->player.time.played	= atoi(line);
+players.c:	else if (!strcmp(tag, "Wis "))	ch->real_abils.wis	= atoi(line);
+players.c:    ch->affected = NULL;
+players.c:    ch->real_abils.str = PFDEF_STR;
+players.c:    ch->real_abils.str_add = PFDEF_STRADD;
+players.c:    ch->real_abils.dex = PFDEF_DEX;
+players.c:    ch->real_abils.intel = PFDEF_INT;
+players.c:    ch->real_abils.wis = PFDEF_WIS;
+players.c:    ch->real_abils.con = PFDEF_CON;
+players.c:    ch->real_abils.cha = PFDEF_CHA;
+players.c:        else if (!strcmp(tag, "Brth"))  ch->player.time.birth   = atol(line);
+players.c:             if (!strcmp(tag, "Cha "))  ch->real_abils.cha      = atoi(line);
+players.c:        else if (!strcmp(tag, "Con "))  ch->real_abils.con      = atoi(line);
+players.c:             if (!strcmp(tag, "Desc"))  ch->player.description  = fread_string(fl, buf2);
+players.c:        else if (!strcmp(tag, "Dex "))  ch->real_abils.dex      = atoi(line);
+players.c:        else if (!strcmp(tag, "Int "))  ch->real_abils.intel    = atoi(line);
+players.c:             if (!strcmp(tag, "Last"))  ch->player.time.logon   = atol(line);
+players.c:        else if (!strcmp(tag, "Plyd"))  ch->player.time.played  = atoi(line);
+players.c:  /* If ch->desc is not null, then update session data before saving. */
+players.c:  if (ch->desc) {
+players.c:    if (ch->desc->host && *ch->desc->host) {
+players.c:        GET_HOST(ch) = strdup(ch->desc->host);
+players.c:      else if (GET_HOST(ch) && strcmp(GET_HOST(ch), ch->desc->host)) {
+players.c:        GET_HOST(ch) = strdup(ch->desc->host);
+players.c:    if (STATE(ch->desc) == CON_PLAYING) {
+players.c:      ch->player.time.played += time(0) - ch->player.time.logon;
+players.c:      ch->player.time.logon = time(0);
+players.c:  for (aff = ch->affected, i = 0; i < MAX_AFFECT; i++) {
+players.c:  while (ch->affected)
+players.c:    affect_remove(ch, ch->affected);
+players.c:  ch->aff_abils = ch->real_abils;
+players.c:  if (ch->player.description && *ch->player.description) {
+players.c:    strcpy(buf, ch->player.description);
+players.c:  fprintf(fl, "Brth: %ld\n", ch->player.time.birth);
+players.c:  fprintf(fl, "Plyd: %d\n",  ch->player.time.played);
+players.c:  fprintf(fl, "Last: %ld\n", ch->player.time.logon);
+players.c:  fprintf(fl, "Pmpt: %s\n", ch->player_specials->saved.prompt);
+players.c:      fprintf(fl, "%d\n", ch->player_specials->saved.completed_quests[i]);
+players.c:  if (player_table[id].last != ch->player.time.logon) {
+players.c:    player_table[id].last = ch->player.time.logon;
+players.c:    ch->real_abils.str = num;
+players.c:    ch->real_abils.str_add = num2;
+profession.c:  page_string(ch->desc, buf2, TRUE);
+profession.c:  page_string(ch->desc, buf2, TRUE);
+profession.c:   if (!(obj = get_obj_in_list_vis(ch, arg, NULL, ch->carrying)))
+profession.c:  page_string(ch->desc, buf2, TRUE);
+profession.c:  page_string(ch->desc, buf2, TRUE);
+profession.c:  page_string(ch->desc, buf2, TRUE);
+profession.c:   if (!(obj1 = get_obj_in_list_vis(ch, comp1, NULL, ch->carrying)))
+profession.c:   if (!(obj2 = get_obj_in_list_vis(ch, comp2, NULL, ch->carrying)))
+profession.c:   if (!(obj3 = get_obj_in_list_vis(ch, comp3, NULL, ch->carrying)))
+qedit.c:  d = ch->desc;
+quest.c:   if (ch->player_specials->saved.completed_quests[i] == vnum)
+quest.c:    temp[i] = ch->player_specials->saved.completed_quests[i];
+quest.c:  if (ch->player_specials->saved.completed_quests)
+quest.c:    free(ch->player_specials->saved.completed_quests);
+quest.c:  ch->player_specials->saved.completed_quests = temp;
+quest.c:    if (ch->player_specials->saved.completed_quests[i] != vnum)
+quest.c:      temp[j++] = ch->player_specials->saved.completed_quests[i];
+quest.c:  if (ch->player_specials->saved.completed_quests)
+quest.c:    free(ch->player_specials->saved.completed_quests);
+quest.c:  ch->player_specials->saved.completed_quests = temp;
+quest.c:  for (ch = character_list; ch; ch = ch->next)
+quest.c:    if ((rnum = real_quest(ch->player_specials->saved.completed_quests[i])) != NOTHING)
+quest.c:				ch->carrying) == NULL))
+range.c:  if (IS_DARK(ch->in_room)) {
+range.c:   if (ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)) {
+range.c:   room = ch->in_room;
+range.c:       if (!(nextobj = get_obj_in_list_vis(ch, missile->name, NULL, ch->carrying)))
+redit.c:  if (IS_NPC(ch) || !ch->desc || STATE(ch->desc) != CON_PLAYING)
+redit.c:  d = ch->desc;
+room_afs.c:    sprintf(buf,"%s killed by %s",(IS_NPC(vict) ? vict->player.short_descr : GET_NAME(vict)),(IS_NPC(ch) ? ch->player.short_descr : GET_NAME(ch)));
+room_trigger.c:	pRoom = ch->in_room;
+room_trigger.c:	rte->orig_room		= ch->in_room;
+room_trigger.c:	rhe->orig_room		= ch->in_room;
+room_trigger.c:	if (ch->in_room != telep_room)
+room_trigger.c:	if (ch->in_room != orig_room)
+save.c:			KEY( "Ab_Cha",		ch->real_abils.cha,		fread_number(fp) );
+save.c:			KEY( "Ab_Con",		ch->real_abils.con,		fread_number(fp) );
+save.c:			KEY( "Ab_Dex",		ch->real_abils.dex,		fread_number(fp) );
+save.c:			KEY( "Ab_Int",		ch->real_abils.intel,	fread_number(fp) );
+save.c:			KEY( "Ab_Str",		ch->real_abils.str,		fread_number(fp) );
+save.c:			KEY( "Ab_Wis",		ch->real_abils.wis,		fread_number(fp) );
+save.c:			KEY( "Birth",		ch->player.time.birth,	fread_number(fp) );
+save.c:			KEY( "Host",		ch->player_specials->host,	fread_string_nospace(fp) );
+save.c:			KEY( "LastLogon",	ch->player.time.logon,	fread_number(fp) );
+save.c:				if ( !ch->player_specials->load_coord )
+save.c:					CREATE( ch->player_specials->load_coord, COORD_DATA, 1 );
+save.c:			KEY( "Played",		ch->player.time.played,	fread_number(fp) );
+save.c:	ch->affected				= NULL;
+save.c:	ch->real_abils.str			= 0;
+save.c:	ch->real_abils.dex			= 0;
+save.c:	ch->real_abils.intel		= 0;
+save.c:	ch->real_abils.wis			= 0;
+save.c:	ch->real_abils.con			= 0;
+save.c:	ch->real_abils.cha			= 0;
+save.c:	ch->aff_abils = ch->real_abils;
+save.c:	 * This version of save_char allows ch->desc to be null (to allow
+save.c:				CREATE( ch->player_specials->load_coord, COORD_DATA, 1 );
+save.c:			GET_LOADBUILDING(ch)	= ch->in_building->vnum;
+save.c:			GET_LOADSHIP(ch)		= ch->in_ship->vnum;
+save.c:	for ( aff = ch->affected, i = 0; i < MAX_AFFECT; i++ )
+save.c:	while (ch->affected)
+save.c:		affect_remove(ch, ch->affected);
+save.c:	//ch->aff_abils = ch->real_abils;
+save.c:	ch->player.time.played += (long) (time(0) - ch->player.time.logon);
+save.c:	ch->player.time.logon = time(0);
+save.c:	fprintf(fl, "Ab_Str       %hd\n",		ch->real_abils.str);
+save.c:	fprintf(fl, "Ab_Int       %hd\n",		ch->real_abils.intel);
+save.c:	fprintf(fl, "Ab_Wis       %hd\n",		ch->real_abils.wis);
+save.c:	fprintf(fl, "Ab_Dex       %hd\n",		ch->real_abils.dex);
+save.c:	fprintf(fl, "Ab_Con       %hd\n",		ch->real_abils.con);
+save.c:	fprintf(fl, "Ab_Cha       %hd\n",		ch->real_abils.cha);
+save.c:	fprintf(fl, "Birth        %d\n",		ch->player.time.birth);
+save.c:	fprintf(fl, "Played       %d\n",		ch->player.time.played);
+save.c:	fprintf(fl, "LastLogon    %d\n",		ch->player.time.logon);
+save.c:	if ( ch->player_specials->host )
+save.c:		fprintf(fl, "Host         %s\n",	ch->player_specials->host);
+save.c:		if ( ch->player_specials->first_known )
+save.c:			for ( pKnow = ch->player_specials->first_known; pKnow; pKnow = pKnow->next )
+save.c:		if ( ch->player_specials->courses )
+save.c:			for (kCourse = ch->player_specials->courses; kCourse; kCourse = kCourse->next)
+save.c:	ExtractItemNoSave(ch->first_carrying);
+save.c:	if (!save_objs(ch->last_carrying, fp, 0, 0))
+save.c:		for (mount = ch->in_room->people; mount; mount = mount->next_in_room)
+save.c:		for (pVeh = ch->in_room->vehicles; pVeh; pVeh = veh_next)
+save.c:		ExtractSavedItems(ch->first_carrying);
+save.c:	ExtractSavedItems(ch->first_carrying);
+save.c:	ch->first_carrying	= NULL;
+save.c:	ch->last_carrying	= NULL;
+save.c:			fread_rent_mount(fp, ch->in_room);
+save.c:			if ( !( vehicle = fread_rent_vehicle(fp, ch->in_room) ) )
+sedit.c:  if (IS_NPC(ch) || !ch->desc || STATE(ch->desc) != CON_PLAYING)
+sedit.c:  d = ch->desc;
+shop.c:  strlcpy(tempstr, times_message(ch->carrying, 0, bought), sizeof(tempstr));
+shop.c:  if (!(obj = get_obj_in_list_vis(ch, name, NULL, ch->carrying))) {
+shop.c:    page_string(ch->desc, buf, TRUE);
+shop.c:  page_string(ch->desc, buf, TRUE);
+spec_procs.c:  page_string(ch->desc, buf2, TRUE);
+spec_procs.c:  for (tch = world[IN_ROOM(ch)].people; tch; tch = tch->next_in_room) {
+spec_procs.c:////  for (tch = world[IN_ROOM(ch)].people; tch; tch = tch->next_in_room)
+spec_procs.c:             ch->real_abils.str = GET_STR(ch) + 1;
+spec_procs.c:             ch->real_abils.intel = GET_INT(ch) + 1;
+spec_procs.c:             ch->real_abils.wis = GET_WIS(ch) + 1;
+spec_procs.c:             ch->real_abils.dex = GET_DEX(ch) + 1;
+spec_procs.c:             ch->real_abils.con = GET_CON(ch) + 1;
+spec_procs.c:             ch->real_abils.cha = GET_CHA(ch) + 1;
+spec_procs.c:        ch->real_abils.str = GET_STR(ch) + 1;
+spec_procs.c:        ch->real_abils.intel = GET_INT(ch) + 1;
+spec_procs.c:	ch->real_abils.wis = GET_WIS(ch) + 1;
+spec_procs.c:        ch->real_abils.dex = GET_DEX(ch) + 1;
+spec_procs.c:        ch->real_abils.con = GET_CON(ch) + 1;
+spec_procs.c:        ch->real_abils.cha = GET_CHA(ch) + 1;
+spec_procs.c:  if (FIGHTING(ch) && (FIGHTING(ch)->in_room == ch->in_room)) {
+spell_parser.c:        for (i = 0, tch = world[IN_ROOM(ch)].people; tch; tch = tch->next_in_room)
+spell_parser.c:	  next_tch = tch->next_in_room;
+spell_parser.c:  if (AFF_FLAGGED(ch, AFF_CHARM) && (ch->master == tch)) {
+spell_parser.c:      if ((tobj = get_obj_in_list_vis(ch, t, NULL, ch->carrying)) != NULL)
+spells.c:	      GET_NAME(ch), world[ch->in_room].name,
+spells.c:	      (ch->player.sex == SEX_MALE) ? "He" : "She");
+spells.c:	      GET_NAME(ch), GET_NAME(victim), world[ch->in_room].name);
+spells.c:  char_to_room(victim, ch->in_room);
+stables.c:			if ( !( vehicle = fread_rent_vehicle(fp, ch->in_room) ) )
+stables.c:			if ( !( mount = fread_rent_mount(fp, ch->in_room) ) )
+stables.c:	page_string(ch->desc, sbuf, 1);
+tedit.c:  if (ch->desc == NULL)
+tedit.c:  clear_screen(ch->desc);
+tedit.c:  send_editor_help(ch->desc);
+tedit.c:  if (ch->desc->olc) {
+tedit.c:    free(ch->desc->olc);
+tedit.c:  CREATE(ch->desc->olc, struct oasis_olc_data, 1);
+tedit.c:  OLC_STORAGE(ch->desc) = strdup(fields[l].filename);
+tedit.c:  string_write(ch->desc, (char **)fields[l].buffer, fields[l].size, 0, backstr);
+tedit.c:  STATE(ch->desc) = CON_TEDIT;
+utils.c:  player_age = *mud_time_passed(time(0), ch->player.time.birth);
+utils.c:  if (ch->master == NULL) {
+utils.c:    act("You realize that $N is a jerk!", FALSE, ch, 0, ch->master, TO_CHAR);
+utils.c:    act("$n realizes that $N is a jerk!", FALSE, ch, 0, ch->master, TO_NOTVICT);
+utils.c:    act("$n hates your guts!", FALSE, ch, 0, ch->master, TO_VICT);
+utils.c:    act("You stop following $N.", FALSE, ch, 0, ch->master, TO_CHAR);
+utils.c:    act("$n stops following $N.", TRUE, ch, 0, ch->master, TO_NOTVICT);
+utils.c:    act("$n stops following you.", TRUE, ch, 0, ch->master, TO_VICT);
+utils.c:  if (ch->master->followers->follower == ch) {	/* Head of follower-list? */
+utils.c:    k = ch->master->followers;
+utils.c:    ch->master->followers = k->next;
+utils.c:    for (k = ch->master->followers; k->next->follower != ch; k = k->next);
+utils.c:  ch->master = NULL;
+utils.c:  for (lackey = ch->followers; lackey; lackey = lackey->next)
+utils.c:  if (ch->master)
+utils.c:  for (k = ch->followers; k; k = j) {
+utils.c:  if (ch->master) {
+utils.c:  ch->master = leader;
+utils.c:  for (ch = room->people; ch != NULL; ch = ch->next_in_room)
+utils.c:  page_string(ch->desc, buf, 1);            
+utils.c:  page_string(ch->desc, buf, 1);
+utils.h:   (ch->desc && ch->desc->original ? GET_LEVEL(ch->desc->original) : \
+vehicles.c:	ch->in_vehicle		= vehicle;
+vehicles.c:	ch->next_in_vehicle	= vehicle->people;
+vehicles.c:	if ( !ch->in_vehicle )
+vehicles.c:	ch->in_vehicle->curr_val.passengers--;
+vehicles.c:	REMOVE_FROM_LIST(ch, ch->in_vehicle->people, next_in_vehicle);
+vehicles.c:	ch->in_vehicle		= NULL;
+vehicles.c:	ch->next_in_vehicle	= NULL;
+vehicles.c:	if ( ch->in_vehicle )
+vehicles.c:	if ( !ch->in_vehicle )
+vehicles.c:	pRoom = ch->in_vehicle->in_room;
+vehicles.c:	act("You exit from $v.", FALSE, ch, NULL, ch->in_vehicle, TO_CHAR);
+vehicles.c:	act("$n exits from $v.", FALSE, ch, NULL, ch->in_vehicle, TO_ROOM);
+vehicles.c:	obj_to_room(goods, ch->in_room);
+vehicles.c:		if ( ch->in_vehicle && ch->in_vehicle == pVeh )
+vehicles.c:		vehicle_to_room(pVeh, ch->in_room);
+vehicles.c:	if ( !ch->in_vehicle )
+vehicles.c:		rent_vehicle(ch, ch->in_vehicle);
+wilderness.c:	if ( !ch->player_specials->wildmap )
+wilderness.c:		CREATE( ch->player_specials->wildmap, char *, MAP_Y );
+wilderness.c:			CREATE( ch->player_specials->wildmap[yy], char, MAP_X );
+wilderness.c:			ch->player_specials->wildmap[yy] = NULL;
+wilderness.c:		if ( ch->player_specials->wildmap[yy] )
+wilderness.c:			DISPOSE( ch->player_specials->wildmap[yy] );
+wilderness.c:		ch->player_specials->wildmap[yy] = str_dup( ch_wild[yy] );
+wilderness.c:	page_string(ch->desc, wbuf, 1);
+wild.info.c:		vehicle_to_room(WAGONER(ch), ch->in_room);
+wild.info.c:	ROOM_DATA *pRoom = &world[ch->in_room];
+wild.info.c:	if (ch->action)
+wild.info.c:		ce->pRoom	= &world[ch->in_room];
+wild.info.c:		ch->action = event_create( camp_event, ce, 100 );
+wild.info.c:	if (!ch || !ch->desc || !tRoom)
+wild.info.c:	if (!ch->action)
+wild.info.c:	ch->action = NULL;
+wild.info.c:	if ( tRoom->number != GET_ROOM_VNUM(ch->in_room) )
+wild.map.c:	if ( !ch || !ch->desc || !ON_DECK(ch) )
+wild.map.c:	y		= GET_RY(ch->in_ship->in_room->number);
+wild.map.c:	x		= GET_RX(ch->in_ship->in_room->number);
+wild.map.c:	if (!ch || !ch->desc || (!IN_WILD(ch) && !ON_DECK(ch) && !IN_FERRY(ch)))
+wild.map.c:		chy		= GET_RY(ch->in_ship->in_room->number);
+wild.map.c:		chx		= GET_RX(ch->in_ship->in_room->number);
+wild.map.c:			sky = get_coord_weather(ch->in_ship->in_room->coord);
+wild.map.c:				strcat(map, show_sect(ch, ch->player_specials->wildmap[curr.y][curr.x], &real, FALSE, iDist));
+wild.map.c:	if (!ch || !ch->desc || (!IN_WILD(ch) && !ON_DECK(ch) && !IN_FERRY(ch)))
+wild.map.c:	if (IS_DARK(ch->in_room) && !CAN_SEE_IN_DARK(ch))
+wild.map.c:	if (SECT(ch->in_room) != SECT_CITY)
+wild.ships.c:	ch->in_ship			= ship;
+wild.ships.c:	ch->next_in_vehicle	= ship->people;
+wild.ships.c:	ch->in_ship->curr_val.loads -= GET_WEIGHT(ch) + IS_CARRYING_W(ch);
+wild.ships.c:	check_ship_speed( ch->in_ship );
+wild.ships.c:	REMOVE_FROM_LIST(ch, ch->in_ship->people, next_in_vehicle);
+wild.ships.c:	ch->in_ship					= NULL;
+wild.ships.c:	ch->next_in_vehicle			= NULL;
+wild.ships.c:	ch->player_specials->athelm	= FALSE;
+wild.ships.c:	for (ch = ship->people; ch; ch = ch->next_in_vehicle)
+wild.ships.c:	for ( ch = ship->people; ch; ch = ch->next_in_vehicle )
+wild.ships.c:	if ( !ch->in_ship )
+wild.ships.c:	if (ROOM_FLAGGED(ch->in_room, ROOM_SOUNDPROOF))
+wild.ships.c:	for ( ppl = ch->in_ship->people; ppl; ppl = ppl->next_in_vehicle )
+wild.ships.c:	if ( ch->in_ship )
+wild.ships.c:	if ( !( ship = find_ship_in_room_by_name( ch->in_room, arg ) ) )
+wild.ships.c:	if ( !ch->in_ship )
+wild.ships.c:	if ( !SHIP_FLAGGED(ch->in_ship, SHIP_IN_PORT) )
+wild.ships.c:	if ( SECT(ch->in_room) != SECT_SHIP_STERN )
+wild.ships.c:	if ( !( pRoom = get_wild_room( ch->in_ship->port ) ) )
+wild.ships.c:			ch->in_ship->port->y, ch->in_ship->port->x );
+wild.ships.c:	ch_printf( ch, "You disembark from '%s'.\r\n", ch->in_ship->name );
+wild.ships.c:	page_string( ch->desc, cbuf, 1 );
+wild.ships.c:	if (!ch->in_ship)
+wild.ships.c:	ship = ch->in_ship;
+wild.ships.c:		if ( SECT(ch->in_room) != SECT_SHIP_STERN )
+wild.ships.c:		if ( ch->player_specials->athelm )
+wild.ships.c:			ch->player_specials->athelm	= FALSE;
+wild.ships.c:			ch->player_specials->athelm	= TRUE;
+wild.ships.c:	ship = ch->in_ship;
+wild.ships.c:	if ( !ch || !ch->in_ship || !ch->player_specials->athelm )
+wild.ships.c:	ship = ch->in_ship;
+wild.ships.c:		ship_to_room(pShip, ch->in_room);
+wild.ships.c:	for (kCourse = ch->player_specials->courses; kCourse; kCourse = kCourse->next)
+wild.ships.c:	kCourse->next					= ch->player_specials->courses;
+wild.ships.c:	ch->player_specials->courses	= kCourse;
+zedit.c:  if (IS_NPC(ch) || !ch->desc || STATE(ch->desc) != CON_PLAYING)
+zedit.c:  d = ch->desc;
+zedit.c:    write_to_output(ch->desc, error);
+zedit.c:  write_to_output(ch->desc, "Zone created successfully.\r\n");

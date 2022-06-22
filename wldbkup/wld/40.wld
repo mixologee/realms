@@ -1,0 +1,1960 @@
+#4000
+A Broken Mast Rising From The Depths~
+A once sturdy looking, wooden mast raises up from the depths of the water.  
+It's obvious that the mast is old, especially now that it is cracked and broken.
+Beneath the mast and the surface of the water you can barely make out an ancient
+sunken pirate ship.  
+~
+40 65536 0 0 0 9
+D5
+~
+~
+0 0 4098
+S
+#4001
+The Mast~
+The mast cracks and almost seems to bend with the tides moving about it.  Tiny
+fish swim around your head, seemingly unaware of your presence.  Looking below
+you, you see the main deck of this creepy old ship.  
+~
+40 65536 0 0 0 9
+D4
+~
+~
+0 0 4094
+D5
+~
+~
+0 0 4002
+S
+#4002
+The Main Deck, at the Base of the Mast~
+Stepping down onto the Main Deck you find yourself completely submerged in the
+chilly waters.  The feeling that your not alone on this ship increases with
+every moment.  It's obvious this once was a majestic ship.  The floors beneath
+your feet were once lovely oak but now have decayed into shambles.  
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4007
+D1
+~
+~
+0 0 4003
+D2
+~
+~
+0 0 4009
+D3
+~
+~
+0 0 4011
+D4
+~
+~
+0 0 4001
+D5
+~
+hatch~
+1 4003 4062
+S
+#4003
+The Main Deck Before The Bow~
+The floor on this part of the deck seems to be a bit more stable.  Looking
+closely you can still see the scuff marks from the pirates boots who used to
+roam this ship.  To the east you see the bow of the ship.  
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4005
+D1
+~
+~
+0 0 4035
+D2
+~
+~
+0 0 4006
+D3
+~
+~
+0 0 4002
+S
+#4004
+A Small Cave of Ice~
+look a penguin.
+~
+40 131072 0 0 0 0
+D3
+~
+~
+0 0 -1
+S
+#4005
+The Main Deck~
+This part of the deck is the most stable, and highest on the tilted ship. The
+prow of the ship can be seen looming majestically overhead, dappled in light
+from above. A low moan can be heard as the current pushes against the ship. 
+It is a wonder that the ship hasn't fallen apart yet: perhaps the crew maintains
+the ship, even now after death?
+~
+40 65536 0 0 0 9
+D2
+~
+~
+0 0 4003
+D3
+~
+~
+0 0 4007
+S
+#4006
+The Main Deck~
+At this corner of the deck you can look over the edge into the abyss of the deep
+sea. The darkness seems to swallow up all the light streaming down from above,
+and lends to the eeriness of the deck. A portion of the railing has rotted away
+- it might not be safe to linger here.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4003
+D3
+~
+~
+0 0 4009
+S
+#4007
+The Main Deck~
+Walking along the main deck you see clearly how magnificent this ship once was.
+Though the floorboards are all but rotted away, you can see they were once the
+finest wood.  Each plank was placed lovingly by the pirates who once terrorized
+the sea and whose spirits now wander this ship.  
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4008
+D1
+~
+~
+0 0 4005
+D2
+~
+~
+0 0 4002
+D3
+~
+~
+0 0 4012
+S
+#4008
+The Main Deck~
+Walking along the main deck you see clearly how magnificent this ship once was.
+Though the floorboards are all but rotted away, you can see they were once the
+finest wood.  Each plank was placed lovingly by the pirates who once terrorized
+the sea and whose spirits now wander this ship.  
+~
+40 65536 0 0 0 0
+D2
+~
+~
+0 0 4007
+D3
+~
+~
+0 0 4013
+S
+#4009
+The Main Deck~
+The floor on this part of the deck is almost completely worn through.  Large,
+gaping holes make walking here treacherous.  You pick your way carefully across
+almost falling through to the hull.  Even with it as worn as it is the wood is
+still beautiful in an eerie way.  
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4002
+D1
+~
+~
+0 0 4006
+D2
+~
+~
+0 0 4010
+D3
+~
+~
+0 0 4015
+S
+#4010
+The Main Deck~
+The floor on this part of the deck is almost completely worn through.  Large,
+gaping holes make walking here treacherous.  You pick your way carefully across
+almost falling through to the hull.  Even with it as worn as it is the wood is
+still beautiful in an eerie way.
+~
+40 65536 0 0 0 0
+D0
+~
+~
+0 0 4009
+D3
+~
+~
+0 0 4016
+S
+#4011
+The Main Deck~
+The floor on this part of the deck seems to be a bit more stable. Looking
+closely you can still see the scuff marks from the pirates boots who used to
+roam this ship. The grain of the wood here is absolutely beautiful, even in its
+decay.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4012
+D1
+~
+~
+0 0 4002
+D2
+~
+~
+0 0 4015
+D3
+~
+~
+0 0 4018
+S
+#4012
+The Main Deck~
+Walking along the main deck you see clearly how magnificent this ship once was.
+Though the floorboards are all but rotted away, you can see they were once the
+finest wood.  Each plank was placed lovingly by the pirates who once terrorized
+the sea and whose spirits now wander this ship.  
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4013
+D1
+~
+~
+0 0 4007
+D2
+~
+~
+0 0 4011
+D3
+~
+~
+0 0 4019
+S
+#4013
+The Main Deck~
+Walking along the main deck you see clearly how magnificent this ship once was.
+Though the floorboards are all but rotted away, you can see they were once the
+finest wood.  Each plank was placed lovingly by the pirates who once terrorized
+the sea and whose spirits now wander this ship.  
+~
+40 65536 0 0 0 0
+D0
+~
+~
+0 0 4014
+D1
+~
+~
+0 0 4008
+D2
+~
+~
+0 0 4012
+D3
+~
+~
+0 0 4020
+S
+#4014
+The Main Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D2
+~
+~
+0 0 4013
+D3
+~
+~
+0 0 4021
+S
+#4015
+The Main Deck~
+The floor on this part of the deck seems to be a bit more stable. Looking
+closely you can still see the scuff marks from the pirates boots who used to
+roam this ship. The grain of the wood here is absolutely beautiful even in it's
+decay.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4011
+D1
+~
+~
+0 0 4009
+D2
+~
+~
+0 0 4016
+D3
+~
+~
+0 0 4023
+S
+#4016
+The Main Deck~
+The floor on this part of the deck seems to be a bit more stable. Looking
+closely you can still see the scuff marks from the pirates boots who used to
+roam this ship. The grain of the wood here is absolutely beautiful even in it's
+decay.
+~
+40 65536 0 0 0 0
+D0
+~
+~
+0 0 4015
+D1
+~
+~
+0 0 4010
+D2
+~
+~
+0 0 4017
+D3
+~
+~
+0 0 4024
+S
+#4017
+The Main Deck~
+The floor on this part of the deck seems to be a bit more stable. Looking
+closely you can still see the scuff marks from the pirates boots who used to
+roam this ship. The grain of the wood here is absolutely beautiful even in it's
+decay.
+~
+40 65536 0 0 0 0
+D0
+~
+~
+0 0 4016
+D3
+~
+~
+0 0 4025
+S
+#4018
+The Main Deck~
+The floor on this part of the deck seems to be a bit more stable.  Looking
+closely you can still see the scuff marks from the pirates boots who used to
+roam this ship.  The grain of the wood here is absolutely beautiful even in it's
+decay.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4019
+D1
+~
+~
+0 0 4011
+D2
+~
+~
+0 0 4023
+D3
+~
+door~
+1 4004 4027
+S
+#4019
+The Main Deck~
+The floor on this part of the deck seems to be a bit more stable. Looking
+closely you can still see the scuff marks from the pirates boots who used to
+roam this ship. The grain of the wood here is absolutely beautiful even in it's
+decay.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4020
+D1
+~
+~
+0 0 4012
+D2
+~
+~
+0 0 4018
+D3
+~
+~
+0 0 -1
+E
+scuff marks~
+Looking closely you see that in this room the marks seem to only go one way.
+Odd...
+~
+S
+#4020
+The Main Deck~
+Walking along the main deck you see clearly how magnificent this ship once was.
+Though the floorboards are all but rotted away, you can see they were once the
+finest wood.  Each plank was placed lovingly by the pirates who once terrorized
+the sea and whose spirits now wander this ship.  
+~
+40 65536 0 0 0 0
+D0
+~
+~
+0 0 4021
+D1
+~
+~
+0 0 4013
+D2
+~
+~
+0 0 4019
+D3
+~
+~
+0 0 4029
+S
+#4021
+The Main Deck~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 4014
+D2
+~
+~
+0 0 4020
+D3
+~
+~
+0 0 4030
+S
+#4022
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4095
+D1
+~
+~
+0 0 4091
+D2
+~
+~
+0 0 4026
+D3
+~
+~
+0 0 4045
+S
+#4023
+The Main Deck~
+The floor on this part of the deck seems to be a bit more stable. Looking
+closely you can still see the scuff marks from the pirates boots who used to
+roam this ship. The grain of the wood here is absolutely beautiful even in it's
+decay.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4018
+D1
+~
+~
+0 0 4015
+D2
+~
+~
+0 0 4024
+D3
+~
+~
+0 0 -1
+S
+#4024
+The Main Deck~
+This part of the deck is extremely unstable. It lingers the most over the
+precipice beneath the ship, and has been worn most by the current that probably
+first dragged the ship under. The planks have been rotted and ripped apart by
+the current, but show some signs of attempted repair.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4023
+D1
+~
+~
+0 0 4016
+D2
+~
+~
+0 0 4025
+D3
+~
+~
+0 0 4033
+S
+#4025
+The Main Deck~
+The floor on this part of the deck seems to be a bit more stable. Looking
+closely you can still see the scuff marks from the pirates boots who used to
+roam this ship. The grain of the wood here is absolutely beautiful even in it's
+decay.
+~
+40 65536 0 0 0 0
+D0
+~
+~
+0 0 4024
+D1
+~
+~
+0 0 4017
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 4034
+S
+#4026
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4022
+D1
+~
+~
+0 0 4092
+D3
+~
+~
+0 0 -1
+S
+#4027
+The Captain's Chambers~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4028
+D1
+~
+door~
+1 0 4018
+D2
+~
+~
+0 0 4032
+D3
+~
+~
+0 0 4036
+S
+#4028
+The Captain's Chambers~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 4027
+D3
+~
+~
+0 0 4040
+S
+#4029
+The Main Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4030
+D1
+~
+~
+0 0 4020
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 4041
+S
+#4030
+The Main Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 4021
+D2
+~
+~
+0 0 4029
+S
+#4031
+In the Hold~
+This unfinished room was created by Starfallen.
+~
+40 65544 0 0 0 9
+D3
+~
+~
+0 0 4063
+D4
+~
+~
+0 0 4047
+S
+#4032
+The Captain's Chambers~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4027
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 4037
+S
+#4033
+The Main Deck~
+The floor on this part of the deck seems to be a bit more stable. Looking
+closely you can still see the scuff marks from the pirates boots who used to
+roam this ship. The grain of the wood here is absolutely beautiful even in it's
+decay.
+~
+40 65536 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 4024
+D2
+~
+~
+0 0 4034
+D3
+~
+~
+0 0 4038
+S
+#4034
+The Main Deck~
+The floor on this part of the deck seems to be a bit more stable. Looking
+closely you can still see the scuff marks from the pirates boots who used to
+roam this ship. The grain of the wood here is absolutely beautiful even in it's
+decay.
+~
+40 65536 0 0 0 0
+D0
+~
+~
+0 0 4033
+D1
+~
+~
+0 0 4025
+D2
+~
+~
+0 0 -1
+S
+#4035
+The Bow of the Ship~
+The bow droops forward further into the sea.  Peering over the edge you can make
+out the shattered remains of a well endowed mermaid.  Considering mostly the
+only thing left of her is the busom.  The rails almost crumble beneath your
+fingertips and you quickly remove your hands.  The floor here beneath your feet
+~
+40 65536 0 0 0 9
+D3
+~
+~
+0 0 4003
+D5
+A dark, hidden hole.  
+~
+trapdoor~
+1 0 4043
+S
+#4036
+The Captain's Chambers~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4040
+D1
+~
+~
+0 0 4027
+D2
+~
+~
+0 0 4037
+D3
+~
+~
+0 0 4043
+S
+#4037
+The Captain's Chambers~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4036
+D1
+~
+~
+0 0 4032
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 4046
+S
+#4038
+The Main Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 4033
+D2
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 4055
+S
+#4039
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4042
+D1
+~
+~
+0 0 4095
+D2
+~
+~
+0 0 4045
+S
+#4040
+The Captain's Chambers~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 4028
+D2
+~
+~
+0 0 4036
+D3
+~
+~
+0 0 4044
+S
+#4041
+The Main Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 4029
+D2
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 4051
+S
+#4042
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D1
+~
+~
+0 0 4096
+D2
+~
+~
+0 0 4039
+S
+#4043
+The Captains Chambers~
+This room used to be the grandest on the ship. All the paneling in here seems
+to have gold intermixed with the wood. There is a large desk standing before
+the southern wall with yellowing papers covering it. A throne-like chair sits
+behind this desk almost daring you to take the captains seat. A Large throw rug
+covers most of the floor, giving this room a more home worthy look.
+~
+40 65544 0 0 0 0
+D0
+~
+~
+0 0 4044
+D1
+~
+~
+0 0 4036
+D2
+~
+~
+0 0 4046
+D3
+~
+~
+0 0 -1
+S
+#4044
+The Captain's Chambers~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 4040
+D2
+~
+~
+0 0 4043
+S
+#4045
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4039
+D1
+~
+~
+0 0 4022
+D2
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 -1
+S
+#4046
+The Captain's Chambers~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4043
+D1
+~
+~
+0 0 4037
+D2
+~
+~
+0 0 -1
+S
+#4047
+New BuildWalk Room~
+This unfinished room was created by Starfallen.
+~
+40 0 0 0 0 0
+D5
+~
+~
+0 0 4031
+S
+#4048
+main deck~
+This unfinished room was created by Aiden.
+~
+40 0 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+S
+#4049
+main deck~
+This unfinished room was created by Aiden.
+~
+40 0 0 0 0 0
+D2
+~
+~
+0 0 4048
+D4
+~
+~
+0 0 -1
+S
+#4050
+main deck~
+This unfinished room was created by Aiden.
+~
+40 0 0 0 0 0
+D0
+~
+~
+0 0 4048
+S
+#4051
+The Poop Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D2
+~
+~
+0 0 4052
+D5
+~
+~
+0 0 4041
+S
+#4052
+The Poop Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4051
+D1
+~
+~
+0 0 4057
+D2
+~
+~
+0 0 4053
+D3
+~
+~
+0 0 4060
+S
+#4053
+The Poop Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4052
+D1
+~
+~
+0 0 4056
+D2
+~
+~
+0 0 4054
+D3
+~
+~
+0 0 4059
+D4
+~
+~
+0 0 4081
+S
+#4054
+The Poop Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4053
+D1
+~
+~
+0 0 4058
+D2
+~
+~
+0 0 4055
+D3
+~
+~
+0 0 4061
+S
+#4055
+The Poop Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4054
+D5
+~
+~
+0 0 4038
+S
+#4056
+The Capstan~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4057
+D2
+~
+~
+0 0 4058
+D3
+~
+~
+0 0 4053
+S
+#4057
+The Poop Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D2
+~
+~
+0 0 4056
+D3
+~
+~
+0 0 4052
+S
+#4058
+The Poop Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4056
+D3
+~
+~
+0 0 4054
+S
+#4059
+The Poop Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4060
+D1
+~
+~
+0 0 4053
+D2
+~
+~
+0 0 4061
+S
+#4060
+The Poop Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D1
+~
+~
+0 0 4052
+D2
+~
+~
+0 0 4059
+S
+#4061
+The Poop Deck~
+This unfinished room was created by Aiden.
+~
+40 65536 0 0 0 9
+D0
+~
+~
+0 0 4059
+D1
+~
+~
+0 0 4054
+S
+#4062
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4066
+D1
+~
+~
+0 0 4063
+D2
+~
+~
+0 0 4068
+D3
+~
+~
+0 0 4070
+D4
+~
+hatch~
+1 0 4002
+S
+#4063
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4064
+D1
+~
+~
+0 0 4031
+D2
+~
+~
+0 0 4065
+D3
+~
+~
+0 0 4062
+S
+#4064
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D2
+~
+~
+0 0 4063
+D3
+~
+~
+0 0 4066
+S
+#4065
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4063
+D3
+~
+~
+0 0 4068
+S
+#4066
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4067
+D1
+~
+~
+0 0 4064
+D2
+~
+~
+0 0 4062
+D3
+~
+~
+0 0 4071
+S
+#4067
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D2
+~
+~
+0 0 4066
+D3
+~
+~
+0 0 4072
+S
+#4068
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4062
+D1
+~
+~
+0 0 4065
+D2
+~
+~
+0 0 4069
+D3
+~
+~
+0 0 4074
+S
+#4069
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4068
+D3
+~
+~
+0 0 4075
+S
+#4070
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4071
+D1
+~
+~
+0 0 4062
+D2
+~
+~
+0 0 4074
+D3
+~
+~
+0 0 4077
+S
+#4071
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4072
+D1
+~
+~
+0 0 4066
+D2
+~
+~
+0 0 4070
+D3
+~
+~
+0 0 4078
+S
+#4072
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4073
+D1
+~
+~
+0 0 4067
+D2
+~
+~
+0 0 4071
+D3
+~
+~
+0 0 4079
+S
+#4073
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D2
+~
+~
+0 0 4072
+D3
+~
+~
+0 0 4080
+S
+#4074
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4070
+D1
+~
+~
+0 0 4068
+D2
+~
+~
+0 0 4075
+D3
+~
+~
+0 0 4082
+S
+#4075
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4074
+D1
+~
+~
+0 0 4069
+D2
+~
+~
+0 0 4076
+D3
+~
+~
+0 0 4083
+S
+#4076
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4075
+D3
+~
+~
+0 0 4084
+S
+#4077
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4078
+D1
+~
+~
+0 0 4070
+D2
+~
+~
+0 0 4082
+D3
+~
+~
+0 0 4086
+S
+#4078
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4079
+D1
+~
+~
+0 0 4071
+D2
+~
+~
+0 0 4077
+D3
+~
+~
+0 0 4087
+S
+#4079
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4080
+D1
+~
+~
+0 0 4072
+D2
+~
+~
+0 0 4078
+D3
+~
+~
+0 0 4088
+S
+#4080
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 4073
+D2
+~
+~
+0 0 4079
+D3
+~
+~
+0 0 4089
+S
+#4081
+The Aft Mast~
+This unfinished room was created by Accarid.
+~
+40 65536 0 0 0 9
+D4
+~
+~
+0 0 4085
+D5
+~
+~
+0 0 4053
+S
+#4082
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4077
+D1
+~
+~
+0 0 4074
+D2
+~
+~
+0 0 4083
+D3
+~
+~
+0 0 4091
+S
+#4083
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4082
+D1
+~
+~
+0 0 4075
+D2
+~
+~
+0 0 4084
+D3
+~
+~
+0 0 4092
+S
+#4084
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4083
+D1
+~
+~
+0 0 4076
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 4093
+S
+#4085
+The Aft Mast~
+This unfinished room was created by Accarid.
+~
+40 65536 0 0 0 9
+D4
+~
+~
+0 0 4090
+D5
+~
+~
+0 0 4081
+S
+#4086
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4087
+D1
+~
+~
+0 0 4077
+D2
+~
+~
+0 0 4091
+D3
+~
+~
+0 0 4095
+S
+#4087
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4088
+D1
+~
+~
+0 0 4078
+D2
+~
+~
+0 0 4086
+D3
+~
+~
+0 0 4096
+S
+#4088
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4089
+D1
+~
+~
+0 0 4079
+D2
+~
+~
+0 0 4087
+D3
+~
+~
+0 0 4097
+S
+#4089
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 4080
+D2
+~
+~
+0 0 4088
+S
+#4090
+The Crow's Nest~
+This unfinished room was created by Accarid.
+~
+40 65536 0 0 0 9
+D5
+~
+~
+0 0 4085
+S
+#4091
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4086
+D1
+~
+~
+0 0 4082
+D2
+~
+~
+0 0 4092
+D3
+~
+~
+0 0 4022
+S
+#4092
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4091
+D1
+~
+~
+0 0 4083
+D2
+~
+~
+0 0 4093
+D3
+~
+~
+0 0 4026
+S
+#4093
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4092
+D1
+~
+~
+0 0 4084
+D2
+~
+~
+0 0 -1
+S
+#4094
+The Mast~
+The mast cracks and almost seems to bend with the tides moving about it. Tiny
+fish swim around your head, seemingly unaware of your presence. The water
+quickly grows darker as you descend the mast.
+~
+40 65536 0 0 0 9
+D4
+~
+~
+0 0 4098
+D5
+~
+~
+0 0 4001
+S
+#4095
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4096
+D1
+~
+~
+0 0 4086
+D2
+~
+~
+0 0 4022
+D3
+~
+~
+0 0 4039
+S
+#4096
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 4097
+D1
+~
+~
+0 0 4087
+D2
+~
+~
+0 0 4095
+D3
+~
+~
+0 0 4042
+S
+#4097
+In the Hold~
+This unfinished room was created by Aiden.
+~
+40 65544 0 0 0 9
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 4088
+D2
+~
+~
+0 0 4096
+S
+#4098
+The Mast~
+The water glimmers with light from above, and swirls with the ocean tide. The
+mast sways to and fro beneath you in a way enough to make a seasoned sea dog
+nervous. The ship is a dark hulk on the sea floor far below you - a low moan
+rises up from the depths.
+~
+40 65536 0 0 0 9
+D4
+~
+~
+0 0 4000
+D5
+~
+~
+0 0 4094
+S
+$~

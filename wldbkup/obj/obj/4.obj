@@ -1,0 +1,307 @@
+#400
+claws bat~
+some sharp bat claws~
+A few sharp bat claws, still attached to the feet, prove a useful weapon.~
+For a moment you feel sorry for the bat that has lost its little claws, then you
+think, this is a game who really cares how a text-based bat feels?
+~
+34 drs 0 0 0 ao 0 0 0 0 0 0 0
+0 4 4 0
+1 0 185 0
+A
+18 2
+A
+19 4
+A
+2 2
+#401
+pool water spring~
+a cold spring~
+A stream of water bubbles up out of the earth, forming a pool of drinkable water.~
+This is one of the many small springs in this cavern- what makes this one special is where it comes from.
+~
+23 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1000 0 0 0
+#402
+pile shiny drake treasure~
+a pile of shiny drake treasure~
+A pile of glittering things is here upon the ground- it looks like something has been sleeping on it.~
+Drakes are known as the lesser dragons for a reason- the drake responsible for
+this followed the draconic trait of creating a pile of treasure to sleep on.
+~
+8 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+5 100000 0 0
+#403
+lump goo phlegm reddish~
+a lump of reddish goo~
+This jiggling gel looks quite edible, even useful.~
+How an avolakia managed to obtain such a substance is beyond knowing, but it
+seems likely that if it was worth holding onto that perhaps eating it would
+produce an effect useful in this underground lake...
+~
+10 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 500 0 0
+#404
+hook claw~
+the hooked claw of a Hooked Horror~
+A Hook Horror is missing its claw.~
+Long and serrated, this claw would make a useful weapon. The blunt end of the
+hook only makes it a more painful weapon to have thrust through you.
+~
+5 rsB 0 0 0 ahn 0 0 0 l 0 0 0
+10 5 5 11
+3 1000 0 17
+A
+1 4
+A
+2 1
+A
+18 2
+A
+19 2
+#405
+corpse adventurer slain~
+the corpse of an adventurer~
+This adventurer is frozen in thick ice, his eyes still open from the time he looked his last.~
+What. An. Idiot.
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+150 0 0 0
+#406
+helmet feathered Taris'Vaal~
+a feathered helmet bearing the emblem of Taris'Vaal~
+An overly pompus-looking helmet sits here, its purple feather drooping.~
+This helmet is fit for a knight in shining armor who rescues fair damsels in
+distress.
+~
+9 ars 0 0 0 ae 0 0 0 0 0 0 0
+-2 0 0 0
+3 1000 0 5
+A
+12 10
+A
+13 10
+A
+3 1
+#407
+tunic leather damaged~
+a thick leather tunic, damaged by ice~
+This tunic appears to have once been very cold, and suffered the consequences.~
+This leather tunic once belonged to a very brave, very stupid adventurer. He
+got frozen solid, which damaged his tunic.
+~
+9 rs 0 0 0 ad 0 0 0 0 0 0 0
+-5 0 0 0
+0 0 0 0
+A
+1 2
+A
+13 5
+#408
+iron lantern~
+an iron lantern~
+An iron lantern stands steadfastly on the ground.~
+This lantern is made of hard iron- it didn't protect the original bearer very
+well, because now he's an adventurer-cicle.
+~
+1 a 0 0 0 ap 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+A
+13 10
+A
+18 2
+#409
+coin gold shiny~
+a shiny gold coin~
+This coin is very shiny- it looks valuable.~
+Too bad the adventurer who had this coin last didn't get a chance to spend it.
+~
+8 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 10000 0 0
+#410
+lump pile equipment~
+a pile of crushed equipment~
+Bone ooze doesn't devour its prey's equipment- it merely spits it out in a crushed pile like this one.~
+A grisly pile of remains and equipment lies entangled upon the ground. Some of
+the items within look potentially useful.
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+100 0 -1 0
+500 0 0 0
+#411
+shiny dented breast plate~
+a shiny, dented breast plate~
+This breast plate is a little bit dented and reeks of blood.~
+
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+-7 0 0 0
+8 5000 0 0
+A
+1 2
+A
+17 -3
+A
+12 20
+#412
+pile metal bits~
+a pile of metal bits~
+A large pile of metal leans against the wall, rising about two meters tall.~
+All manner of things are stuck in this pile, all metallic in nature. Most are
+shredded, but some objects remain intact.
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+-1 0 -1 0
+600 0 0 0
+#413
+coins pile gold~
+a pile of gold coins~
+A pile of gold coins sits on the ground.~
+Somehow a pile of gold coins has gone through a bone ooze without suffering much
+worse than dents.
+~
+8 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+7 157642 0 0
+#414
+expensive suit mithril armor~
+an expensive suit of mithril armor~
+This armor looks very protective, and difficult to break.~
+This armor must have cost the man who bought it a small fortune- whole lotta
+good it did him.
+~
+9 u 0 0 0 adk 0 0 0 0 0 0 0
+-20 0 0 0
+7 50000 185 0
+A
+17 -5
+A
+13 25
+A
+24 -2
+A
+19 5
+#415
+coins pile~
+a pile of coins~
+A pile of shiny coins lies here, waiting for you to take it.~
+Accarid's messenger magpie is a very generous bird- since it is so good at
+collecting things, it has set up puzzles to solve, and if you can prove yourself
+it bestows upon you a large quantity of gold.
+~
+8 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+10 1428570 0 0
+#416
+heavy iron key~
+a heavy iron door key~
+This key looks VERY heavy.~
+This key goes to a heavy iron door, deep within the cavern- what could be on the
+other side?
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+50 0 0 0
+#417
+skull locket~
+a tear-stained human skull, with a locket on a chain wrapped about its cranium~
+A human skull grins mournfully up at you from the ground, a heart-shaped locket hanging from its nasal cavity.~
+When Maravid learned that his fiance had been captured by an evil cleric and was
+meant to be a sacrifice, he gathered a rescue team and made a frantic scramble
+down into the Taris'Vaal caverns. Alas, he was too late- upon finding the skull
+of his lover, with a few strands of golden hair still attached to the skull and
+the locket around what remained of her neck, he went mad. There he remained,
+for the rest of his days, clutching the skull of his beloved and screaming
+wildly in rage.
+~
+11 knu 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+2 10000 0 18
+A
+13 25
+A
+24 -2
+A
+17 -10
+#418
+mask water breathing~
+a mask of water breathing~
+An unfinished object is lying here.~
+A leather and glass mask lies here, making googly eyes at you.
+~
+11 0 0 0 0 ae 0 0 0 F 0 0 0
+0 0 0 0
+2 100 0 0
+#419
+miner's bag~
+a clay miner's bag~
+A stretchy brown bag lies here, stained with clay.~
+This bag is made for carrying clay- it is strong, flexible, and easy to carry on
+the back.
+~
+15 u 0 0 0 ak 0 0 0 h 0 0 0
+70 1 -1 0
+5 50 0 0
+A
+13 20
+A
+18 5
+#420
+seaweed weed chew magic algae~
+a chewy strip of magic seaweed~
+A purplish strip of algae is laid out on the ground.~
+The clay miners of Taris'Vaal often carried a sea plant that was reputed to
+grant the one who eats it with increased strength- the algae must be effective,
+because the miners are some of the most industrious in the world regardless of
+age or size.
+~
+19 0 0 0 0 am 0 0 0 0 0 0 0
+1 0 0 0
+1 0 0 0
+A
+2 2
+A
+13 5
+#421
+pick axe pickaxe~
+a clay miner's pickaxe~
+A heavy pickaxe leans against itself, head-down on the floor.~
+The handle of this axe is worn smooth by use, and split at the base by age. 
+The head of the pickaxe is heavy and made of cast iron.
+~
+5 u 0 0 0 an 0 0 0 0 0 0 0
+2 1 8 11
+10 750 0 2
+A
+1 2
+#422
+shirt flannel~
+a muddy flanenel shirt~
+A muddly flannel shirt lies here in a crumpled heap.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+-5 0 0 0
+0 0 0 0
+#423
+boots armored~
+a sturdy pair of armored boots~
+A pair of armored boots stand side by side, waiting to be of service.~
+These boots are heavy with armor, and cushioned with soft cloth. They shine in
+the light, and sigh through the ventilation with each step.
+~
+9 knu 0 0 0 ag 0 0 0 0 0 0 0
+-3 0 0 0
+7 500 0 18
+A
+5 4
+A
+18 2
+A
+19 3
+$~

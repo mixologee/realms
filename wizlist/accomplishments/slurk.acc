@@ -1,0 +1,21 @@
+&R***********************************************************&n
+&R**              &Y Slurk - Accomplishments                &R **&n
+&R***********************************************************&n
+&R**                                                       **&n
+&R**   &W- &CCreated Crystal Gate Travel System               &R **&n
+&R**        &W*&ccrygates/fixtrans/press/symbols commands     &R **&n
+&R**   &W- &CCreated Mob Intelligence Module                  &R **&n
+&R**   &W- &CCreated Room Affections Module                   &R **&n
+&R**   &W- &CAssisted Creation of Wilderness Modules          &R **&n
+&R**   &W- &CVarious Zone Editing Commands                    &R **&n
+&R**        &W*&cfinddoor/findkey commands                    &R **&n
+&R**   &W- &CCreated GAMESTATS Display                        &R **&n
+&R**   &W- &CCreated WIZLIST Breakout and Displays            &R **&n
+&R**        &W*&cwizlist <name> <area>                        &R **&n
+&R**   &W- &CVarious Misc Code Enhancements and Updates       &R **&n
+&R**        &W*&cdbs/vwear/vstat/warn  commands               &R **&n
+&R**        &W*&cmessage <paper> <target> module              &R **&n
+&R**        &W*&cpeace/peaceall/badname commands              &R **&n
+&R**        &W*&cbind/mbind/unbind commands                   &R **&n
+&R**                                                      &R **&n
+&R***********************************************************&n

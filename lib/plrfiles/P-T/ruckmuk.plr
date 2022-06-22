@@ -1,0 +1,97 @@
+Name: Ruckmuk
+Pass: Ru7vngtS9wigw
+Titl: the Healer
+Sex : 1
+Clas: 1
+Levl: 15
+Id  : 213
+Brth: 1216431768
+Plyd: 5670
+Last: 1216437438
+Host: c-98-233-193-117.hsd1.dc.comcast.net
+Hite: 196
+Wate: 138
+Alin: -71
+Act : gh 0 0 0
+Aff : 0 0 0 0
+Pref: ho 0 0 0
+Room: 6306
+Lern: 7
+Hung: 17
+Thir: 14
+Hit : 258/188
+Mana: 154/139
+Move: 218/218
+Str : 14/0
+Int : 14
+Wis : 16
+Dex : 14
+Con : 14
+Cha : 16
+Ac  : 100
+Gold: 87089
+Exp : 2074107
+Hrol: -20
+Drol: 4
+Page: 0
+Mkls: 140
+Deth: 5
+Wcl : 1
+Dyng: -1
+ScrW: 0
+Page: 0
+News: 13
+Sec : 1
+Skil:
+1 95
+3 95
+4 95
+12 95
+13 95
+14 95
+15 95
+19 95
+22 95
+23 95
+33 95
+36 95
+40 95
+42 95
+43 100
+46 95
+47 95
+50 95
+52 95
+53 95
+98 95
+0 0
+Prof:
+0 0
+Wood:
+0 0
+Scal:
+0 0
+Skin:
+0 0
+Affs:
+36 3 0 0 8
+1 21 -20 17 0
+3 25 -1 24 0
+3 25 5 18 0
+0 0 0 0 0
+Alis: 5
+cr
+c cure critic ruckmuk
+0
+cc
+c cure critic
+0
+gg
+get gold cor
+0
+sa
+sac corpse
+0
+lc
+l in corpse
+0

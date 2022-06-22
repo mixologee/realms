@@ -1,0 +1,835 @@
+#6300
+custodian man janitor~
+a custodian of the streets~
+A custodian of the streets is here, cleaning things up.
+~
+Toiling all day, this man seems destined to do nothing but clean the streets of
+Taris'Vaal.  His skin is weathered from spending so much time outdoors and his
+hands are calloused from constantly picking up abandoned objects.  He glances at
+you for a moment then turns to remove yet another piece of garbage from the
+street.  
+~
+76 0 0 0 0 0 0 0 360 E
+1 15 10 1d1+25 1d3+5
+1 2300
+8 8 1
+E
+#6301
+custodian woman janitor~
+a custodian of the streets~
+A custodian of the streets is here, tidying up.
+~
+Toiling all day, this woman seems destined to do nothing but clean the streets
+of Taris'Vaal.  Her hair is bleached from spending so much time outdoors and her
+hands are calloused from constantly picking up abandoned objects.  She glances
+at you for a moment then turns to remove yet another piece of garbage from the
+street.  
+~
+76 0 0 0 0 0 0 0 360 E
+1 15 10 1d1+25 1d3+5
+1 2300
+8 8 1
+E
+#6302
+man traveler~
+a weary traveler~
+A weary traveler wanders the streets, staring in wonder.
+~
+Having traveled from a far off city, this traveler seems exhausted from his
+journey.  However, that doesn't stop him from enjoying all the sights and sounds
+of Taris'Vaal.  He glances up and down the city streets, then turns and heads
+for the nearest inn.  
+~
+72 0 0 0 0 0 0 0 360 E
+3 14 10 30d1+55 2d4+6
+5 700
+8 8 1
+E
+#6303
+woman traveler~
+a weary traveler~
+A weary traveler wanders the city, gazing at the sights.
+~
+Having travelled from a far off city, this traveler seems exhausted from her
+journey.  However, that doesn't stop her from enjoying all the sights and sounds
+of Taris'Vaal.  She glances up and down the city streets, then turns and heads
+for the nearest inn.  
+~
+72 0 0 0 0 0 0 0 360 E
+3 14 10 30d1+55 2d4+6
+5 5500
+8 8 2
+E
+#6304
+guard man~
+a Taris'Vaal City Guard~
+A City Guard stands here, keeping an eye out for trouble.
+~
+Clad in gleaming armor bearing the seal of Taris'Vaal, this guard keeps a keen
+eye on the streets.  Ever aware of his surroundings, nothing escapes his notice.
+So concentrated is he on his duty as a guardsman, he fails to notice the
+attention he garners from his female counterparts.  
+~
+88 0 0 0 0 0 0 0 360 E
+15 0 10 50d1+230 4d4+15
+10 2000
+8 8 1
+E
+#6305
+woman guard~
+a Taris'Vaal City Guard~
+A City Guard stands here, glancing longingly at her male counterparts.
+~
+Clad in gleaming armor bearing the seal of Taris'Vaal, this beautiful woman
+keeps watch over the city streets.  However her attention seems to wander.  
+Married to her job, she has no time to dally in relationships, but her sideways
+glances at her male counterparts seem to say otherwise.  
+~
+88 0 0 0 0 0 0 0 360 E
+15 0 10 45d1+230 4d4+15
+10 2000
+8 8 2
+E
+#6306
+man mercenary~
+an unemployed mercenary~
+An unemployed mercenary wanders the streets, looking for a job.
+~
+Hard times have fallen upon this man.  His clothes are worn and his face is
+covered in grime.  He pulls his sword from its sheath and you notice the blade
+is rusted and nicked.  He asks various passerby if they have any jobs he could
+do for them to pick up a little extra coin.  
+~
+72 0 0 0 0 0 0 0 0 E
+5 16 10 40d1+90 3d3+4
+1 1700
+8 8 1
+E
+#6307
+man idiot vrise~
+Vrise, the Town Idiot~
+An odd, smelly man is here, babbling his insane thoughts out loud.
+~
+Crazed beyond imagination, this soiled man runs up the streets, howling random
+claims of grandeur at anyone he passes by.  Dirt covers his clothing, apparently
+he hasn't washed in quite some time.  
+~
+76 0 0 0 0 0 0 0 -360 E
+5 18 10 1d1+150 1d1+2
+1 1
+8 8 1
+E
+#6308
+man crier~
+the town crier~
+The town crier is here, relaying news of the world.
+~
+It looks unfinished.
+~
+10 0 0 0 8272 0 0 0 1000 E
+23 -5 10 100d50+1300 5d4+20
+0 130000
+8 8 1
+E
+#6309
+man horus~
+Horus, the Swordsmaster~
+A powerful man leans over a hot forge as he hammers away at a still glowing-hot blade.
+~
+Sweating over a hot forge, this powerful man skillfully creates a new blade to
+add to the collection already adorning the walls of this shop.  He notices you
+and turns from his task and approaches the store's counter.  
+~
+11 0 0 0 80 0 0 0 1000 E
+70 -79 10 1d1+100000 99d99+99
+1 1
+8 8 1
+E
+#6310
+man stan bartender~
+Stan, the Bartender~
+An older gentleman is here, tending the bar.
+~
+Beads of sweat glisten on this man's forehead as he diligently wipes down the
+countertop.  His rather large belly forces him to lean quite far to reach across
+the top, apparently he has been imbibing much of his own wares.  
+~
+11 0 0 0 0 0 0 0 1000 E
+70 -79 10 1d1+100000 99d99+99
+0 1
+8 8 1
+E
+#6311
+girl waitress~
+a hurried waitress~
+A young girl runs from table to table, taking orders.
+~
+This beautiful young girl rushes through the tavern.  Weaving in and out of
+patrons, trying desperately to not spill a drink, while also trying to avoid the
+leers and pinches from the drunks.  
+~
+14 0 0 0 0 0 0 0 1000 E
+10 10 10 1d1+2000 3d5+15
+15 1500
+8 8 0
+E
+#6312
+man patron~
+a drunken patron~
+A drunken patron nearly falls out of his chair trying to pinch the passing waitresses' behind.
+~
+This scruffy looking man has clearly had his share of drink tonight.  His eyes
+are bloodshot through and through, his nose has turned to a bright red.  Each
+word from his mouth is sputtered and slurred.  As he turns to look at the pretty
+waitresses, he nearly slips from the chair.  
+~
+10 0 0 0 0 0 0 0 -360 E
+15 10 10 1d1+2500 1d1+10
+1 1
+8 8 1
+E
+#6313
+eithne cat ~
+Eithne~
+A tuxedo cat with a crinkled nose is curled in a ball dozing.
+~
+This small cat is mostly black, with a white face, white mittens on her front
+paws, and white legs.  A black spot slightly off center under her nose gives her
+the appearance of a Charlie Chaplin mustache.  Her long black tail has a kink in
+the end.  
+~
+26 0 0 0 0 0 0 0 1000 E
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+E
+T 2300
+#6314
+man bearded~
+a man with a pointed goatee~
+A small trim man with a sharply pointed goatee polishes his monocle.
+~
+This man wears a dapper brown suit with blue pinstripes.  He carries a wooden
+walking cane with a silver horse head grip, and has a royal blue handkerchief
+folded in his pocket.  His silvery monocle is so polished, it is nearly
+impossible to see his eye
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#6315
+woman chestnut~
+an attractive young woman~
+An attractive young woman flirts and shakes her chestnut hair.
+~
+This young woman has attractive features, but her best would probably been her
+long, sleek chestnut hair.  It flows past her shoulders, almost completely
+obscuring her curiously pointed ears.  Her dark eyes flash mischieviously and
+she flirts with all wh
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+E
+#6316
+bearded man~
+a bearded old man~
+A man with a long white beard mumbles to himself incoherently.
+~
+The threadbare, stained clothing of this gentleman suggest that he does not
+spend a lot of time on his appearance.  His long beard is scraggly and unkempt,
+and, upon closer inspection, seems to have a bird's nest partially woven into
+it.  His cloudy eyes
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#6317
+elderly woman~
+an elderly woman~
+An elderly woman searches the crowd.
+~
+A wizened elderly lady with a greyish blue beehive hairdo hurries through the
+town, scanning the area with a vengeance.  The buttons on her blouse are
+mismatched, suggesting she got dressed in a hurry, and the laces on one of her
+pointed boots are coming
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+E
+#6318
+spradlin~
+a Spradlin~
+A devilishly cunning young Spradlin wearing spectacles is idly entertaining himself in a way that you find both distracting and comical.
+~
+The Spradlin is just under six feet tall and weighs almost 200 pound s, but its
+cuddly appearance and mild demeanor make for a perfect companion.  I t has sandy
+blond fibers growing out of what might be its head, and horribly scratched
+spectacles.  It seems easily entertained by its own silly behavior, and giggles
+to itself cunningly.  
+~
+8 0 0 0 0 0 0 0 -1000 E
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+T 6315
+#6319
+goat~
+a goat~
+A black goat with curly horns capers down the street.
+~
+This cloven footed beast is fat and sleek, obviously well taken care of.  It
+stares hungrily at the boots of passersby, and idly chews its cud.  Its black
+eyes betray its complete lack of intelligence.  
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#6320
+sow pig~
+a sow~
+A fat sow wallows in the muck.
+~
+This extremely fat sow is mostly pink, with a large black spot splashed over the
+left side of her face.  The stench rising off of her is nearly unbearable.  Her
+teats are swollen and extended, suggesting she has recently given birth.  
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+E
+#6321
+mutt dog~
+a scruffy little mutt~
+A small, non-descript brown dog scratches at a flea.
+~
+This small dog has short, curly brown fur and floppy ears.  One ear points
+directly upward, while the other is folded backwards against her head.  Her
+tongue lolls out of her mouth, giving her a cheerful appearance.  Her tag wags
+happily at the passersby
+~
+8 0 0 0 0 0 0 0 0 E
+1 18 10 1d1+11 1d3+2
+0 55
+8 8 2
+E
+T 6321
+#6322
+cat ginger stray~
+a dirty alley cat~
+A fat ginger stray stalks its prey.
+~
+A self-satisfied expression spreads across this ginger cat's fat face.  Its
+alert eyes watch for potential prey.  This is a fearsome hunter, and a force to
+be reckoned with.
+~
+8 0 0 0 0 0 0 0 -360 E
+1 18 10 1d1+11 1d3+2
+0 55
+8 8 1
+E
+#6323
+piglet~
+a small piglet~
+A small black piglet stumbles after its mother.
+~
+This small black piglet looks barely old enough to venture out on its own.  It
+sniffs the unfamiliar smells of the city.  Every so often, it emits a nervous
+whimper, as it looks for its mother.  
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#6324
+man hobo raggeddy~
+a hobo~
+A raggedy old man begs for alms.
+~
+An old, old man in a patchwork coat bothers everyone in the crowd, begging for
+water, despite the battered flask that is plainly visible in the pocket of his
+patchwork coat.  His bluffy eyes and red, vericose nose bely a not quite sober
+state.  
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+T 6324
+#6325
+bulldog dog~
+a grumpy old bulldog~
+A rotund bulldog waddles down the street.
+~
+This elderly bulldog looks more than well fed.  His waist looks to exceed 30
+inches, and his short, stubby legs can barely support his weight.  He noses at
+piles of rubbish on the street corners, looking for another snack.  
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+T 6325
+#6326
+miraessa lady mistress woman tea~
+Miraessa~
+A plump woman in a white lace hat is tidying up the shop.
+~
+A cheerful, matronly woman is busy in a corner of the shop, efficiently washing
+tea cups.  Her salt and pepper hair is pinned back in a neat bun, and covered
+with a simple cloth hat with lace edging.  Her stylish black dress indicates she
+comes from a monied background, and is probably running a tea shop as a hobby.
+
+~
+4122 0 0 0 16 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+E
+T 6326
+#6327
+man cletus fatass~
+Cletus, the Confectioner~
+A rather sweaty, rather rotund man stands behind the counter, busily eating all of his profits.
+~
+Beads of sweat roll down this man's bloated face, mixing with crumbs surrounding
+his mouth to form a thick sludge that drips off his chin onto his shirt.  He
+stares intently at a nearby oven, completly ignoring any customers, impatiently
+awaiting whatever is cooking to be finished so he can stuff his face some more.
+~
+10 0 0 0 80 0 0 0 -1000 E
+70 -79 10 1d1+100000 50d50+99
+1 1
+8 8 1
+E
+#6328
+boy young~
+a young boy~
+A young boy concentrates as he lines up his next shot.
+~
+This young boy is dressed in clothes dirtied from playing marbles on the ground.
+His face and hands match his clothes, streaked with dust.  He chooses his
+favorite marble, then closes one eye and bites his tongue in concentration as he
+lines up his next shot.  
+~
+2058 0 0 0 0 0 0 0 450 E
+5 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+T 6328
+T 6329
+T 6330
+#6329
+woman girl receptionist~
+the hotel receptionist~
+A young woman tends the counter, waiting to assist customers.
+~
+Lush, blonde hair falls down this pretty girl's back as she sits behind the counter.
+Yeah this needs work...
+~
+26 0 0 0 80 0 0 0 1000 E
+70 -79 10 1d1+100000 50d50+99
+1 1
+8 8 0
+E
+#6330
+man barman eugene~
+a barman~
+A giant of a man stands behind the bar, serving drinks.
+~
+It looks unfinished.
+~
+10 0 0 0 524304 0 0 0 0 E
+99 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#6331
+vagrant~
+the drunken vagrant~
+A drunken vagrant swys unsteadily here.
+~
+A drunken vagrant sways unsteadily here, and leaves behind the stench of urine soaked wool and old alcohol in his wake.  This palid, bearded face betrays no emotion.  His eyes are glassy and dead, save for the faint glimmer of hope for more booze or gold
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#6332
+man nar trigg~
+Nar Trigg, the blacksmith~
+A strong man hefts a new armor as he examines its newly-forged surface.
+~
+Thick muscles play under the surface of this man's leather tunic, flexing as he
+lifts a newly-forged suit of armor of his own design.  His mustache twitches as
+he grunts in approval of his new creation.  He sets the armor in a glass case
+then returns to the counter to assist his customers.
+~
+26 0 0 0 16 0 0 0 360 E
+70 -30 10 1d1+100000 50d50+50
+1 1
+8 8 1
+E
+#6333
+man owner wensleydale~
+Sir Wensleydale, the owner of the Cheese Emporium~
+A balding man stands at the counter, ready to assist customers.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 360 E
+70 -30 10 1d1+100000 50d50+50
+1 1
+8 8 1
+E
+T 6504
+#6334
+man player 123mob~
+a skilled bouzuki player~
+A young man strums pleasant chords from a well-tuned bouzuki.
+~
+It looks unfinished.
+~
+11 0 0 0 0 0 0 0 360 E
+100 -79 10 1d1+100000 99d99+99
+1 1
+8 8 1
+E
+#6335
+man customer~
+a peckish customer~
+A rather hungry looking man stands at the counter
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+70 -30 10 1d1+100000 50d50+50
+0 0
+8 8 1
+E
+#6336
+man istian~
+Istian Goss, expert in the arcane~
+A mysterious man wearing a long flowing robe bustles about this shop.
+~
+It looks unfinished.
+~
+10 0 0 0 16 0 0 0 360 E
+70 -30 10 1d1+100000 50d50+50
+1 1
+8 8 1
+E
+#6337
+assassin inept man~
+the thoroughly inept assassin~
+A slender man skulks in the shadows, hoping not to be noticed.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#6338
+lucy brittany puppy~
+Lucy the brittany spaniel~
+A small brown and white dog shakes with excitement.
+~
+A medium-sized dog, mostly white in color, which orange-brown patches, literally
+vibrates in excitement.  Her cropped tail wags dangerously fast, and her
+friendly brown eyes greet all who enter the room.  Her pink tongue has a strange
+black spot on one side, but the upturned corners of her mouth, it only serves to
+make her look like the happiest of puppies.  
+~
+8 0 0 0 0 0 0 0 1000 E
+20 10 10 1d1+0 1d1+10
+0 0
+8 8 2
+BareHandAttack: 4
+E
+#6339
+parrot bird~
+a cute, cuddly parrot~
+A friendly parrot is here, squaking loudly.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+100 -80 5 20d20+400 10d20+100
+1000000 1500000
+8 8 1
+BareHandAttack: 8
+E
+#6411
+eos goddess dawn~
+the Goddess Eos~
+Eos, Goddess of the Dawn, Mother of the Winds and Stars, stands before her altar.
+~
+A supernaturally beautiful woman, crowned with a tiara and with the large
+white-feathered wings of a bird, appears to be in a trance before the altar.  
+Her floor-length yellow robe is skillfully embroidered with flowers that appear
+brighter than anything else in the room.  
+~
+10 0 0 0 8196 0 0 0 1000 E
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+E
+#6412
+boreas anemoi north wind god~
+Boreas Anemoi~
+Boreas, the blustery god of the north wind, concentrates on fixing a horse's bridle.
+~
+A large old man is muttering to himself.  His arms are strongly muscled, belying
+his seemly advanced age.  Coiled around one wrist is a dangerous-looking black
+snake.  Large white feathered wings sprout from his back, a token of his
+parentage.  His belt and boots are made from rough black horsehair, and his
+coarse black hair looks like it might have sprung from the same source.  
+~
+10 0 0 0 0 0 0 0 1000 E
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#6413
+eurus anemoi god east wind~
+Eurus Anemoi~
+Eurus, the generous god of the east wind, harvests berries.
+~
+A tall, clean-shaven man with long, straight blond hair like the tail of a horse
+is harvesting fruits.  Large white-feathered wings sprout from his back,
+indicating his parentage.  He carries a cloak spread out between his hands
+containing a mass of ripe fruits and vegetables.  
+~
+10 0 0 0 0 0 0 0 1000 E
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#6414
+notus anemoi god south wind~
+Notus Anemoi~
+Notus, the fierce god of the south wind, wrings water from his beard.
+~
+Water drips from the long white hair and beard of this old man, weighing down
+his large, white-feathered wings.  He stands knee-deep in a lake, yet does not
+seem to mind the wetness.  His heavy tunic clings to his torso.  He raises a
+clay vase in the air to collect the rainwater, then pours it out on the ground.
+
+~
+10 0 0 0 0 0 0 0 1000 E
+15 19 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#6415
+zephyros anemoi wind god~
+Zephyros Anemoi~
+Zephyros, the gentle god of the west wind, is tending his garden.
+~
+A young man with sparkling eyes and curly golden hair is tending to the garden.
+White-feathered wings, similar to those of his mother, sprout from his back, and
+smaller golden wings are attached to the heel of his sandals.  He wears a crown
+of laurel leaves on his head, and has several clippings from various plants
+stuck in his belt.  
+~
+10 0 0 0 0 0 0 0 1000 E
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#6479
+barker man~
+a carnival barker~
+A gaily dressed carnival barker beckons you toward the carousel.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#6499
+fluffybun~
+Mr. Fluffybun~
+Mr. Fluffybun lounges lazily.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+T 6499
+#6506
+chipmunk~
+a small chipmunk~
+A small chipmunk stares up at you.
+~
+   The first thing you notice about this rodent is the razor sharp claws on its
+tiny paws. Large teeth glisten from under its furry upper lip. The black eyes
+stare intensely at you as if it is wondering if you would make a good meal or
+not. Different shades of brown fur cover most of its body with black and gray
+strips running down the sides of the chipmunks face and back. 
+~
+14 0 0 0 2048 0 0 0 0 E
+3 19 8 3d3+30 2d4+0
+0 900
+8 8 0
+BareHandAttack: 8
+Clss: 2
+E
+#6515
+quest questmaster man master~
+the Taris'Vaal questmaster~
+A friendly-looking man adorned with multiple quest items waves welcome as you enter the guild.
+~
+The man is cheery, with rosy cheeks and short, light blonde hair and moustache.
+The quest items adorning his person only increase the colorful nature of his
+persona.
+~
+10 0 0 0 0 0 0 0 0 E
+40 -30 -14 8d8+400 6d6+50
+400 160000
+8 8 1
+Att1: 100
+Att2: 100
+Att3: 100
+E
+#6516
+tasine woman~
+Tasine, the beverage server~
+Tasine the beverage server waits on her patrons.
+~
+Tasine is a petite woman with cinnamon colored skin and slightly darker hair.  
+She has crinkled hazel eyes and a friendly smile, and she is famous for her warm
+greetings, as well as her tasty beverages.  She wears a stained apron to protect
+her grey dress from spills, but it does a very poor job.  
+~
+2074 0 0 0 120 0 0 0 750 E
+32 -30 -7 6d12+30000 6d6+50
+15000 0
+8 8 2
+E
+#6517
+Yaj man~
+Yaj, the alchemist~
+A medium size man wearing a cloak mixes chemicals here.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+42 -230 -15 1000d1000+420 100d100+250
+420 176400
+8 8 0
+E
+#6518
+man lar nej~
+Lar Nej~
+Lar Nej is here, tending to his store.
+~
+It looks unfinished.
+~
+188442 0 0 0 16 0 0 0 0 E
+50 -30 -10 30d1000+10000 30d100+50
+1000000 1
+8 8 2
+E
+#6531
+magpie black bird~
+Accarid's messenger magpie~
+Accarid's messenger magpie sits atop the silvery throne, gazing down upon you with a curious glint in its beady black eyes.
+~
+The magpie is jet black, and if not for the white speckles on its breast and the
+shine in its eyes it would be completely invisible in this black environment. 
+It eyes you curiously, sizing you up and determining how difficult it would be
+to liberate you of your shiny things.
+~
+1304670 0 0 0 -946779708 1 0 0 1000 E
+42 -30 -15 1000d1000+420 50d50+50
+420 176400
+8 8 1
+BareHandAttack: 8
+Att1: 8
+Att2: 8
+Att3: 8
+Clss: 19
+E
+#6539
+flame~
+a living flame~
+A large fire burns hotly.
+~
+This raging fire will burn for all eternity. The flames dance before your very eyes, almost hypnotically the orange, yellow, and red flames seem to draw your attention. Your face basks in the warmth that is radiated from this living flame.
+~
+8 0 0 0 797526396 255 0 0 -1000 E
+50 -230 -20 0d10+500 8d8+250
+500 250000
+8 8 1
+E
+#6542
+cerberus dog~
+Cerberus~
+A gargantuan, three-headed dog guards the throne of Vexus.
+~
+Three snarling jawls chomp in your direction as you face Vexus' personal watch
+dog. Razor sharp teeth clamp together mere feet from your head. You can be
+thankful that Vexus was kind enough to use a very strong leash and collar.
+~
+190474 0 0 0 536873296 13 0 0 -1000 E
+50 -79 -20 15d10+9999 15d30+99
+0 250000
+8 8 0
+Clss: 21
+E
+#6580
+horse~
+a riding horse~
+A large well built equine is standing about, waiting for a rider.
+~
+This is a fine horse for riding. It is well-built but not too large as to slow
+down the traveller.
+~
+1073741832 32 0 0 0 2 0 0 0 E
+40 7 -14 8d8+400 6d6+6
+400 160000
+8 8 0
+Clss: 2
+E
+#6581
+Quormus man~
+Quormus~
+A colorful nobleman strolls down the street, waving jovially to passersby.
+~
+This man comes from a city far away, where he accrued enough wealth as a
+detective to travel the world in search of mystery worthy of his interest. He
+waves jovially to all passersby, which triggers peculiar looks and snickers as
+he passes- but he doesn't care, because he is Quormus.
+~
+4194312 0 0 0 0 0 0 0 100 E
+29 0 10 100d10+290 4d4+10
+10009 84100
+8 8 1
+BareHandAttack: 13
+Att1: 13
+E
+$

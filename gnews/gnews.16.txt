@@ -1,0 +1,33 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C16&c]. Type NEWS 16 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+Blocker Mobs
+
+I have recently added flags for you to set up mobs as blocker mobs. You
+can have them block all directions by setting all flags or set them up to
+just block a specific direction.
+
+Riding/Mount/Tame
+
+I have also added in riding, mount and tame code. I haven't finished all
+the finer details to it, but you can currently mount something that is
+flagged as mountable. I will make adjustments to the tame command somehow
+because currently you can tame ANYTHING and mount it. I will make a flag 
+for mobs that is MOB_TAMEABLE or something and add a check to that.

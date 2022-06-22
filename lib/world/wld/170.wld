@@ -1,0 +1,3243 @@
+#17000
+The Foyer of the Cathedral~
+You are in an unfinished room.
+~
+170 8 0 0 0 0
+D3
+~
+doors~
+1 0 17001
+S
+#17001
+At the End of the Center Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17008
+D1
+~
+doors~
+1 0 17000
+D2
+~
+~
+0 0 17012
+D3
+~
+~
+0 0 17002
+S
+#17002
+Walking the Center Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17016
+D1
+~
+~
+0 0 17001
+D2
+~
+~
+0 0 17020
+D3
+~
+~
+0 0 17003
+S
+#17003
+Walking the Center Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17024
+D1
+~
+~
+0 0 17002
+D2
+~
+~
+0 0 17028
+D3
+~
+~
+0 0 17004
+S
+#17004
+Walking the Center Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17032
+D1
+~
+~
+0 0 17003
+D2
+~
+~
+0 0 17036
+D3
+~
+~
+0 0 17005
+S
+#17005
+Walking the Center Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17040
+D1
+~
+~
+0 0 17004
+D2
+~
+~
+0 0 17044
+D3
+~
+~
+0 0 17006
+S
+#17006
+Walking the Center Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17048
+D1
+~
+~
+0 0 17005
+D2
+~
+~
+0 0 17052
+D3
+~
+~
+0 0 17007
+S
+#17007
+At the End of the Center Aisle, Below the Pulpit~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17056
+D1
+~
+~
+0 0 17006
+D2
+~
+~
+0 0 17060
+S
+#17008
+Behind the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17009
+D2
+~
+~
+0 0 17001
+S
+#17009
+Behind the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17010
+D2
+~
+~
+0 0 17008
+S
+#17010
+Behind the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17011
+D2
+~
+~
+0 0 17009
+S
+#17011
+At the End of the Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D2
+~
+~
+0 0 17010
+D3
+~
+~
+0 0 17019
+S
+#17012
+Behind the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17001
+D2
+~
+~
+0 0 17013
+S
+#17013
+Behind the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17012
+D2
+~
+~
+0 0 17014
+S
+#17014
+Behind the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17013
+D2
+~
+~
+0 0 17015
+S
+#17015
+At the End of the Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17014
+D3
+~
+~
+0 0 17023
+S
+#17016
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17017
+D2
+~
+~
+0 0 17002
+S
+#17017
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17018
+D2
+~
+~
+0 0 17016
+S
+#17018
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17019
+D2
+~
+~
+0 0 17017
+S
+#17019
+In the Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17011
+D2
+~
+~
+0 0 17018
+D3
+~
+~
+0 0 17027
+S
+#17020
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17002
+D2
+~
+~
+0 0 17021
+S
+#17021
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17020
+D2
+~
+~
+0 0 17022
+S
+#17022
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17021
+D2
+~
+~
+0 0 17023
+S
+#17023
+In the Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17022
+D1
+~
+~
+0 0 17015
+D3
+~
+~
+0 0 17031
+S
+#17024
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17025
+D2
+~
+~
+0 0 17003
+S
+#17025
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17026
+D2
+~
+~
+0 0 17024
+S
+#17026
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17027
+D2
+~
+~
+0 0 17025
+S
+#17027
+In the Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17019
+D2
+~
+~
+0 0 17026
+D3
+~
+~
+0 0 17035
+S
+#17028
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17003
+D2
+~
+~
+0 0 17029
+S
+#17029
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17028
+D2
+~
+~
+0 0 17030
+S
+#17030
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17029
+D2
+~
+~
+0 0 17031
+S
+#17031
+In the Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17030
+D1
+~
+~
+0 0 17023
+D3
+~
+~
+0 0 17039
+S
+#17032
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17033
+D2
+~
+~
+0 0 17004
+S
+#17033
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17034
+D2
+~
+~
+0 0 17032
+S
+#17034
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17035
+D2
+~
+~
+0 0 17033
+S
+#17035
+In the Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17027
+D2
+~
+~
+0 0 17034
+D3
+~
+~
+0 0 17043
+S
+#17036
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17004
+D2
+~
+~
+0 0 17037
+S
+#17037
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17036
+D2
+~
+~
+0 0 17038
+S
+#17038
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17037
+D2
+~
+~
+0 0 17039
+S
+#17039
+In the Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17038
+D1
+~
+~
+0 0 17031
+D3
+~
+~
+0 0 17047
+S
+#17040
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17041
+D2
+~
+~
+0 0 17005
+S
+#17041
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17042
+D2
+~
+~
+0 0 17040
+S
+#17042
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17043
+D2
+~
+~
+0 0 17041
+S
+#17043
+In the Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17125
+D1
+~
+~
+0 0 17035
+D2
+~
+~
+0 0 17042
+D3
+~
+~
+0 0 17051
+S
+#17044
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17005
+D2
+~
+~
+0 0 17045
+S
+#17045
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17044
+D2
+~
+~
+0 0 17046
+S
+#17046
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17045
+D2
+~
+~
+0 0 17047
+S
+#17047
+In the Aisle~
+This unfinished room was created by Accarid.
+~
+170 0 0 0 0 0
+D0
+~
+~
+0 0 17046
+D1
+~
+~
+0 0 17039
+D2
+~
+~
+0 0 17071
+D3
+~
+~
+0 0 17055
+S
+#17048
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17049
+D2
+~
+~
+0 0 17006
+S
+#17049
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17050
+D2
+~
+~
+0 0 17048
+S
+#17050
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17051
+D2
+~
+~
+0 0 17049
+S
+#17051
+In the Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17043
+D2
+~
+~
+0 0 17050
+D3
+~
+~
+0 0 17059
+S
+#17052
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17006
+D2
+~
+~
+0 0 17053
+S
+#17053
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17052
+D2
+~
+~
+0 0 17054
+S
+#17054
+In the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17053
+D2
+~
+~
+0 0 17055
+S
+#17055
+In the Aisle~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17054
+D1
+~
+~
+0 0 17047
+D3
+~
+~
+0 0 17063
+S
+#17056
+In Front of the Pews, Below the Pulpit~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17057
+D2
+~
+~
+0 0 17007
+D3
+~
+~
+0 0 17064
+S
+#17057
+In Front of the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17058
+D2
+~
+~
+0 0 17056
+S
+#17058
+In Front of the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17059
+D2
+~
+~
+0 0 17057
+S
+#17059
+In Front of the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17051
+D2
+~
+~
+0 0 17058
+S
+#17060
+In Front of the Pews, Below the Pulpit~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17007
+D2
+~
+~
+0 0 17061
+D3
+~
+~
+0 0 17065
+S
+#17061
+In Front of the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17060
+D2
+~
+~
+0 0 17062
+S
+#17062
+In Front of the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17061
+D2
+~
+~
+0 0 17063
+S
+#17063
+In Front of the Pews~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17062
+D1
+~
+~
+0 0 17055
+S
+#17064
+Next to the Pulpit~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17056
+D2
+~
+~
+0 0 17066
+S
+#17065
+In Front of the Brass Organ~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17066
+D1
+~
+~
+0 0 17060
+S
+#17066
+At the Pulpit~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17064
+D2
+~
+~
+0 0 17065
+D3
+~
+~
+0 0 17067
+S
+#17067
+In a Short Hallway~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17069
+D1
+~
+~
+0 0 17066
+D2
+~
+~
+0 0 17070
+D3
+~
+~
+0 0 17068
+S
+#17068
+At the Altar~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17072
+D1
+~
+~
+0 0 17067
+D2
+~
+~
+0 0 17118
+S
+#17069
+A Storage Room and the Facilties~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D2
+~
+~
+0 0 17067
+S
+#17070
+The Preacher's Room~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17067
+S
+#17071
+The Confessioner's Booth~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17047
+S
+#17072
+A Narrow Hallway~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17073
+D2
+~
+~
+0 0 17068
+D3
+~
+~
+0 0 17078
+S
+#17073
+A Narrow Hallway, Before an Oak Door~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+door~
+1 0 17074
+D2
+~
+~
+0 0 17072
+S
+#17074
+In a Stained Glass Greenhouse~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17075
+D1
+~
+~
+0 0 17077
+D2
+~
+door~
+1 0 17073
+S
+#17075
+In a Stained Glass Greenhouse~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17076
+D2
+~
+~
+0 0 17074
+S
+#17076
+In a Stained Glass Greenhouse~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D2
+~
+~
+0 0 17077
+D3
+~
+~
+0 0 17075
+S
+#17077
+In a Stained Glass Greenhouse~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17076
+D3
+~
+~
+0 0 17074
+S
+#17078
+A Steep Stairwell~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17072
+D4
+~
+~
+0 0 17080
+D5
+~
+~
+0 0 17079
+S
+#17079
+A Cold Wine Cellar~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17081
+D2
+~
+~
+0 0 17083
+D4
+~
+~
+0 0 17078
+S
+#17080
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17104
+D2
+~
+~
+0 0 17084
+D5
+~
+~
+0 0 17078
+S
+#17081
+A Cold Wine Cellar~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D2
+~
+~
+0 0 17082
+D3
+~
+~
+0 0 17079
+S
+#17082
+A Cold Wine Cellar~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17081
+D3
+~
+~
+0 0 17083
+S
+#17083
+A Cold Wine Cellar~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17079
+D1
+~
+~
+0 0 17082
+S
+#17084
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17080
+D2
+~
+~
+0 0 17085
+D3
+~
+~
+0 0 17117
+S
+#17085
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17084
+D2
+~
+~
+0 0 17086
+S
+#17086
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17085
+D2
+~
+~
+0 0 17087
+S
+#17087
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17086
+D1
+~
+~
+0 0 17088
+S
+#17088
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17089
+D3
+~
+~
+0 0 17087
+S
+#17089
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17090
+D2
+~
+~
+0 0 17088
+S
+#17090
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17091
+D3
+~
+~
+0 0 17089
+S
+#17091
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17092
+D3
+~
+~
+0 0 17090
+S
+#17092
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17093
+D3
+~
+~
+0 0 17091
+S
+#17093
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17094
+D3
+~
+~
+0 0 17092
+S
+#17094
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17095
+D3
+~
+~
+0 0 17093
+S
+#17095
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17096
+D3
+~
+~
+0 0 17094
+S
+#17096
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17097
+D3
+~
+~
+0 0 17095
+S
+#17097
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17098
+D3
+~
+~
+0 0 17096
+S
+#17098
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17099
+D2
+~
+~
+0 0 17097
+S
+#17099
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17100
+D2
+~
+~
+0 0 17098
+S
+#17100
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17101
+D2
+~
+~
+0 0 17099
+S
+#17101
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17102
+D2
+~
+~
+0 0 17100
+S
+#17102
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17103
+D2
+~
+~
+0 0 17101
+S
+#17103
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D2
+~
+~
+0 0 17102
+D3
+~
+~
+0 0 17116
+S
+#17104
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17105
+D2
+~
+~
+0 0 17080
+S
+#17105
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17106
+D2
+~
+~
+0 0 17104
+S
+#17106
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17107
+D2
+~
+~
+0 0 17105
+S
+#17107
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D2
+~
+~
+0 0 17108
+D3
+~
+~
+0 0 17106
+S
+#17108
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17107
+D1
+~
+~
+0 0 17109
+S
+#17109
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17110
+D3
+~
+~
+0 0 17108
+S
+#17110
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17111
+D3
+~
+~
+0 0 17109
+S
+#17111
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17112
+D3
+~
+~
+0 0 17110
+S
+#17112
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17113
+D3
+~
+~
+0 0 17111
+S
+#17113
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17114
+D3
+~
+~
+0 0 17112
+S
+#17114
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17115
+D3
+~
+~
+0 0 17113
+S
+#17115
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17116
+D3
+~
+~
+0 0 17114
+S
+#17116
+In the Gallery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17103
+D3
+~
+~
+0 0 17115
+S
+#17117
+The High Priest's Quarters~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17084
+S
+#17118
+At the Foot of a Tall Ladder~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17068
+D4
+~
+~
+0 0 17119
+S
+#17119
+Inside a Tall Tower, Full of Echoes~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D4
+~
+~
+0 0 17120
+D5
+~
+~
+0 0 17118
+S
+#17120
+Inside a Tall Tower, Full of Echoes~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D4
+~
+~
+0 0 17121
+D5
+~
+~
+0 0 17119
+S
+#17121
+Inside a Tall Tower, Full of Echoes~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D4
+~
+~
+0 0 17122
+D5
+~
+~
+0 0 17120
+S
+#17122
+Inside a Tall Tower, Full of Echoes~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D4
+~
+~
+0 0 17123
+D5
+~
+~
+0 0 17121
+S
+#17123
+Inside a Tall Tower, Below a Wooden Hatch~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D4
+~
+hatch~
+1 0 17124
+D5
+~
+~
+0 0 17122
+S
+#17124
+The Top of the Bell Tower~
+This unfinished room was created by Accarid.
+~
+170 1073741832 0 0 0 0
+D5
+~
+hatch~
+1 0 17123
+S
+#17125
+Out the Side Door~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17126
+D2
+~
+~
+0 0 17043
+S
+#17126
+Walking in the Cemetery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17129
+D1
+~
+~
+0 0 17127
+D2
+~
+~
+0 0 17125
+D3
+~
+~
+0 0 17128
+S
+#17127
+Walking in the Cemetery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17134
+D3
+~
+~
+0 0 17126
+S
+#17128
+Walking in the Cemetery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17135
+D1
+~
+~
+0 0 17126
+S
+#17129
+Walking in the Cemetery~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17130
+D1
+~
+~
+0 0 17134
+D2
+~
+~
+0 0 17126
+D3
+~
+~
+0 0 17135
+S
+#17130
+Walking in the Graveyard~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17131
+D1
+~
+~
+0 0 17136
+D2
+~
+~
+0 0 17129
+D3
+~
+~
+0 0 17137
+S
+#17131
+Walking in the Graveyard~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17132
+D1
+~
+~
+0 0 17133
+D2
+~
+~
+0 0 17130
+D3
+~
+~
+0 0 17138
+S
+#17132
+At a Broad, Sweeping Weeping Willow~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D2
+~
+~
+0 0 17131
+D3
+~
+~
+0 0 17140
+S
+#17133
+An Artesian Well~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D2
+~
+~
+0 0 17136
+D3
+~
+~
+0 0 17131
+D5
+~
+~
+0 0 17141
+S
+#17134
+Walking in the Graveyard~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17136
+D2
+~
+~
+0 0 17127
+D3
+~
+~
+0 0 17129
+S
+#17135
+Walking in the Graveyard~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17137
+D1
+~
+~
+0 0 17129
+D2
+~
+~
+0 0 17128
+S
+#17136
+Walking in the Graveyard~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17133
+D2
+~
+~
+0 0 17134
+D3
+~
+~
+0 0 17130
+S
+#17137
+Walking in the Graveyard~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17138
+D1
+~
+~
+0 0 17130
+D2
+~
+~
+0 0 17135
+S
+#17138
+Walking in the Graveyard~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D0
+~
+~
+0 0 17140
+D1
+~
+~
+0 0 17131
+D2
+~
+~
+0 0 17137
+D3
+~
+~
+0 0 17139
+S
+#17139
+Walking in the Graveyard~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17138
+S
+#17140
+Walking in the Graveyard~
+This unfinished room was created by Accarid.
+~
+170 8 0 0 0 0
+D1
+~
+~
+0 0 17132
+D2
+~
+~
+0 0 17138
+S
+#17141
+In the Well~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D4
+~
+~
+0 0 17133
+D5
+~
+~
+0 0 17142
+S
+#17142
+In the Well~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D4
+~
+~
+0 0 17141
+D5
+~
+~
+0 0 17143
+S
+#17143
+In a Fiery Cavern~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17144
+D1
+~
+~
+0 0 17146
+D2
+~
+~
+0 0 17148
+D3
+~
+~
+0 0 17150
+D4
+~
+~
+0 0 17142
+S
+#17144
+In a Fiery Cavern~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17145
+D2
+~
+~
+0 0 17143
+D3
+~
+~
+0 0 17151
+S
+#17145
+In a Fiery Cavern~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17198
+D1
+~
+~
+0 0 17196
+D2
+~
+~
+0 0 17146
+D3
+~
+~
+0 0 17144
+S
+#17146
+In a Fiery Cavern~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17145
+D1
+~
+~
+0 0 17152
+D2
+~
+~
+0 0 17147
+D3
+~
+~
+0 0 17143
+S
+#17147
+In a Fiery Cavern~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17146
+D3
+~
+~
+0 0 17148
+S
+#17148
+In a Fiery Cavern~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17143
+D1
+~
+~
+0 0 17147
+D3
+~
+~
+0 0 17149
+S
+#17149
+A Boiling Pool of Blood~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17150
+D1
+~
+~
+0 0 17148
+D5
+~
+~
+0 0 17156
+S
+#17150
+In a Fiery Cavern~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17151
+D1
+~
+~
+0 0 17143
+D2
+~
+~
+0 0 17149
+D3
+~
+~
+0 0 17212
+S
+#17151
+In a Fiery Cavern~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17153
+D1
+~
+~
+0 0 17144
+D2
+~
+~
+0 0 17150
+S
+#17152
+Amidst the Flames~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D3
+~
+~
+0 0 17146
+D5
+~
+~
+0 0 17163
+S
+#17153
+A Narrow Passage of Brimstone~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D2
+~
+~
+0 0 17151
+D3
+~
+~
+0 0 17154
+S
+#17154
+A Narrow Passage of Brimstone~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17153
+D3
+~
+~
+0 0 17155
+S
+#17155
+A Narrow Passage of Brimstone~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17157
+D1
+~
+~
+0 0 17154
+S
+#17156
+In a Pool of Coagulated Blood~
+This unfinished room was created by Accarid.
+~
+170 1073807368 0 0 0 0
+D4
+~
+~
+0 0 17149
+S
+#17157
+A Narrow Passage of Brimstone~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17158
+D2
+~
+~
+0 0 17155
+S
+#17158
+A Narrow Passage of Brimstone~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17159
+D2
+~
+~
+0 0 17157
+S
+#17159
+A Narrow Passage of Brimstone~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17160
+D2
+~
+~
+0 0 17158
+S
+#17160
+A Narrow Passage of Brimstone~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17161
+D3
+~
+~
+0 0 17159
+S
+#17161
+A Narrow Passage of Brimstone~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17162
+D2
+~
+~
+0 0 17160
+S
+#17162
+A Cavern Below The Greenhouse~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D2
+~
+~
+0 0 17161
+S
+#17163
+Before the Gates of Hell~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D2
+~
+~
+0 0 17164
+D4
+~
+~
+0 0 17152
+S
+#17164
+The Church of Evil~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17163
+D1
+~
+~
+0 0 17182
+D2
+~
+~
+0 0 17165
+D3
+~
+~
+0 0 17180
+S
+#17165
+The Church of Evil~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17164
+D1
+~
+~
+0 0 17184
+D2
+~
+~
+0 0 17166
+D3
+~
+~
+0 0 17186
+S
+#17166
+The Church of Evil~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17165
+D1
+~
+~
+0 0 17188
+D2
+~
+~
+0 0 17167
+D3
+~
+~
+0 0 17190
+S
+#17167
+The Church of Evil~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17166
+D1
+~
+~
+0 0 17192
+D2
+~
+~
+0 0 17168
+D3
+~
+~
+0 0 17194
+S
+#17168
+Before the Altar~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17167
+D2
+~
+~
+0 0 17169
+S
+#17169
+A Great Vessel of Blood~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17168
+D5
+~
+~
+0 0 17170
+S
+#17170
+A Pit Coated in Blood~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D4
+~
+~
+0 0 17169
+D5
+~
+~
+0 0 17171
+S
+#17171
+A Pit Coated in Blood~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D4
+~
+~
+0 0 17170
+D5
+~
+~
+0 0 17172
+S
+#17172
+A Pit Coated in Blood~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D4
+~
+~
+0 0 17171
+D5
+~
+~
+0 0 17173
+S
+#17173
+A Pit Coated in Blood~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D4
+~
+~
+0 0 17172
+D5
+~
+~
+0 0 17174
+S
+#17174
+A Pit Coated in Blood~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D4
+~
+~
+0 0 17173
+D5
+~
+~
+0 0 17175
+S
+#17175
+A Pit Coated in Blood~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D4
+~
+~
+0 0 17174
+D5
+~
+~
+0 0 17176
+S
+#17176
+A Pit Coated in Blood~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D4
+~
+~
+0 0 17175
+D5
+~
+~
+0 0 17177
+S
+#17177
+A Pit Coated in Blood~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D4
+~
+~
+0 0 17176
+D5
+~
+~
+0 0 17178
+S
+#17178
+A Pit Coated in Blood~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D4
+~
+~
+0 0 17177
+D5
+~
+~
+0 0 17179
+S
+#17179
+Abaddon's Lair~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+S
+#17180
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17164
+D3
+~
+~
+0 0 17181
+S
+#17181
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17180
+S
+#17182
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17183
+D3
+~
+~
+0 0 17164
+S
+#17183
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D3
+~
+~
+0 0 17182
+S
+#17184
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17185
+D3
+~
+~
+0 0 17165
+S
+#17185
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D3
+~
+~
+0 0 17184
+S
+#17186
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17165
+D3
+~
+~
+0 0 17187
+S
+#17187
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17186
+S
+#17188
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17189
+D3
+~
+~
+0 0 17166
+S
+#17189
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D3
+~
+~
+0 0 17188
+S
+#17190
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17166
+D3
+~
+~
+0 0 17191
+S
+#17191
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17190
+S
+#17192
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17193
+D3
+~
+~
+0 0 17167
+S
+#17193
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D3
+~
+~
+0 0 17192
+S
+#17194
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17167
+D3
+~
+~
+0 0 17195
+S
+#17195
+A Pew of the Unholy Church~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17194
+S
+#17196
+In a Fiery Cavern~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17197
+D3
+~
+~
+0 0 17145
+S
+#17197
+In a Fiery Cavern~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17199
+D2
+~
+~
+0 0 17196
+D3
+~
+~
+0 0 17198
+S
+#17198
+In a Fiery Cavern~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17197
+D2
+~
+~
+0 0 17145
+S
+#17199
+In the Company of Coffins~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17208
+D1
+~
+~
+0 0 17200
+D3
+~
+~
+0 0 17197
+S
+#17200
+In the Company of Coffins~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17207
+D1
+~
+~
+0 0 17201
+D3
+~
+~
+0 0 17199
+S
+#17201
+In the Company of Coffins~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17206
+D1
+~
+~
+0 0 17202
+D3
+~
+~
+0 0 17200
+S
+#17202
+In the Company of Coffins~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17205
+D1
+~
+~
+0 0 17203
+D3
+~
+~
+0 0 17201
+S
+#17203
+In the Company of Coffins~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17204
+D3
+~
+~
+0 0 17202
+S
+#17204
+In the Company of Coffins~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D2
+~
+~
+0 0 17203
+D3
+~
+~
+0 0 17205
+S
+#17205
+In the Company of Coffins~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17211
+D1
+~
+~
+0 0 17204
+D2
+~
+~
+0 0 17202
+D3
+~
+~
+0 0 17206
+S
+#17206
+In the Company of Coffins~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17210
+D1
+~
+~
+0 0 17205
+D2
+~
+~
+0 0 17201
+D3
+~
+~
+0 0 17207
+S
+#17207
+In the Company of Coffins~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D0
+~
+~
+0 0 17209
+D1
+~
+~
+0 0 17206
+D2
+~
+~
+0 0 17200
+D3
+~
+~
+0 0 17208
+S
+#17208
+In the Company of Coffins~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17207
+D2
+~
+~
+0 0 17199
+S
+#17209
+In the Company of Coffins~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17210
+D2
+~
+~
+0 0 17207
+S
+#17210
+In the Company of Coffins~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17211
+D2
+~
+~
+0 0 17206
+D3
+~
+~
+0 0 17209
+S
+#17211
+In the Company of Coffins~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D2
+~
+~
+0 0 17205
+D3
+~
+~
+0 0 17210
+S
+#17212
+A Passage of Brimstone~
+This unfinished room was created by Accarid.
+~
+170 65544 0 0 0 0
+D1
+~
+~
+0 0 17150
+S
+$~

@@ -1,0 +1,35 @@
+&G FRENCH
+
+&WDon't you know how they kiss in France?? -- try it!
+#
+&G KISS
+
+&WWell can't you guess?
+#
+&G SMILE
+
+&WWhenever you feel like smiling...
+#
+&G SOCIALS
+
+&WUsage: <&Gsocial&W> [<victim>]
+
+&GSocials &Ware &Gcommands &Wused to show your affective state to others.  The
+actor, victim and bystanders may receive different messages.  Generally,
+&Gsocial commands &Ware used only to express emotion and not to take action,
+but it is possible that some mobs (or players) will take action based on
+the &Gsocial&W.  (Slap a dragon lately?)
+
+Example:
+
+  > &Gshake &Whomer
+  > &Gapplaud &Wmarge
+  > &Gstare
+
+&WThe &GSOCIALS command &Wgenerates a canonical listing of all available &Gsocials&W.
+
+  > &Gsocials
+
+&WSee also: &GEMOTE&n
+#
+$

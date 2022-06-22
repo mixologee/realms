@@ -1,0 +1,28 @@
+&R                        Realms of Kuvia
+&c             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+-------------------------------------------------------------------------
+News file [&C16&c]. Type NEWS 16 to re-read this article at a later date.
+-------------------------------------------------------------------------&n
+
+Player to Player messaging is in!
+
+Once we have it sellable in a shop, you will be able to buy a note and
+quill, write a message to the note, and message it along using our new
+messaging module!  Since not everyone is close to eachother, this will
+help everyone be able to keep in touch with one another, for a small
+fee of course!  Once your message is sent, it will take anywhere from a
+few seconds to possibly a few minutes for your friend to recieve it, due
+to the size of the world and where you two are in it.
+
+It is still in testing phases, but so far everything is looking very
+positive!
+
+-S
+

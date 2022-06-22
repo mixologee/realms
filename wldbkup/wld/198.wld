@@ -1,0 +1,37 @@
+#19800
+Start~
+OEDIT-A-DESC A-DESC ADESC ACTION-DESCRIPTION OEDIT-ADESC ACTION_DESCRIPTION  
+4) A-Desc   :-
+not set
+   Action Descriptions are used primarily for magical objects (staves, wands, 
+scrolls, and potions) to specify what message displayed to the room when the
+magical item is used. If no Action Description is present, a default message 
+will be used:
+Staves: Rumble taps <object> three times on the ground.
+Wands: Rumble points <object> at Zemial.
+Scrolls: Rumble recites <object>.
+Potions: Rumble quaffs <object>.
+   For readable papers, the Action Description contains the text on the paper.
+&RSo unless your object is a staff, wand, scroll, potion, or note; DO NOT USE.&n   
+I guess this needs to be repeated once more. A-desc does not normally need 
+to be set. Except for the few instances listed above. It is not the object's
+equivalent of the D-desc. If you want someone to see something when they 
+look at the object add it in the extra description menu with the same keywords.
+
+A-desc is not seen by the person using the object. Only by the victim and other
+players in the room. The following variables can be used with it. 
+  
+$e he/she/it person using staff/wand/scroll/potion 
+$E he/she target of staff/wand/scroll/potion 
+$m him/her person using staff/wand/scroll/potion
+$M him/her target of staff/wand/scroll/potion
+$n char name person using staff/wand/scroll/potion (your name)
+$N char name target of staff/wand/scroll/potion (other persons name)
+$s his/her/its person using staff/wand/scroll/potion
+$S his/her target of staff/wand/scroll/potion
+PROPER USAGE: &RVSTAT OBJ 350&n
+~
+198 0 0 0 0 0
+S
+T 19800
+$~

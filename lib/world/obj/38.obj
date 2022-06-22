@@ -1,0 +1,235 @@
+#3800
+toga robe aqua water~
+an aqueous toga~
+A toga made of suspended water droplets flows across the ground.~
+~
+11 gk 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+0 1000 0 20
+A
+12 20
+A
+24 -2
+#3801
+switch wand baton branch~
+a long, heavy hickory switch~
+An incredibly long hickory switch lies on the ground.~
+~
+5 ikmn e 0 0 an 0 0 0 0 0 0 0
+10 12 7 7
+15 100 0 20
+A
+18 10
+A
+19 -10
+#3802
+Crystalgate gate archway portal~
+an ancient, primitive portal~
+&wA large, crumbling stone arch protrudes from the ground at an angle.~
+~
+7 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+100000 0 0 0
+#3803
+razor armguards~
+a pair of razor-sharp elven armguards~
+An unfinished object is lying here.~
+~
+9 0 0 0 0 ai 0 0 0 0 0 0 0
+-5 0 0 0
+10 27000 0 20
+A
+18 3
+A
+19 3
+#3804
+box chest~
+a heavy black box~
+A heavy-looking black box rests upon its octagonal base.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+350 5 -1 0
+250 1000 0 0
+#3805
+pendant mithril king~
+the mithril pendant of an elven king~
+A pendant of solid mithril bears the symbol of an ancient order here.~
+~
+9 0 0 0 0 ac 0 0 0 0 0 0 0
+-10 0 0 0
+5 25000 0 20
+A
+1 3
+A
+3 3
+A
+4 3
+#3806
+bridle ranger's~
+an elven ranger's bridle~
+A fine-looking bridle has been tossed aside here and fallen on its point.~
+~
+12 0 d 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+10 9000 0 0
+#3807
+stone soulgem~
+a crimson soulgem, forged of crystalline dragonblood~
+A bright red gem shines in the dirt.~
+~
+12 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+10 100000 0 30
+A
+13 5
+#3808
+girdle mithril chain~
+a girdle of chainmail, set with a mithril plate~
+A girdle of shiny silver chainmail lies folded under its mithril plate.~
+~
+9 w 0 0 0 al 0 0 0 0 0 0 0
+-7 0 0 0
+22 10000 0 0
+#3809
+potion~
+a strong brew of treant leaves~
+A wooden bottle sits here on its flat base.~
+~
+10 0 d 0 0 ao 0 0 0 0 0 0 0
+43 14 35 -1
+10 400 0 0
+#3810
+potion~
+distilled essence of moonlight~
+A wooden bottle rests here on its flat base, its stopper brimming with silvery liquid.~
+~
+10 0 0 0 0 ao 0 0 0 0 0 0 0
+33 50 18 72
+10 400 0 0
+#3811
+liquor mole~
+a wooden flask of mole liquor~
+A wooden flask reeks heavily of mole - it's a kicker!~
+~
+10 0 0 0 0 ao 0 0 0 0 0 0 0
+33 33 69 25
+10 600 0 0
+#3812
+greaves~
+a pair of ashen greaves~
+A pair of greaves fashioned from ash wood lies here.~
+~
+9 0 0 0 0 ai 0 0 0 0 0 0 0
+-8 0 0 0
+20 20000 0 19
+A
+23 -2
+A
+24 -2
+#3813
+ring oak~
+an oaknot ring~
+A ring fashioned from a knot of oak sits on its heavy end.~
+~
+9 0 0 0 0 ab 0 0 0 0 0 0 0
+-3 0 0 0
+20 15750 0 19
+A
+24 -1
+A
+13 7
+#3814
+breastplate plate~
+a redwood breastplate~
+A breastplate woven of redwood strips lies here on its back.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+-12 0 0 0
+80 27000 0 19
+#3815
+treant towershield shield~
+a treant towershield~
+A massive treant bark towershield stands here, sturdy and unmoving.~
+~
+9 0 0 0 0 aj 0 0 0 0 0 0 0
+-20 0 0 0
+78 78000 0 19
+A
+13 30
+A
+18 -5
+A
+21 -2
+A
+24 -2
+A
+23 -2
+#3816
+wristguard sequoia~
+a wristguard of golden sequoia wood~
+A golden, wooden wristguard rests on the ground at your feet.~
+~
+9 0 0 0 0 am 0 0 0 0 0 0 0
+-3 0 0 0
+20 21020 0 19
+A
+14 25
+A
+6 1
+A
+5 2
+#3817
+book Kuvia history prophecy~
+"A Prophecy of Kuvia"~
+A heavy tome lies in a pile of its own dust.~
+~
+16 0 0 0 0 ao 0 0 0 0 0 0 0
+9000 0 0 0
+32 1000 0 0
+E
+book Kuvia history prophecy~
+Chapter I: The Ancient World Across Waters
+Many ages ago, in a land far removed by water and magical boundaries, there was
+a land known by its residents as Medievia. It was created and ruled by a wise
+and fair man, and his first disciples were kind, and they prospered as a result
+of their ... .. .. ...... In time, their almighty deity grew old, and
+cynical, and blind to the needs of his faithful. He answered to the whims of
+the longest running, fanatical dynasties, and to the most powerful clans. The
+faithful were lost in his attempts to keep the
+~
+E
+2~
+World from being torn apart, by appeasing these pow. Rfu. .... .... .. . 
+The faithful, foreseeing the destruction of their homeland by internal forces,
+fled on ships to the edge of the world. Their most powerful parted the barrier
+put there to keep its people inside, and sailed through, allowing it to fall
+behind them again. They traveled far and long under blistering sun and freezing
+rain, under the blazing threads of firestorms and withstanding the hail, and
+finally came to a wonderous, but dangerous lan
+~
+E
+3~
+D. There they discovered in time the great Goddess, Kuvia, who we know and love
+to this day. Among those first sailors were members of clans that are now
+defunct, such as the Dark Nomads and Altas Fidelitas. These clans I know will
+come to rise again, under different names, but equally noble causes. ... The
+rest of the book is torn and waterstained, continuing on page 386 -
+appropriately, on the same subject of the clans and the prophecy.
+~
+E
+386~
+Come they will, in time, when their world is consumed by war and overrun with
+the Khrait race, when their world is eventually taken and corrupted by the
+coming of Hellruler. The great bloodlines of Kwe and Sorcio and Myth shall come
+and prosper under the new sun. Altus Fidelitas and the Dark Nomads and White
+Rose will rise again, and so too will the Seventh Circle and Rise of Mayhem and
+Fate, but it will be a different world - at least in the beginning. I fear the
+advent of a second ... .. .. .....
+~
+E
+387~
+Which must be safeguarded against by the deities of this realm, so that we do
+not fall prey to corruption, because then we will not be strong enough to fend
+of the Hellruler.
+~
+$~

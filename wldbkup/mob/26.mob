@@ -1,0 +1,102 @@
+#2600
+golem digger stone~
+a digger golem~
+A lumbering hulk of raw stone rakes the walls carefully on all sides with its razor sharp claws, removing valuable gems and ores.
+~
+A brilliant mage designed a golem that specializes in digging, made of the
+unremarkable stone surrounding the raw materials that the miners hold so dear.
+A lodestone glows in a socket in the golem's head looming three meters overhead,
+the only feature in its smooth face. Eight limbs hold it suspended in the
+tunnel as it claws at the walls. The golem can take basic directions pertaining
+to mining, and excecute them with unrivaled precision and care. If they were
+somehow provoked to anger...
+~
+50577480 0 0 0 0 0 0 0 0 E
+20 -180 -12 100d50+200 50d2+10
+15002 40000
+8 8 0
+BareHandAttack: 8
+Att1: 8
+Att2: 8
+Att3: 8
+E
+#2601
+monitor miner man~
+a monitor of mining activities~
+A massive man hulks on a platform, surveying the activities of the mineshaft.
+~
+This is one of the many human men employed to keep the incredibly unintelligent
+golems in line. As long as these men are here, nothing can go wrong- or so they
+would like to think. In the event of imminent collapse or a gas leak, these
+miners carry caged birds that will pass out from the sudden change in air
+pressure or composition, warning them to get out.
+~
+50333912 32 0 0 64 0 0 0 0 E
+9 -10 4 10d20+90 2d2+1
+123 8100
+8 8 1
+BareHandAttack: 13
+Att1: 13
+E
+#2602
+earth elemental~
+a deep earth elemental~
+A writhing hulk of half molten rock lumbers through the passageway, seeking the source of the disturbance.
+~
+The mining seems to have awakened a normally docile creature and make it into a
+fierce killing machine intent on protecting its domain. Six stocky legs support
+its massive body, which must be several tons as the least. It throws off an
+intense heat as though it has just emerged from the deepest depths of the earth,
+which it uses to the best by rearing its mammoth-like head and vomiting deadly
+hot gases. The earth shakes around it- hopefully the tunnel doesn't collapse.
+~
+33808504 0 0 0 0 0 0 0 -250 E
+40 -30 -12 35d100+400 6d6+50
+0 160000
+8 8 0
+BareHandAttack: 9
+Att1: 6
+Att2: 6
+Att3: 12
+Clss: 21
+E
+#2603
+fierce stone worm~
+a fierce stoneworm~
+A massive worm bursts into the room, rearing up and shrieking with its mouth wide open.
+~
+These worms are among the fiercest of subterranean predators, masters of stealth
+despite their size and far stronger than most above ground creatures of the same
+size. They forge illusions in their terrain, masking entrances and exits and
+hiding deadly pitfalls in which they lurk, waiting for an unsuspecting meal. 
+This one must be particularly hungry, for rearing its ugly head in a tunnel it
+has not created.
+~
+-2147483412 31 0 0 134742080 0 0 0 0 E
+21 -15 -2 25d15+210 10d4+10
+0 44100
+8 8 0
+BareHandAttack: 4
+Att1: 4
+Clss: 9
+E
+#2604
+mushroom shroom curiouser~
+a curious mushroom~
+A massive mushroom the color of midnight squeaks nervously as you draw near.
+~
+These mushrooms are of an extremely rare underground race that has lived away
+from the land above for millions of years, creating complex societies and
+underground cities that are rarely found, by surface dwellers and the
+underground races alike. It is rumored that the young ones go on a walkabout
+every few hundred years to see the world; this one must be on its way to the
+surface world.
+~
+16777436 64 0 0 1048896 0 0 0 300 E
+15 10 1 100d100+150 10d3+10
+0 22500
+8 8 0
+BareHandAttack: 12
+Clss: 21
+E
+$

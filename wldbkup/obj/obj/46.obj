@@ -1,0 +1,39 @@
+#4600
+pine cone pinecone~
+a prickly pine cone~
+A small unopened cone hangs from a branch, swaying in the breeze.~
+The pine cones in this forest are close to the color of pitch, and sharp with
+thorns. They only open to release their seeds when the moon is blue, once every
+few years.
+~
+34 iv 0 0 0 ao 0 0 0 m 0 0 0
+0 0 0 0
+1 0 0 0
+A
+19 5
+#4601
+nest raven's~
+a raven's nest~
+A broad bunch of twigs cemented together with dirt sits here.~
+This nest was made by a raven for its eggs. Disturbing it probably incurred the
+wrath of the mother.
+~
+15 crE 0 0 0 ae 0 0 0 e 0 0 0
+3 0 -1 0
+2 2 0 4
+A
+2 -3
+A
+3 3
+A
+13 20
+#4602
+burrow warren rabbit~
+the rabbit warren~
+A deep crater leads to a sloping tunnel, signs of rabbit activity.~
+Something shines just inside the burrow.
+~
+15 qrs 0 0 0 a 0 0 0 0 0 0 0
+100 0 -1 0
+1000 0 0 0
+$~

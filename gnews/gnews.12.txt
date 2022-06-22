@@ -1,0 +1,27 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+-------------------------------------------------------------------------
+News file [&C12&c]. Type NEWS 12 to re-read this article at a later date.
+-------------------------------------------------------------------------&n
+
+Online help editing is in. Apparently its been here the whole time since
+the port but I didn't have the command set up for it. HEDIT <word> will 
+edit any help file that exists. It will only work on the first word in the
+help file. You can also create new help files with the same command. You're
+welcome.
+
+-B

@@ -1,0 +1,62 @@
+### 83 187 1215049450
+I'am a beta tester! here to squash some bugs...
+~
+### 83 1 1215870780
+OK, not sure whats goin on atm with the code but some objects are being retarded.
+I'm gonna look into moving it to a different version of circle again.....
+only this time i will not port most of our shit and then hand patch it all instead
+of just copying our files over.
+~
+### 83 1 1216474849
+#define SPELL_CHARM                   7 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_CLONE                   9 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_CONTROL_WEATHER        11 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_CURSE                  17 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_ENCHANT_WEAPON         24 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_LOCATE_OBJECT          31 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_SUMMON                 40 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_VENTRILOQUATE          41 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_WORD_OF_RECALL         42 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_DISPEL_MAGIC           55
+#define SPELL_CLAN_RECALL            57
+#define SPELL_HURRICANE              58
+#define SPELL_EAGLE_FLIGHT           59
+#define SPELL_WHIRLWIND              61
+#define SPELL_CONJURE_TREE           62
+#define SPELL_RAT_SWARM              63
+#define SPELL_HELLSTORM              64
+#define SPELL_HAMMER_OF_DIVINITY     65
+#define SPELL_STARFIRE               66
+#define SPELL_DEATH_FIELD            74
+#define SPELL_DRAIN_LIFE             75
+#define SPELL_CONTROL_UNDEAD         76
+#define SPELL_CONFUSION              77
+#define SPELL_SHOCKSTORM             79
+#define SPELL_BLIZZARD               80
+#define SPELL_METEOR_STORM           84
+#define SPELL_SUMMON_CELESTIAL       85
+#define SPELL_CLONE_IMAGES           89
+#define SPELL_MAJOR_CREATION         90
+#define SPELL_SUMMON_FIEND           91
+#define SPELL_ENTANGLE               95
+#define SPELL_RETRIBUTION            96
+#define SKILL_RESCUE                106 /* Reserved Skill[] DO NOT CHANGE */
+#define SKILL_TRACK                 109 /* Reserved Skill[] DO NOT CHANGE */
+#define SKILL_HEROISM               126
+#define SKILL_REVEAL                127
+#define SKILL_SENSE                 129
+#define SKILL_SUMMON_MOUNT          130
+#define SKILL_VENGEANCE             132
+#define SKILL_DIVINE_PROT           133
+#define SKILL_COURAGE               134
+#define SKILL_DUAL_THROW            138
+#define SKILL_ADVANCED_HIDE         139
+#define SKILL_ADVANCED_THROW        141
+#define SKILL_AMBUSH                143
+#define SKILL_ADVANCED_TRACK        144
+#define SKILL_THROW                 147
+~
+### 208 1 1220310733
+how many rooms you need?
+
+~

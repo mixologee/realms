@@ -1,0 +1,30 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+                   ::::    ::: :::::::::: :::       :::  :::::::: 
+                  :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+                 :+:+:+  +:+ +:+        +:+       +:+ +:+         
+                +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+               +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+              #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+             ###    #### ##########   ###   ###    ########   
+                                          
+--------------------------------------------------------------------
+News file [&C1&c]. Type GNEWS 1 to re-read this article at a later date.
+--------------------------------------------------------------------&n
+
+&GThis is the first of many god news files you should recieve over 
+time.  These news' should have everything to do about everyday
+changes that are necessary to keep the game up and running.  Any
+better than update code changes should be listed ina god news
+file so that everyone can be informed of what is going on around
+them.  Do not share the information in these news files with mortals,
+they have their own news system that we will keep updated as
+often as possible with information that they need to see.
+
+&C-Slurk&n

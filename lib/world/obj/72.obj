@@ -1,0 +1,833 @@
+#7200
+Red potion~
+a red potion~
+A red potion has been left behind.~
+~
+10 0 0 0 0 ao 0 0 0 0 0 0 0
+20 15 -1 -1
+1 50 0 0
+#7201
+Pink potion~
+a pink potion~
+A pink potion is lying here.~
+~
+10 0 0 0 0 ao 0 0 0 0 0 0 0
+30 19 -1 -1
+1 10 0 4
+#7202
+Green potion~
+a green potion~
+A green potion is lying on the ground.~
+~
+10 0 0 0 0 ao 0 0 0 0 0 0 0
+15 1 -1 -1
+1 20 0 -6
+#7203
+Orange potion~
+an orange potion~
+An orange potion is lying here.~
+~
+10 0 0 0 0 ao 0 0 0 0 0 0 0
+15 29 -1 -1
+1 10 0 8
+#7204
+Blue potion~
+a blue potion~
+Someone has carelessly left a blue potion here,~
+~
+10 0 0 0 0 ao 0 0 0 0 0 0 0
+15 36 -1 -1
+5 250 0 -11
+#7205
+Cyan potion~
+a cyan potion~
+A cyan potion is lying here.~
+~
+10 0 0 0 0 ao 0 0 0 0 0 0 0
+30 43 43 -1
+1 20 0 0
+#7206
+city fountain~
+a fountain~
+A massive green bong spills endlessly into a large pool.~
+~
+23 0 0 0 0 a 0 0 0 0 0 0 0
+1000000 1000000 15 0
+1000005 0 0 -3
+E
+fountain bong~
+This fountain is a symbol to the people, that the Gods will always
+be with them. The bong stands 4 feet tall and spills into a twenty
+foot wide reflecting pool.
+~
+#7207
+2004 commemorative pin~
+a 2004 commemorative pin~
+Someone dropped something special.~
+~
+11 abdghiq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 100420 0 -8
+E
+pin~
+&GThis classy pin is made of one troy ounze of pure silver. It
+features The Game, game logo,and the year 2004. The Danklin Mint is
+pleased to offer this special commemorative pin for this year and this
+year only. Supplies are limited.&n
+~
+#7208
+commemorative pen~
+a 2004 commemorative pen~
+Someone has dropped something special.~
+~
+21 abdhq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 100420 0 1
+E
+pen~
+&GThe Danklin Mint proudly issues the second item in it's 2004
+series. This handsome pen was handcrafted by a dwarven artisan, out
+of a rare type of deep green marble. It bears The Game, game logo, and
+the year 2004, on its body.&n
+~
+#7209
+torch~
+a torch~
+A torch is lying here.~
+~
+1 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 5 0
+1 2 0 1
+#7210
+lantern~
+a lantern~
+A lantern is lying here.~
+~
+1 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 -1 0
+3 20 0 -7
+#7211
+beef jerky food~
+beef jerky~
+Some beef jerky has been dropped here.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+7 0 0 0
+1 10 0 0
+#7212
+trail mix~
+trail mix~
+Some trail mix is lying here.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+8 0 0 0
+1 4 0 10
+#7213
+waterskin skin water~
+a waterskin~
+A waterskin was left here.~
+~
+17 0 0 0 0 ao 0 0 0 0 0 0 0
+30 30 15 0
+35 20 0 2
+#7214
+wineskin skin wine~
+a wineskin~
+A wineskin is lying on the ground.~
+~
+17 0 0 0 0 ao 0 0 0 0 0 0 0
+35 35 2 0
+40 25 0 10
+#7215
+Orb satchel~
+an orb in satchel~
+An orb of light in a satchel, is lying here.~
+~
+1 r 0 0 0 ao 0 0 0 0 0 0 0
+0 0 -1 0
+2 50 0 1
+A
+13 5
+A
+19 1
+A
+17 -5
+#7216
+fishing pole~
+a fishing pole~
+A long pole with a reel attached to the handle is lying here.~
+~
+24 r 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+5 1000 0 0
+A
+9 20
+#7217
+Leather mask~
+a leather facemask~
+A leather face mask is lying here.~
+~
+9 r 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+2 20 0 0
+A
+13 5
+A
+18 1
+#7218
+Obsidian ring~
+a ring of obsidian~
+An obsidian ring is lying here.~
+~
+9 r 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+2 20 0 0
+A
+13 10
+A
+18 2
+#7219
+Hematite ring~
+a hematite ring~
+A hematite ring has been left here.~
+~
+9 r 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+2 20 0 0
+A
+13 10
+A
+19 2
+#7220
+Obsidian necklace~
+an obsidian necklace~
+A necklace has been left here.~
+~
+9 r 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+2 15 0 0
+A
+13 5
+A
+18 1
+#7221
+Hematite necklace~
+a hematite necklace~
+A necklace made of hematite is lying here.~
+~
+9 r 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+2 15 0 0
+A
+13 5
+A
+19 1
+#7222
+Leather armor~
+Leather armor~
+Some armor is lying here.~
+~
+9 r 0 0 0 ad 0 0 0 0 0 0 0
+5 0 0 0
+3 20 0 0
+A
+13 10
+#7223
+Leather cloak~
+a leather Cloak~
+A leather cloak is lying here.~
+~
+9 r 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+3 15 0 0
+A
+13 5
+A
+24 -1
+#7224
+Arm guards~
+a pair of leather armguards~
+A pair of armguards are lying on the ground.~
+~
+9 r 0 0 0 ai 0 0 0 0 0 0 0
+5 0 0 0
+2 20 0 0
+A
+13 5
+#7225
+Leather gloves~
+a pair of leather gloves~
+A pair of gloves are lying here.~
+~
+9 r 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0
+1 20 0 0
+A
+13 5
+A
+19 2
+#7226
+Leather copper shield~
+a shield made of copper and leather~
+A leather shield is lying here.~
+~
+9 r 0 0 0 aj 0 0 0 0 0 0 0
+10 0 0 0
+3 20 0 0
+A
+13 10
+#7227
+Leather belt~
+a leather belt~
+Someone lost their belt.~
+~
+9 r 0 0 0 al 0 0 0 0 0 0 0
+0 0 0 0
+1 15 0 0
+A
+13 5
+A
+18 1
+#7228
+Leg guards~
+Leather leg guards~
+A pair of leg guards are lying here.~
+~
+9 r 0 0 0 af 0 0 0 0 0 0 0
+5 0 0 0
+2 10 0 0
+A
+1 2
+#7229
+Leather boots~
+a pair of leather boots~
+A pair of boots are lying here.~
+~
+9 r 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0
+2 20 0 0
+A
+13 10
+A
+1 1
+#7230
+practice sword~
+a practice sword~
+A cheesy sword is lying here.~
+~
+5 nr 0 0 0 an 0 0 0 0 0 0 0
+0 3 4 3
+3 15 0 0
+A
+19 2
+A
+18 1
+#7231
+lucky rock~
+a lucky rock~
+Someone lost their lucky rock...how unlucky!~
+~
+9 r 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+3 15 0 0
+A
+13 5
+A
+18 1
+#7232
+Purity light~
+a light of purity~
+A blinding white light radiates from the ground.~
+~
+1 r 0 0 0 ao 0 0 0 0 0 0 0
+0 0 -1 0
+1 50 0 0
+A
+12 10
+A
+4 2
+#7233
+Purity headband~
+a headband of purity~
+A headband is lying here.~
+~
+9 r 0 0 0 ae 0 0 0 0 0 0 0
+5 0 0 0
+1 20 0 0
+A
+13 5
+A
+12 5
+#7234
+Purity ring~
+a ring of purity~
+A pure ring is lying here.~
+~
+9 r 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+1 10 0 0
+A
+12 4
+#7235
+Shimmering purity ring~
+a shimmering ring of purity~
+A pure shimmering ring is lying here.~
+~
+9 r 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+1 20 0 0
+A
+13 5
+A
+12 5
+#7236
+Purity Necklace~
+a necklace of purity~
+A pure necklace is lying here.~
+~
+9 r 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+1 10 0 0
+A
+13 5
+A
+4 1
+#7237
+Shimmering purity necklace~
+a shimmering necklace of purity~
+A pure shimmering necklace is lying here.~
+~
+9 r 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+1 20 0 0
+A
+13 5
+A
+12 5
+#7238
+purity armor~
+the armor of purity~
+Some pure armor is lying here.~
+~
+9 r 0 0 0 ad 0 0 0 0 0 0 0
+5 0 0 0
+3 20 0 0
+A
+13 5
+#7239
+Purity Cloak~
+a cloak of purity~
+A pure cloak is lying here.~
+~
+9 r 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+1 20 0 0
+A
+12 10
+A
+24 -1
+#7240
+Purity Armguards~
+the armguards of purity~
+Some pure armguards were dropped here.~
+~
+9 r 0 0 0 ai 0 0 0 0 0 0 0
+0 0 0 0
+3 40 0 0
+A
+12 3
+A
+18 1
+A
+19 2
+#7241
+Purity gloves~
+a pair of purity gloves~
+A pair of pure gloves are lying here.~
+~
+9 r 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0
+2 10 0 0
+A
+12 7
+#7242
+Purity shield~
+a shield of purity~
+A pure shield is lying here.~
+~
+9 r 0 0 0 aj 0 0 0 0 0 0 0
+10 0 0 0
+3 15 0 0
+#7243
+Purity belt~
+a belt of purity~
+A pure belt is lying here.~
+~
+9 r 0 0 0 al 0 0 0 0 0 0 0
+0 0 0 0
+1 20 0 0
+A
+12 8
+A
+24 -1
+#7244
+Purity leggings~
+the leggings of purity~
+Some pure leggings are lying here.~
+~
+9 r 0 0 0 af 0 0 0 0 0 0 0
+0 0 0 0
+2 15 0 0
+A
+13 5
+#7245
+Purity boots~
+the boots of purity~
+Some pure boots have been left behind.~
+~
+9 r 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0
+2 20 0 0
+A
+12 10
+A
+13 6
+#7246
+Purity mace~
+a mace of purity~
+A pure mace is lying here.~
+~
+5 r 0 0 0 an 0 0 0 0 0 0 0
+0 3 4 7
+3 20 0 0
+A
+12 10
+A
+17 -5
+#7247
+Purity symbol~
+the symbol of purity~
+A symbol of purity is lying here.~
+~
+9 r 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 20 0 0
+A
+12 8
+A
+13 5
+#7248
+Chu dagger~
+the dagger of CHU~
+A dagger with Chu's name on it, is lying here.~
+~
+5 abgir 0 0 0 an 0 0 0 0 0 0 0
+0 4 5 11
+1 0 0 1
+A
+18 3
+A
+19 3
+#7249
+jail key~
+a jail key~
+The key to the jail has been carelessly dropped here.~
+~
+18 c 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 7
+#7250
+Backpack~
+a backpack~
+A backpack is lying on the ground here.~
+~
+15 0 0 0 0 ad 0 0 0 0 0 0 0
+25 1 -1 0
+2 50 0 -4
+#7251
+sexy purple potion~
+a sexy purple potion~
+Someone dropped the sexiest potion ever seen here.~
+this item will be a refresh spell when refresh is available
+~
+10 0 0 0 0 ao 0 0 0 0 0 0 0
+0 -1 -1 -1
+2 35 0 0
+#7252
+Recall scroll~
+a recall scroll~
+A handy scroll is lying here.~
+~
+2 g 0 0 0 ao 0 0 0 0 0 0 0
+20 42 -1 -1
+1 25 0 -5
+#7253
+short bow~
+a short range bow~
+A small bow is resting here.~
+~
+25 r 0 0 0 an 0 0 0 0 0 0 0
+1 0 0 0
+5 500 0 0
+A
+18 2
+A
+19 2
+#7254
+bow long~
+a long bow~
+A large bow is resting on the ground here.~
+~
+25 r 0 0 0 an 0 0 0 0 0 0 0
+2 0 0 0
+10 2000 0 7
+A
+18 3
+A
+19 3
+#7255
+crossbow~
+a small crossbow~
+A small, devious looking crossbow sits here waiting to kill something.~
+~
+27 r 0 0 0 an 0 0 0 0 0 0 0
+1 0 0 0
+7 5000 0 10
+A
+19 5
+#7256
+sling leather~
+a leather sling~
+A regular old leather sling is curled up here.~
+~
+26 r 0 0 0 an 0 0 0 0 0 0 0
+2 0 0 0
+1 100 0 -2
+A
+18 3
+A
+19 1
+#7257
+arrow wooden~
+a wooden arrow~
+A small arrow made of wood is lying here.~
+~
+29 0 0 0 0 ao 0 0 0 0 0 0 0
+0 10 1 0
+1 50 0 1
+#7258
+bolt metal~
+a metal bolt~
+A small bolt made of metal is resting here, waiting for a crossbow to fire it.~
+~
+28 0 0 0 0 ao 0 0 0 0 0 0 0
+0 5 3 0
+2 100 0 6
+#7259
+stone rock~
+a small stone~
+A small round stone sits here.~
+~
+30 0 0 0 0 ao 0 0 0 0 0 0 0
+0 7 1 0
+3 10 0 1
+#7260
+CM dagger~
+the dagger of Charly Murphy~
+A dagger with the intials C.M., is lying here.~
+~
+5 r 0 0 0 an 0 0 0 0 0 0 0
+0 4 5 11
+2 0 0 0
+A
+18 4
+A
+19 4
+#7261
+billy club~
+a billy club~
+A mean looking spiked billy club is lying here.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+0 4 5 5
+3 4200 0 15
+A
+18 2
+A
+19 2
+#7262
+Kab's badge~
+a sheriff's badge~
+The badge of a lawman, is lying here.~
+~
+11 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 20 0 1
+A
+4 3
+A
+5 3
+#7263
+Grey potion~
+a grey potion~
+A grey potion is lying here.~
+~
+10 0 0 0 0 ao 0 0 0 0 0 0 0
+20 18 19 44
+1 50 0 0
+#7264
+Overlord's pirate hat~
+the overlord's hat~
+A overlord's black hat is lying here.~
+~
+11 mn 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+2 420 0 10
+A
+18 3
+A
+19 2
+#7265
+Overlord's cape~
+the overlord's cape~
+A long black cape is lying here.~
+~
+11 mnp 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+2 50 0 10
+A
+2 2
+A
+13 10
+#7266
+Pirate belt~
+a belt with a skull and crossbones buckle~
+A flashy belt has been left here.~
+~
+9 0 0 0 0 al 0 0 0 0 0 0 0
+10 0 0 0
+2 1420 0 15
+A
+24 -1
+#7267
+Pirate boots~
+a pair pirate boots~
+A pair of black pirate boots is lying here.~
+~
+11 mn 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0
+2 420 0 20
+A
+13 15
+A
+18 3
+#7268
+Pirate shirt~
+a pirate shirt~
+A dirty white pirate shirt is lying here.~
+~
+11 0 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+A
+13 5
+#7269
+Overlord rapier~
+the overlord's rapier~
+A sleek rapier is lying here~
+~
+5 mn 0 0 0 an 0 0 0 0 0 0 0
+0 4 5 3
+2 1000 0 20
+A
+18 4
+A
+19 4
+#7270
+Pirate rapier~
+a pirate rapier~
+A slender rapier is lying here.~
+~
+5 mn 0 0 0 an 0 0 0 0 0 0 0
+0 3 5 3
+2 100 0 0
+#7271
+pork fried rice food~
+a pint of pork fried rice~
+A funny looking box packed full of rice is lying here.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+20 0 0 0
+1 18 0 0
+#7272
+scroll remove curse~
+a black and blue scroll~
+A scroll with black and blue markings on it is lying here.~
+The scroll FLARES.
+~
+2 0 0 0 0 ao 0 0 0 0 0 0 0
+31 35 -1 -1
+0 25 0 0
+#7273
+jumprope~
+a jumprope~
+A long piece of rope is lying here.~
+~
+12 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 10 0 0
+A
+2 2
+#7274
+rubik cube~
+the cube of Rubik~
+A multi colored square is lying here.~
+~
+12 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+2 10 0 0
+A
+3 2
+#7275
+Real Estate Board~
+the real estate board~
+The real estate board stands along the wall.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+999 0 0 0
+#7276
+mortal board~
+a mortal message board~
+A message board for mortals has been placed here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+999 0 0 5
+#7277
+canoe~
+a kick ass little canoe~
+The coolest little canoe in the world, is lying here.~
+~
+22 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 10420 0 0
+A
+14 50
+#7278
+2006 commemorative pin~
+a 2006 commemorative pin~
+A piece of history is lying on the ground.~
+~
+11 abdq 0 0 0 ado 0 0 0 0 0 0 0
+0 0 0 0
+1 100420 0 0
+#7279
+2006 commemorative pen~
+a 2006 commemorative pen~
+Someone lost a really nice pen.~
+~
+21 abdq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 100420 0 0
+$~

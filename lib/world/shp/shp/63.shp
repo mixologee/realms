@@ -1,0 +1,255 @@
+CircleMUD v3.0 Shop File~
+#6317~
+6316
+6317
+6319
+6318
+6320
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+6310
+0
+6317
+-1
+0
+28
+0
+0
+#6396~
+6301
+6308
+7230
+7246
+7253
+7254
+7255
+7256
+7257
+7258
+7259
+-1
+1.00
+1.00
+27
+5
+34
+26
+29
+7
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s You are too poor!~
+%s I can't afford that!~
+%s You don't seem to have that.~
+%s Sorry, I don't stock that item.~
+0
+0
+6309
+0
+6396
+-1
+0
+28
+0
+0
+#6397~
+7215
+7217
+7218
+7219
+7220
+7221
+7222
+7223
+7224
+7225
+7226
+7227
+7228
+7229
+7231
+7232
+7233
+7234
+7235
+7236
+7237
+7238
+7239
+7240
+7241
+7242
+7243
+7244
+7245
+7247
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+6332
+0
+6397
+-1
+0
+28
+0
+0
+#6398~
+7272
+7252
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+6336
+0
+6398
+-1
+0
+28
+0
+0
+#6463~
+6312
+6313
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, love.~
+%s I'll give you %d coins for that.~
+0
+0
+6326
+0
+6463
+-1
+0
+28
+0
+0
+#6516~
+6505
+6506
+6507
+6508
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't know how to make that.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s ~
+%s It seems you cannot afford my prices.~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+6516
+0
+6516
+-1
+0
+28
+0
+0
+#6523~
+7200
+7201
+7202
+7203
+7204
+7205
+7251
+7263
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+6517
+0
+6523
+-1
+0
+28
+0
+0
+#6524~
+7277
+7209
+7210
+7211
+7212
+7213
+7214
+7216
+7271
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+6518
+0
+6524
+-1
+0
+28
+0
+0
+$~

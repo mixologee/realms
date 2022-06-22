@@ -1,0 +1,927 @@
+#12600
+The Rim of the Volcano~
+This zone is almost entirely CPK, with patches of NPK. This is the entrance,
+which is accessed from the wilderness above. There are two ways to get into the
+zone: one, enter the volcano (here) and find your way through it without dying.
+Two, enter the first room and cast Word of Recall. This part is NPK, but as
+soon as you are out of the light it is CPK. Also, this part of the zone all the
+way to the city procs something like a blast of hot air which deals 4d4 damage
+and lags the target for a round.
+~
+126 65792 1 0 0 19
+D0
+~
+~
+0 0 12601
+D1
+~
+~
+0 0 12603
+D2
+~
+~
+0 0 12602
+D5
+~
+~
+0 0 12606
+S
+#12601
+The Rim of the Volcano~
+This unfinished room was created by Accarid.
+~
+126 65792 1 0 0 19
+D1
+~
+~
+0 0 12604
+D2
+~
+~
+0 0 12600
+D5
+~
+~
+0 0 12610
+S
+#12602
+The Rim of the Volcano~
+This unfinished room was created by Accarid.
+~
+126 65792 1 0 0 19
+D0
+~
+~
+0 0 12600
+D1
+~
+~
+0 0 12605
+D5
+~
+~
+0 0 12607
+S
+#12603
+The Rim of the Volcano~
+This unfinished room was created by Accarid.
+~
+126 65792 1 0 0 19
+D0
+~
+~
+0 0 12604
+D2
+~
+~
+0 0 12605
+D3
+~
+~
+0 0 12600
+D5
+~
+~
+0 0 12609
+S
+#12604
+The Rim of the Volcano~
+This unfinished room was created by Accarid.
+~
+126 65792 1 0 0 19
+D2
+~
+~
+0 0 12603
+D3
+~
+~
+0 0 12601
+D5
+~
+~
+0 0 12611
+S
+#12605
+The Rim of the Volcano~
+This unfinished room was created by Accarid.
+~
+126 65792 1 0 0 19
+D0
+~
+~
+0 0 12603
+D3
+~
+~
+0 0 12602
+D5
+~
+~
+0 0 12608
+S
+#12606
+At the Edge of the Caldera~
+Three of these rooms have an entrance down- only one of them is the right one;
+the other two are dead end fire rooms. In order to descend a passage, you must
+first get a rope which is lying at the edge of the caldera somewhere (not a room
+with a down) and tie it to the stone over each hole (tie rope stone). Then you
+may descend on the rope.
+~
+126 65792 129 0 0 19
+D0
+~
+~
+0 0 12610
+D1
+~
+~
+0 0 12609
+D2
+~
+~
+0 0 12607
+D4
+~
+~
+0 0 12600
+S
+#12607
+At the Edge of the Caldera~
+This unfinished room was created by Accarid.
+~
+126 65792 129 0 0 19
+D0
+~
+~
+0 0 12606
+D1
+~
+~
+0 0 12608
+D4
+~
+~
+0 0 12602
+D5
+~
+~
+0 0 12613
+S
+#12608
+At the Edge of the Caldera~
+This unfinished room was created by Accarid.
+~
+126 65792 129 0 0 19
+D0
+~
+~
+0 0 12609
+D3
+~
+~
+0 0 12607
+D4
+~
+~
+0 0 12605
+S
+#12609
+At the Edge of the Caldera~
+This unfinished room was created by Accarid.
+~
+126 65792 129 0 0 19
+D0
+~
+~
+0 0 12611
+D2
+~
+~
+0 0 12608
+D3
+~
+~
+0 0 12606
+D4
+~
+~
+0 0 12603
+D5
+~
+~
+0 0 12612
+S
+#12610
+At the Edge of the Caldera~
+This unfinished room was created by Accarid.
+~
+126 65792 129 0 0 19
+D1
+~
+~
+0 0 12611
+D2
+~
+~
+0 0 12606
+D4
+~
+~
+0 0 12601
+S
+#12611
+At the Edge of the Caldera~
+This unfinished room was created by Accarid.
+~
+126 65792 129 0 0 19
+D2
+~
+~
+0 0 12609
+D3
+~
+~
+0 0 12610
+D4
+~
+~
+0 0 12604
+D5
+~
+~
+0 0 12614
+S
+#12612
+Within One of the Craters~
+This unfinished room was created by Accarid.
+~
+126 65805 128 0 0 19
+D4
+~
+~
+0 0 12609
+D5
+~
+~
+0 0 12615
+S
+#12613
+Within One of the Craters~
+This unfinished room was created by Accarid.
+~
+126 65548 128 0 0 19
+D4
+~
+~
+0 0 12607
+D5
+~
+~
+0 0 12616
+S
+#12614
+Within One of the Craters~
+This unfinished room was created by Accarid.
+~
+126 65548 128 0 0 19
+D4
+~
+~
+0 0 12611
+D5
+~
+~
+0 0 12617
+S
+#12615
+A Pit of Brimstone~
+This unfinished room was created by Accarid.
+~
+126 65547 128 0 0 19
+D4
+~
+~
+0 0 12612
+S
+#12616
+A Pit of Brimstone~
+This unfinished room was created by Accarid.
+~
+126 65547 128 0 0 0
+D4
+~
+~
+0 0 12613
+S
+#12617
+&BDescending Into the Depths of Dzagk~
+This unfinished room was created by Accarid.
+~
+126 65801 128 0 0 19
+D4
+~
+~
+0 0 12614
+D5
+~
+~
+0 0 12618
+S
+#12618
+&bHanging in the Darkness~
+In this tunnel, hitroll and damroll are halved, and spells have a 50% chance of
+missing (on account of hanging in midair). There is also a chance of falling,
+about 1/10 when entering or leaving a room, which increases to 1/10 per RoUnD
+when fighting.
+~
+126 131081 128 0 0 19
+D4
+~
+~
+0 0 12617
+D5
+~
+~
+0 0 12619
+S
+#12619
+&bHanging in the Darkness~
+This unfinished room was created by Accarid.
+~
+126 131337 128 0 0 19
+D4
+~
+~
+0 0 12618
+D5
+~
+~
+0 0 12620
+S
+#12620
+&bIn a Hot Chamber~
+&bThe rock is hot under your feet, and &yacrid smoke &bspirals from the
+&rglowing cracks &btowards the caldera far above. The sounds of gurgling magma
+echo through the area, and every once in a while the ground lets out a
+tooth-rattling &ghiss&b.
+~
+126 131337 0 0 0 19
+D1
+~
+~
+0 0 12621
+D4
+~
+~
+0 0 12619
+S
+#12621
+&bA Curving Magma Tunnel~
+This unfinished room was created by Accarid.
+~
+126 131337 0 0 0 19
+D2
+~
+~
+0 0 12622
+D3
+~
+~
+0 0 12620
+S
+#12622
+&bA Curving Magma Tunnel~
+This unfinished room was created by Accarid.
+~
+126 131337 0 0 0 0
+D0
+~
+~
+0 0 12621
+D3
+~
+~
+0 0 12623
+S
+#12623
+&bA Curving Magma Tunnel~
+This unfinished room was created by Accarid.
+~
+126 131337 0 0 0 0
+D1
+~
+~
+0 0 12622
+D5
+~
+~
+0 0 12624
+S
+#12624
+The Center of Dzagk~
+This unfinished room was created by Accarid.
+~
+126 604045577 0 0 0 0
+D0
+~
+~
+0 0 12625
+D1
+~
+~
+0 0 12626
+D2
+~
+~
+0 0 12629
+D3
+~
+~
+0 0 12631
+D4
+~
+~
+0 0 12623
+S
+#12625
+A Roughly Paved City Square~
+This unfinished room was created by Accarid.
+~
+126 65545 0 0 0 0
+D0
+~
+~
+0 0 12633
+D1
+~
+~
+0 0 12627
+D2
+~
+~
+0 0 12624
+D3
+~
+~
+0 0 12632
+S
+#12626
+A Roughly Paved City Square~
+This unfinished room was created by Accarid.
+~
+126 65544 0 0 0 0
+D0
+~
+~
+0 0 12627
+D1
+~
+~
+0 0 12634
+D2
+~
+~
+0 0 12628
+D3
+~
+~
+0 0 12624
+S
+#12627
+A Roughly Paved City Square~
+This unfinished room was created by Accarid.
+~
+126 65544 0 0 0 0
+D0
+~
+~
+0 0 12638
+D1
+~
+~
+0 0 12637
+D2
+~
+~
+0 0 12626
+D3
+~
+~
+0 0 12625
+S
+#12628
+A Roughly Paved City Square~
+This unfinished room was created by Accarid.
+~
+126 65544 0 0 0 0
+D0
+~
+~
+0 0 12626
+D2
+~
+~
+0 0 12639
+D3
+~
+~
+0 0 12629
+S
+#12629
+A Roughly Paved City Square~
+This unfinished room was created by Accarid.
+~
+126 65544 0 0 0 0
+D0
+~
+~
+0 0 12624
+D1
+~
+~
+0 0 12628
+D2
+~
+~
+0 0 12635
+D3
+~
+~
+0 0 12630
+S
+#12630
+A Roughly Paved City Square~
+This unfinished room was created by Accarid.
+~
+126 65544 0 0 0 0
+D0
+~
+~
+0 0 12631
+D1
+~
+~
+0 0 12629
+S
+#12631
+A Roughly Paved City Square~
+This unfinished room was created by Accarid.
+~
+126 65544 0 0 0 0
+D0
+~
+~
+0 0 12632
+D1
+~
+~
+0 0 12624
+D2
+~
+~
+0 0 12630
+D3
+~
+~
+0 0 12636
+S
+#12632
+A Roughly Paved City Square~
+This unfinished room was created by Accarid.
+~
+126 65544 0 0 0 0
+D1
+~
+~
+0 0 12625
+D2
+~
+~
+0 0 12631
+S
+#12633
+A Rough Road, Littered With Debris~
+This unfinished room was created by Accarid.
+~
+126 65545 0 0 0 0
+D0
+~
+~
+0 0 12640
+D1
+~
+~
+0 0 12654
+D2
+~
+~
+0 0 12625
+S
+#12634
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+126 0 0 0 0 0
+D3
+~
+~
+0 0 12626
+S
+#12635
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+126 0 0 0 0 0
+D0
+~
+~
+0 0 12629
+S
+#12636
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+126 0 0 0 0 0
+D1
+~
+~
+0 0 12631
+S
+#12637
+A Heavily Guarded Bank~
+This unfinished room was created by Accarid.
+~
+126 131080 0 0 0 0
+D3
+~
+~
+0 0 12627
+S
+#12638
+A Dark, Ransacked But Operable Post Office~
+This unfinished room was created by Accarid.
+~
+126 131081 256 0 0 0
+D2
+~
+~
+0 0 12627
+S
+#12639
+At the Foot of a Crystal Gate~
+This unfinished room was created by Accarid.
+~
+126 131080 0 0 0 0
+D0
+~
+~
+0 0 12628
+S
+#12640
+A Rough Road, Littered With Debris~
+This unfinished room was created by Accarid.
+~
+126 65545 0 0 0 0
+D0
+~
+~
+0 0 12641
+D1
+~
+~
+0 0 12656
+D2
+~
+~
+0 0 12633
+S
+#12641
+A Rough Road, Littered With Debris~
+This unfinished room was created by Accarid.
+~
+126 65545 0 0 0 0
+D0
+~
+~
+0 0 12642
+D1
+~
+~
+0 0 12643
+D2
+~
+~
+0 0 12640
+D3
+~
+~
+0 0 12646
+S
+#12642
+A Dead End~
+This unfinished room was created by Accarid.
+~
+126 131081 0 0 0 0
+D2
+~
+~
+0 0 12641
+S
+#12643
+A Rough Road, Littered With Debris~
+This unfinished room was created by Accarid.
+~
+126 65545 0 0 0 0
+D1
+~
+~
+0 0 12644
+D3
+~
+~
+0 0 12641
+S
+#12644
+A Rough Road, Littered With Debris~
+This unfinished room was created by Accarid.
+~
+126 65545 0 0 0 0
+D1
+~
+~
+0 0 12645
+D2
+~
+~
+0 0 12653
+D3
+~
+~
+0 0 12643
+S
+#12645
+A Rough Road, Above a Broad Pit~
+This unfinished room was created by Accarid.
+~
+126 65545 0 0 0 0
+D3
+~
+~
+0 0 12644
+D5
+~
+~
+0 0 12649
+S
+#12646
+A Rough Road, Littered With Debris~
+This unfinished room was created by Accarid.
+~
+126 65545 0 0 0 0
+D1
+~
+~
+0 0 12641
+D3
+~
+~
+0 0 12647
+S
+#12647
+A Rough Road, Littered With Debris~
+This unfinished room was created by Accarid.
+~
+126 65545 0 0 0 0
+D1
+~
+~
+0 0 12646
+D3
+~
+~
+0 0 12648
+S
+#12648
+A Rough Road, Littered With Debris~
+This unfinished room was created by Accarid.
+~
+126 65545 0 0 0 0
+D1
+~
+~
+0 0 12647
+S
+#12649
+The Combat Pit~
+This unfinished room was created by Accarid.
+~
+126 131081 0 0 0 0
+D0
+~
+~
+0 0 12650
+D1
+~
+~
+0 0 12652
+D4
+~
+~
+0 0 12645
+S
+#12650
+The Combat Pit~
+This unfinished room was created by Accarid.
+~
+126 131081 0 0 0 0
+D1
+~
+~
+0 0 12651
+D2
+~
+~
+0 0 12649
+S
+#12651
+The Combat Pit~
+This unfinished room was created by Accarid.
+~
+126 131081 0 0 0 0
+D2
+~
+~
+0 0 12652
+D3
+~
+~
+0 0 12650
+S
+#12652
+The Combat Pit~
+This unfinished room was created by Accarid.
+~
+126 131081 0 0 0 0
+D0
+~
+~
+0 0 12651
+D3
+~
+~
+0 0 12649
+S
+#12653
+A Rough Road, Littered With Debris~
+This unfinished room was created by Accarid.
+~
+126 65545 0 0 0 0
+D0
+~
+~
+0 0 12644
+D2
+~
+~
+0 0 12655
+S
+#12654
+A Rough Road, Littered With Debris~
+This unfinished room was created by Accarid.
+~
+126 65545 0 0 0 0
+D1
+~
+~
+0 0 12655
+D3
+~
+~
+0 0 12633
+S
+#12655
+A Corner in the Road~
+This unfinished room was created by Accarid.
+~
+126 65545 0 0 0 0
+D0
+~
+~
+0 0 12653
+D3
+~
+~
+0 0 12654
+S
+#12656
+A Shabby Dwelling~
+This unfinished room was created by Accarid.
+~
+126 131081 0 0 0 0
+D3
+~
+~
+0 0 12640
+S
+$~

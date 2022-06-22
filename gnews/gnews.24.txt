@@ -1,0 +1,54 @@
+
+&R                        Realms of Kuvia
+&c                          ::::::::   ::::::::  :::::::::
+                         :+:    :+: :+:    :+: :+:    :+:
+                        +:+        +:+    +:+ +:+    +:+
+                       :#:        +#+    +:+ +#+    +:+
+                      +#+   +#+# +#+    +#+ +#+    +#+
+                     #+#    #+# #+#    #+# #+#    #+#
+                     ########   ########  #########
+              ::::    ::: :::::::::: :::       :::  ::::::::
+             :+:+:   :+: :+:        :+:       :+: :+:    :+:
+            :+:+:+  +:+ +:+        +:+       +:+ +:+
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#
+        ###    #### ##########   ###   ###    ########
+
+------------------------------------------------------------------------
+News file [&C24&c]. Type NEWS 24 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+&YWizlist (cont)&n
+
+I reconfigured our wizlist some, the main wizlist still is ugly as sin
+and needs to be reformatted, however, you can now have some specifics
+put in there for your wizlist file.  It will now work as such.
+
+wizlist <name> <area>
+
+Before you could do wizlist <name> and display the specific entry for
+that god, now you can add in the area you want to see.  The areas
+include: projects, zones, accomplishments (for now thats it)
+
+So if you type: wizlist slurk accom   you will see the accomplishments
+file associated with me, although these area files are not yet fully
+developed, it makes it much less spammy to see the information about
+a god and still allows us to keep track of stuff you've done and give
+credit where credit is due.  You guys are what keeps this game together
+on the back and and you deserve to be recognized. 
+
+In time I will ask each of you to submit some information for those 
+area files so that we can get them in for you.
+
+
+&YText files&n
+
+I have also updated alot of our basic text files such as MOTD, IMOTD,
+HANDBOOK, CREDITS, GREETINGS, and INFO.
+
+We still need a frontpage for our HELP file area though.
+
+K thats enough bs
+
+-S

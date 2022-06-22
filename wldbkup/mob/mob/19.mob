@@ -1,0 +1,58 @@
+#1900
+pirate sleeping~
+a sleeping pirate~
+A pirate is curled up, sleeping quietly.
+~
+This pirate has been working the farms for days now.  He's curled up in a ball,
+dreaming of the open ocean and the riches he will one day steal.  
+~
+10 0 0 0 0 0 0 0 0 E
+15 0 5 30d1+300 5d3+10
+100 50000
+4 4 1
+Clss: 1
+E
+#1901
+sleeping slave~
+a tired slave~
+A tired slave is resting up here.
+~
+He has dark hair and the early stages of a full beard.  A patch over his left
+eye conceals most of a large scar across his cheek up to his forehead.  
+~
+2056 0 0 0 0 0 0 0 0 E
+10 10 10 30d2+200 5d2+10
+0 60000
+5 5 0
+Clss: 1
+E
+#1902
+hungry pirate~
+a hungry pirate~
+A hungry pirate is here, trying to get his grub on.
+~
+The pirate starts barking loudly about how food shouldn't taste so bad and how
+the mainland food was ten times better than this island crap.  His clothes are
+in good shape, with a nice gold belt buckle.  
+~
+72 0 0 0 0 0 0 0 0 E
+10 5 5 10d10+400 10d1+10
+50 60000
+8 8 1
+Clss: 1
+E
+#1903
+hungry slave~
+a hungry slave~
+A hungry slave hopes to get some kind of slop to put in his belly.
+~
+This slave looks very tired and very over worked.  His bones have started to
+show through his thin layer of skin.  
+~
+72 0 0 0 0 0 0 0 0 E
+10 5 10 10d5+300 5d2+10
+1 50000
+8 8 0
+Clss: 1
+E
+$

@@ -1,0 +1,124 @@
+#2400
+girl mage~
+a cute little mage girl~
+A cute little mage girl waves a wooden wand at the other children.
+~
+This little tyke is wearing a grass green jumper dress, and white tights with
+hot pink stars decorating them.  Her black hair is pulled up in two puffy
+ponytails, tied with hot pink bows.  She waves her wand excitedly, as she chases
+the boys around the p
+~
+8 0 0 0 0 0 0 0 360 E
+10 15 10 1d1+430 2d4+5
+15 78000
+8 8 2
+E
+T 7334
+#2401
+girl mage~
+a cute little mage girl~
+A cute little mage girl inspects the area for wildlife.
+~
+This little girl has a chubby little face, framed by a cute blond bob.  She
+wears a long sleeved red plaid dress, and shiny black patent leather mary-janes
+on her feet.  A strange croaking sound emits from the pocket of her dress, as
+she has hidden a frog inside.  
+~
+8 0 0 0 0 0 0 0 360 E
+10 15 10 1d1+430 2d4+5
+15 78000
+8 8 2
+E
+T 2401
+#2402
+boy thief~
+a sneaky little thief boy~
+A sneaky little boy runs around, sticking stickers to the other kids' backs.
+~
+This grubbly little boy looks like mischief personified.  His shaggy brown hair
+sticks out in all directions, and his shirt is grubby and untucked.  A large
+hole in his blue trousers has been patched with a handkerchief, but the stitches
+are already coming undone from wear.  
+~
+8 0 0 0 0 0 0 0 -360 E
+10 10 10 1d1+430 3d4+6
+15 78000
+8 8 1
+E
+#2403
+boy thief~
+a sneaky little thief boy~
+A gawky little boy stumbles over his own feet.
+~
+This young boy has reached the gawky stage where he hasn't quite grown into the
+length of his legs.  His pants are a full two inches too short, revealing
+mismatched socks.  A smattering of freckles dances across his face, matching the
+ginger tint of his hair.  
+~
+8 0 0 0 0 0 0 0 -360 E
+10 10 10 1d1+430 3d4+6
+15 78000
+8 8 1
+E
+#2404
+girl cleric~
+a cute little cleric girl~
+A cute little girl in a white dress wanders around the playground, trying to help her friends.
+~
+This dainty little princess plays in a very careful manner, so as not to mess up
+her crisp white sundress.  Her curly auburn hair is accently by a sparkly tiara,
+and her face is smeared with makeup.  Obviously, she was experimenting with her
+mother's cosmetics, and thinks that she looks like beautiful.  
+~
+8 0 0 0 0 0 0 0 360 E
+10 15 10 1d1+430 2d4+5
+15 78000
+8 8 2
+E
+#2405
+girl cleric~
+a cute little cleric girl~
+A grubby little tomboy tags along after her friends.
+~
+This little girl is covered in mud, and has numerous holes and rips in her play
+clothes.  She makes every attempt to swagger like the bigger boys, but her
+appearance is more comical than tough, as her dirty blond braid, and bright red
+fingernails betray a hidden feminine side.  
+~
+8 0 0 0 0 0 0 0 360 E
+10 15 10 1d1+430 2d4+5
+15 78000
+8 8 2
+E
+#2406
+boy warrior~
+a brave little warrior boy~
+A brave little warrior boy brandishes a toy sword.
+~
+This stocky boy has deeply tanned skin and ashy brown hair and eyes.  He
+swaggers around the playground, clearly considering himself king of all he
+surveys.  He stands half a head taller than the other kids, and uses his height
+to his advantage to boss them around.  
+~
+8 0 0 0 0 0 0 0 -360 E
+10 10 10 1d1+430 3d4+8
+15 78000
+8 8 1
+E
+#2407
+boy warrior~
+a brave little warrior boy~
+A bookish young lad plans his next move.
+~
+A fair-skinned, blond haired boy, which horn-rimmed glasses practices fencing
+moves.  He moves gracefully, yet purposefully as he works through his drills.  
+His exertions have brought a rosy glow to his face, and beads of sweat dot his
+forehead.  Despite the seriousness of his practice, he seems to be enjoying
+himself immensely.  
+~
+8 0 0 0 0 0 0 0 -360 E
+10 10 10 1d1+430 3d4+8
+15 78000
+8 8 1
+E
+$

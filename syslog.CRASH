@@ -1,0 +1,30 @@
+Mon Jul 20 20:06:21 :: &R(&YGod Info&R) #[Accarid forced Karma to e]
+Mon Jul 20 20:06:24 :: &B(&MZone Info&B) #[Auto zone reset: The Realm of Axoth (I, A) (Zone 138)]
+Mon Jul 20 20:06:30 :: &R(&YGod Info&R) #[Accarid forced Karma to e]
+Jul 20 20:06:30 :: SCRIPT ERR: Trigger VNum 4688 has looped 100 times!!!
+Mon Jul 20 20:06:32 :: &R(&YGod Info&R) #[Accarid forced Karma to e]
+Mon Jul 20 20:06:44 :: &B(&MZone Info&B) #[Auto zone reset: The Crucible (I) (Zone 20)]
+Jul 20 20:06:44 :: nusage: 2   sockets connected, 2   sockets playing
+Mon Jul 20 20:06:55 :: &R(&YGod Info&R) #[Accarid forced Karma to quit]
+Mon Jul 20 20:06:55 :: &C(&cConnection&C) #[Karma has quit the game.]
+Jul 20 20:06:55 :: Losing player: Karma.
+Mon Jul 20 20:07:05 :: &B(&MZone Info&B) #[Auto zone reset: Wilderness (Zone 100000)]
+Mon Jul 20 20:07:24 :: &B(&MZone Info&B) #[Auto zone reset: The Taris'Vaal Caverns (Zone 4)]
+Jul 20 20:07:29 :: OLC: Accarid starts editing zone 46 [trigger](allowed zone -1)
+Mon Jul 20 20:07:44 :: &B(&MZone Info&B) #[Auto zone reset: Mini-Zones!! (P) (Zone 59)]
+Mon Jul 20 20:07:54 :: &B(&MOLC Info&B) #[Accarid stops editing zone 46 allowed zone -1]
+Mon Jul 20 20:08:04 :: &B(&MZone Info&B) #[Auto zone reset: Astari'Vaal, Lower Temple and Labyrinth (Zone 33)]
+Mon Jul 20 20:08:24 :: &B(&MZone Info&B) #[Auto zone reset: The Training Grounds (Zone 58)]
+Mon Jul 20 20:08:44 :: &B(&MZone Info&B) #[Auto zone reset: House of Skye (I, A) (Zone 80)]
+Mon Jul 20 20:09:04 :: &B(&MZone Info&B) #[Auto zone reset: Burial Chamber Part 4 (A.C) (Zone 113)]
+Mon Jul 20 20:09:24 :: &B(&MZone Info&B) #[Auto zone reset: Burial Chamber Part 5 (A.C) (Zone 114)]
+Jul 20 20:09:27 :: OLC: Accarid starts editing zone 63 allowed zone -1
+Jul 20 20:09:36 :: OLC: Accarid edits obj 6494
+Mon Jul 20 20:09:36 :: &B(&MOLC Info&B) #[Accarid stops editing zone 63 allowed zone -1]
+Mon Jul 20 20:09:38 :: &B(&MZone Info&B) #[Accarid reset zone 46 (The Forest of Darkmoor)]
+Mon Jul 20 20:09:44 :: &B(&MZone Info&B) #[Auto zone reset: Victoria (Zone 22)]
+Mon Jul 20 20:10:04 :: &B(&MZone Info&B) #[Auto zone reset: Burial Chamber Part 6 (A.C) (Zone 115)]
+Mon Jul 20 20:10:15 :: &C(&cConnection&C) #[Accarid has quit the game.]
+Jul 20 20:10:15 :: Losing player: Accarid.
+Jul 20 20:10:15 :: No connections.  Going to sleep.
+Improper shutdown of autorun detected, rotating syslogs before startup.

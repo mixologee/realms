@@ -1,0 +1,68 @@
+			STANDARD
+
+      Form Position Values      Form Position Values
+       [X]  [X]  [X]             [X]  [X]  [X]
+       [ ]  [ ]  [ ]             [X]  [X]  [X]
+       [ ]  [ ]  [ ]             [ ]  [ ]  [ ]
+       [ ]  [ ]  [ ]             [ ]  [ ]  [ ]
+       [ ]  [ ]  [ ]             [ ]  [ ]  [ ]
+
+
+			PHALANX
+
+      Form Position Values    Form Position Values    Form Position Values
+       [X]  [X]  [X]           [X]  [X]  [X]           [X]  [X]  [X]
+       [X]  [X]  [X]           [X]  [X]  [X]           [X]  [X]  [X]
+       [X]  [X]  [X]           [X]  [X]  [X]           [X]  [X]  [X]
+       [ ]  [ ]  [ ]           [X]  [X]  [X]           [X]  [X]  [X]
+       [ ]  [ ]  [ ]           [ ]  [ ]  [ ]           [X]  [X]  [X]
+
+
+			SPEAR
+ 
+     Form Position Values    Form Position Values    Form Position Values
+       [ ]  [X]  [ ]           [ ]  [X]  [ ]           [ ]  [X]  [ ]
+       [ ]  [ ]  [ ]           [ ]  [X]  [ ]           [ ]  [X]  [ ]
+       [ ]  [X]  [ ]           [ ]  [ ]  [ ]           [ ]  [X]  [ ]
+       [ ]  [ ]  [ ]           [ ]  [X]  [ ]           [ ]  [X]  [ ]
+       [ ]  [X]  [ ]           [ ]  [X]  [ ]           [ ]  [X]  [ ]
+
+
+			SHIELD
+
+      Form Position Values    Form Position Values    Form Position Values
+       [X]  [X]  [X]           [X]  [X]  [X]           [X]  [X]  [X]
+       [X]  [ ]  [X]           [X]  [X]  [X]           [X]  [X]  [X]
+       [X]  [ ]  [X]           [X]  [ ]  [X]           [X]  [X]  [X]
+       [ ]  [X]  [ ]           [ ]  [X]  [ ]           [ ]  [X]  [ ]
+       [ ]  [ ]  [ ]           [ ]  [ ]  [ ]           [ ]  [ ]  [ ]
+
+
+			DELTA
+
+      Form Position Values    Form Position Values    Form Position Values
+       [ ]  [X]  [ ]           [ ]  [X]  [ ]           [ ]  [X]  [ ]
+       [X]  [X]  [X]           [X]  [X]  [X]           [X]  [X]  [X]
+       [X]  [ ]  [X]           [X]  [X]  [X]           [X]  [X]  [X]
+       [ ]  [ ]  [ ]           [X]  [ ]  [X]           [X]  [X]  [X]
+       [ ]  [ ]  [ ]           [ ]  [ ]  [ ]           [X]  [ ]  [X]
+
+
+			SPHERE
+
+      Form Position Values    Form Position Values    Form Position Values
+       [ ]  [X]  [ ]           [ ]  [X]  [ ]           [ ]  [X]  [ ]
+       [X]  [ ]  [X]           [X]  [X]  [X]           [X]  [X]  [X]
+       [X]  [X]  [X]           [X]  [ ]  [X]           [X]  [X]  [X]
+       [X]  [ ]  [X]           [X]  [X]  [X]           [X]  [X]  [X]
+       [ ]  [X]  [ ]           [ ]  [X]  [ ]           [ ]  [X]  [ ]
+
+
+			STAR
+
+      Form Position Values    Form Position Values
+       [ ]  [X]  [ ]           [X]  [ ]  [X]      
+       [X]  [ ]  [X]           [ ]  [X]  [ ]      
+       [ ]  [X]  [ ]           [X]  [ ]  [X]     
+       [X]  [ ]  [X]           [ ]  [X]  [ ]     
+       [ ]  [ ]  [ ]           [ ]  [ ]  [ ]     

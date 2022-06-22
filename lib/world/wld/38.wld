@@ -1,0 +1,1399 @@
+#3800
+On the Trunk of a Willow Tree~
+Rooms 4760, 4755, and 4729 open up into Darkmoor D2.
+They enter from the south, west, and east, respectively.
+Also, one can access this zone through the rabbit burrow, ending up in the forest.
+~
+38 4 1 0 0 3
+D2
+~
+~
+0 0 4760
+D5
+~
+~
+0 0 3801
+S
+#3801
+On a Grassy Knoll~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3804
+D4
+~
+~
+0 0 3800
+S
+#3802
+A Wet Forest Path~
+You are in an unfinished room.
+~
+38 0 1 0 0 3
+S
+#3803
+At the Center of a Faerie Ring~
+You are in an unfinished room.
+~
+38 0 1 0 0 3
+S
+#3804
+Overlooking the Lake of Darkmoor~
+This unfinished room was created by Accarid.
+~
+38 67108864 1 0 0 3
+D0
+~
+~
+0 0 3805
+D1
+~
+~
+0 0 3805
+D2
+~
+~
+0 0 3801
+D3
+~
+~
+0 0 3805
+S
+#3805
+The Base of the Hill~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3806
+D2
+~
+~
+0 0 3804
+S
+#3806
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3807
+D1
+~
+~
+0 0 3839
+D2
+~
+~
+0 0 3805
+D3
+~
+~
+0 0 3840
+S
+#3807
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 0
+D1
+~
+~
+0 0 3808
+D2
+~
+~
+0 0 3806
+D3
+~
+~
+0 0 3823
+S
+#3808
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3809
+D2
+~
+~
+0 0 3839
+D3
+~
+~
+0 0 3807
+S
+#3809
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3810
+D2
+~
+~
+0 0 3842
+D3
+~
+~
+0 0 3808
+S
+#3810
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3811
+D2
+~
+~
+0 0 3809
+S
+#3811
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3812
+D3
+~
+~
+0 0 3810
+S
+#3812
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3813
+D1
+~
+~
+0 0 3843
+D3
+~
+~
+0 0 3811
+S
+#3813
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3814
+D1
+~
+~
+0 0 3844
+D2
+~
+~
+0 0 3812
+S
+#3814
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3815
+D1
+~
+~
+0 0 3846
+D2
+~
+~
+0 0 3813
+S
+#3815
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3816
+D2
+~
+~
+0 0 3814
+S
+#3816
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3817
+D1
+~
+~
+0 0 3857
+D3
+~
+~
+0 0 3815
+S
+#3817
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3818
+D1
+~
+~
+0 0 3879
+D2
+~
+~
+0 0 3816
+S
+#3818
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3881
+D1
+~
+~
+0 0 3880
+D2
+~
+~
+0 0 3817
+D3
+~
+~
+0 0 3819
+S
+#3819
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3820
+D1
+~
+~
+0 0 3818
+S
+#3820
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3821
+D1
+~
+~
+0 0 3881
+D2
+~
+~
+0 0 3819
+S
+#3821
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D2
+~
+~
+0 0 3820
+D3
+~
+~
+0 0 3822
+S
+#3822
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3821
+S
+#3823
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3807
+D2
+~
+~
+0 0 3840
+D3
+~
+~
+0 0 3824
+S
+#3824
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3823
+D2
+~
+~
+0 0 3841
+D3
+~
+~
+0 0 3825
+S
+#3825
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3824
+D2
+~
+~
+0 0 3854
+D3
+~
+~
+0 0 3826
+S
+#3826
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3827
+D1
+~
+~
+0 0 3825
+S
+#3827
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D2
+~
+~
+0 0 3826
+D3
+~
+~
+0 0 3828
+S
+#3828
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3827
+D3
+~
+~
+0 0 3829
+S
+#3829
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3830
+D1
+~
+~
+0 0 3828
+D2
+~
+~
+0 0 3848
+S
+#3830
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3831
+D2
+~
+~
+0 0 3829
+D3
+~
+~
+0 0 3850
+S
+#3831
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3832
+D2
+~
+~
+0 0 3830
+S
+#3832
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D2
+~
+~
+0 0 3831
+D3
+~
+~
+0 0 3833
+S
+#3833
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3834
+D1
+~
+~
+0 0 3832
+S
+#3834
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 0 0 0 0
+D0
+~
+~
+0 0 3835
+D2
+~
+~
+0 0 3833
+S
+#3835
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3836
+D2
+~
+~
+0 0 3834
+S
+#3836
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 0 0 0 0
+D1
+~
+~
+0 0 3837
+D2
+~
+~
+0 0 3835
+S
+#3837
+On the Shore of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3838
+D3
+~
+~
+0 0 3836
+S
+#3838
+A Patch of Open Ground, Surrounded by Grass~
+This unfinished room was created by Accarid.
+~
+38 1073741824 2049 0 0 3
+D2
+~
+~
+0 0 3837
+S
+#3839
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 0 0 0 0
+D0
+~
+~
+0 0 3808
+D1
+~
+~
+0 0 3842
+D3
+~
+~
+0 0 3806
+S
+#3840
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3823
+D1
+~
+~
+0 0 3806
+D3
+~
+~
+0 0 3841
+S
+#3841
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3824
+D1
+~
+~
+0 0 3840
+D3
+~
+~
+0 0 3854
+S
+#3842
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 0 0 0 0
+D0
+~
+~
+0 0 3809
+D3
+~
+~
+0 0 3839
+S
+#3843
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 0 0 0 0
+D0
+~
+~
+0 0 3844
+D3
+~
+~
+0 0 3812
+S
+#3844
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3846
+D1
+~
+~
+0 0 3845
+D2
+~
+~
+0 0 3843
+D3
+~
+~
+0 0 3813
+S
+#3845
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3847
+D1
+~
+~
+0 0 3855
+D3
+~
+~
+0 0 3844
+S
+#3846
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3847
+D2
+~
+~
+0 0 3844
+D3
+~
+~
+0 0 3814
+S
+#3847
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3857
+D1
+~
+~
+0 0 3856
+D2
+~
+~
+0 0 3845
+D3
+~
+~
+0 0 3846
+S
+#3848
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3829
+D3
+~
+~
+0 0 3849
+S
+#3849
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3850
+D1
+~
+~
+0 0 3848
+D2
+~
+~
+0 0 3851
+D3
+~
+~
+0 0 3853
+S
+#3850
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 0 0 0 0
+D1
+~
+~
+0 0 3830
+D2
+~
+~
+0 0 3849
+S
+#3851
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3849
+D3
+~
+~
+0 0 3852
+S
+#3852
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3853
+D1
+~
+~
+0 0 3851
+S
+#3853
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3849
+D2
+~
+~
+0 0 3852
+S
+#3854
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3825
+D1
+~
+~
+0 0 3841
+D3
+~
+~
+0 0 4758
+S
+#3855
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3856
+D1
+~
+~
+0 0 3861
+D2
+~
+~
+0 0 3859
+D3
+~
+~
+0 0 3845
+S
+#3856
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3858
+D1
+~
+~
+0 0 3862
+D2
+~
+~
+0 0 3855
+D3
+~
+~
+0 0 3847
+S
+#3857
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3858
+D2
+~
+~
+0 0 3847
+D3
+~
+~
+0 0 3816
+S
+#3858
+At the Foot of a Tree Draped with Banners~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3863
+D2
+~
+~
+0 0 3856
+D3
+~
+~
+0 0 3857
+S
+#3859
+At the Foot of a Tree Draped with Banners~
+This unfinished room was created by Accarid.
+~
+38 0 0 0 0 0
+D0
+~
+~
+0 0 3855
+D1
+~
+~
+0 0 3860
+S
+#3860
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 0 0 0 0
+D0
+~
+~
+0 0 3861
+D1
+~
+~
+0 0 3867
+D3
+~
+~
+0 0 3859
+S
+#3861
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3862
+D1
+~
+~
+0 0 3866
+D2
+~
+~
+0 0 3860
+D3
+~
+~
+0 0 3855
+S
+#3862
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3863
+D1
+~
+~
+0 0 3865
+D2
+~
+~
+0 0 3861
+D3
+~
+~
+0 0 3856
+S
+#3863
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3871
+D1
+~
+~
+0 0 3864
+D2
+~
+~
+0 0 3862
+D3
+~
+~
+0 0 3858
+S
+#3864
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3870
+D2
+~
+~
+0 0 3865
+D3
+~
+~
+0 0 3863
+S
+#3865
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3864
+D1
+~
+~
+0 0 3869
+D2
+~
+~
+0 0 3866
+D3
+~
+~
+0 0 3862
+S
+#3866
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3865
+D1
+~
+~
+0 0 3868
+D2
+~
+~
+0 0 3867
+D3
+~
+~
+0 0 3861
+S
+#3867
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 0 0 0 0
+D0
+~
+~
+0 0 3866
+D3
+~
+~
+0 0 3860
+S
+#3868
+At the Foot of a Crumbling Stone Archway~
+This unfinished room was created by Accarid.
+~
+38 0 3 0 0 3
+D0
+~
+~
+0 0 3869
+D3
+~
+~
+0 0 3866
+S
+#3869
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 0 0 0 0
+D0
+~
+~
+0 0 3870
+D2
+~
+~
+0 0 3868
+D3
+~
+~
+0 0 3865
+S
+#3870
+The Dryad Grove~
+This unfinished room was created by Accarid.
+~
+38 0 0 0 0 0
+D2
+~
+~
+0 0 3869
+D3
+~
+~
+0 0 3864
+S
+#3871
+The Dryad Grove, Over a Rocky Hole in the Ground~
+This unfinished room was created by Accarid.
+~
+38 8 128 0 0 13
+D2
+~
+~
+0 0 3863
+D5
+~
+~
+0 0 3872
+S
+#3872
+A Sloping, Boulder-Lined Tunnel~
+This unfinished room was created by Accarid.
+~
+38 8 128 0 0 13
+D4
+~
+~
+0 0 3871
+D5
+~
+~
+0 0 3873
+S
+#3873
+A Sloping, Boulder-Lined Tunnel~
+This unfinished room was created by Accarid.
+~
+38 8 128 0 0 13
+D1
+~
+~
+0 0 3874
+D4
+~
+~
+0 0 3872
+S
+#3874
+A Sloping, Boulder-Lined Tunnel~
+This unfinished room was created by Accarid.
+~
+38 8 128 0 0 13
+D2
+~
+~
+0 0 3875
+D3
+~
+~
+0 0 3873
+S
+#3875
+A Sloping, Boulder-Lined Tunnel~
+This unfinished room was created by Accarid.
+~
+38 8 128 0 0 13
+D0
+~
+~
+0 0 3874
+D1
+~
+wall~
+1 0 3878
+D3
+~
+~
+0 0 3876
+S
+#3876
+A Sloping, Boulder-Lined Tunnel~
+This unfinished room was created by Accarid.
+~
+38 8 128 0 0 13
+D1
+~
+~
+0 0 3875
+D5
+~
+~
+0 0 3877
+S
+#3877
+The Communion of Roots~
+This unfinished room was created by Accarid.
+~
+38 8 128 0 0 13
+D4
+~
+~
+0 0 3876
+S
+#3878
+The Chamber of Elven Memories~
+This unfinished room was created by Accarid.
+~
+38 168 24704 0 0 13
+D3
+~
+wall~
+1 0 3875
+S
+#3879
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3880
+D3
+~
+~
+0 0 3817
+S
+#3880
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3882
+D1
+~
+~
+0 0 3883
+D2
+~
+~
+0 0 3879
+D3
+~
+~
+0 0 3818
+S
+#3881
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3882
+D2
+~
+~
+0 0 3818
+D3
+~
+~
+0 0 3820
+S
+#3882
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D1
+~
+~
+0 0 3884
+D2
+~
+~
+0 0 3880
+D3
+~
+~
+0 0 3881
+S
+#3883
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3884
+D3
+~
+~
+0 0 3880
+S
+#3884
+In the Forest at the Edge of the Lake~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D0
+~
+~
+0 0 3885
+D2
+~
+~
+0 0 3883
+D3
+~
+~
+0 0 3882
+S
+#3885
+The Shrine of the Treant Elder~
+This unfinished room was created by Accarid.
+~
+38 0 1 0 0 3
+D2
+~
+~
+0 0 3884
+S
+$~

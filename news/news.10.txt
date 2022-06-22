@@ -1,0 +1,19 @@
+&R                        Realms of Kuvia
+&c             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+-------------------------------------------------------------------
+News file [&C10&c]. Type NEWS 10 to re-read this article at a later date.
+-------------------------------------------------------------------&n
+
+Professions are now in beta testing stages. You can learn any of the
+eight professions, Mining, Smithing, Woodworking, Fishing, Tanning,
+Skinning, Leatherworking, and Cooking. Please read help files on learn
+and profession. So far, Mining, Smithing, and Fishing are in completely. 
+Woodworking is partially implemented. Next will be Tanning, Skinning,
+and Leatherworking. We will keep you posted.

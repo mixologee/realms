@@ -1,0 +1,34 @@
+&R                        Realms of Kuvia
+&c             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+-------------------------------------------------------------------
+News file [&C9&c]. Type NEWS 9 to re-read this article at a later date.
+-------------------------------------------------------------------&n
+
+Travel system is now implemented.  You will notice at Taris'Vaal
+recall a crystaline archway.  This is what is known as a
+CrystalGate.  Located throughout the land are various gates
+that you can venture though, however, unless you know the
+proper code to your destination, you may fail in your travels.
+
+Each gate requires you to press a three symbol combination, in the
+correct order, in order to open the gateway and send you on your
+way.  
+
+We will not be giving away new codes frequently.  The only codes 
+mortals will be guaranteed access to without them figuring it out 
+themselves will be for major cities and a select few other areas.
+
+Please read &WHELP CRYSTALGATE&w for more info on the current
+codes and destinations available.  The helpfile will be more
+up-to-date as more is added to our world.
+
+As always, enjoy our world!!
+
+-Slurk

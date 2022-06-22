@@ -1,0 +1,1243 @@
+#2700
+A Mine Shaft~
+Mine - 2
+  
+  You are here.
+     |
+     V
+     o   o-1-o          o-o-o          o-o-o          o-o-o       4
+      \    |              |              |              |          \
+       o   o              o              o              o           o
+        \  |              |              |              |
+     o   o o     o  o   1 o     o  o   2 o     o  o   3 o     o
+     |    \|     |  |    \|     |  |    \|     |  |    \|     |
+     o-o-o-o-o-o-o  o-o-o-o-o-o-2  o-o-o-o-o-o-o  4-o-o-o-o-o-o
+     |     |     |  |     |     |  |     |     |  |     |     |
+     o     o     o  o     o     o  o     o     o  o     o     o
+           |              |              |              |
+           o              o              o              o
+           |              |              |              |
+         o-o-o          o-o-o          o-3-o          o-o-o
+This layout is complete.
+~
+27 134217728 0 0 0 28
+D5
+~
+~
+0 0 2701
+S
+#2701
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D4
+~
+~
+0 0 2700
+D5
+~
+~
+0 0 2702
+S
+#2702
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D4
+~
+~
+0 0 2701
+D5
+~
+~
+0 0 2703
+S
+#2703
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2719
+D1
+~
+~
+0 0 2714
+D2
+~
+~
+0 0 2709
+D3
+~
+~
+0 0 2704
+D4
+~
+~
+0 0 2702
+S
+#2704
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2703
+D3
+~
+~
+0 0 2705
+S
+#2705
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2704
+D3
+~
+~
+0 0 2706
+S
+#2706
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2707
+D1
+~
+~
+0 0 2705
+D2
+~
+~
+0 0 2708
+S
+#2707
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D2
+~
+~
+0 0 2706
+S
+#2708
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2706
+S
+#2709
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2703
+D2
+~
+~
+0 0 2710
+S
+#2710
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2709
+D2
+~
+~
+0 0 2711
+S
+#2711
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2710
+D1
+~
+~
+0 0 2712
+D3
+~
+~
+0 0 2713
+S
+#2712
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D3
+~
+~
+0 0 2711
+S
+#2713
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2711
+S
+#2714
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2715
+D3
+~
+~
+0 0 2703
+S
+#2715
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2716
+D3
+~
+~
+0 0 2714
+S
+#2716
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2717
+D2
+~
+~
+0 0 2718
+D3
+~
+~
+0 0 2715
+S
+#2717
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D2
+~
+~
+0 0 2716
+S
+#2718
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2716
+S
+#2719
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2720
+D2
+~
+~
+0 0 2703
+S
+#2720
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2721
+D2
+~
+~
+0 0 2719
+S
+#2721
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2722
+D2
+~
+~
+0 0 2720
+D3
+~
+~
+0 0 2723
+D5
+~
+~
+0 0 2724
+S
+#2722
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D3
+~
+~
+0 0 2721
+S
+#2723
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2721
+S
+#2724
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2730
+D1
+~
+~
+0 0 2740
+D2
+~
+~
+0 0 2735
+D3
+~
+~
+0 0 2725
+D4
+~
+~
+0 0 2721
+S
+#2725
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2724
+D3
+~
+~
+0 0 2726
+S
+#2726
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2725
+D3
+~
+~
+0 0 2727
+S
+#2727
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2728
+D1
+~
+~
+0 0 2726
+D2
+~
+~
+0 0 2729
+S
+#2728
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D2
+~
+~
+0 0 2727
+S
+#2729
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2727
+S
+#2730
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2731
+D2
+~
+~
+0 0 2724
+S
+#2731
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2732
+D2
+~
+~
+0 0 2730
+S
+#2732
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2733
+D2
+~
+~
+0 0 2731
+D3
+~
+~
+0 0 2734
+S
+#2733
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D3
+~
+~
+0 0 2732
+S
+#2734
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2732
+S
+#2735
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2724
+D2
+~
+~
+0 0 2736
+S
+#2736
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2735
+D2
+~
+~
+0 0 2737
+S
+#2737
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2736
+D1
+~
+~
+0 0 2738
+D3
+~
+~
+0 0 2739
+S
+#2738
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D3
+~
+~
+0 0 2737
+S
+#2739
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2737
+S
+#2740
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2741
+D3
+~
+~
+0 0 2724
+S
+#2741
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2742
+D3
+~
+~
+0 0 2740
+S
+#2742
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2743
+D2
+~
+~
+0 0 2744
+D3
+~
+~
+0 0 2741
+D5
+~
+~
+0 0 2745
+S
+#2743
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D2
+~
+~
+0 0 2742
+S
+#2744
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2742
+S
+#2745
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2746
+D1
+~
+~
+0 0 2756
+D2
+~
+~
+0 0 2761
+D3
+~
+~
+0 0 2751
+D4
+~
+~
+0 0 2742
+S
+#2746
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2747
+D2
+~
+~
+0 0 2745
+S
+#2747
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2748
+D2
+~
+~
+0 0 2746
+S
+#2748
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2749
+D2
+~
+~
+0 0 2747
+D3
+~
+~
+0 0 2750
+S
+#2749
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D3
+~
+~
+0 0 2748
+S
+#2750
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2748
+S
+#2751
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2745
+D3
+~
+~
+0 0 2752
+S
+#2752
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2751
+D3
+~
+~
+0 0 2753
+S
+#2753
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2754
+D1
+~
+~
+0 0 2752
+D2
+~
+~
+0 0 2755
+S
+#2754
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D2
+~
+~
+0 0 2753
+S
+#2755
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2753
+S
+#2756
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2757
+D3
+~
+~
+0 0 2745
+S
+#2757
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2758
+D3
+~
+~
+0 0 2756
+S
+#2758
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2759
+D2
+~
+~
+0 0 2760
+D3
+~
+~
+0 0 2757
+S
+#2759
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D2
+~
+~
+0 0 2758
+S
+#2760
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2758
+S
+#2761
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2745
+D2
+~
+~
+0 0 2762
+S
+#2762
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2761
+D2
+~
+~
+0 0 2763
+S
+#2763
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2762
+D1
+~
+~
+0 0 2764
+D3
+~
+~
+0 0 2765
+D5
+~
+~
+0 0 2766
+S
+#2764
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D3
+~
+~
+0 0 2763
+S
+#2765
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2763
+S
+#2766
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2767
+D1
+~
+~
+0 0 2772
+D2
+~
+~
+0 0 2777
+D3
+~
+~
+0 0 2782
+D4
+~
+~
+0 0 2763
+S
+#2767
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2768
+D2
+~
+~
+0 0 2766
+S
+#2768
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2769
+D2
+~
+~
+0 0 2767
+S
+#2769
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2770
+D2
+~
+~
+0 0 2768
+D3
+~
+~
+0 0 2771
+S
+#2770
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D3
+~
+~
+0 0 2769
+S
+#2771
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2769
+S
+#2772
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2773
+D3
+~
+~
+0 0 2766
+S
+#2773
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2774
+D3
+~
+~
+0 0 2772
+S
+#2774
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2775
+D2
+~
+~
+0 0 2776
+D3
+~
+~
+0 0 2773
+S
+#2775
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D2
+~
+~
+0 0 2774
+S
+#2776
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2774
+S
+#2777
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2766
+D2
+~
+~
+0 0 2778
+S
+#2778
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2777
+D2
+~
+~
+0 0 2779
+S
+#2779
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2778
+D1
+~
+~
+0 0 2780
+D3
+~
+~
+0 0 2781
+S
+#2780
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D3
+~
+~
+0 0 2779
+S
+#2781
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2779
+S
+#2782
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2766
+D3
+~
+~
+0 0 2783
+S
+#2783
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D1
+~
+~
+0 0 2782
+D3
+~
+~
+0 0 2784
+S
+#2784
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2785
+D1
+~
+~
+0 0 2783
+D2
+~
+~
+0 0 2786
+D5
+~
+~
+0 0 2787
+S
+#2785
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D2
+~
+~
+0 0 2784
+S
+#2786
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D0
+~
+~
+0 0 2784
+S
+#2787
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+27 134217728 0 0 0 28
+D4
+~
+~
+0 0 2784
+S
+$~

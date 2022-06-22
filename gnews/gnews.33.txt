@@ -1,0 +1,107 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C33&c]. Type NEWS 32 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+&YNew Commands&n
+
+Here are a few new Zone commands that are now in-game.
+
+
+Under the &WZEDIT&w menu you will see 2 new options, option M and F
+
+Option &MF&n is for zone flags.  The following are new zone flags
+that you can use and an explanation of what they are.
+CLOSED  - the zone is closed for any mortals to enter, even if it is 
+          linked to the map or through a normal pathway
+!MASTER - master level players cannot enter this zone, this is a useful
+          flag for newbie zones you do not want PKing to happen in  
+QUEST   - Unused right now, but can be used to designate specific
+          quest zones
+GRID    - this flag means that this zone is open and "on the grid"
+          this flag helps determine what zones show up with another
+          new command explained below called "areas"
+!BUILD  - this flag means that no one except for a level 43 can edit
+          this zone at all
+!ASTRAL - this flag will be used to block teleportation type spells
+          it is currently already added to teleport and recall
+
+Option &MM&n is for zone levels, you will be given another menu as well
+This range of levels can be from 0 to 100, or set to -1 which means 
+that any level can enter the zone.  The menu you see when choosing
+this option presents you with 3 options, 1-min level, 2-max level,
+3-unsets all the level restrictions and makes it like using -1
+
+&YALL ZONES MUST BE EDITED AND ADJUSTED TO USE THESE NEW FLAGS.&n
+&YPlease zedit your zone and set the CLOSED flag if it is not linked
+to the game yet, and to GRID if it is linked.  Also please set the 
+level restrictions as soon as possible.&n
+&C**There is a slight bug with this..if you set your levels and save
+your zone and re-zedit it you will notice that the levels you set
+have reset to 0 to 0.  If you set up your levels and leave the
+zone and come back, the levels you set will still be correct..
+work in progress!&n
+
+&Mareas command&n
+This will get a bit confusing, but over time will be second nature!
+
+This command basically lists out all zones with the GRID flag set
+as well as showing the level restrictions for each zone.  Players
+can also restrict what level ranges they want to veiw, see the
+following examples:
+
+areas      - lists all areas
+areas 24   - list all areas where 24 is in its level range
+areas -10  - list areas in the level range of 0 through 10
+areas 15-  - list areas starting with min-level 15 and up
+areas 5-12 - list areas where min level is 5 and max level is 12
+
+Some areas may "overlap" eachother due to the level ranges, an example
+would be zone1 is level ranged 1-3, zone2 is level ranged 2-4.
+zone2 would show up red because it overlaps when using areas 1-4
+
+&MOther commands&n  
+
+zlock <zone #>  - locks that zone #
+zlock all       - locks all zones with the GRID flag
+zlock all all   - locks all zones in the game
+zlock list      - lists all locked zones
+
+  This command is useable by builders for their own zones where they
+  are listed as one of the builders.  Level 43 gods can use this on 
+  ANY zone in the game.
+
+zunlock <zone #> - unlocks that zone #
+zunlock all      - unlocks all zones
+zunlock list     - lists all unlocked zones
+
+  This command is useable by builders for their own zones where they
+  are listed as one of the builders.  Level 43 gods can use this on
+  ANY zone in the game.
+
+
+&R**Wiz set command change**&n
+
+Level 43's can now set <player> saves
+This will remove the said players equipment and reset their save
+vs spells/petri etc to 0
+*eq is removed to avoid messing anything up on the reset, they can 
+ wear all afterwards!
+
+
+-S

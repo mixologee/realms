@@ -1,0 +1,203 @@
+#3700
+crowbar bar prybar~
+a blackened iron crowbar~
+A blackened iron crowbar is yours for the taking.~
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+5 0 0 0
+#3701
+dirty dirt shovel~
+a dirt-covered shovel~
+A dirt-covered shovel lies here.~
+~
+5 0 0 0 0 anr 0 0 0 0 0 0 0
+1 4 3 5
+6 100 0 0
+E
+dirty dirt-covered shovel~
+This shovel belongs to the gravedigger at the Taris'Vaal Cemetery. The wooden
+handle is worn smooth with use, and the head is stained with dirt and... Is
+that blood?
+~
+#3702
+leather-hilted leather dagger~
+a leather-hilted dagger~
+A dagger with a leather hilt lies here.~
+~
+5 0 0 0 0 anr 0 0 0 0 0 0 0
+2 5 3 14
+2 120 0 0
+E
+leather leather-hilted dagger~
+The hilt of this dagger has been wrapped in leather cord.
+~
+#3703
+faded blue overalls pants trousers~
+faded blue overalls~
+A pair of faded blue overalls lies here.~
+~
+11 0 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+1 500 0 0
+E
+faded blue overalls pants trousers~
+This pair of overalls is pale from use. Dirt has been trodden into the cuffs,
+but aside from a neatly repaired tear in the knee they are in good repair.
+~
+#3704
+tomato red plump ripe~
+a plump red tomato~
+A ripe red tomato hangs on the vine.~
+~
+19 z 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 10 0 0
+E
+ripe red plump tomato~
+This tomato has been ripened with the aid of sunlight and fertile soil. Its red
+flesh, firm to the touch, bears a few tiny yellow flecks.
+~
+#3705
+large cucumber pickle~
+a large cucumber~
+A large cucumber hangs on the vine.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 8 0 0
+E
+large cucumber~
+This cucumber is dark green and ready to eat.
+~
+#3706
+thick orange carrot~
+a thick orange carrot~
+The top of a ripe carrot sticks out of the soil.~
+~
+19 z 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 4 0 0
+E
+thick orange carrot~
+A few grains of dirt still stick to this ripe carrot.
+~
+#3707
+head lettuce cabbage~
+a head of lettuce~
+A head of lettuce grows here.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 8 0 0
+E
+head lettuce cabbage~
+This head of lettuce is green and crisp. It would make a lovely salad.
+~
+#3708
+angel statue~
+an angel statue~
+A statue of an angel winks slyly at you.~
+~
+6 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+800 0 0 0
+E
+angel statue~
+This statue just winked at you! Is it supposed to do that?!
+~
+#3709
+flowing white robes robe~
+a flowing white robe~
+A flowing white robe lies crumpled on the ground.~
+~
+11 0 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+1 300 0 0
+E
+flowing white robes robe~
+This flowing white robe is meant to be wrapped around the body and held in place
+with a belt. The sleeves have been cut generously, and extend over the wearer's
+hands.
+~
+#3710
+embroidered leather corset~
+an embroidered leather corset~
+An embroidered leather corset lies here.~
+~
+9 0 0 0 0 al 0 0 0 0 0 0 0
+-1 0 0 0
+1 900 0 0
+E
+embroidered leather corset~
+This leather corset has been embroidered with multicolored thread. Whoever made
+this must have had a lot of time on their hands, or at least enough to stitch a
+forest scene into the hide, complete with deer and fall foliage.
+~
+#3711
+giant pair scissors~
+a giant pair of scissors~
+A giant pair of scissors lies here.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+50 50 50 11
+10 100000 0 0
+E
+giant pair scissors~
+This pair of scissors is quite nearly the size of a person! The shining steel
+blade is inscribed with runes, which glow faintly and seem to squirm under your
+gaze.
+~
+#3712
+red crystal pendant necklace~
+a red crystal pendant~
+A red crystal on a silver chain lies here.~
+~
+11 0 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+0 10000 0 0
+E
+red crystal pendant necklace~
+A red crystal pendant hangs from a thin silver chain. It is faintly translucent
+where the light hits it.
+~
+#3713
+brown leather sandals shoes~
+a pair of leather sandals~
+A pair of brown sandals with long straps lies here.~
+~
+11 0 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+E
+brown leather shoes sandals~
+These simple leather sandals have long straps, which lace up the wearer's
+calves.
+~
+#3714
+glowing ball yarn light~
+a glowing ball of yarn~
+A glowing ball of yarn floats about aimlessly.~
+~
+1 0 0 0 0 ap 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+E
+glowing ball yarn light~
+It looks like an ordinary ball of yarn, except it's floating... And emitting a
+warm yellow glow... And lethargically unraveling and reraveling itself... 
+Alright, perhaps it doesn't look ordinary at all.
+~
+#3715
+headstone gravestone stone sign~
+a plain grey headstone~
+This plain grey headstone is almost minimalistic in its simplicity.  It bears two words, but you'd have to stoop to read them.~
+~
+30 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+10000 0 0 0
+E
+headstone gravestone stone sign~
+THE GAME
+~
+$~

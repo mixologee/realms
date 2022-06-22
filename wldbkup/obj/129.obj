@@ -1,0 +1,69 @@
+#12900
+sword katana~
+a keen steel katana~
+A long, light steel sword lies upon the ground, balanced sideways on its hilt.~
+~
+5 u 0 0 0 a 0 0 0 0 0 0 0
+5 5 5 3
+4 24000 0 18
+#12901
+armor breast plate ceramic~
+a breast plate of ceramic armor~
+A ceramic breast plate lies on the ground, glowing a dull yellow in the light.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+5 0 0 0
+10 20000 0 18
+A
+17 -3
+A
+24 -2
+#12902
+boots leather~
+a pair of black leather boots, reinforced with steel~
+A pair of black leather boots reinforced with steel stand sternly side by side.~
+~
+11 u 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0
+5 10000 0 10
+A
+19 2
+A
+17 -1
+#12903
+shin plates ceramic~
+a pair of ceramic shin plates~
+A pair of ceramic shin plates rest one within the other.~
+~
+9 0 0 0 0 af 0 0 0 0 0 0 0
+3 0 0 0
+6 9000 0 0
+A
+17 -3
+#12904
+skirt ceramic~
+a long skirt of layered ceramic~
+A jumble of curved ceramic slabs on thick wool lies here in a round heap.~
+~
+9 0 0 0 0 a 0 0 0 0 0 0 0
+3 0 0 0
+7 10000 0 10
+A
+5 2
+A
+17 -5
+#12905
+gloves~
+a pair of spiked steel gloves, padded with silk~
+A pair of sharp-looking gloves lie clasped together on the ground.~
+~
+9 u 0 0 0 ah 0 0 0 0 0 0 0
+2 0 0 0
+3 8000 0 12
+A
+17 -2
+A
+2 2
+A
+18 2
+$~

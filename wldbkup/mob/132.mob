@@ -1,0 +1,589 @@
+#13200
++~
+Krux, the master of the damned~
+A magnificent man reclines upon his throne, twirling an arrow in his fingers.
+~
+
+~
+1050634 0 0 0 320 64 0 0 -127 E
+50 -30 3 10d10+10000 8d8+20
+500 250000
+8 8 1
+BareHandAttack: 8
+Att1: 60
+Att2: 60
+Att3: 60
+Clss: 10
+E
+#13201
+(~
+a ghast soldier~
+A hooded figure drifts through the room, trailing a tattered cloak and looking about with blind eyes.
+~
+
+~
+131240 0 0 0 1140850688 0 0 0 -900 E
+39 7 -13 7d7+19500 6d6+6
+390 152100
+8 8 0
+Clss: 12
+E
+#13202
+%~
+the Executioner~
+A humanoid creature with an axe for an arm looms over you, its head shrouded with an executioner's hood.
+~
+
+~
+65594 0 0 0 80 0 0 0 -900 E
+35 -230 1 20d20+2000 16d16+250
+18602 122500
+8 8 0
+BareHandAttack: 3
+Att1: 3
+Clss: 4
+E
+#13203
++~
+the pit demonstrator~
+A demonic entity of the pit stands knee deep in a sea of flaming coals.
+~
+
+~
+65594 1 0 0 16464 0 0 0 -900 E
+35 -55 -11 25d25+2000 12d12+45
+18602 122500
+8 8 0
+BareHandAttack: 8
+Att1: 8
+Clss: 15
+E
+#13204
+=~
+the manic demonstrator~
+A phantasmal humanoid drifts through the various dangerous-looking contraptions, cackling wildly.
+~
+
+~
+58 2 0 0 80 0 0 0 -900 E
+35 9 -9 25d25+1500 5d5+5
+0 122500
+8 8 0
+BareHandAttack: 12
+Clss: 19
+E
+#13205
+)~
+the crusher demonstrator~
+A lumbering humanoid piles more boulders onto a screaming figure.
+~
+
+~
+-2147483590 0 0 0 80 0 0 0 -900 E
+35 -30 -11 25d30+2200 16d10+60
+18623 122500
+8 8 0
+BareHandAttack: 6
+Att1: 6
+Clss: 9
+E
+#13206
+*~
+a firehound of Charon~
+A fiery hound stands across your path, barring the way.
+~
+
+~
+1048632 0 0 0 526400 0 0 0 -1000 E
+34 9 -10 0d0+3000 10d10+5
+0 115600
+8 8 0
+BareHandAttack: 4
+Att1: 8
+Clss: 6
+E
+#13207
+Charon~
+Charon~
+A huge man clad in black metal armor stalks the halls, a crossbow in hand.
+~
+Charon is trusted with guarding the first circle.
+~
+56 0 0 0 18512 0 0 0 -500 E
+36 -40 0 0d0+5000 6d6+20
+18624 129600
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Att2: 14
+Clss: 13
+E
+#13208
+Trema~
+Trema~
+A robed man wanders the dungeon, clutching his broken crown.
+~
+Trema is trusted with guarding the second circle of Cocytus.
+~
+8 0 0 0 0 0 0 0 -500 E
+37 8 6 0d0+6000 6d6+6
+0 136900
+8 8 1
+Clss: 16
+E
+#13209
+Cerberus~
+Cerberus~
+A gigantic guard dog surrounds you with its three snapping heads.
+~
+Cerberus is similar in build to an ordinary bulldog, except for its gargantuan
+size and three heads.
+~
+-2147483592 31 0 0 2384 0 0 0 -500 E
+38 -55 3 7d7+7000 10d10+25
+0 144400
+8 8 0
+BareHandAttack: 4
+Att1: 4
+Att2: 4
+Att3: 4
+Clss: 2
+E
+#13210
+mob unfinished~
+Pluto~
+A tall shadow sweeps across the ground, a dagger glinting at its belt.
+~
+It looks unfinished.
+~
+1245240 0 0 0 68763984 0 0 0 -500 E
+39 -80 0 7d7+8000 6d6+50
+18237 152100
+8 8 0
+BareHandAttack: 8
+Clss: 13
+E
+#13211
+Sulles~
+Sulles~
+A specter charges headlong through the passage, bearing down on you with a spiked shield.
+~
+It looks unfinished.
+~
+1048616 0 0 0 336 0 0 0 0 E
+40 -30 -9 0d0+9000 12d6+50
+18237 160000
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Clss: 10
+E
+#13212
+Minotaur~
+the Minotaur~
+A bull-headed humanoid turns and charges at you, his halberd held high.
+~
+It looks unfinished.
+~
+1048616 0 0 0 320 0 0 0 -500 E
+41 -40 -14 0d0+10000 9d9+40
+18237 168100
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Att2: 13
+Clss: 9
+E
+#13213
+Bolge~
+Bolge~
+A distinctly plain-looking man stands here, smoking a cigar.
+~
+It looks unfinished.
+~
+168 0 0 0 67108948 4 0 0 -500 E
+42 6 6 0d0+11000 7d7+7
+18237 176400
+8 8 1
+Clss: 18
+E
+#13214
+Kai'en~
+Kai'en~
+A chimera-like demon watches you keenly with its three bestial heads.
+~
+It looks unfinished.
+~
+-2147483606 31 0 0 336 5 0 0 -750 E
+43 -80 -15 0d0+12000 12d16+100
+13287 184900
+8 8 1
+BareHandAttack: 4
+Att1: 8
+Clss: 21
+E
+#13215
+Ou wall~
+Ou the sentient wall~
+A wall suddenly shuffles to the side and curls around you, forming an impenetrable barrier!
+~
+"You shall not pass!!"
+~
+8 0 0 0 0 0 0 0 500 E
+44 6 -16 8d8+440 7d7+7
+440 193600
+8 8 1
+Clss: 19
+E
+#13216
+0~
+a shady double of Trema~
+A shadowy image of a robed man drifts through the air towards you.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 -500 E
+35 9 -11 7d7+350 5d5+5
+350 122500
+8 8 0
+Clss: 15
+E
+#13217
+gargoyle~
+a freakish gargoyle~
+A strangely constructed gargoyle stands here, still as stone.
+~
+It looks unfinished.
+~
+42 0 0 0 0 0 0 0 0 E
+36 8 -11 7d7+360 6d6+6
+360 129600
+8 8 0
+Clss: 8
+E
+#13218
+skullghast~
+a blazing skullghast~
+A flaming skull swings silently through the air on an invisible cord.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+37 8 -12 7d7+370 6d6+6
+370 136900
+8 8 0
+Clss: 20
+E
+#13219
+-~
+a tormented lemure~
+A strange, wormlike spirit corkscrews through the air, its ethereal jaws working furiously.
+~
+The lemures proc hp/mana drain on their victims. They appear in a room randomly
+upon a player entering, and form with that person, thus following them until
+they walk through a NO_MOB room.
+~
+8 32 0 0 80 0 0 0 0 E
+40 20 -14 100d10+1000 0d0+0
+0 160000
+8 8 0
+Clss: 21
+E
+#13220
+Philip~
+Philip the infamous rapist~
+A huge, hairy man hulks in a corner of the cell.
+~
+It looks unfinished.
+~
+42 2 0 0 64 0 0 0 -675 E
+35 -15 -11 7d7+2500 5d5+25
+0 122500
+8 8 1
+BareHandAttack: 13
+Clss: 7
+E
+#13221
+Arthir~
+Arthir the poisoner~
+A dissheveled chef lies in the midst of his poisonous goods.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 -800 E
+34 9 9 6d6+2000 5d5+5
+420 115600
+8 8 1
+BareHandAttack: 13
+Clss: 5
+E
+#13222
+Mako assassin~
+Mako, the Master Assassin of the Chaos Party~
+A proud-looking man stands here, his right hand twitching nervously.
+~
+It looks unfinished.
+~
+42 0 0 0 80 0 0 0 -739 E
+38 -80 9 7d7+2500 6d6+20
+16000 144400
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Att2: 13
+Att3: 13
+Clss: 13
+E
+#13223
+Sinder~
+Sinder the manipulatress~
+A beautiful woman reclines on a straw mat, contemplating your presence.
+~
+It looks unfinished.
+~
+42 0 0 0 16468 0 0 0 -550 E
+33 9 9 6d6+2000 2d2+5
+350 108900
+8 8 2
+BareHandAttack: 13
+Clss: 5
+E
+#13224
+Cainen~
+Cainen the bounty hunter~
+A gigantic man clad in a costume of human skin leans against one wall of his cell.
+~
+It looks unfinished.
+~
+42 0 0 0 16720 0 0 0 -800 E
+35 -40 0 7d7+3000 6d6+40
+0 122500
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Att2: 13
+Att3: 13
+Clss: 9
+E
+#13225
+Lethifold~
+Lethifold, the shadow murderer~
+A heavy carpet of darkness spreads across the dungeon floor.
+~
+It looks unfinished.
+~
+1048616 0 0 0 1075396688 0 0 0 -900 E
+38 8 -12 7d7+4000 12d12+6
+0 144400
+8 8 0
+Clss: 19
+E
+#13226
+Lucifer~
+Lucifer the Treacherous~
+A fiery, winged devil hovers casually at the height of the cell.
+~
+It looks unfinished.
+~
+1048746 1 0 0 1073742164 5 0 0 -1000 E
+50 4 -20 10d10+500 8d8+8
+500 250000
+8 8 0
+BareHandAttack: 8
+Att1: 8
+Att2: 8
+Att3: 8
+Clss: 17
+E
+#13227
+Skarrg red dragon~
+Skarrg the red dragon~
+A colossal dragon with dull red scales rears up on its hind legs, making the cell look small.
+~
+It looks unfinished.
+~
+67108906 0 0 0 340 4 0 0 -970 E
+48 -80 -18 9d9+27000 20d20+100
+94821 230400
+8 8 1
+BareHandAttack: 8
+Att1: 9
+Att2: 4
+Clss: 21
+E
+#13228
+Diskord bard~
+Diskord the Bard~
+A colorful figure reclines on the hard stone floor.
+~
+It looks unfinished.
+~
+170 0 0 0 336 0 0 0 -875 E
+33 -20 8 6d6+4000 5d5+5
+330 108900
+8 8 1
+BareHandAttack: 13
+Clss: 5
+E
+#13229
+Mardok~
+Mardok the Destroyer~
+A feeble-looking man quivers in his boots, his eyes darting about wildly.
+~
+It looks unfinished.
+~
+168 0 0 0 336 516 0 0 -991 E
+48 4 10 9d9+15000 8d8+8
+0 230400
+8 8 1
+BareHandAttack: 13
+Clss: 19
+E
+#13230
+Soulstealer~
+Soulstealer~
+A priestly man decorated in all sorts of death-related symbols stands here, lost in thought.
+~
+It looks unfinished.
+~
+1048634 0 0 0 18516 12 0 0 -989 E
+48 4 10 9d9+13000 4d4+8
+0 230400
+8 8 1
+BareHandAttack: 13
+Clss: 18
+E
+#13231
+Olex~
+Olex the tormentor~
+A man with pale white skin teleports randomly around the room.
+~
+It looks unfinished.
+~
+138 0 0 0 338 0 0 0 -436 E
+38 8 10 7d7+3000 6d2+6
+380 144400
+8 8 1
+BareHandAttack: 13
+Clss: 15
+E
+#13232
+Eden pyromancer~
+Eden the pyromancer~
+A scraggly old hag lurks in her cell, surrounded by dancing flames.
+~
+It looks unfinished.
+~
+65562 0 0 0 1050708 0 0 0 -663 E
+37 8 10 7d7+2500 2d2+6
+0 136900
+8 8 2
+BareHandAttack: 13
+Clss: 20
+E
+#13233
+Jondo~
+Jondo the manipulator~
+A man in a ragged, stained suit paces from one end of the cell to the other.
+~
+It looks unfinished.
+~
+10 0 0 0 256 0 0 0 -400 E
+37 8 7 7d7+3000 6d6+6
+370 136900
+8 8 1
+Clss: 5
+E
+#13234
+sneak~
+the Chameleon~
+A filthy cot stands against one wall, covered in a bed of straw.
+~
+It looks unfinished.
+~
+134217738 0 0 0 524368 0 0 0 0 E
+39 -20 -13 7d7+4000 7d7+40
+0 152100
+8 8 1
+BareHandAttack: 13
+Att1: 40
+Att2: 40
+Att3: 40
+Clss: 10
+E
+#13235
+Mule~
+the Mule~
+A large, fleshy humanoid crouches unhappily in its cramped cell.
+~
+It looks unfinished.
+~
+42 0 0 0 80 0 0 0 -1000 E
+47 -80 5 9d9+9000 10d10+100
+0 220900
+8 8 1
+BareHandAttack: 13
+Att1: 75
+Att2: 75
+Att3: 75
+Clss: 10
+E
+#13236
+Hand Thulgax~
+the severed hand of Thulgax~
+A skeletal hand scuttles towards you on its fingers, already casting a spell.
+~
+It looks unfinished.
+~
+1302538 0 0 0 542840 12 0 0 -1000 E
+38 8 -12 10d100+4500 12d5+6
+0 144400
+8 8 0
+BareHandAttack: 8
+Clss: 18
+E
+#13237
+firebird~
+the crazed firebird~
+A massive bird of pure flame flails its wings wildly, flinging hot sparks and waves of heat.
+~
+It looks unfinished.
+~
+42 0 0 0 1073741948 576 0 0 -200 E
+48 -80 -10 9d9+9000 8d8+50
+0 230400
+8 8 0
+BareHandAttack: 12
+Att1: 60
+Clss: 20
+E
+#13238
+Krux~
+Krux V~
+A man very similar to the statues of the main hall stands here.. but how?
+~
+It looks unfinished.
+~
+42 0 0 0 18808 0 0 0 -500 E
+47 -27 -1 9d9+9000 8d7+10
+0 220900
+8 8 1
+BareHandAttack: 8
+Att1: 55
+Att2: 55
+Att3: 55
+Clss: 10
+E
+#13239
+&d!~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+$

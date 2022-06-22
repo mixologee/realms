@@ -1,0 +1,113 @@
+#6900
+golgatha shitdemon~
+Golgatha~
+The Golgatha stands here grinning.
+~
+The most vile beast imaginable, the Golagatha aka the shit demon.
+This thing oozes feces and putrecense and seems to revel in it's
+own vulgarity. Few who see it, survive.
+~
+190584 0 0 0 80 0 0 0 0 E
+30 -15 -10 30d1000+2000 20d20+35
+200000 999999
+8 8 0
+BareHandAttack: 9
+E
+#6901
+sewer beast~
+a sewer beast~
+A Hideous Sewer Beast snarls wickedly at you.
+~
+The wretched beast crawls through sewers killing anything it sees.
+It's hard black shell protects it, while it's multitude of razor
+like claws tear apart whatever happens to be in front of it.
+~
+18540 0 0 0 524292 0 0 0 -100 E
+30 5 -2 20d20+5000 20d20+15
+0 750000
+8 8 0
+BareHandAttack: 8
+E
+#6902
+tiny cockroach~
+a Tiny Cockroach~
+A tiny cockroach skitters through the darkness.
+~
+Yep it's a cockroach alright. Beady eyes, hard thorax, and that
+pleasant little grin.
+~
+679945 0 0 0 524480 0 0 0 100 E
+1 17 -5 1d1+100 1d1+3
+0 420
+8 8 0
+BareHandAttack: 4
+E
+#6903
+giant cockroach~
+a Giant Cockroach~
+A giant cockroach crawls about.
+~
+As far as cockroaches go, this thing is huge. Easily 
+over 2 feet long, Its back glitters in a what little 
+light there is down here.
+~
+143432 0 0 0 524352 0 0 0 100 E
+10 15 -7 5d5+1420 5d5+5
+0 100420
+8 8 0
+BareHandAttack: 4
+E
+#6904
+Teera woman~
+Teera~
+Teera, the Protectress, is here.
+~
+It looks unfinished.
+~
+26697 0 0 0 8208 0 0 0 1000 E
+25 -20 -1 25d10+4000 5d5+25
+5420 500000
+8 8 2
+E
+#6905
+skeleton~
+a skeleton~
+A ghastly skeleton is standing here.
+~
+As if held up by magic, this mass of bones stands before you. Tattered
+remnants of ancient clothing barely covers the rotting flesh that clings to
+it's black bones.
+~
+63592 0 0 0 80 0 0 0 -1000 E
+25 -15 5 25d10+2500 5d5+20
+10 400000
+8 8 0
+E
+#6906
+skeleton lord~
+the skeleton lord~
+A large skeleton patrols the sewers.
+~
+The thing before you is a beautiful specimen of horrific design. The soul locked
+into the form you seem has lived in the sewers for ages. It's bones are blackened
+with dry blood and long decayed flesh. As you into it's empty eye sockets,
+it simply stares back forever smiling.
+~
+194664 0 0 0 80 0 0 0 -1000 E
+30 -30 2 0d1+30000 30d127+50
+10420 750000
+8 8 0
+E
+#6969
+exterminator~
+the exterminator~
+A man walking around with a metal canister is here.
+~
+It looks unfinished.
+~
+1048585 0 0 0 0 0 0 0 0 E
+5 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+$

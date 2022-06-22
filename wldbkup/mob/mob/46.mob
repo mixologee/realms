@@ -1,0 +1,95 @@
+#4600
+raven mother~
+a protective mother raven~
+A raven perches on a high branch, peering down at you curiously.
+~
+This large, jet black bird is armed with sharp claws with which to slash at
+anyone who might think of injuring her hatchlings. Her beady black eyes gleam
+with a strange intelligence, but its instincts tell it that its better to be
+safe than sorry, so it rushes to attack.
+~
+1116202 0 0 0 1108344896 64 0 0 0 E
+5 -30 7 10d3+300 3d3+10
+4 2500
+8 8 2
+BareHandAttack: 4
+Att1: 8
+Clss: 8
+E
+#4601
+raven father~
+an industrious father raven~
+A large black bird swoops about, searching for food.
+~
+This raven goes out and finds food for its mate and their hatchling while the
+mother stays at home to guard the nest. He is the bread and butter of the
+family, so to speak in human terms, and will become angry if his work is
+disturbed.
+~
+268501004 0 0 0 1174929728 0 0 0 0 E
+7 -30 5 10d4+200 4d3+10
+0 4900
+8 8 1
+BareHandAttack: 4
+Att1: 8
+Clss: 7
+E
+#4602
+rabbit bunny~
+a small rabbit~
+A small brown rabbit turns its head and stares at you frightenedly.
+~
+The rabbits in this forest are particularly small,and blend in perfectly with
+the mottled brown leaf litter. Where there's one, there are many- there must be
+a rabbit warren nearby.
+~
+403243144 0 0 0 42491904 0 0 0 0 E
+3 10 8 10d2+30 4d4+10
+0 900
+8 8 0
+BareHandAttack: 3
+Clss: 2
+E
+#4603
+shambler leaves sticks pile~
+A shambler~
+A pile of leaves shifts, shudders, and rises from the ground, muttering quietly.
+~
+One hundred years of filth rises from the earth, animated by its long stagnancy
+in such a magical environment as this. A gaping maw of broken sticks and sharp
+stones yawns, revealing a gut of blood-plastered leaves and dirt. The body is
+lined with a thick coat of dead leaves and watery filth, a natural skin that
+blends in with the detritus that has yet to live again.
+~
+1171502 2 0 0 168820816 0 0 0 -350 E
+10 -30 -4 100d7+100 4d4+30
+100 100000
+8 8 0
+BareHandAttack: 4
+Att1: 2
+Att2: 5
+Att3: 7
+Clss: 21
+E
+#4604
+willow tree~
+the raging willow tree~
+A mess of leathery willow branches tipped in barbs rises up all around you, waving angrily.
+~
+This willow tree isn't so much malevolent as angry and confused by the fact that
+it has been demoted from the position of a lofty tree to the cushion for a pine
+tree's fall. You have further added insult to injury by walking upon it, and
+incurred its wrath. You'd best get out of here, fast! This tree has no lack of
+ammunition.
+~
+254010 4 0 0 167774288 0 0 0 0 E
+10 -80 4 20d20+500 6d4+5
+0 10000
+8 8 0
+BareHandAttack: 2
+Att1: 2
+Att2: 2
+Att3: 2
+Clss: 28
+E
+$

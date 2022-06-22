@@ -1,0 +1,532 @@
+#4600
+raven mother~
+a protective mother raven~
+A raven perches on a high branch, peering down at you curiously.
+~
+This large, jet black bird is armed with sharp claws with which to slash at
+anyone who might think of injuring her hatchlings. Her beady black eyes gleam
+with a strange intelligence, but its instincts tell it that its better to be
+safe than sorry, so it rushes to attack.
+~
+1116202 0 0 0 1108344896 64 0 0 0 E
+5 -30 7 10d3+300 3d3+10
+4 2500
+8 8 2
+BareHandAttack: 4
+Att1: 8
+Clss: 8
+E
+#4601
+raven bird father~
+an industrious father raven~
+A large black bird swoops about, searching for food.
+~
+This raven goes out and finds food for its mate and their hatchling while the
+mother stays at home to guard the nest. He is the bread and butter of the
+family, so to speak in human terms, and will become angry if his work is
+disturbed.
+~
+268501004 0 0 0 1174929728 0 0 0 0 E
+7 -30 5 10d4+200 4d3+10
+0 4900
+8 8 1
+BareHandAttack: 4
+Att1: 8
+Clss: 7
+E
+#4602
+rabbit bunny~
+a small rabbit~
+A small brown rabbit turns its head and stares at you frightenedly.
+~
+The rabbits in this forest are particularly small,and blend in perfectly with
+the mottled brown leaf litter. Where there's one, there are many- there must be
+a rabbit warren nearby.
+~
+403243144 0 0 0 42491904 0 0 0 0 E
+3 10 8 10d2+30 4d4+10
+0 900
+8 8 0
+Clss: 2
+E
+#4603
+shambler leaves sticks pile~
+a shambler~
+A pile of leaves shifts, shudders, and rises from the ground, muttering quietly.
+~
+One hundred years of filth rises from the earth, animated by its long stagnancy
+in such a magical environment as this. A gaping maw of broken sticks and sharp
+stones yawns, revealing a gut of blood-plastered leaves and dirt. The body is
+lined with a thick coat of dead leaves and watery filth, a natural skin that
+blends in with the detritus that has yet to live again.
+~
+1171502 2 0 0 168820816 0 0 0 -350 E
+10 -30 -4 100d7+100 4d4+30
+100 100000
+8 8 0
+BareHandAttack: 4
+Att1: 2
+Att2: 5
+Att3: 7
+Clss: 21
+E
+#4604
+thing~
+a bloodsucking thing with wings~
+Something with many legs, many eyes, and many sharp teeth hovers this way.
+~
+This creature is the product of some wicked magic at work. It may have once
+been a mosquito, or a bird, or maybe it was created of some horrible union of
+beasts and monsters. Its wings create a maddening hum in the air as it makes
+its way towards you.
+~
+1056808 0 0 0 1073742848 0 0 0 -350 E
+10 0 4 15d20+100 5d2+20
+0 10000
+8 8 0
+BareHandAttack: 4
+Att1: 4
+Att2: 4
+Att3: 4
+Clss: 3
+E
+T 4600
+#4605
+Araknarok man~
+Araknarok~
+A robed black man gazes down at you from a corner of the ceiling.
+~
+"It's so good to have visitors," he says upon realizing you notice his presence.
+"Members of my race rarely enter these spirited woods- I have resorted to living
+with the spiders. They are quite well-tempered, you know, and knowledgeable. 
+That is my trade: the acquiring of knowledge."  He glances about the tent. "Feel
+free to have a seat, stay a while. My friend should be back soon with some
+rabbit."  
+~
+2074 32 0 0 34630140 68 0 0 200 E
+35 -24 -11 100d100+350 2d2+44
+100000 122500
+8 8 1
+BareHandAttack: 13
+Att1: 4
+Clss: 17
+E
+#4606
+caiman~
+a black mottled caiman~
+A glistening reptilian eye stares up at you from beneath the green water.
+~
+This reptile resembles a small alligator, but stockier and darker in coloration.
+It glides through the water like a snake, its sharp teeth jutting from its mouth
+menacingly. While it is a predator, it doesn't seem to be a threat... But
+looks can be deceiving.
+~
+135266344 0 0 0 67633152 0 0 0 0 E
+9 0 2 12d20+100 3d4+5
+0 10000
+8 8 2
+BareHandAttack: 4
+Att1: 10
+Clss: 2
+E
+#4607
+shade~
+the shade of a long-dead adventurer~
+A white mask of preserved flesh hovers in the air before you, trailed by a mass of misty black hair.
+~
+When a body falls still living into a still body of cold water, its soul becomes
+trapped within its mortal shell, forced to suffer a hundred years until its
+bones have themselves turned to wet chalk and its flesh has long since turned to
+mud. When this has come to pass, the transformed soul rises from the murky
+depths a shade, either benign, mourning its own death but never turning on a
+living creature, or malicious, evil and corrupt in every way...
+~
+536994361 0 0 0 1107820624 64 0 0 -750 E
+20 -10 -2 10d20+500 2d9+20
+0 40000
+8 8 0
+BareHandAttack: 8
+Clss: 1
+E
+T 4761
+#4608
+tangle vine tanglevine~
+a tangle vine~
+A broad, thorned vine hangs suspiciously in front of your face, swaying in a nonexistent breeze.
+~
+In this environment, it is difficult for a treeborne plant to acquire the
+nutrients it requires. So, this plant, altered by the magic inherent in the
+trees it lives in, has grown to epic proportions, and graduated from the status
+of tricking flies and sticking dragonflies: it goes after much larger, more
+satisfying prey with its heavily thorned, adhesive tendrils.
+~
+268607530 8 0 0 1573072 0 0 0 0 E
+13 -20 2 40d50+500 2d2+5
+0 16900
+8 8 0
+BareHandAttack: 2
+Att1: 4
+Att2: 4
+Clss: 21
+E
+#4609
+madame woman zeroni~
+Madame Zeroni~
+A woman stands before you, awe-inspiring in her beauty; she beckons to you, her jeweled shawl jingling.
+~
+The rumors of Madame Zeroni's death are false- here she stands, alive and well!
+Here she has lived since she mysteriously disappeared Taris'Vaal so long ago,
+driven away by false accusations of being the mistress of a powerful nobleman
+she often read fortunes for. Despite her age, she seems to be eternally
+youthful. Her hair is as smooth and black as it ever was, draping to her knees,
+and her skin is still flawless and pearly white. She wraps her shawl tighter
+about herself- quit making her so nervous!
+~
+6152 0 0 0 34079056 0 0 0 125 E
+25 0 -5 20d40+500 6d5+4
+250 62500
+8 8 2
+BareHandAttack: 8
+Att1: 30
+Clss: 5
+E
+#4610
+turtle Jakob oracle~
+Jakob the turtle oracle~
+A massive reptilian head rises from the marsh at the foot of the massive mountain that is its carapace.
+~
+It appears that this tortise has been sitting here since the trees first began
+to grow and since before the magic took hold- perhaps he is in some way related
+to the ocurrence that created this magical forest. He sits wallowed in the
+lake, with just his shell above the water and only raising his head to greet
+newcomers.
+~
+122890 0 0 0 -2122292744 77 0 0 275 E
+50 -30 -20 500d250+500 10d10+50
+500 250000
+8 8 1
+BareHandAttack: 7
+Clss: 21
+E
+#4611
+massive spider~
+a massive furry black spider~
+A snarl of hairy limbs leaps out of the darkness at you, its eight beady eyes glinting and black jaws clicking.
+~
+This is a rather large female of the order that lives in this forest. It sizes
+you up intelligently before deciding to attack- not like whether it could take
+you down alone matters in that decision, because it is not alone.
+~
+1048760 0 0 0 542800 0 0 0 -10 E
+21 -5 -2 10d10+210 6d5+25
+0 50000
+8 8 2
+BareHandAttack: 4
+Att1: 30
+Att2: 30
+Clss: 9
+E
+#4612
+Rischka dryad spirit male warrior~
+Rischka, the dryad Defender~
+A broad shouldered dryad stands his ground, preventing any passage.
+~
+This dryad is extremely tall- perhaps not by dryad standards, but it is
+certainly a giant among humans. It stands well over three meters tall, but
+that's mostly due to its treelike legs. He plants himself firmly in your path,
+blocking the way north with his legs and the massive head of his mace. His
+treelike face stares down on you with no emotion. There is only the desire to
+defend his forest home.
+~
+-2146435030 5 0 0 33564992 0 0 0 400 E
+25 -20 -5 2d750+500 4d4+20
+0 62500
+8 8 1
+BareHandAttack: 8
+Att1: 16
+Att2: 16
+Att3: 16
+Clss: 8
+E
+#4613
+serpent snake~
+a slinky swamp serpent~
+A massive serpent rises from the swamp, towering far overhead and raining oily sheets of water upon you.
+~
+The serpent bares long, yellow-stained teeth before lunging down on your in a
+shower of oily water. Its body seems infinitely long, arching and writhing in
+the water as it pursues you. It has no scales, just a slimy mottled skin and a
+dorsal fin on each side that runs the length of its body.
+~
+68157496 0 0 0 590036 0 0 0 0 E
+38 -20 -12 100d100+380 7d10+30
+0 144400
+8 8 0
+BareHandAttack: 4
+Clss: 21
+E
+T 4688
+#4614
+spider hatchling~
+a small, white spider hatchling~
+A tumbling ball of white and pink fuzz scuttles towards you.
+~
+This hatchling has just emerged from its casing, and is hungry for flesh. 
+There is only so much the queen's workers can provide, so they have begun to
+hunt. This one has found you.
+~
+1048616 0 0 0 2112 0 0 0 -100 E
+3 19 8 100d2+30 1d2+0
+0 25000
+8 8 0
+BareHandAttack: 4
+Clss: 2
+E
+T 4614
+#4615
+spider queen~
+the massive, furry black spider queen of Darkmoor~
+The spider queen of the nest is sprawled out before you, its beady black eyes glinting with delight.
+~
+This is the spider queen of Darkmoor, only one of the many spider queens in the
+world. She is particularly ancient and wise, having far exceded the required
+hundred years of age to become a spider queen, tenfold. Her armored hide is
+covered in thick matted black hair, and her fangs are each the size of a human
+arm. She watches you keenly, hesitant to attack, and curious as to why you
+would wander so willingly into her midst.
+~
+135266330 0 0 0 134226000 1 0 0 -50 E
+44 -28 -9 64d64+1500 8d8+48
+0 193600
+8 8 2
+BareHandAttack: 6
+Att1: 40
+Att2: 50
+Att3: 64
+Clss: 20
+E
+T 4763
+#4616
+spider guardian~
+a spider guardian of the queen~
+An armored black spider chitters and hisses as you approach, but does not attack.
+~
+This spider is a time-tested guardian of the queen, ever loyal and steadfast in
+the face of danger. He bears faint scars of past battles, white spiderweb
+cracks in his chitin shell, and patches of missing hair. He assumes a combative
+stance as you approach the queen, and positions himself between you and her.
+~
+8202 0 0 0 524624 0 0 0 -50 E
+29 -28 -7 32d32+1000 8d4+16
+0 84100
+8 8 1
+BareHandAttack: 7
+Att1: 8
+Att2: 16
+Att3: 24
+Clss: 9
+E
+#4617
+spider trainee~
+a spider guardian trainee~
+A smaller armored spider shifts uneasily in your presence.
+~
+This is one of the newer guardians of the queen, not fresh from the egg sack but
+not yet a seasoned veteran of the tough battles that come with protecting the
+queen. She shifts this way and that, not sure of the right way to act in
+response to a newcomer without breaking the code and resorting to combat.
+~
+10 0 0 0 80 0 0 0 -50 E
+25 4 -5 16d6+500 6d4+8
+0 62500
+8 8 2
+BareHandAttack: 6
+Att1: 24
+Att2: 24
+Clss: 7
+E
+#4618
+unicorn steed~
+a majestic, black unicorn~
+A steed with wispy black hair and a shining ebony horn prances in the open forest.
+~
+This is the legendary unicorn, in all its glory. It doesn't seem much different
+from a typical horse, really, except for its noble stature and the intelligent
+gleam in its eyes as it watches you. Surely this steed would reject any bridle,
+being accustomed to its magical wilderness home far from the encroachment of
+humanity.
+~
+8 0 0 0 0 0 0 0 340 E
+16 -8 7 10d20+200 6d4+28
+0 25600
+8 8 0
+BareHandAttack: 9
+Att1: 9
+Clss: 2
+E
+#4619
+Jabberwock~
+the Jabberwock~
+A monstrous creature with fiery eyes bounds through the wood towards you, venom dripping from its jaws.
+~
+"The jaws that bite, the claws that catch!"
+And, as in uffish thought he stood,
+  The Jabberwock, with eyes of flame,
+Came whiffling through the tulgey wood,
+  And burbled as it came!
+~
+-2012217302 7 0 0 16720 0 0 0 -900 E
+27 -30 0 20d40+0 10d6+10
+0 72900
+8 8 0
+BareHandAttack: 4
+Att1: 60
+Clss: 8
+E
+#4620
+Bandersnatch~
+the frumious Bandersnatch~
+A strange, lionlike humanoid crouches on its hindquarters here, fangs protruding past its dangling nose.
+~
+The Bandersnatch has a body like a lion crossed with a human, banded with rings
+of golden fur, all sticky with the blood of slain prey. Its face is remarkably
+human, except with features all exaggerated, especially its massive,
+eggplant-like nose. The fangs protruding from its mouth are reminescent of a
+hog, only longer and sharper.
+~
+134217864 0 0 0 68 0 0 0 -850 E
+27 11 -6 100d6+270 4d4+4
+0 72900
+8 8 0
+Clss: 5
+E
+#4621
+Jubjub bird~
+the Jubjub bird~
+A four-legged bird swoops through the air, barely a pinpoint in the sky... before it strikes!
+~
+Every one of its four muscled legs are tipped with six sharp talons. Not a
+point on this foul falcon is not sharp- from its long, daggerlike beak to its
+bladed tail, it is a mass of biological weaponry. It hovers high in the sky,
+and then drops down on its victim, tearing it to shreds with its claws before
+devouring it greedily, piece by piece.
+~
+196648 0 0 0 1572944 64 0 0 -850 E
+27 -50 9 50d10+270 4d4+30
+0 72900
+8 8 0
+BareHandAttack: 8
+Att1: 16
+Att2: 16
+Clss: 7
+E
+#4622
+horse stallion steed~
+a thin-looking white stallion~
+A white stallion is tethered to a rotting post here, looking rather famished.
+~
+Someone has left their stallion tethered to a post here, and it seems they have
+not returned for it in a long time. The steed is weak from starvation, and
+whinnies pitifully for its master to return from the dark forest.
+~
+1207959624 32 0 0 0 2 0 0 150 E
+6 18 6 100d4+60 1d2+1
+0 3600
+8 8 1
+BareHandAttack: 10
+Clss: 2
+E
+#4623
+llama pushmepullyou~
+a rare pushmepullyou~
+A two-headed llama is trotting this way and that, bargaining with its other head on which way to go.
+~
+The pushmepullyou is a bizarre, magically created llama with two heads and a
+penchant for learning. Gifted with human speech and intellect, it often spouts
+information at random, and holds debates with its other head.
+~
+134217880 0 0 0 74064 258 0 0 376 E
+20 -10 4 4d40+200 4d4+30
+0 40000
+8 8 0
+Att1: 16
+Att2: 16
+Clss: 5
+E
+#4624
+rock stone~
+a disgruntled rock~
+A large, round stone shuffles along, grumbling with a stony voice.
+~
+This rock has been woken from its stonelike slumber by the disturbance of
+demonic fire, and is not happy at all.
+~
+2058 0 0 0 1572864 0 0 0 -100 E
+10 10 4 100d50+0 1d2+50
+0 10000
+8 8 0
+Clss: 21
+E
+#4625
+owl bird~
+a corpse-dwelling owl~
+A large silver bird swivels its head to stare at you.
+~
+This owl is about the size of a full grown man, and perches precariously on the
+edge of peril, surveying its domain. It appears quite fierce in guarding its
+territory, especially the skeleton it lives in.
+~
+1048634 0 0 0 1074268244 0 0 0 -100 E
+20 -6 1 36d6+200 6d6+26
+0 40000
+8 8 1
+BareHandAttack: 8
+Clss: 2
+E
+#4626
+undefined~
+a moor mist~
+An orb of glowing mist bounces through the fog.
+~
+An undefined string.~
+167960 32 0 0 524304 0 0 0 1000 E
+0 20 -10 1d1+0 1d1+0
+0 0
+8 8 0
+Clss: 17
+E
+#4627
+squirrel treerat~
+a frisky tree rat~
+A squirrel chitters angrily at you from a safe distance.
+~
+Squirrels are vicious predators, armed to the teeth with improvised,
+acorn-themed weaponry, and always in the mood for terrorizing anyone who happens
+near.
+~
+134219788 0 0 0 0 0 0 0 -100 E
+4 4 9 5d10+50 1d2+4
+0 5000
+8 8 0
+Clss: 2
+E
+#4628
+caiman mother~
+a massive mother caiman~
+A massive mother caiman lies across the top of her nest, eyeing you warily.
+~
+This caiman is particularly large, which would explain its dominance of this
+swamp area. No other caimans dare come near, and the egg-eating creatures don't
+fly in its air space. It whips its tail angrily as you step onto its nest, and
+it careens strait for you!
+~
+1048618 0 0 0 2240 0 0 0 -100 E
+20 -16 -2 4d4+1200 6d6+36
+0 40000
+8 8 2
+BareHandAttack: 4
+Att1: 36
+Clss: 2
+E
+T 4764
+$

@@ -1,0 +1,800 @@
+#2500
+The Foyer of Kalrayi's Asylum~
+The foyer of the asylum is dim and depressing, the only light coming from a few
+flickering lanterns sitting on a few wobbly tables.  The wobbly tables are
+standing on a scuffed and dusty floor with the strip of a long red rug leading
+from the entrance to the doorway of the waiting room.  A large wooden desk,
+occupied by a frightening looking lady, looms in a corner, covered in old
+scrolls and crazy looking finger paintings.  
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2501
+S
+#2501
+The Waiting Room~
+Maniacal giggling drifts to the waiting room from the floor above, adding more
+uncomfort to an already tense atmosphere.  Visitors glance nervously about the
+room from their mismatched, uncoordinatedly placed chairs.  The space is
+decorated with wilted plants and crudely painted posters, some expressing the
+artists love of daffodils and kittens, others with helpful messages such as: "So
+you've decided to go insane".  
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2504
+D1
+~
+~
+0 0 2503
+D2
+~
+~
+0 0 2500
+S
+#2502
+A Pit of Rats~
+A damp and cold pit lies below the small room, filled with terrified rats who
+cower in the corners.  A small wooden ladder has been planted in the center of
+the room to climb in and out of the pit with.  There are splatters of blood and
+clusters of fur littering the dark pit, presumably from earlier scuffles
+involving the Monaghonan's dinner.  
+~
+25 4 0 0 0 0
+D4
+~
+~
+1 0 2508
+S
+#2503
+Glendora's Happy Gift Shop~
+In a break from normality, Glendora has filled her gift shop with bright, well
+cared for flowers and a cheerful ambience in general.  The walls have been
+painted a happy shade of lilac and there is a even a window in the western wall,
+though not much can be seen through the thick, dark woods.  A shining orb of
+light hangs magically in the air, giving the whole room a welcoming glow.  
+Shelves of gifts and snacks line the walls, waiting to be purchased.  
+~
+25 16 0 0 0 0
+D3
+~
+~
+0 0 2501
+S
+#2504
+At the Foot of a Wooden Staircase~
+To the east a small, unlit hallway can be seen, and to the north stands a wooden
+staircase.  This is an unsafe looking set of stairs, but it's where one must go
+up when one wants to go up.  The railings have snapped from frequent misuse, and
+the structure seems a bit shakey.  Luckily, the staircase is a short one.  
+~
+25 0 0 0 0 0
+D1
+~
+~
+0 0 2506
+D2
+~
+~
+0 0 2501
+D4
+~
+~
+0 0 2505
+S
+#2505
+The Top of a Wooden Staircase~
+A small, but brightly lit sphere of blue glass hangs from the ceiling,
+attracting the immediate attention of passersby.  The halls to the east and west
+become almost insantly dark, despite this light.  Directly to the north is a
+heavy metal door.  
+~
+25 4 0 0 0 0
+D0
+~
+~
+0 0 2527
+D1
+~
+~
+0 0 2509
+D3
+~
+~
+0 0 2515
+D5
+~
+~
+0 0 2504
+S
+#2506
+A Dusty, Curving Hall~
+This hallway is the embodiment of unclean.  There are streaks of dirt on the
+once white painted walls.  The wooden floor is covered in dirt, mud, and dust;
+the dust is so thick there are clear footprints in it.  It is clear the janitor
+doesn't even attempt to keep this section of the asylum clean.  
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2507
+D3
+~
+~
+0 0 2504
+S
+#2507
+A Dusty, Curving Hall~
+This hallway is the embodiment of unclean.  There are streaks of dirt on the
+once white painted walls.  The wooden floor is covered in dirt, mud, and dust;
+the dust is so thick there are clear footprints in it.  It is clear the janitor
+doesn't even attempt to keep this section of the asylum clean.  
+~
+25 0 0 0 0 0
+D2
+~
+~
+0 0 2506
+D3
+~
+~
+0 0 2508
+S
+#2508
+Under the Staircase, Home of the Monaghonans~
+An unpleasant smell pervades this cramped room under the staircase.  The only
+furnishings are three tiny beds that have been squeezed together and one small
+lantern which hangs from a hook on the ceiling.  Small spatters of blood can be
+seen here and there on the dark walls, and on the floor lie a few plates
+complete with the untastey remains of rats.  Outlines of a trapdoor on the floor
+can be made out in the weak light.  
+~
+25 0 0 0 0 0
+D1
+~
+~
+0 0 2507
+D5
+A blood-stained trapdoor
+~
+trapdoor~
+1 0 2502
+S
+#2509
+An Entirely Uninviting Hallway~
+Only a dim blue glow lights the way in this section of narrow hallway.  
+Attached to the walls are dusty sconces, but the stubs of candles that reside
+within them are unlit.  The floorboards creaks with every step, and whispers and
+supressed giggles can be heard in the dark.  
+~
+25 0 0 0 0 0
+D1
+~
+~
+0 0 2510
+D2
+~
+~
+0 0 2525
+D3
+~
+~
+0 0 2505
+S
+#2510
+The Southeastern Corner of An Entirely Uninviting Hallway~
+This section of the hallway is pitch black, unreached by the dim blue glow from
+the west and with no flickering candles.  To the north and west a few far away
+candles cast a little light on open doorways and wandering inhabitants.  All
+over, whispers and mutters can be heard.  
+~
+25 1 0 0 0 0
+D0
+~
+~
+0 0 2511
+D3
+~
+~
+0 0 2509
+S
+#2511
+An Entirely Uninviting Hallway~
+Ocassional lit candles inside dusty wall sconces provide the only weak,
+flickering light in the black hallway.  The rare lit candles produce eerie
+dancing shadows on small patches of the wooden paneled walls.  The floor creaks
+as someone walks by, mumbling quietly to himself.  Giggling and whispers can be
+heard from all over, creating a very uninviting atomsphere.  
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2512
+D1
+~
+~
+0 0 2524
+D2
+~
+~
+0 0 2510
+S
+#2512
+The Northeastern Corner of An Entirely Uninviting Hallway~
+This section of the hallway is pitch black, unreached by the dim blue glow from
+the south and with no flickering candles.  To the south and west a few far away
+candles cast a little light on open doorways and wandering inhabitants.  All
+over, whispers and mutters can be heard.  
+~
+25 1 0 0 0 0
+D2
+~
+~
+0 0 2511
+D3
+~
+~
+0 0 2513
+S
+#2513
+An Entirely Uninviting Hallway~
+Ocassional lit candles inside dusty wall sconces provide the only weak,
+flickering light in the black hallway.  The rare lit candles produce eerie
+dancing shadows on small patches of the wooden paneled walls.  The floor creaks
+as someone walks by, mumbling quietly to himself.  Giggling and whispers can be
+heard from all over, creating a very uninviting atomsphere.  
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2523
+D1
+~
+~
+0 0 2512
+D3
+~
+~
+0 0 2518
+S
+#2514
+The Southwestern Corner of An Entirely Uninviting Hallway~
+This section of the hallway is pitch black, unreached by the dim blue glow from
+the east and with no flickering candles.  To the north and east a few far away
+candles cast a little light on open doorways and wandering inhabitants.  All
+over, whispers and mutters can be heard.  
+~
+25 1 0 0 0 0
+D0
+~
+~
+0 0 2516
+D1
+~
+~
+0 0 2515
+S
+#2515
+An Entirely Uninviting Hallway~
+Only a dim blue glow lights the way in this section of narrow hallway.  
+Attached to the walls are dusty sconces, but the stubs of candles that reside
+within them are unlit.  The floorboards creaks with every step, and whispers and
+supressed giggles can be heard in the dark.  
+~
+25 0 0 0 0 0
+D1
+~
+~
+0 0 2505
+D2
+~
+~
+0 0 2520
+D3
+~
+~
+0 0 2514
+S
+#2516
+An Entirely Uninviting Hallway~
+Ocassional lit candles inside dusty wall sconces provide the only weak,
+flickering light in the black hallway.  The rare lit candles produce eerie
+dancing shadows on small patches of the wooden paneled walls.  The floor creaks
+as someone walks by, mumbling quietly to himself.  Giggling and whispers can be
+heard from all over, creating a very uninviting atomsphere.  
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2517
+D2
+~
+~
+0 0 2514
+D3
+~
+~
+0 0 2521
+S
+#2517
+The Northwestern Corner of An Entirely Uninviting Hallway~
+This section of the hallway is pitch black, unreached by the dim blue glow from
+the south and with no flickering candles.  To the south and east a few far away
+candles cast a little light on open doorways and wandering inhabitants.  All
+over, whispers and mutters can be heard.  
+~
+25 1 0 0 0 0
+D1
+~
+~
+0 0 2519
+D2
+~
+~
+0 0 2516
+S
+#2518
+An Entirely Uninviting Hallway~
+Ocassional lit candles inside dusty wall sconces provide the only weak,
+flickering light in the black hallway.  The rare lit candles produce eerie
+dancing shadows on small patches of the wooden paneled walls.  The floor creaks
+as someone walks by, mumbling quietly to himself.  Giggling and whispers can be
+heard from all over, creating a very uninviting atomsphere.  
+~
+25 0 0 0 0 0
+D1
+~
+~
+0 0 2513
+D2
+~
+door~
+1 1 2526
+D3
+~
+~
+0 0 2519
+S
+#2519
+An Entirely Uninviting Hallway~
+Ocassional lit candles inside dusty wall sconces provide the only weak,
+flickering light in the black hallway.  The rare lit candles produce eerie
+dancing shadows on small patches of the wooden paneled walls.  The floor creaks
+as someone walks by, mumbling quietly to himself.  Giggling and whispers can be
+heard from all over, creating a very uninviting atomsphere.  
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2522
+D1
+~
+~
+0 0 2518
+D3
+~
+~
+0 0 2517
+S
+#2520
+A Room in the Asylum~
+UndefinedA cool white tiled floor meets the pale blue walls to create a cold,
+eerie room.  Two small beds stand in opposite corners, above each is one shelf
+with a few of the inhabitant's posessions -- the only furnishings.  There are no
+windows, the room's light comes from a cracked glowing orb hanging from the
+ceiling on a chain.  
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2515
+S
+#2521
+A Room in the Asylum~
+A cool white tiled floor meets the pale blue walls to create a cold, eerie room.
+Two small beds stand in opposite corners, above each is one shelf with a few of
+the inhabitant's posessions -- the only furnishings.  There are no windows, the
+room's light comes from a cracked glowing orb hanging from the ceiling on a
+chain.  
+~
+25 0 0 0 0 0
+D1
+~
+~
+0 0 2516
+S
+#2522
+A Room in the Asylum~
+A cool white tiled floor meets the pale blue walls to create a cold, eerie room.
+Two small beds stand in opposite corners, above each is one shelf with a few of
+the inhabitant's posessions -- the only furnishings.  There are no windows, the
+room's light comes from a cracked glowing orb hanging from the ceiling on a
+chain.  
+~
+25 0 0 0 0 0
+D2
+~
+~
+0 0 2519
+S
+#2523
+A Room in the Asylum~
+A cool white tiled floor meets the pale blue walls to create a cold, eerie room.
+Two small beds stand in opposite corners, above each is one shelf with a few of
+the inhabitant's posessions -- the only furnishings.  There are no windows, the
+room's light comes from a cracked glowing orb hanging from the ceiling on a
+chain.  
+~
+25 0 0 0 0 0
+D2
+~
+~
+0 0 2513
+S
+#2524
+A Room in the Asylum~
+A cool white tiled floor meets the pale blue walls to create a cold, eerie room.
+Two small beds stand in opposite corners, above each is one shelf with a few of
+the inhabitant's posessions -- the only furnishings.  There are no windows, the
+room's light comes from a cracked glowing orb hanging from the ceiling on a
+chain.  
+~
+25 0 0 0 0 0
+D3
+~
+~
+0 0 2511
+S
+#2525
+A Room in the Asylum~
+This unfinished room was created by Kyte.  A cool white tiled floor meets the
+pale blue walls to create a cold, eerie room.  Two small beds stand in opposite
+corners, above each is one shelf with a few of the inhabitant's posessions --
+the only furnishings.  There are no windows, the room's light comes from a
+cracked glowing orb hanging from the ceiling on a chain.  
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2509
+S
+#2526
+Lyack's Vinegary Room~
+The door to this room has been bolted shut and chained.  On the pale pink walls
+are shelves upon shelves of jars, some containing food, others holding odder
+objects.  Inside one jar, for instance, is a slightly wilted rose, with a tag
+reading "For my dear Lyack, Love Nalvesi".  In one corner is a small, untidy
+bed, and the wall above has disappeared under many peices of torn newspaper.  
+On each article, Lyack's hand-writing foretells how each particular event will
+probably destroy the world.
+~
+25 4 0 0 0 0
+D0
+~
+door~
+1 1 2518
+S
+#2527
+Below a Long Staircase~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D2
+~
+~
+0 0 2505
+D4
+~
+~
+0 0 2528
+S
+#2528
+The Top of a Long Staircase~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2541
+D1
+~
+~
+0 0 2529
+D3
+~
+~
+0 0 2539
+D5
+~
+~
+0 0 2527
+S
+#2529
+New BuildWalk Room~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D1
+~
+~
+0 0 2530
+D2
+~
+~
+0 0 2548
+D3
+~
+~
+0 0 2528
+S
+#2530
+New BuildWalk Room~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2531
+D3
+~
+~
+0 0 2529
+S
+#2531
+New BuildWalk Room~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2532
+D1
+~
+~
+0 0 2547
+D2
+~
+~
+0 0 2530
+S
+#2532
+New BuildWalk Room~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D2
+~
+~
+0 0 2531
+D3
+~
+~
+0 0 2533
+S
+#2533
+New BuildWalk Room~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2544
+D1
+~
+~
+0 0 2532
+D3
+~
+~
+0 0 2534
+S
+#2534
+New BuildWalk Room~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D1
+~
+~
+0 0 2533
+D2
+~
+~
+0 0 2546
+D3
+~
+~
+0 0 2535
+S
+#2535
+New BuildWalk Room~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2545
+D1
+~
+~
+0 0 2534
+D3
+~
+~
+0 0 2536
+S
+#2536
+New BuildWalk Room~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D1
+~
+~
+0 0 2535
+D2
+~
+~
+0 0 2537
+S
+#2537
+New BuildWalk Room~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2536
+D2
+~
+~
+0 0 2538
+D3
+~
+~
+0 0 2543
+S
+#2538
+New BuildWalk Room~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2537
+D1
+~
+~
+0 0 2539
+S
+#2539
+New BuildWalk Room~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D1
+~
+~
+0 0 2528
+D2
+~
+~
+0 0 2540
+D3
+~
+~
+0 0 2538
+S
+#2540
+New BuildWalk Room~
+This unfinished room was created by Kaede.
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2539
+S
+#2541
+New BuildWalk Room~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D2
+~
+~
+0 0 2528
+D4
+~
+~
+0 0 2542
+S
+#2542
+New BuildWalk Room~
+This unfinished room was created by Kyte.
+~
+25 0 0 0 0 0
+D5
+~
+~
+0 0 2541
+S
+#2543
+New BuildWalk Room~
+This unfinished room was created by Kaede.
+~
+25 0 0 0 0 0
+D1
+~
+~
+0 0 2537
+S
+#2544
+New BuildWalk Room~
+This unfinished room was created by Kaede.
+~
+25 0 0 0 0 0
+D2
+~
+~
+0 0 2533
+S
+#2545
+New BuildWalk Room~
+This unfinished room was created by Kaede.
+~
+25 0 0 0 0 0
+D2
+~
+~
+0 0 2535
+S
+#2546
+New BuildWalk Room~
+This unfinished room was created by Kaede.
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2534
+S
+#2547
+New BuildWalk Room~
+This unfinished room was created by Kaede.
+~
+25 0 0 0 0 0
+D3
+~
+~
+0 0 2531
+S
+#2548
+New BuildWalk Room~
+This unfinished room was created by Kaede.
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2529
+S
+$~

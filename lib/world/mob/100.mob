@@ -1,0 +1,167 @@
+#10000
+undead pirate~
+an undead pirate~
+Whats left of a pirate is rotting away here, looking for flesh to eat.
+~
+The remains of this pirate could not rest in peace, more like pieces. The
+flesh from his face and arms are almost all missing by this point. Only
+a small patch of hair remains on his head. Seven of ten fingers are missing,
+a sad sight indeed.
+~
+63560 0 0 0 8208 0 0 0 0 E
+25 -20 0 30d50+3000 10d5+30
+1000 800000
+8 8 0
+BareHandAttack: 4
+Clss: 1
+E
+#10001
+guardian statue~
+a guardian statue~
+A huge statue blocks the way.
+~
+This enormous statue is carved of pure granite. Whatever is beyond this
+behemoth statue had better be worth the trouble.
+~
+-2147227605 7 0 0 0 0 0 0 0 E
+35 -30 0 30d50+50000 10d10+50
+100 1000000
+8 8 0
+Clss: 4
+E
+#10002
+demon fire~
+a fire demon~
+A demon shrouded in fire is here.
+~
+This demon is completed surrounded in fire. His eyes are dark and cold.
+He has an evil grin on his face as if he has just claimed another soul
+for his collection.
+~
+55401 0 0 0 0 0 0 0 0 E
+28 -10 0 20d100+7500 5d10+30
+5000 900000
+8 8 0
+BareHandAttack: 8
+Clss: 21
+E
+#10003
+demon water~
+a water demon~
+A demon surrounded completely by water is here.
+~
+This demon is completely covered by a shield of water. His eyes are dark
+and cold, and it has a very disturbing grin on its face.
+~
+188521 0 0 0 0 0 0 0 0 E
+28 -10 5 30d50+7500 20d2+20
+1000 900000
+8 8 0
+BareHandAttack: 10
+Clss: 21
+E
+#10004
+demon air~
+an air demon~
+A demon surrounded by a cyclone of air is here.
+~
+This demon is surrounded by a huge cyclone of air. His eyes are hollow
+and dark, cold from the never ending torment of being a demon. An evil
+grin crosses its face as it sees fresh meat.
+~
+192617 0 0 0 0 0 0 0 0 E
+28 -10 0 20d10+7000 20d3+20
+1000 900000
+8 8 0
+Clss: 21
+E
+#10005
+demon earth~
+an earth demon~
+A demon shrouded in a dusty cloud of smoke is here.
+~
+This demon is surrounded by what appears to be a shield of dirt and
+rocks. Truely this being has some control over the earth itself.
+~
+59497 0 0 0 0 0 0 0 0 E
+28 -10 5 20d100+7000 10d2+20
+1000 900000
+8 8 0
+Clss: 21
+E
+#10006
+master thief~
+the Pirates' Master Thief~
+A tall, slinky man who looks like he'd be good with a dagger is here.
+~
+This man is tall and thin, with an evil grin on his face.  His hair is dark and
+his eyes are blue.  A small scar runs down the left side of his face.  
+~
+192555 0 0 0 16 0 0 0 0 E
+40 -30 -5 30d200+100000 30d3+50
+100000 1500000
+8 8 1
+Att1: 75
+Att2: 75
+Att3: 75
+Clss: 7
+E
+#10007
+master warrior~
+the Pirates' Master Warrior~
+A large, battle scarred man waits here for a challenger.
+~
+This man is extremely large, with an egotiscal smirk.  His hair is light and his
+eyes are brown.  He has several large scars on his face, arms and legs.  
+~
+256042 0 0 0 16 0 0 0 0 E
+40 -30 -5 30d50+125000 20d5+50
+100000 1500000
+8 8 0
+Clss: 8
+E
+#10008
+master mage~
+the Pirates' Master Mage~
+A master of the magical craft is here.
+~
+His eyes are pitch black, small and beady.  His aura radiates with power, almost
+knocking you over.  You can't quite make out if he is looking at you or not.  
+~
+194603 0 0 0 16 0 0 0 0 E
+40 -10 0 20d30+80000 20d1+30
+100000 1300000
+8 8 0
+Clss: 5
+E
+#10009
+master cleric~
+the Pirates' Master Cleric~
+A master at the healing arts is here.
+~
+His eyes are solid white and he has a soft.  Gentle smile on his face.  His aura
+radiates with power and health.  You can't quite make out if he is looking at
+you or not.  
+~
+194603 0 0 0 16 0 0 0 0 E
+40 -20 0 30d50+90000 10d5+35
+5 1400000
+8 8 0
+Clss: 6
+E
+#10010
+keeper~
+the Keeper of the Keys~
+A medium sized demon with a large ring of keys on its belt.
+~
+He is not overly large or overly small.  His hair is sandy blonde, with dark
+green eyes.  This is the man the masters feel can hold the key to their
+chambers.  
+~
+192618 0 0 0 80 0 0 0 0 E
+30 -30 0 30d30+70000 10d5+50
+20000 850000
+8 8 0
+Clss: 1
+E
+$

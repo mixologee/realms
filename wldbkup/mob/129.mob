@@ -1,0 +1,73 @@
+#12900
+guard man~
+a gate guard of the Forbidden City~
+A man in layered ceramic armor stands stoicly before the gate with a katana in hand.
+~
+It looks unfinished.
+~
+10250 0 0 0 0 0 0 0 0 E
+20 -20 7 100d9+200 5d3+10
+85 40000
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Clss: 8
+E
+#12901
+samurai warrior~
+an angry-looking samurai warrior~
+A samurai warrior shouts a battlecry and charges with his katana drawn!
+~
+It looks unfinished.
+~
+2088 4 0 0 0 0 0 0 0 E
+23 13 6 100d9+230 3d3+3
+150 52900
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Clss: 8
+E
+#12902
+Haia guard commander~
+Haia'Goda, the city guard commander~
+A massive man commands his troops with a fire in his eyes, intent on protecting his people.
+~
+It looks unfinished.
+~
+8234 0 0 0 0 0 0 0 100 E
+27 -20 6 102d10+270 3d5+20
+500 72900
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Att2: 13
+Clss: 11
+E
+#12903
+Emperor Sun Tzu~
+Emperor Sun Tzu~
+An elderly warrior with long white hair peers down past his red robes at you from his throne.
+~
+It looks unfinished.
+~
+49162 0 0 0 10616 0 0 0 760 E
+41 -5 -2 100d10+6000 6d3+30
+14285 168100
+8 8 1
+BareHandAttack: 13
+Clss: 11
+E
+#12904
+Vizier Kao'Voda~
+Vizier Kao'Voda~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+$

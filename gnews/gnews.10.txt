@@ -1,0 +1,30 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+-------------------------------------------------------------------------
+News file [&C10&c]. Type NEWS 10 to re-read this article at a later date.
+-------------------------------------------------------------------------&n
+
+Online Quest Editor
+
+Online quest editing is now in and working. You can do a qlist in a zone to
+list the quests for that zone. Qedit <questnum> is the command to edit and
+create quests. They can be find an item, find a room, find a mob, kill a
+mob, save a mob, return and object or clear a room. The quest target will
+either be a room number, object number, or mob number. The quest master is
+whatever mob you choose. The rest is pretty self explanatory while in the
+editor. The time limit can be set but currently does not work, although by
+the time you read this, it will probably be working.

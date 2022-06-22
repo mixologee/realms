@@ -1,0 +1,209 @@
+#6100
+payup sucka~
+Payup U. Sucker~
+Mr. Sucker is standing here.
+~
+This portly fellow runs the bank, and handles most financial issues in the
+tropical city. His hair is long black and greasy, and his eyes are a bland
+muddy brown.
+~
+11 0 0 0 80 0 0 0 1000 E
+30 -30 -10 0d0+30000 30d127+50
+0 1
+8 8 1
+E
+#6101
+steve~
+steve~
+Steve the sexy P.O. manager, is here.
+~
+Steve is a true ladies man. He always goes that extra mile to deliver his
+packages on time for the ladies. Tall, dark, handsome, and dumb as a brick.
+~
+10 0 0 0 80 0 0 0 100 E
+30 -30 -10 0d0+30000 30d127+50
+0 1
+8 8 1
+E
+#6102
+guild master~
+mage guildmaster~
+The guildmaster of the mages, stands here.
+~
+This gentleman looks wise beyond his years. He beady eye peer out from
+underneath his long pointy hat. He wears the traditional robes of one who
+has mastered the art of magic.
+~
+24587 0 0 0 80 0 0 0 1000 E
+30 -30 -10 0d0+30000 30d127+50
+0 0
+8 8 1
+E
+#6103
+guild mistress~
+thief guildmistress~
+The mistress of the thieves, stands before you.
+~
+The soft looks and gentle demeanor of this woman, makes her all the more
+deadly. Many fools have lost their lives to her long black hair and pale
+complexion, but looking into her eyes reveals all.
+~
+24587 0 0 0 80 0 0 0 1000 E
+30 -30 -10 0d0+30000 30d127+50
+0 0
+8 8 2
+E
+#6104
+guild mistress~
+warrior guildmistress~
+The mistress of the the warrior guild, stands here.
+~
+The warrior mistress has controlled this guild hall since it's inception. She
+is tall, muscled and could kick your ass. Don't go mouthing off to her.
+~
+11 0 0 0 80 0 0 0 1000 E
+30 -30 -10 0d0+30000 30d127+50
+0 0
+8 8 2
+E
+#6105
+guild master~
+cleric guildmaster~
+An old guildmaster sits here.
+~
+This old man barely looks able to hold himself up, never the less he has
+been the guildmaster here for a long time. His white robes seem to swallow
+up his thin weary frame.
+~
+11 0 0 0 80 0 0 0 1000 E
+30 -30 -10 0d0+30000 30d127+50
+0 0
+8 8 1
+E
+#6106
+emmeril man~
+emmeril lagasse~
+Emmeril is here, cooking up some vittles.
+~
+This short, dark haired guy has tons of energy and loves to whip up the most
+delicious treats, this side of the ocean. He has a tendency to shout but has
+a heart of pure gold.
+~
+26634 0 0 0 80 0 0 0 1000 E
+30 -30 -10 0d0+30000 30d127+50
+0 0
+8 8 1
+E
+#6107
+guard elf~
+a city guard~
+A guard of the tropical city is here patroling.
+~
+This slender elf has a strong build and stern look upon his face. He patrols the
+streets and tree's of the tropical city for any signs of criminality.
+~
+18761 0 0 0 8192 0 0 0 1000 E
+15 0 3 15d10+800 3d5+20
+50 175000
+8 8 1
+E
+#6108
+elf woman~
+a female elf~
+A beautiful female elf is here.
+~
+This tall slender woman lives in the tropical city. Her hair is long, dark
+brown and flows with a life of it's own. Her face is angular with big round
+eyes and pointed ears.
+~
+2120 0 0 0 8192 0 0 0 500 E
+10 10 2 10d20+300 3d5+15
+100 100000
+8 8 2
+E
+#6109
+elf~
+a terran elf~
+A terran elf is here.
+~
+This tall slender elf spends most of his time in the Tropical City. The terran's
+have occupied most of the island for many generations after suddenly appearing 
+seemingly out of nowhere.
+~
+18504 0 0 0 0 0 0 0 500 E
+13 5 2 1d1+750 3d7+15
+100 150000
+8 8 1
+E
+#6110
+elf terran~
+an aging terran~
+A frail old elf ambles slowly through.
+~
+This aging terran elf has seen many days. He is well respected in the community 
+and is a father figure to many of the elves. His wrinkled face is gentle and is his
+dark blue eyes, you see the glimmer of eternal youth.
+~
+59465 0 0 0 8272 0 0 0 1000 E
+25 -5 2 10d20+10000 3d10+30
+200 550000
+8 8 1
+E
+#6111
+elf child girl terran~
+a little elf girl~
+A little elf girl dances about.
+~
+This cute little girl loves to dance. She always seems to be smiling and doesn't 
+seem at all shy, as she try to dance with everyone she meets. Just watching her 
+makes you feel younger, and long for days of the past.
+~
+72 0 0 0 0 0 0 0 1000 E
+8 8 10 10d15+300 4d4+10
+10 50000
+8 8 2
+E
+#6112
+elf terran maiden~
+a terran maiden~
+An elf maiden is standing here looking pretty.
+~
+This beautiful young maiden spends her days primping and preening herself. Her
+eyes are ever watchful, for that handsom young knight in shining armor, to come
+and wisk her away.
+~
+72 0 0 0 0 0 0 0 1000 E
+10 5 2 1d1+700 2d10+10
+0 85000
+8 8 2
+E
+#6113
+terran elf ~
+a wealthy terran~
+A expensively dressed terran is here.
+~
+This elf has lots of gold and isn't afraid to show it off. He is dressed in the 
+finest materials and has an aristocratic air about him. He holds his head and
+nose up high above everyone else.
+~
+72 0 0 0 0 0 0 0 500 E
+15 0 3 20d20+1000 3d5+15
+1420 150000
+8 8 1
+E
+#6114
+plant venus flytrap trap~
+a small venus flytrap~
+A small venus fly trap is planted here.
+~
+A unique mix of magic and botany, this little fly trap was created by the
+elves. The inside of it's open trap is bright red to attract it's prey. It
+doesn't appear to be violent, but maybe it's just not hungry.
+~
+163928 0 0 0 0 0 0 0 0 E
+9 10 3 10d10+500 4d5+15
+0 75000
+8 8 0
+BareHandAttack: 4
+E
+$

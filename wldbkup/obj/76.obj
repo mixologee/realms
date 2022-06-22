@@ -1,0 +1,289 @@
+#7600
+key keep~
+the keep key~
+A small key lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#7601
+key grey~
+a grey key~
+A small grey key lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#7602
+key green~
+a green key~
+A small green key lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#7603
+key maroon~
+a maroon key~
+A small maroon key lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#7604
+key yellow~
+a yellow key~
+A small yellow key lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#7605
+key brown~
+a brown key~
+A small brown key lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#7606
+key white~
+a white key~
+A small white key lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#7607
+key black~
+a black key~
+A small black key lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#7608
+key red~
+a red key~
+A small red key lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#7609
+key rust rusty~
+a rusty grate key~
+A rusty grate key lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#7610
+key skeleton dungeon~
+the key to the dungeon~
+A large skeleton key lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#7611
+ring multi colored keyring~
+a multi-colored keyring~
+A ring of multi-colored keys rests here.~
+~
+15 0 0 0 0 ac 0 0 0 0 0 0 0
+75 1 -1 0
+5 0 0 0
+#7612
+maul wood staff~
+a huge wooden maul~
+An ominous wooden staff lies on the ground.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+0 5 6 9
+10 1000 0 18
+A
+1 1
+A
+18 2
+#7613
+ring studded hoop brass steel~
+a studded ring~
+A steel hoop with brass studs lies on the ground.~
+~
+9 m 0 0 0 ab 0 0 0 0 0 0 0
+7 0 0 0
+3 1500 0 18
+A
+18 1
+A
+19 1
+#7614
+axe mahrahn~
+Mahrahn's Great Axe~
+An extremely large axe rests here, waiting for a new owner.~
+~
+5 mn e 0 0 an 0 0 0 0 0 0 0
+0 4 12 3
+12 1000 0 0
+A
+18 2
+A
+19 3
+#7615
+bracers defense wood wooden~
+bracers of defense~
+Some carved wooden bracers lie on the ground.~
+~
+9 0 0 0 0 ai 0 0 0 0 0 0 0
+10 0 0 0
+5 1000 0 14
+A
+13 15
+A
+17 -15
+#7616
+key rune runic~
+a small key, engraved with runes~
+A small key, engraved with runes lies on the ground.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#7617
+red steel crimson vambraces~
+crimson steel vambraces~
+A bright red pair of steel vambraces lies here.~
+~
+9 r 0 0 0 ai 0 0 0 0 0 0 0
+7 0 0 0
+7 1000 0 22
+A
+13 50
+A
+19 -5
+#7618
+greaves crimson steel red~
+crimson steel greaves~
+A bright red pair of greaves lie here.~
+~
+9 r 0 0 0 af 0 0 0 0 0 0 0
+5 0 0 0
+10 1000 0 22
+A
+13 40
+A
+19 -4
+#7619
+red crimson steel helm helmet~
+a crimson steel helmet~
+A red steel helm lies on the ground.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+5 0 0 0
+5 1000 0 18
+A
+1 1
+A
+2 2
+#7620
+crimson steel plate breastplate~
+a crimson steel breastplate~
+A red steel breastplate lies on the ground.~
+~
+9 n 0 0 0 ad 0 0 0 0 0 0 0
+10 0 0 0
+15 1500 0 20
+A
+13 20
+A
+1 -2
+#7621
+steel crimson red sword longsword~
+a crimson steel longsword~
+A red steel longsword lies on the ground.~
+~
+5 mop e 0 0 an 0 0 0 0 0 0 0
+0 6 7 3
+10 1000 0 18
+A
+13 10
+A
+19 1
+#7622
+chain chainmail black iron suit~
+a suit of blackened iron chainmail~
+A huge pile of black chainmail rests here.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+7 0 0 0
+12 1500 0 17
+A
+1 2
+A
+2 2
+#7623
+horn carved engrave engravings~
+a carved horn~
+A large horn engraved with runic symbols lies on the ground.~
+~
+4 rs 0 0 0 ao 0 0 0 0 0 0 0
+30 3 3 48
+1 50000 0 0
+A
+4 1
+#7624
+hood leather black~
+a black leather hood~
+A hood made of black leather rests here.~
+~
+9 j 0 0 0 ae 0 0 0 0 0 0 0
+3 0 0 0
+3 1000 0 13
+A
+13 15
+A
+12 -10
+#7625
+pants leather black~
+a pair of black leather pants~
+Some leather pants lie here.~
+~
+9 j 0 0 0 af 0 0 0 0 0 0 0
+3 0 0 0
+3 1000 0 13
+A
+13 15
+A
+12 -10
+#7626
+sleeves leather black~
+a pair of black leather sleeves~
+Some leather sleeves lie here.~
+~
+9 0 0 0 0 ai 0 0 0 0 0 0 0
+3 0 0 0
+3 1000 0 15
+A
+13 15
+#7627
+pack leather~
+a small leather pack~
+A small leather pack lies here.~
+~
+15 0 0 0 0 ak 0 0 0 0 0 0 0
+65 1 -1 0
+2 1000 0 0
+#7628
+sword shortsword curved blade~
+a wicked shortsword~
+A curved, terrifying-looking sword has been separated from its owner.~
+~
+5 mn 0 0 0 an 0 0 0 0 0 0 0
+0 4 6 11
+5 1200 0 15
+A
+18 2
+A
+19 2
+$~

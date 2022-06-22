@@ -1,0 +1,1436 @@
+#3700
+The Entrance to Taris'Vaal Cemetery~
+Inside the iron gates, the graveyard appears less benign than before. A thin
+fog obscures the view in the distance, giving the impression that the ancient
+graves are slowly disappearing into the encroaching mist.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 6459
+D2
+~
+~
+0 0 3701
+S
+#3701
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by the feet of generations of mourners, and a thick growth
+of moss and lichen grows in the cracks. Off the path, you can see gravestones
+of varying size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3700
+D1
+~
+~
+0 0 3733
+D2
+~
+~
+0 0 3702
+D3
+~
+~
+0 0 3730
+S
+#3702
+An Intersection on a Brick Pathway~
+The pathway branches out in three directions, each branch leading further into
+the graveyard. In your immediate surroundings you can see sundry gravestones
+and the occasional decorative tree, but the prevailing mist prevents you from
+seeing very far.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3701
+D1
+~
+~
+0 0 3717
+D2
+~
+~
+0 0 3703
+D3
+~
+~
+0 0 3718
+S
+#3703
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by the feet of generations of mourners, and a thick growth
+of moss and lichen grows in the cracks. Off the path you can see gravestones of
+varying size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3702
+D1
+~
+~
+0 0 3758
+D2
+~
+~
+0 0 3704
+D3
+~
+~
+0 0 3731
+S
+#3704
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by the feet of generations of mourners, and a thick growth
+of moss and lichen grows in the cracks. Off of the path, you can see
+gravestones of varying size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3703
+D1
+~
+~
+0 0 3729
+D2
+~
+~
+0 0 3705
+S
+#3705
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by the feet of generations of mourners, and a thick growth
+of moss and lichen grows in the cracks. Off the path you can see gravestones of
+varying size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3704
+D1
+~
+~
+0 0 3728
+D2
+~
+~
+0 0 3706
+D3
+~
+~
+0 0 3727
+S
+#3706
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by the feet of generations of mourners, and a thick growth
+of moss and lichen grows in the cracks. Off of the path you can see gravestones
+of varying size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3705
+D2
+~
+~
+0 0 3707
+D3
+~
+~
+0 0 3726
+S
+#3707
+An Intersection on a Brick Pathway~
+The pathway branches out in three directions, each of them leading further into
+the graveyard. The prevailing mist prevents you from seeing very far, but you
+can faintly make out lights up ahead.
+~
+37 4 1 0 0 53
+D0
+~
+~
+0 0 3706
+D1
+~
+~
+0 0 3709
+D2
+~
+~
+0 0 3708
+D3
+~
+~
+0 0 3725
+S
+#3708
+Approaching the Gravedigger's House~
+The brick path soon gives way to dirt, and up ahead you can see the
+gravedigger's house. It is a ramshackle affair, and appears to not have had a
+paint job in the last century or so. The light fog lends the place an eerie
+air...
+~
+37 0 1 0 0 0
+D0
+~
+~
+0 0 3707
+D1
+~
+~
+0 0 3753
+D2
+~
+~
+0 0 3740
+D3
+~
+~
+0 0 3749
+S
+#3709
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 0
+D1
+~
+~
+0 0 3710
+D3
+~
+~
+0 0 3707
+S
+#3710
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 0
+D1
+~
+~
+0 0 3711
+D2
+~
+~
+0 0 3753
+D3
+~
+~
+0 0 3709
+S
+#3711
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 0
+D0
+~
+~
+0 0 3712
+D1
+~
+~
+0 0 3767
+D2
+~
+~
+0 0 3754
+D3
+~
+~
+0 0 3710
+S
+#3712
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3713
+D1
+~
+~
+0 0 3755
+D2
+~
+~
+0 0 3711
+S
+#3713
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3714
+D1
+~
+~
+0 0 3756
+D2
+~
+~
+0 0 3712
+D3
+~
+~
+0 0 3728
+S
+#3714
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3715
+D1
+~
+~
+0 0 3757
+D2
+~
+~
+0 0 3713
+D3
+~
+~
+0 0 3729
+D5
+
+~
+~
+0 0 -1
+S
+#3715
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3716
+D2
+~
+~
+0 0 3714
+D3
+~
+~
+0 0 3758
+S
+#3716
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3734
+D1
+~
+~
+0 0 3736
+D2
+~
+~
+0 0 3715
+D3
+~
+~
+0 0 3717
+D5
+~
+~
+0 0 -1
+S
+#3717
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3733
+D1
+~
+~
+0 0 3716
+D2
+~
+~
+0 0 3758
+D3
+~
+~
+0 0 3702
+S
+#3718
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3730
+D1
+~
+~
+0 0 3702
+D2
+~
+~
+0 0 3731
+D3
+~
+~
+0 0 3719
+S
+#3719
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3732
+D1
+~
+~
+0 0 3718
+D2
+~
+~
+0 0 3720
+D3
+~
+~
+0 0 3737
+S
+#3720
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3719
+D1
+~
+~
+0 0 3731
+D2
+~
+~
+0 0 3721
+D3
+~
+~
+0 0 3759
+S
+#3721
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3720
+D2
+~
+~
+0 0 3722
+D3
+~
+~
+0 0 3760
+S
+#3722
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3721
+D1
+~
+~
+0 0 3727
+D2
+~
+~
+0 0 3723
+D3
+~
+~
+0 0 3761
+S
+#3723
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3722
+D1
+~
+~
+0 0 3726
+D2
+~
+~
+0 0 3724
+D3
+~
+~
+0 0 3766
+S
+#3724
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 0 1 0 0 53
+D0
+~
+~
+0 0 3723
+D1
+~
+~
+0 0 3725
+D2
+~
+~
+0 0 3750
+D3
+~
+~
+0 0 3752
+S
+#3725
+A Brick Pathway~
+A broad brick pathway leads through the cemetery. The bricks beneath your feet
+have been worn smooth by generations of mourners, and a thick growth of moss and
+lichen grows in the cracks. Off of the path, you can see gravestones of varying
+size and condition.
+~
+37 4 1 0 0 53
+D0
+~
+~
+0 0 3726
+D1
+~
+~
+0 0 3707
+D2
+~
+~
+0 0 3749
+D3
+~
+~
+0 0 3724
+S
+#3726
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or wilted flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3727
+D1
+~
+~
+0 0 3706
+D2
+~
+~
+0 0 3725
+D3
+~
+~
+0 0 3723
+S
+#3727
+A Cemetery Plot~
+Here and there you can see patches of freshly upturned dirt. A few of the
+tombstones have been knocked over, to the dismay of a number of small insects.
+~
+37 0 1 0 0 41
+D1
+~
+~
+0 0 3705
+D2
+~
+~
+0 0 3726
+D3
+~
+~
+0 0 3722
+S
+#3728
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or wilted flowers, but most display merely a colorful burst of
+lichen.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3729
+D1
+~
+~
+0 0 3713
+D3
+~
+~
+0 0 3705
+S
+#3729
+A Cemetery Plot~
+Here and there you can see patches of freshly upturned dirt. A few of the
+tombstones have been knocked over, much to the dismay of a number of small
+insects.
+~
+37 0 1 0 0 41
+D1
+~
+~
+0 0 3714
+D2
+~
+~
+0 0 3728
+D3
+~
+~
+0 0 3704
+S
+#3730
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or wilted flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D1
+~
+~
+0 0 3701
+D2
+~
+~
+0 0 3718
+D3
+~
+~
+0 0 3732
+S
+#3731
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or wilted flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3718
+D1
+~
+~
+0 0 3703
+D3
+~
+~
+0 0 3720
+S
+#3732
+A Cemetery Plot~
+Here and there you can see patches of freshly upturned dirt. A few of the
+tombstones have been knocked over, much to the dismay of a number of small
+insects.
+~
+37 0 1 0 0 41
+D1
+~
+~
+0 0 3730
+D2
+~
+~
+0 0 3719
+D3
+~
+~
+0 0 3739
+S
+#3733
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or wilted flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D1
+~
+~
+0 0 3734
+D2
+~
+~
+0 0 3717
+D3
+~
+~
+0 0 3701
+S
+#3734
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or wilted flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D1
+~
+~
+0 0 3735
+D2
+~
+~
+0 0 3716
+D3
+~
+~
+0 0 3733
+S
+#3735
+A Cemetery Plot~
+Here and there you can see patches of freshly upturned dirt. A few of the
+tombstones haave been knocked over, much to the dismay of a number of small
+insects.
+~
+37 0 1 0 0 41
+D2
+~
+~
+0 0 3736
+D3
+~
+~
+0 0 3734
+S
+#3736
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or wilted flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3735
+D3
+~
+~
+0 0 3716
+S
+#3737
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or wilted flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3739
+D1
+~
+~
+0 0 3719
+D2
+~
+~
+0 0 3759
+S
+#3738
+Inside the Mausoleum~
+Everything seems much quieter inside the tomb. In the center of the room is a
+stone slab, on which the resident corpse lays. On its chest, under the
+moldering remains of its folded hands, lies a dagger. The blade gleams
+seductively in the light lent by the open door, its blade only dimmed by a layer
+of dust.
+~
+37 8 0 0 0 69
+D1
+~
+mausoleum~
+2 3700 3739
+S
+#3739
+Outside a Mausoleum~
+A small stone mausoleum stands before you, huddled in the corner of the
+graveyard. Its wooden doors are bolted shut against would-be grave robbers, but
+the locks are rusted from disuse and the ever-present fog. It is much more
+weatherstained than the surrounding stones.
+~
+37 0 1 0 0 41
+D1
+~
+~
+0 0 3732
+D2
+~
+~
+0 0 3737
+D3
+~
+mausoleum~
+2 3700 3738
+S
+#3740
+The Gravedigger's Yard~
+The front yard is surrounded by a picket fence that still bears strips of paint
+from the days when it was still white. The grass from the rest of the cemetery
+carries over into the rest of the yard, but it is spotted in places by patches
+of dirt and chicken tracks. When you push open the gate, it falls off one
+hinge--oops.
+~
+37 0 1 0 0 56
+D0
+~
+~
+0 0 3708
+D1
+~
+~
+0 0 3748
+D2
+~
+~
+0 0 3741
+D3
+~
+~
+0 0 3746
+S
+#3741
+The Gravedigger's Front Porch~
+The stairs creak complainingly as you step onto the gravedigger's front porch.
+The door hangs half open, allowing you a glimpse into the house. It seems
+empty, but a fire glows on the hearth.
+~
+37 2060 0 0 0 23
+D0
+~
+~
+0 0 3740
+D2
+~
+~
+0 0 3742
+S
+#3742
+The Gravedigger's House~
+The house consists of only one room. In one corner is a bed with a quilt neatly
+folded at one end. In another is a cast-iron stove, glowing with warmth. The
+rest of the furnishings consists of a cabinet, a table, and a large chest--lord
+knows what he keeps in there. Each wall has one window, and another door leads
+to the back yard.
+~
+37 2056 0 0 0 23
+D0
+~
+~
+0 0 3741
+D2
+~
+~
+0 0 3743
+S
+#3743
+The Back Yard~
+The yard consists more of dirt and weeds than grass. Two well-worn paths are
+beaten into the ground: one to the outhouse, and one to the shed.
+~
+37 0 1 0 0 56
+D0
+~
+~
+0 0 3742
+D1
+~
+~
+0 0 3744
+D3
+~
+~
+0 0 3745
+S
+#3744
+The Outhouse~
+The earthy scent of human defecation rises from beneath a hole in the wooden
+seat. Phew!
+~
+37 8 0 0 0 0
+D3
+~
+~
+0 0 3743
+S
+#3745
+The Gravedigger's Shed~
+The gravedigger keeps all his supplies here. Flowerpots, gardening tools, and
+sundry other effects line the shelves. A rake, a broom, a spare shovel, and a
+crowbar hang on the wall. Everything smells faintly of dirt.
+~
+37 8 0 0 0 0
+D1
+~
+~
+0 0 3743
+S
+#3746
+The Front Yard~
+The ground here is marked everywhere by the feet of chickens. A few stray
+kernels of chicken feed lay about, accompanied by the inevitable chicken waste.
+In one corner of the yard is a wooden henhouse.
+~
+37 0 1 0 0 56
+D1
+~
+~
+0 0 3740
+D3
+~
+~
+0 0 3747
+S
+#3747
+The Chicken Coop~
+You can barely fit inside the henhouse, and must stoop to keep your head from
+hitting the ceiling. Both sides of the coop are lined with makeshift nests, and
+the floor is sticky with feathers and chicken shit. What are you doing in here
+anyway?
+~
+37 0 1 0 0 23
+D1
+~
+~
+0 0 3746
+S
+#3748
+The Vegetable Garden~
+Vegetables grow in abundance in the slightly crooked rows of the gravedigger's
+garden. They look so appetizing...
+~
+37 0 1 0 0 56
+D3
+~
+~
+0 0 3740
+S
+#3749
+By a Scraggly Tree~
+At one point this tree was intended to lend shade and beauty to the cemetery,
+but it only succeeds in looking somewhat bare and awkward. There are more
+leaves on the tombstones than on the tree, and they crunch underneath every
+footstep.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3725
+D1
+~
+~
+0 0 3708
+D3
+~
+~
+0 0 3750
+S
+#3750
+A Cemetery Plot~
+Here and there you can see patches of freshly upturned dirt. A few of the
+tombstones have been knocked over, much to the dismay of a number of small
+insects.
+~
+37 4 1 0 0 41
+D0
+~
+~
+0 0 3724
+D1
+~
+~
+0 0 3749
+D2
+~
+~
+0 0 3763
+D3
+~
+~
+0 0 3751
+S
+#3751
+A Cemetery Plot~
+Here and there you can see patches of freshly upturned dirt. A few of the
+tombstones have been knocked over, much to the dismay of a number of small
+insects.
+~
+37 4 1 0 0 41
+D0
+~
+~
+0 0 3752
+D1
+~
+~
+0 0 3750
+D2
+~
+~
+0 0 3762
+S
+#3752
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or withered flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3766
+D1
+~
+~
+0 0 3724
+D2
+~
+~
+0 0 3751
+S
+#3753
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or withered flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3710
+D1
+~
+~
+0 0 3754
+D3
+~
+~
+0 0 3708
+S
+#3754
+By a Scraggly Tree~
+At one point this tree was intended to lend shade and beauty to the cemetery,
+but it only succeeds in looking somewhat bare and awkward. There are more
+leaves on the tombstones than on the tree, and they crunch underneath every
+footstep.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3711
+D3
+~
+~
+0 0 3753
+S
+#3755
+In Front of a Statue~
+The usual headstones are dwarfed by a tall marble statue of an angel with
+outstretched arms. Its smile, directed toward the heavens, looks slightly
+mischievous, as if it knows something.
+~
+37 4 1 0 0 41
+D0
+~
+~
+0 0 3756
+D2
+~
+~
+0 0 3767
+D3
+~
+~
+0 0 3712
+S
+#3756
+By a Scraggly Tree~
+At one point this tree was intended to lend shade and beauty to the graveyard,
+but it only succeeds in looking somewhat bare and awkward. There are more
+leaves on the tombstones than on the tree, and they crunch underneath every
+footstep.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3757
+D2
+~
+~
+0 0 3755
+D3
+~
+~
+0 0 3713
+S
+#3757
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or wilted flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D2
+~
+~
+0 0 3756
+D3
+~
+~
+0 0 3714
+S
+#3758
+Under a Large Oak Tree~
+The gravestones around the oak tree stand at odd angles, disturbed from below by
+its roots. One headstone that stood too near the tree has been half engulfed by
+the trunk, and will eventually disappear into is as the tree grows bigger.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3717
+D1
+~
+~
+0 0 3715
+D3
+~
+~
+0 0 3703
+S
+#3759
+By a Scraggly Tree~
+At one point this tree was intended to lend shade and beauty to the cemetery,
+but it only succeeds in looking somewhat bare and awkward. There are more
+leaves on the tombstones than the tree, and they crunch beneath every footstep.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3737
+D1
+~
+~
+0 0 3720
+D2
+~
+~
+0 0 3760
+S
+#3760
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or wilted flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3759
+D1
+~
+~
+0 0 3721
+D2
+~
+~
+0 0 3761
+S
+#3761
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or wilted flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3760
+D1
+~
+~
+0 0 3722
+D2
+~
+~
+0 0 3766
+S
+#3762
+Approaching a Giant Tree~
+Through the mist you can see the silhouette of a giant tree. It must be very
+old, because it easily dwarfs any plant life in the graveyard. Nothing
+stirs--not even a breeze--yet the bare branches of the tree seem to wave,
+slowly, silently.
+~
+37 4 0 0 0 41
+D0
+~
+~
+0 0 3751
+D1
+~
+~
+0 0 3763
+D2
+~
+~
+0 0 3765
+S
+#3763
+Approaching a Giant Tree~
+Through the mist you can see the silhouette of a giant tree. It must be very
+old, because it easily dwarfs any plant life in the graveyard. Nothing
+stirs--not even a breeze--yet the bare branches of the tree seem to wave,
+slowly, silently.
+~
+37 4 0 0 0 41
+D0
+~
+~
+0 0 3750
+D2
+~
+~
+0 0 3764
+D3
+~
+~
+0 0 3762
+S
+#3764
+Approaching a Giant Tree~
+Through the mist you can see the silhouette of a giant tree. It must be very
+old, because it easily dwarfs any plant life in the graveyard. Nothing
+stirs--not even a breeze--yet the bare branches of the tree seem to wave,
+slowly, silently.
+~
+37 4 0 0 0 41
+D0
+~
+~
+0 0 3763
+D3
+~
+~
+0 0 3765
+S
+#3765
+At the Base of a Blood Tree~
+The grass around the tree is quite long, as if even the gravedigger didn't dare
+come here to trim it, and the ground at the roots is littered with the bones of
+squirrels. Something glints above you--the branches are hung with treasure, and
+what appears to be rotted-out corpses. All is silent, except for the vague
+rustling of leaves...
+~
+37 4 1 0 0 41
+D0
+~
+~
+0 0 3762
+D1
+~
+~
+0 0 3764
+D5
+~
+~
+0 0 -1
+S
+#3766
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or wilted flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3761
+D1
+~
+~
+0 0 3723
+D2
+~
+~
+0 0 3752
+S
+#3767
+A Cemetery Plot~
+Brown grass crunches beneath your feet as you leave the path. The old graves
+have been crowded in with the new over the years, and the overcrowding and years
+of weathering have given the plot a haphazard appearance. A few of the graves
+sport dead or wilted flowers, but most of them merely display a colorful burst
+of lichen.
+~
+37 0 1 0 0 41
+D0
+~
+~
+0 0 3755
+D3
+~
+~
+0 0 3711
+S
+$~

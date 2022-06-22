@@ -1,0 +1,345 @@
+#13800
+Cracked Salt Flats~
+Wide veins trace through the sun-baked, desert floor that was once a salt lake.
+Heat rises in blurry waves, distorting the surrounding landscape. It is
+completely flat other than a few boulders scattered about. The smell of sulfur
+wafts in from the north.
+~
+138 4 1 0 0 53
+D0
+~
+~
+0 0 13801
+S
+#13801
+The Beginnings of a Charred Path~
+This path was probably cut into the rock by an ancient stream of water that once
+washed into the dried-out sea to the south. A fine layer of blackened sand
+dusts the floor and fills the split cracks in the hardened soil. No signs of
+life can be seen, except for the occasional circling vulture overhead.
+~
+138 0 1 0 0 53
+D0
+~
+~
+0 0 13802
+D2
+~
+~
+0 0 13800
+S
+#13802
+Positioned Precariously Under an Outcropping~
+A rather unstable looking, jagged boulder looms overhead, providing some
+protection from the sun and weather, but at what cost? A wise decision would be
+not to idle here for very long. The black sand on the path gets thicker to the
+west, as the noxious smell of sulfur grows stronger.
+~
+138 0 1 0 0 53
+D2
+~
+~
+0 0 13801
+D3
+~
+~
+0 0 13803
+S
+#13803
+At the Base of a Dead Tree~
+Skeletal limbs struggle to remain attached to the trunk of this charred, sooty
+tree. The roots are almost completely visible and very little remain buried in
+the dead soil. It almost stands as an example of what happens to any life that
+dares come into this realm. To the north, an iron gate is visible.
+~
+138 0 1 0 0 53
+D0
+~
+~
+0 0 13804
+D1
+~
+~
+0 0 13802
+S
+#13804
+Before a Massive Iron Gate~
+Rust flakes off of the deformed, black iron bars that twist into the imposing
+gate in front of you. Massive chains, as thick as an ogre's arm, stretch from
+corner-to-corner, joined together in the center by a heavy pad lock. A wooden
+post has been driven into the ground by the gate. Mounted to the post is a sign
+with faded writing.
+~
+138 0 1 0 0 53
+D0
+~
+gate~
+2 13801 13805
+D2
+~
+~
+0 0 13803
+S
+#13805
+New BuildWalk Room~
+This unfinished room was created by Vexus.
+~
+138 0 0 0 0 0
+D2
+~
+gate~
+1 0 13804
+D4
+~
+~
+0 0 13806
+S
+#13806
+New BuildWalk Room~
+This unfinished room was created by Vexus.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13807
+D5
+~
+~
+0 0 13805
+S
+#13807
+New BuildWalk Room~
+This unfinished room was created by Vexus.
+~
+138 0 0 0 0 0
+D2
+~
+~
+0 0 13806
+D4
+~
+~
+0 0 13808
+S
+#13808
+New BuildWalk Room~
+This unfinished room was created by Vexus.
+~
+138 0 0 0 0 0
+D1
+~
+~
+0 0 13809
+D5
+~
+~
+0 0 13807
+S
+#13809
+New BuildWalk Room~
+This unfinished room was created by Vexus.
+~
+138 0 0 0 0 0
+D1
+~
+~
+0 0 13810
+D3
+~
+~
+0 0 13808
+S
+#13810
+New BuildWalk Room~
+This unfinished room was created by Vexus.
+~
+138 0 0 0 0 0
+D3
+~
+~
+0 0 13809
+D4
+~
+~
+0 0 13811
+S
+#13811
+New BuildWalk Room~
+This unfinished room was created by Vexus.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13812
+D5
+~
+~
+0 0 13810
+S
+#13812
+New BuildWalk Room~
+This unfinished room was created by Vexus.
+~
+138 0 0 0 0 0
+D1
+~
+~
+0 0 13816
+D2
+~
+~
+0 0 13811
+D4
+~
+~
+0 0 13813
+S
+#13813
+New BuildWalk Room~
+This unfinished room was created by Vexus.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13814
+D5
+~
+~
+0 0 13812
+S
+#13814
+New BuildWalk Room~
+This unfinished room was created by Vexus.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13815
+D2
+~
+~
+0 0 13813
+S
+#13815
+New BuildWalk Room~
+This unfinished room was created by Vexus.
+~
+138 0 0 0 0 0
+D2
+~
+~
+0 0 13814
+S
+#13816
+The Entrance to a Cave~
+This unfinished room was created by Vexus.
+~
+138 65545 0 0 0 39
+D1
+~
+~
+0 0 13817
+D3
+~
+~
+0 0 13812
+S
+#13817
+A Fork in the Tunnel~
+This unfinished room was created by Vexus.
+~
+138 65545 0 0 0 39
+D0
+~
+~
+0 0 13818
+D2
+~
+~
+0 0 13819
+D3
+~
+~
+0 0 13816
+S
+#13818
+Falling Down a Shaft~
+This unfinished room was created by Vexus.
+~
+138 65547 0 0 0 39
+D2
+~
+~
+0 0 13817
+S
+#13819
+A Cramped Passage~
+This unfinished room was created by Vexus.
+~
+138 65801 128 0 0 39
+D0
+~
+~
+0 0 13817
+D1
+~
+~
+0 0 13820
+S
+#13820
+A Cramped Passage~
+This unfinished room was created by Vexus.
+~
+138 65801 128 0 0 39
+D1
+~
+~
+0 0 13821
+D3
+~
+~
+0 0 13819
+S
+#13821
+A Turn in the Cramped Path~
+This unfinished room was created by Vexus.
+~
+138 65801 128 0 0 39
+D0
+~
+~
+0 0 13822
+D3
+~
+~
+0 0 13820
+S
+#13822
+A Dimly Lit Passage~
+This unfinished room was created by Vexus.
+~
+138 65801 128 0 0 39
+D1
+~
+~
+0 0 13823
+D2
+~
+~
+0 0 13821
+S
+#13823
+A Dilapidated Shelter~
+This unfinished room was created by Vexus.
+~
+138 131081 24704 0 0 0
+D3
+~
+~
+0 0 13822
+S
+$~

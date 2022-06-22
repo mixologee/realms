@@ -1,0 +1,417 @@
+#13500
+At the Top of a Tall Dune~
+The zone is entered from the desert, north. The five entrances to the tower
+itself are to the south. Most of the other rooms around the zone are blocked by
+rooms you can't enter (dunes too steep to walk up or something) but some other
+spots are enterable.
+~
+135 0 1 0 0 48
+D2
+~
+~
+0 0 13501
+S
+#13501
+On a Dune Against the Tower~
+This zone has five themed towers: the first four are bones, hands, spiders, and
+knives, and the last one is the lair of Pandora, and madness. Anyone running
+the zone must find the four key quarters in order to enter the fifth tower.
+~
+135 0 1 0 0 48
+D0
+~
+~
+0 0 13500
+D1
+~
+~
+0 0 13503
+D3
+~
+~
+0 0 13510
+S
+#13502
+On a Dune Against the Tower~
+This unfinished room was created by Accarid.
+~
+135 0 1 0 0 48
+D1
+~
+~
+0 0 13512
+D3
+~
+~
+0 0 13503
+S
+#13503
+Before a Pair of Heavy Doors, Blocked by Sand~
+This is the entrance to the bone tower. Each of the doors takes 240 movements
+and one round to open, which is divided amongst the people in the first row of
+the formation.
+~
+135 0 1 0 0 48
+D1
+~
+~
+0 0 13502
+D2
+~
+~
+0 0 13517
+D3
+~
+~
+0 0 13501
+S
+#13504
+On a Dune Against the Tower~
+You are in an unfinished room.
+~
+135 0 1 0 0 48
+D0
+~
+~
+0 0 13510
+D2
+~
+~
+0 0 13505
+S
+#13505
+Before a Pair of Heavy Doors, Blocked by Sand~
+This is the door to the spiders tower.
+~
+135 0 1 0 0 48
+D0
+~
+~
+0 0 13504
+D1
+~
+~
+0 0 13518
+D2
+~
+~
+0 0 13506
+S
+#13506
+On a Dune Against the Tower~
+This unfinished room was created by Accarid.
+~
+135 0 1 0 0 48
+D0
+~
+~
+0 0 13505
+D2
+~
+~
+0 0 13511
+S
+#13507
+On a Dune Against the Tower~
+You are in an unfinished room.
+~
+135 0 1 0 0 48
+D1
+~
+~
+0 0 13508
+D3
+~
+~
+0 0 13511
+S
+#13508
+Before a Pair of Heavy Doors, Blocked by Sand~
+This is the door to the hands tower.
+~
+135 0 1 0 0 48
+D0
+~
+~
+0 0 13519
+D1
+~
+~
+0 0 13509
+D3
+~
+~
+0 0 13507
+S
+#13509
+On a Dune Against the Tower~
+This unfinished room was created by Accarid.
+~
+135 0 1 0 0 48
+D1
+~
+~
+0 0 13513
+D3
+~
+~
+0 0 13508
+S
+#13510
+The Northwest Flank of the Tower~
+This unfinished room was created by Accarid.
+~
+135 0 1 0 0 48
+D1
+~
+~
+0 0 13501
+D2
+~
+~
+0 0 13504
+S
+#13511
+The Southwest Flank of the Tower~
+This unfinished room was created by Accarid.
+~
+135 0 1 0 0 48
+D0
+~
+~
+0 0 13506
+D1
+~
+~
+0 0 13507
+S
+#13512
+The Northeast Flank of the Tower~
+This unfinished room was created by Accarid.
+~
+135 0 1 0 0 48
+D2
+~
+~
+0 0 13516
+D3
+~
+~
+0 0 13502
+S
+#13513
+The Southeast Flank of the Tower~
+This unfinished room was created by Accarid.
+~
+135 0 1 0 0 48
+D0
+~
+~
+0 0 13514
+D3
+~
+~
+0 0 13509
+S
+#13514
+On a Dune Against the Tower~
+This unfinished room was created by Accarid.
+~
+135 0 1 0 0 48
+D0
+~
+~
+0 0 13515
+D2
+~
+~
+0 0 13513
+S
+#13515
+Before a Pair of Heavy Doors, Blocked by Sand~
+This is the door to the knives tower.
+~
+135 0 1 0 0 48
+D0
+~
+~
+0 0 13516
+D2
+~
+~
+0 0 13514
+D3
+~
+~
+0 0 13520
+S
+#13516
+On a Dune Against the Tower~
+This unfinished room was created by Accarid.
+~
+135 0 1 0 0 48
+D0
+~
+~
+0 0 13512
+D2
+~
+~
+0 0 13515
+S
+#13517
+At the Base of a Bone Staircase~
+The staircase rooms here load a skeletal dire wolf every time something enters
+the room, be it player or mobile (thus, if they are given a chance to move,
+another one will spawn in their wake). They are aggro, and relatively weak, but
+will rise again shortly after being dispatched.
+~
+135 131081 0 0 0 37
+D0
+~
+~
+0 0 13503
+D4
+~
+~
+0 0 13521
+S
+#13518
+At the Base of a Wooden Staircase~
+This unfinished room was created by Accarid.
+~
+135 0 0 0 0 0
+D3
+~
+~
+0 0 13505
+D4
+~
+~
+0 0 13523
+S
+#13519
+At the Base of a Stairway of Hands~
+This unfinished room was created by Accarid.
+~
+135 131072 0 0 0 0
+D2
+~
+~
+0 0 13508
+D4
+~
+~
+0 0 13525
+S
+#13520
+At the Base of a Metal Staircase~
+This unfinished room was created by Accarid.
+~
+135 131072 0 0 0 0
+D1
+~
+~
+0 0 13515
+D4
+~
+~
+0 0 13527
+S
+#13521
+Climbing the Bone Staircase~
+This unfinished room was created by Accarid.
+~
+135 131080 0 0 0 37
+D2
+~
+~
+0 0 13522
+D5
+~
+~
+0 0 13517
+S
+#13522
+Inside the Bone Tower~
+This unfinished room was created by Accarid.
+~
+135 65544 0 0 0 0
+D0
+~
+~
+0 0 13521
+S
+#13523
+Climbing the Wooden Staircase~
+This unfinished room was created by Accarid.
+~
+135 131080 0 0 0 0
+D1
+~
+~
+0 0 13524
+D5
+~
+~
+0 0 13518
+S
+#13524
+Inside the Spider Tower~
+This unfinished room was created by Accarid.
+~
+135 65544 0 0 0 0
+D3
+~
+~
+0 0 13523
+S
+#13525
+Climbing the Hand Staircase~
+This unfinished room was created by Accarid.
+~
+135 131080 0 0 0 0
+D0
+~
+~
+0 0 13526
+D5
+~
+~
+0 0 13519
+S
+#13526
+Inside the Hand Tower~
+This unfinished room was created by Accarid.
+~
+135 131080 0 0 0 0
+D2
+~
+~
+0 0 13525
+S
+#13527
+Climbing the Metal Staircase~
+This unfinished room was created by Accarid.
+~
+135 131080 0 0 0 0
+D3
+~
+~
+0 0 13528
+D5
+~
+~
+0 0 13520
+S
+#13528
+Inside the Knife Tower~
+This unfinished room was created by Accarid.
+~
+135 65544 0 0 0 0
+D1
+~
+~
+0 0 13527
+S
+$~

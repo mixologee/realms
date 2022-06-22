@@ -1,0 +1,1944 @@
+#12900
+On the Road Into the Forbidden City~
+This is the first room to the zone, the only entrance, and it is accessible from
+the wilderness which is east of this room.
+~
+129 0 1 0 0 0
+D3
+~
+~
+0 0 12901
+S
+#12901
+Beneath A Red Painted Arch~
+This room should have some stuff like this is a wooden arch the entryway to the
+city it's painted the colors of the city blah blah blah.
+~
+129 0 1 0 0 21
+D1
+~
+~
+0 0 12900
+D3
+~
+~
+0 0 12902
+S
+#12902
+Between Two Massive Watchtowers~
+This room is the link between the outside and the zone itself. If you have a
+pass, which loads in the zone and possibly in a few other places, you may show
+pass guard to enter the next room west (it ports you) beyond the gates if not,
+you must find your way through CPK to the north then west and south then west.
+The ends of these paths put you in the main courtyard.
+~
+129 0 1 0 0 21
+D0
+~
+~
+0 0 12907
+D1
+~
+~
+0 0 12901
+D2
+~
+~
+0 0 12908
+D3
+~
+gates~
+2 0 12903
+S
+#12903
+Between Two Watchtowers~
+On another note, in the watchtowers there should be cranks that open the gates
+and get rid of the guards when turned.
+~
+129 0 1 0 0 21
+D1
+~
+gates~
+2 0 12902
+D3
+~
+~
+0 0 12904
+S
+#12904
+Between Two Watchtowers~
+This unfinished room was created by Accarid.
+~
+129 0 1 0 0 21
+D1
+~
+~
+0 0 12903
+D3
+~
+~
+0 0 12905
+S
+#12905
+Between Two Watchtowers~
+This unfinished room was created by Accarid.
+~
+129 0 1 0 0 21
+D1
+~
+~
+0 0 12904
+D3
+~
+~
+0 0 12906
+S
+#12906
+Between Two Watchtowers~
+This unfinished room was created by Accarid.
+~
+129 0 1 0 0 21
+D1
+~
+~
+0 0 12905
+D3
+~
+~
+0 0 12909
+S
+#12907
+On a Path at the Base of a Watchtower~
+Text appears throughout all outdoor rooms in the zone when someone is being
+fired upon, which is what happens when you are in one of these CPK rooms- the
+archers in the towers fire at you. If there are no archers, it doesn't fire. 
+The archers shoot one at a time, one every round, and can't shoot again until
+seven rounds later. There is a chance of the arrows stunning you for a round,
+about one in four.
+~
+129 131073 129 0 0 21
+D2
+~
+~
+0 0 12902
+D3
+~
+~
+0 0 12919
+S
+#12908
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12902
+D3
+~
+~
+0 0 12936
+S
+#12909
+In a Garden-Filled Courtyard~
+The descriptions in this area will be very similar but appropriate in terms of
+location. An identical area exists that is accessed by going through CPK- but
+the gates lead to the same area. Text will lead someone entering the zone to
+believe that they are one and the same but change.
+~
+129 0 1 0 0 56
+D0
+~
+~
+0 0 12910
+D1
+~
+~
+0 0 12906
+D2
+~
+~
+0 0 12911
+D3
+~
+~
+0 0 12912
+S
+#12910
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 0 1 0 0 56
+D2
+~
+~
+0 0 12909
+D3
+~
+~
+0 0 12914
+S
+#12911
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 0 1 0 0 56
+D0
+~
+~
+0 0 12909
+D3
+~
+~
+0 0 12913
+S
+#12912
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 0 1 0 0 56
+D0
+~
+~
+0 0 12914
+D1
+~
+~
+0 0 12909
+D2
+~
+~
+0 0 12913
+D3
+~
+~
+0 0 12915
+S
+#12913
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 0 1 0 0 56
+D0
+~
+~
+0 0 12912
+D1
+~
+~
+0 0 12911
+D3
+~
+~
+0 0 12917
+S
+#12914
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 0 1 0 0 56
+D1
+~
+~
+0 0 12910
+D2
+~
+~
+0 0 12912
+D3
+~
+~
+0 0 12916
+S
+#12915
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 0 1 0 0 56
+D0
+~
+~
+0 0 12916
+D1
+~
+~
+0 0 12912
+D2
+~
+~
+0 0 12917
+D3
+~
+~
+0 0 12918
+S
+#12916
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 0 1 0 0 56
+D1
+~
+~
+0 0 12914
+D2
+~
+~
+0 0 12915
+S
+#12917
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 0 1 0 0 56
+D0
+~
+~
+0 0 12915
+D1
+~
+~
+0 0 12913
+S
+#12918
+Where Palatial and Gateside Street Cross~
+The city construction is as follows: the palace is built at the center, and the
+roads are arranged in concentric squares around it, with streets running between
+them. Each street is named after what can be found along it. There is no poor
+or residential district, houses and shops are one (shop below, house above), but
+there are smaller palaces where noblepeople live.
+~
+129 0 1 0 0 21
+D0
+~
+~
+0 0 12961
+D1
+~
+~
+0 0 12915
+D2
+~
+~
+0 0 12962
+D3
+~
+~
+0 0 12963
+S
+#12919
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12920
+D1
+~
+~
+0 0 12907
+S
+#12920
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D2
+~
+~
+0 0 12919
+D3
+~
+~
+0 0 12921
+S
+#12921
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D1
+~
+~
+0 0 12920
+D2
+~
+~
+0 0 12922
+S
+#12922
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12921
+D3
+~
+~
+0 0 12923
+S
+#12923
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12924
+D1
+~
+~
+0 0 12922
+S
+#12924
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D2
+~
+~
+0 0 12923
+D3
+~
+~
+0 0 12925
+S
+#12925
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D1
+~
+~
+0 0 12924
+D2
+~
+~
+0 0 12926
+S
+#12926
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12925
+D3
+~
+~
+0 0 12927
+S
+#12927
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12928
+D1
+~
+~
+0 0 12926
+S
+#12928
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D2
+~
+~
+0 0 12927
+D3
+~
+~
+0 0 12929
+S
+#12929
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D1
+~
+~
+0 0 12928
+D2
+~
+~
+0 0 12930
+S
+#12930
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12929
+D3
+~
+~
+0 0 12931
+S
+#12931
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12932
+D1
+~
+~
+0 0 12930
+S
+#12932
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D2
+~
+~
+0 0 12931
+D3
+~
+~
+0 0 12933
+S
+#12933
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D1
+~
+~
+0 0 12932
+D2
+~
+~
+0 0 12934
+S
+#12934
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12933
+D3
+~
+~
+0 0 12935
+S
+#12935
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D1
+~
+~
+0 0 12934
+D3
+~
+~
+0 0 12952
+S
+#12936
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D1
+~
+~
+0 0 12908
+D2
+~
+~
+0 0 12937
+S
+#12937
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12936
+D3
+~
+~
+0 0 12938
+S
+#12938
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12939
+D1
+~
+~
+0 0 12937
+S
+#12939
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D2
+~
+~
+0 0 12938
+D3
+~
+~
+0 0 12940
+S
+#12940
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D1
+~
+~
+0 0 12939
+D2
+~
+~
+0 0 12941
+S
+#12941
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12940
+D3
+~
+~
+0 0 12942
+S
+#12942
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12943
+D1
+~
+~
+0 0 12941
+S
+#12943
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D2
+~
+~
+0 0 12942
+D3
+~
+~
+0 0 12944
+S
+#12944
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D1
+~
+~
+0 0 12943
+D2
+~
+~
+0 0 12945
+S
+#12945
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12944
+D3
+~
+~
+0 0 12946
+S
+#12946
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12947
+D1
+~
+~
+0 0 12945
+S
+#12947
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D2
+~
+~
+0 0 12946
+D3
+~
+~
+0 0 12948
+S
+#12948
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D1
+~
+~
+0 0 12947
+D2
+~
+~
+0 0 12949
+S
+#12949
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12948
+D3
+~
+~
+0 0 12950
+S
+#12950
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131073 129 0 0 21
+D0
+~
+~
+0 0 12951
+D1
+~
+~
+0 0 12949
+S
+#12951
+On a Path at the Base of a Watchtower~
+This unfinished room was created by Accarid.
+~
+129 131077 129 0 0 21
+D2
+~
+~
+0 0 12950
+D3
+~
+~
+0 0 12952
+S
+#12952
+In a Garden-Filled Courtyard~
+All of these rooms from here to the locked gates (opens with a key on a samurai)
+are CPK, and full of aggro samurais. The gates open to the same room the other
+gates do, but once the gates is unlocked the streets load aggro city guards.
+~
+129 131072 1 0 0 82
+D0
+~
+~
+0 0 12953
+D1
+~
+~
+0 0 12951
+D2
+~
+~
+0 0 12954
+D3
+~
+~
+0 0 12955
+S
+#12953
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 131072 1 0 0 56
+D2
+~
+~
+0 0 12952
+D3
+~
+~
+0 0 12956
+S
+#12954
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 131072 1 0 0 56
+D0
+~
+~
+0 0 12952
+D3
+~
+~
+0 0 12957
+S
+#12955
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 131072 1 0 0 56
+D0
+~
+~
+0 0 12956
+D1
+~
+~
+0 0 12952
+D2
+~
+~
+0 0 12957
+D3
+~
+~
+0 0 12958
+S
+#12956
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 131072 1 0 0 56
+D1
+~
+~
+0 0 12953
+D2
+~
+~
+0 0 12955
+D3
+~
+~
+0 0 12959
+S
+#12957
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 131072 1 0 0 56
+D0
+~
+~
+0 0 12955
+D1
+~
+~
+0 0 12954
+D3
+~
+~
+0 0 12960
+S
+#12958
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 131072 1 0 0 56
+D0
+~
+~
+0 0 12959
+D1
+~
+~
+0 0 12955
+D2
+~
+~
+0 0 12960
+S
+#12959
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 131072 1 0 0 56
+D1
+~
+~
+0 0 12956
+D2
+~
+~
+0 0 12958
+S
+#12960
+In a Garden-Filled Courtyard~
+This unfinished room was created by Accarid.
+~
+129 131072 1 0 0 56
+D0
+~
+~
+0 0 12958
+D1
+~
+~
+0 0 12957
+S
+#12961
+Gateside Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 13001
+D2
+~
+~
+0 0 12918
+S
+#12962
+Gateside Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 12918
+D2
+~
+~
+0 0 12996
+S
+#12963
+Palatial Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D1
+~
+~
+0 0 12918
+D3
+~
+~
+0 0 12964
+S
+#12964
+The Crossing of Palatial and Rising Sun~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12994
+D1
+~
+~
+0 0 12963
+D2
+~
+~
+0 0 12995
+D3
+~
+~
+0 0 12965
+S
+#12965
+Palatial Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D1
+~
+~
+0 0 12964
+D3
+~
+~
+0 0 12966
+S
+#12966
+The Crossing of Palatial and Market~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12992
+D1
+~
+~
+0 0 12965
+D2
+~
+~
+0 0 12993
+D3
+~
+~
+0 0 12967
+S
+#12967
+Palatial Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D1
+~
+~
+0 0 12966
+D3
+~
+~
+0 0 12968
+S
+#12968
+Palatial and Inner Street, Before the Palace~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12969
+D1
+~
+~
+0 0 12967
+D2
+~
+~
+0 0 12972
+D3
+~
+~
+0 0 13028
+S
+#12969
+Inner Street East~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12970
+D2
+~
+~
+0 0 12968
+S
+#12970
+Inner Street East~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12971
+D2
+~
+~
+0 0 12969
+S
+#12971
+Inner Street North and East~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D2
+~
+~
+0 0 12970
+D3
+~
+~
+0 0 12981
+S
+#12972
+Inner Street East~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12968
+D2
+~
+~
+0 0 12973
+S
+#12973
+The Crossing of Inner and Dragon~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12972
+D1
+~
+~
+0 0 13011
+D2
+~
+~
+0 0 12974
+S
+#12974
+Inner Street East and South~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12973
+D3
+~
+~
+0 0 12975
+S
+#12975
+Inner Street South~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D1
+~
+~
+0 0 12974
+D3
+~
+~
+0 0 12976
+S
+#12976
+Inner Street South~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D1
+~
+~
+0 0 12975
+D3
+~
+~
+0 0 12977
+S
+#12977
+Inner Street South~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D1
+~
+~
+0 0 12976
+D3
+~
+~
+0 0 12978
+S
+#12978
+Inner Street South~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D1
+~
+~
+0 0 12977
+D3
+~
+~
+0 0 12979
+S
+#12979
+Inner Street South~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D1
+~
+~
+0 0 12978
+D3
+~
+~
+0 0 12980
+S
+#12980
+Inner Street South and West~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12991
+D1
+~
+~
+0 0 12979
+S
+#12981
+Inner Street North~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D1
+~
+~
+0 0 12971
+D3
+~
+~
+0 0 12982
+S
+#12982
+Inner Street North~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D1
+~
+~
+0 0 12981
+D3
+~
+~
+0 0 12983
+S
+#12983
+Inner Street North~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D1
+~
+~
+0 0 12982
+D3
+~
+~
+0 0 12984
+S
+#12984
+Inner Street North~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D1
+~
+~
+0 0 12983
+D3
+~
+~
+0 0 12985
+S
+#12985
+Inner Street North~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D1
+~
+~
+0 0 12984
+D3
+~
+~
+0 0 12986
+S
+#12986
+Inner Street West and North~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D1
+~
+~
+0 0 12985
+D2
+~
+~
+0 0 12987
+S
+#12987
+Inner Street West~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12986
+D2
+~
+~
+0 0 12988
+S
+#12988
+Inner Street West~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12987
+D2
+~
+~
+0 0 12989
+S
+#12989
+Inner Street West~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12988
+D2
+~
+~
+0 0 12990
+S
+#12990
+Inner Street West~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12989
+D2
+~
+~
+0 0 12991
+S
+#12991
+Inner Street West~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12990
+D2
+~
+~
+0 0 12980
+S
+#12992
+Market Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 13010
+D2
+~
+~
+0 0 12966
+S
+#12993
+Market Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 12966
+D2
+~
+~
+0 0 13026
+S
+#12994
+Path of the Rising Sun~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 13012
+D2
+~
+~
+0 0 12964
+S
+#12995
+Path of the Rising Sun~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 12964
+D2
+~
+~
+0 0 13018
+S
+#12996
+Gateside Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12962
+D2
+~
+~
+0 0 12997
+D3
+~
+~
+0 0 13008
+S
+#12997
+Gateside Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12996
+D2
+~
+~
+0 0 12998
+S
+#12998
+The Crossing of Dragon and Gateside~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12997
+D2
+~
+~
+0 0 12999
+D3
+~
+~
+0 0 13009
+S
+#12999
+Gateside Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 12998
+D2
+~
+~
+0 0 13000
+S
+#13000
+The Corner of Southside and Gateside~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 12999
+D3
+~
+~
+0 0 13023
+S
+#13001
+Gateside Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 13002
+D2
+~
+~
+0 0 12961
+D3
+~
+~
+0 0 13006
+S
+#13002
+Gateside Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 13003
+D2
+~
+~
+0 0 13001
+S
+#13003
+The Crossing of Guildhall and Gateside~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 13004
+D2
+~
+~
+0 0 13002
+D3
+~
+~
+0 0 13007
+S
+#13004
+Gateside Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 21
+D0
+~
+~
+0 0 13005
+D2
+~
+~
+0 0 13003
+S
+#13005
+The Corner of Northside and Gateside~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D2
+~
+~
+0 0 13004
+D3
+~
+~
+0 0 13016
+S
+#13006
+North Promenade~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D1
+~
+~
+0 0 13001
+D3
+~
+~
+0 0 13012
+S
+#13007
+Guildhall Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D1
+~
+~
+0 0 13003
+D3
+~
+~
+0 0 13025
+S
+#13008
+South Promenade~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D1
+~
+~
+0 0 12996
+S
+#13009
+Dragon Lane~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D1
+~
+~
+0 0 12998
+D3
+~
+~
+0 0 13020
+S
+#13010
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D2
+~
+~
+0 0 12992
+S
+#13011
+Dragon Lane~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D1
+~
+~
+0 0 13026
+D3
+~
+~
+0 0 12973
+S
+#13012
+The Crossing of Rising Sun and North Promenade~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 13013
+D1
+~
+~
+0 0 13006
+D2
+~
+~
+0 0 12994
+S
+#13013
+Path of the Rising Sun~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 13014
+D2
+~
+~
+0 0 13012
+S
+#13014
+Path of the Rising Sun~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 13015
+D1
+~
+~
+0 0 13025
+D2
+~
+~
+0 0 13013
+S
+#13015
+Path of the Rising Sun~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 13017
+D2
+~
+~
+0 0 13014
+S
+#13016
+Northside Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D1
+~
+~
+0 0 13005
+D3
+~
+~
+0 0 13017
+S
+#13017
+The Crossing of Northside and Rising Sun~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D1
+~
+~
+0 0 13016
+D2
+~
+~
+0 0 13015
+S
+#13018
+Path of the Rising Sun~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 12995
+D2
+~
+~
+0 0 13019
+S
+#13019
+Path of the Rising Sun~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 13018
+D2
+~
+~
+0 0 13020
+S
+#13020
+The Crossing of Dragon and Rising Sun~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 13019
+D1
+~
+~
+0 0 13009
+D2
+~
+~
+0 0 13021
+S
+#13021
+Path of the Rising Sun~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 13020
+D2
+~
+~
+0 0 13022
+S
+#13022
+Path of the Rising Sun~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 13021
+D2
+~
+~
+0 0 13024
+S
+#13023
+Southside Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D1
+~
+~
+0 0 13000
+D3
+~
+~
+0 0 13024
+S
+#13024
+Southside Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 13022
+D1
+~
+~
+0 0 13023
+S
+#13025
+Guildhall Street~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D1
+~
+~
+0 0 13007
+D3
+~
+~
+0 0 13014
+S
+#13026
+The Crossing of Dragon and Market~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D0
+~
+~
+0 0 12993
+D1
+~
+~
+0 0 13027
+D3
+~
+~
+0 0 13011
+S
+#13027
+Dragon Lane~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D3
+~
+~
+0 0 13026
+S
+#13028
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+129 0 0 0 0 0
+D1
+~
+~
+0 0 12968
+S
+$~

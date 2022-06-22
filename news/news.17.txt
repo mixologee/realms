@@ -1,0 +1,32 @@
+&R                        Realms of Kuvia
+&c             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+-----------------------------------------------------------------------
+News file [&C17&c]. Type NEWS 17 to re-read this article at a later date.
+-----------------------------------------------------------------------&n
+
+Outlaws and PK Blood
+
+Outlaws and PK Blood have been implemented. Read help on both subjects. 
+
+Outlaws:
+This is for the hardcore pk people. Simply put, if you are an outlaw, the
+entire world is CPK for you and other outlaws. This means if you have two
+outlaws in the town square, it is CPK. You can fight each other anywhere at
+any time. You become an outlaw simply by typing outlaw and presto. You stop
+being an outlaw the same way. you can only stop being an outlaw if you have 
+no blood on your hands. You can still only pk non-outlaws in the designated
+player kill areas and zones. Make sure you read HELP CPK for more information
+on how this form of PK works.
+
+PK Blood:
+How this works is pretty simple. You pk someone, you get blood on your hands.
+The amount of blood depends on the difference in level between you and the
+person you killed (calculated as Your level - their level x 2). If you are 
+lower level, it will be a random number between 1-10. 

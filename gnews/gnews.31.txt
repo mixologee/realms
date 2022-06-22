@@ -1,0 +1,58 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C31&c]. Type NEWS 30 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+And so it begins.. a few of us have been updating stuff as needed, 
+others just poking along.. and of course me.. disappeared and finally
+returned!  Well now that I'm back I've started to add random things
+just like I did before.  Below is a short list of a few things I have
+added to the game command-wise for gods since coming back!
+
+&YCommands&n
+
+
+email -  this command allows you to add email addresses to your own
+         player file.  We encourage everyone to add their address
+         here when they have a moment to do so, this will help
+         us keep everyone in the loop when things change etc, and
+         will also  help keep up with password problems.  In the
+         future I hope that this will have an automation with
+         password retrieval in the future.
+
+
+pray  -  this is for use by mortals to contact immortals without using
+         normal telepath, it is currently not logged by the system, 
+         but it will be so we can keep track of stuff.  This channel
+         is seen by ALL immortals since I did not add the ability to
+         toggle it on/off yet.
+
+ptell -  this command is for an immortal to answer a players pray. It
+         is seen by all immortals and is not logged at this time, but
+         like pray.. it will be in the future.  Again, this channel is
+         currently not toggleable.
+
+snatch - use snatch <item> <player>  this command will "steal" an item
+         from a player no matter whether or not they are wearing or it
+         is in their inventory.  I haven't tested it for equipment in 
+         a bag, but we'll see!  
+
+These are a few of hopefully many more changes I'll try to get in the
+system sooner than later!
+
+-Slurk

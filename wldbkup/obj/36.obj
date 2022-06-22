@@ -1,0 +1,319 @@
+#3600
+torch wood~
+a small wood torch~
+A flaming piece of wood illuminates the area.~
+~
+1 r 0 0 0 a 0 0 0 0 0 0 0
+0 0 -1 0
+5 1 0 0
+A
+13 10
+A
+4 1
+#3601
+ring brass~
+a tarnished brass ring~
+A tarnished brass ring has fallen off someone's finger.~
+~
+9 mnr 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+5 11 0 0
+A
+18 1
+A
+19 1
+#3602
+necklace silver chain~
+a plain silver necklace~
+A small chain of silver has fallen off someone's neck.~
+~
+11 mnr 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+3 10 0 0
+A
+19 1
+#3603
+armor leather pile~
+boiled leather armor~
+A worn out pile of leather armor lies on the ground.~
+~
+9 mnor 0 0 0 ad 0 0 0 0 0 0 0
+5 0 0 0
+3 15 0 0
+A
+13 10
+A
+19 1
+#3604
+leather leggings pile~
+boiled leather leggings~
+A pair of boiled leather leggings lie crumpled in a pile.~
+~
+11 mnor 0 0 0 af 0 0 0 0 0 0 0
+0 0 0 0
+3 11 0 0
+A
+18 2
+#3605
+sleeves leather pile~
+boiled leather sleeves~
+A pair of boiled leather sleeves lie crumpled in a pile.~
+~
+11 mnor 0 0 0 ai 0 0 0 0 0 0 0
+0 0 0 0
+3 11 0 0
+A
+18 2
+#3606
+shield rust steel~
+a rusted shield~
+Someone has left their shield here.~
+~
+9 r 0 0 0 aj 0 0 0 0 0 0 0
+3 0 0 0
+10 5 0 0
+A
+13 5
+A
+4 1
+A
+5 1
+#3607
+leather backpack pack~
+a worn leather backpack~
+A small leather backpack lies here, abandoned.~
+~
+15 r 0 0 0 ak 0 0 0 0 0 0 0
+35 1 -1 0
+5 5 0 0
+#3608
+hatchet axe~
+a dull, rusty hatchet~
+A rusty, wood-handled hatchet is here, stuck into the ground.~
+~
+5 mnor 0 0 0 an 0 0 0 0 0 0 0
+0 3 3 3
+3 12 0 0
+A
+1 1
+A
+19 1
+#3609
+book guidebook guide~
+a well-worn guidebook, type READ GUIDEBOOK~
+A well-worn guidebook lies here, its pages yellowed with age.~
+~
+11 r 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 1 0 0
+E
+guidebook book guide~
+The pages of the book are too worn to read...
+~
+A
+13 50
+A
+19 4
+#3610
+shirt silk~
+a worn silk shirt~
+A worn silk shirt has been left here.~
+~
+9 mnpr 0 0 0 ad 0 0 0 0 0 0 0
+3 0 0 0
+3 13 0 0
+A
+2 1
+A
+19 2
+#3611
+gloves silk~
+threadbare silk gloves~
+A pair of silk gloves lie on the ground, gathering dust.~
+~
+9 mnpr 0 0 0 ah 0 0 0 0 0 0 0
+5 0 0 0
+3 11 0 0
+A
+2 1
+A
+18 1
+#3612
+cuffs steel~
+a broken set of handcuffs~
+A single handcuff, cut from its partner, has been abandoned here by some criminal.~
+~
+11 mnr 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+3 5 0 0
+A
+18 1
+A
+19 1
+#3613
+amulet brass chain~
+a simple brass amulet~
+A small brass amulet, attached to a thin chain, lies on the ground.~
+~
+11 r 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+5 10 0 0
+A
+12 10
+#3614
+headband band leather~
+a leather headband~
+A small band of leather has been left here.~
+~
+11 nopr 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+3 10 0 0
+A
+12 10
+A
+3 1
+A
+4 1
+#3615
+gloves silk~
+a pair of tight silk gloves~
+A small pair of silk gloves lies crumpled on the ground.~
+~
+11 r 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0
+3 5 0 0
+A
+5 1
+#3616
+cloak black cloth~
+a faded black cloak~
+A pile of black cloth lies here, gathering dust.~
+~
+15 nopr 0 0 0 ak 0 0 0 0 0 0 0
+35 1 -1 0
+5 12 0 0
+A
+3 1
+A
+12 10
+#3617
+staff mage wood~
+a mage's staff~
+A gnarled wooden staff rests on the ground.~
+~
+5 nopr 0 0 0 an 0 0 0 0 0 0 0
+0 1 5 6
+3 10 0 0
+A
+12 10
+#3621
+glass shard dagger~
+a broken shard of glass~
+A long, broken shard of glass glints as your light splashes across it.~
+~
+5 mnr 0 0 0 an 0 0 0 0 0 0 0
+0 2 3 11
+3 4 0 0
+A
+18 -1
+A
+13 50
+A
+13 50
+A
+19 5
+#3622
+beads rosary necklace~
+a worn set of rosary beads~
+A necklace of plain-colored beads has been left here.~
+~
+11 mopr 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+5 13 0 0
+A
+13 10
+A
+12 10
+#3623
+shirt white cotton~
+a plain white shirt~
+A shirt of plain, white cotton lies on the ground.~
+~
+11 r 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+5 11 0 0
+A
+4 2
+A
+3 1
+#3624
+skullcap leather cap~
+an acolyte's skullcap~
+A small leather skullcap has been left here.~
+~
+11 r 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+3 10 0 0
+A
+13 5
+A
+12 10
+#3625
+bible book~
+a small bible~
+A small holy book flutters in a light breeze.~
+~
+11 mopr 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+4 9 0 0
+A
+13 5
+A
+12 5
+#3642
+sandals leather~
+a pair of leather sandals~
+A pair of leather sandals await a set of feet.~
+~
+11 r 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0
+5 10 0 0
+A
+12 5
+A
+5 1
+#3643
+robes pile white cloth~
+flowing white robes~
+A pile of white cloth lies crumpled on the floor.~
+~
+15 mopr 0 0 0 ak 0 0 0 0 0 0 0
+35 1 -1 0
+5 10 0 0
+A
+5 1
+#3644
+mace~
+a simple mace~
+A small, plain mace lies on the ground.~
+~
+5 mopr 0 0 0 an 0 0 0 0 0 0 0
+0 1 5 6
+5 10 0 0
+#3645
+scroll pain~
+a scroll of pain~
+A tattered paper scroll flutters across the ground.~
+~
+2 0 0 0 0 ao 0 0 0 0 0 0 0
+20 25 8 -1
+1 1000 0 0
+#3646
+potion invisibilitysight sight~
+a potion of detect invisible~
+A translucent potion rests on the ground.~
+~
+10 0 0 0 0 ao 0 0 0 0 0 0 0
+20 19 -1 -1
+1 1000 0 0
+$~

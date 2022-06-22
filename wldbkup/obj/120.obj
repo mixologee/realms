@@ -1,0 +1,129 @@
+#12000
+portal stone~
+a tall, twisted arch of glistening black stone~
+A tall, twisted arch of glistening stone protrudes sharply from the ground.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+142857 0 0 0
+#12001
+mask shrieking demon~
+a shrieking demon mask~
+A mask is lying on the ground, writhing and screaming for no apparent reason.~
+
+~
+11 mnB d 0 0 ae 0 0 0 C 0 0 0
+0 0 0 0
+3 500 0 10
+A
+1 3
+A
+19 3
+A
+18 3
+#12002
+potion demon blood~
+a potion of demon blood~
+A large vial of hissing black blood rests on the ground, shaking slightly.~
+~
+10 g d 0 0 ao 0 0 0 0 0 0 0
+97 28 12 -1
+1 0 0 0
+#12003
+scroll demon blood~
+a scroll scribed in demon blood~
+A scroll lies on the ground, slowly smouldering.~
+~
+2 0 0 0 0 ao 0 0 0 0 0 0 0
+28 26 26 -1
+1 0 0 10
+A
+13 -127
+#12004
+belt crystals ice~
+a belt of ice crystals~
+A ring of ice crystals hovers in the air.~
+This item should randomly fling ice crystals (equal to level 10 frost shards)
+which will hit either the wearer or their currently engaged target (50/50
+chance).
+~
+11 g d 0 0 al 0 0 0 0 0 0 0
+0 0 0 0
+7 0 0 10
+A
+13 25
+A
+12 -13
+#12005
+boots iron~
+a pair of heavy, knee-high iron boots~
+A pair of iron boots stand off the ground like a pair of towers.~
+~
+9 0 0 0 0 a 0 0 0 0 0 0 0
+10 0 0 0
+20 0 0 0
+A
+18 -10
+A
+19 -5
+A
+24 -3
+A
+2 -5
+#12006
+board stretcher~
+the stretching board~
+A bloody board with many pullies attached to it takes up the majority of the room.~
+~
+6 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+100000 0 0 0
+#12007
+Araevin's scimitar~
+Araevin's double-bladed, adamantine scimitar~
+A double-bladed scimitar of adamantine lies balanced on the side of its hilt.~
+~
+5 hrv d 0 0 anr 0 0 0 0 0 0 0
+4 6 6 3
+0 0 0 0
+A
+18 5
+A
+19 5
+A
+1 3
+A
+5 3
+#12008
+Esterok staff~
+Esterok's Staff of Wonder~
+A peculiar red and white staff crackles with energy as it hovers in the air.~
+~
+5 rv de 0 0 an 0 0 0 0 0 0 0
+0 7 6 6
+0 0 0 0
+A
+12 40
+A
+5 3
+A
+3 3
+A
+24 -1
+A
+17 -7
+#12009
+Hex electrum longsword~
+Hex's epic longsword, crafted of electrum~
+A dark metal longsword crackles with energy in the air before you.~
+~
+5 rs e 0 0 an 0 0 0 0 0 0 0
+10 10 10 3
+10 0 0 0
+A
+18 5
+A
+19 5
+A
+8 1
+$~

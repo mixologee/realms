@@ -1,0 +1,4682 @@
+#12000
+The Crumbled Remains of a Stone Fountain~
+The theme of equipment in this zone is great gain at potentially great cost. 
+The city is possessed by the evil nobility, with some undead citydwellers, the
+battlefield is populated by both parties, the sewers house the darklings
+(accessible on the battlefield below the wall), and shades and barrow wights
+roam the graveyard.
+~
+120 67174400 1 0 0 0
+D0
+~
+~
+0 0 12001
+D1
+~
+~
+0 0 12003
+D2
+~
+~
+0 0 12005
+D3
+~
+~
+0 0 12007
+S
+#12001
+The Ruined Square of Ludrix'Vaal~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12009
+D1
+~
+~
+0 0 12002
+D2
+~
+~
+0 0 12000
+D3
+~
+~
+0 0 12008
+S
+#12002
+The Ruined Square of Ludrix'Vaal~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D2
+~
+~
+0 0 12003
+D3
+~
+~
+0 0 12001
+S
+#12003
+The Ruined Square of Ludrix'Vaal~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12002
+D1
+~
+~
+0 0 12014
+D2
+~
+~
+0 0 12004
+D3
+~
+~
+0 0 12000
+S
+#12004
+The Ruined Square of Ludrix'Vaal~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12003
+D3
+~
+~
+0 0 12005
+S
+#12005
+The Ruined Square of Ludrix'Vaal~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12000
+D1
+~
+~
+0 0 12004
+D2
+~
+~
+0 0 12017
+D3
+~
+~
+0 0 12006
+S
+#12006
+The Ruined Square of Ludrix'Vaal~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12007
+D1
+~
+~
+0 0 12005
+S
+#12007
+The Ruined Square of Ludrix'Vaal~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12008
+D1
+~
+~
+0 0 12000
+D2
+~
+~
+0 0 12006
+D3
+~
+~
+0 0 12022
+S
+#12008
+The Ruined Square of Ludrix'Vaal~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12001
+D2
+~
+~
+0 0 12007
+S
+#12009
+The Main Thoroughfare~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12010
+D1
+~
+~
+0 0 12013
+D2
+~
+~
+0 0 12001
+D3
+~
+~
+0 0 12012
+S
+#12010
+The Main Thoroughfare~
+This is parallel e/w to the north edge of the citadel, which has a battalion
+running along the top of it.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12011
+D2
+~
+~
+0 0 12009
+S
+#12011
+A Street Crossing~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12038
+D1
+~
+~
+0 0 12033
+D2
+~
+~
+0 0 12010
+D3
+~
+~
+0 0 12032
+S
+#12012
+An Obliterated Post Office~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12009
+S
+#12013
+A Bombed-Out Bank~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D3
+~
+~
+0 0 12009
+S
+#12014
+On the Street Leading Up to the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12015
+D1
+~
+~
+0 0 12034
+D2
+~
+~
+0 0 12016
+D3
+~
+~
+0 0 12003
+S
+#12015
+A Cluttered Hotel Lobby~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D2
+~
+~
+0 0 12014
+D4
+~
+~
+0 0 12021
+S
+#12016
+The Stagger Home Tavern~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12014
+S
+#12017
+A Marble-Tiled Temple~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12005
+D1
+~
+~
+0 0 12019
+D2
+~
+~
+0 0 12018
+D3
+~
+~
+0 0 12020
+S
+#12018
+An Altar to the Gods of Kuvia~
+This unfinished room was created by Accarid.
+~
+120 28 8 0 0 42
+D0
+~
+~
+0 0 12017
+S
+#12019
+A Ransacked Monk Bunkroom~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D3
+~
+~
+0 0 12017
+S
+#12020
+A Patch of Broken Tile Floor~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12017
+S
+#12021
+In a Short Hall of Doors~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D5
+~
+~
+0 0 12015
+S
+#12022
+On a Street Leading East to the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12007
+D2
+~
+~
+0 0 12023
+D3
+~
+~
+0 0 12024
+S
+#12023
+A Room With Walls Lined With Metal Boxes~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12022
+S
+#12024
+On a Street Leading East to the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12025
+D1
+~
+~
+0 0 12022
+D2
+~
+~
+0 0 12028
+D3
+~
+~
+0 0 12029
+S
+#12025
+The Foyer of the Weapon and Armor Shops~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12026
+D2
+~
+~
+0 0 12024
+D3
+~
+~
+0 0 12027
+S
+#12026
+The Armor Shop~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D3
+~
+~
+0 0 12025
+S
+#12027
+The Weapon Shop~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12025
+S
+#12028
+The House of Magicks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12024
+S
+#12029
+A Street Crossing~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12030
+D1
+~
+~
+0 0 12024
+D2
+~
+~
+0 0 12031
+D3
+~
+~
+0 0 12119
+S
+#12030
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 19820
+D2
+~
+~
+0 0 12029
+S
+#12031
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12029
+D2
+~
+~
+0 0 19827
+S
+#12032
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12011
+D3
+~
+~
+0 0 2389
+S
+#12033
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 19809
+D3
+~
+~
+0 0 12011
+S
+#12034
+On the Street Leading Up to the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12035
+D3
+~
+~
+0 0 12014
+S
+#12035
+A Street Crossing~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12036
+D1
+~
+~
+0 0 12129
+D2
+~
+~
+0 0 12037
+D3
+~
+~
+0 0 12034
+S
+#12036
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 19822
+D2
+~
+~
+0 0 12035
+S
+#12037
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12035
+D2
+~
+~
+0 0 19839
+S
+#12038
+The Main Thoroughfare~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12039
+D2
+~
+~
+0 0 12011
+S
+#12039
+The Main Thoroughfare~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12040
+D2
+~
+~
+0 0 12038
+S
+#12040
+A Street Crossing~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12043
+D1
+~
+~
+0 0 12041
+D2
+~
+~
+0 0 12039
+D3
+~
+~
+0 0 12042
+S
+#12041
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 19800
+D3
+~
+~
+0 0 12040
+S
+#12042
+A Shadowed Street~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12040
+D3
+~
+~
+0 0 2380
+S
+#12043
+The Main Thoroughfare~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12044
+D2
+~
+~
+0 0 12040
+S
+#12044
+The Main Thoroughfare~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12045
+D2
+~
+~
+0 0 12043
+S
+#12045
+A Street Crossing~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12048
+D1
+~
+~
+0 0 12046
+D2
+~
+~
+0 0 12044
+D3
+~
+~
+0 0 12047
+S
+#12046
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12160
+D3
+~
+~
+0 0 12045
+S
+#12047
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12045
+D3
+~
+~
+0 0 12151
+S
+#12048
+Between Two Guard Towers~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12049
+D1
+~
+~
+0 0 12050
+D2
+~
+~
+0 0 12045
+D3
+~
+~
+0 0 12051
+S
+#12049
+The Broken Doors to Zardon, City of the Damned~
+The battlefield should have collapsed encampments, war machines, and small lakes
+in the ground.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12056
+D1
+~
+~
+0 0 12068
+D2
+~
+~
+0 0 12048
+D3
+~
+~
+0 0 12067
+S
+#12050
+The Base of a Guardtower~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D3
+~
+~
+0 0 12048
+D4
+~
+~
+0 0 12053
+S
+#12051
+The Base of a Guardtower~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12048
+D4
+~
+~
+0 0 12052
+S
+#12052
+Inside a Guardtower~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D3
+~
+~
+0 0 12054
+D5
+~
+~
+0 0 12051
+S
+#12053
+Inside a Guardtower~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12055
+D5
+~
+~
+0 0 12050
+S
+#12054
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12052
+D3
+~
+~
+0 0 12185
+S
+#12055
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12169
+D3
+~
+~
+0 0 12053
+S
+#12056
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12057
+D1
+~
+~
+0 0 12087
+D2
+~
+~
+0 0 12049
+D3
+~
+~
+0 0 12088
+S
+#12057
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12058
+D1
+~
+~
+0 0 12089
+D2
+~
+~
+0 0 12056
+D3
+~
+~
+0 0 12090
+S
+#12058
+A Charred Marsh~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12059
+D1
+~
+~
+0 0 12091
+D2
+~
+~
+0 0 12057
+D3
+~
+~
+0 0 12092
+S
+#12059
+The Battlefield at the Edge of the Forest~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12060
+D1
+~
+~
+0 0 12094
+D2
+~
+~
+0 0 12058
+D3
+~
+~
+0 0 12093
+S
+#12060
+A Forest Path~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12061
+D2
+~
+~
+0 0 12059
+S
+#12061
+A Forest Path~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D2
+~
+~
+0 0 12060
+D3
+~
+~
+0 0 12062
+S
+#12062
+A Forest Path~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12063
+D1
+~
+~
+0 0 12061
+S
+#12063
+A Forest Path~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12064
+D2
+~
+~
+0 0 12062
+S
+#12064
+A Forest Path~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12065
+D2
+~
+~
+0 0 12063
+S
+#12065
+A Forest Path~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12066
+D3
+~
+~
+0 0 12064
+S
+#12066
+A Forest Path~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D3
+~
+~
+0 0 12065
+S
+#12067
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12088
+D1
+~
+~
+0 0 12049
+D3
+~
+~
+0 0 12069
+S
+#12068
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12087
+D1
+~
+~
+0 0 12078
+D3
+~
+~
+0 0 12049
+S
+#12069
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12099
+D1
+~
+~
+0 0 12067
+D3
+~
+~
+0 0 12070
+S
+#12070
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12100
+D1
+~
+~
+0 0 12069
+D3
+~
+~
+0 0 12071
+S
+#12071
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12110
+D1
+~
+~
+0 0 12070
+D3
+~
+~
+0 0 12072
+S
+#12072
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12109
+D1
+~
+~
+0 0 12071
+D3
+~
+~
+0 0 12073
+S
+#12073
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12108
+D1
+~
+~
+0 0 12072
+D3
+~
+~
+0 0 12074
+S
+#12074
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12107
+D1
+~
+~
+0 0 12073
+D3
+~
+~
+0 0 12075
+S
+#12075
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12106
+D1
+~
+~
+0 0 12074
+D3
+~
+~
+0 0 12076
+S
+#12076
+Atop a Hill of Corpses~
+This unfinished room was created by Accarid.
+~
+120 131072 1 0 0 0
+D1
+~
+~
+0 0 12075
+D5
+~
+~
+0 0 12299
+S
+#12077
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D2
+~
+~
+0 0 12084
+D3
+~
+~
+0 0 12086
+S
+#12078
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12101
+D1
+~
+~
+0 0 12079
+D3
+~
+~
+0 0 12068
+S
+#12079
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12102
+D1
+~
+~
+0 0 12080
+D3
+~
+~
+0 0 12078
+S
+#12080
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12105
+D1
+~
+~
+0 0 12081
+D3
+~
+~
+0 0 12079
+S
+#12081
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12104
+D1
+~
+~
+0 0 12082
+D3
+~
+~
+0 0 12080
+S
+#12082
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12103
+D1
+~
+~
+0 0 12083
+D3
+~
+~
+0 0 12081
+S
+#12083
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12086
+D1
+~
+~
+0 0 12084
+D3
+~
+~
+0 0 12082
+S
+#12084
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12077
+D1
+~
+~
+0 0 12085
+D3
+~
+~
+0 0 12083
+S
+#12085
+Outside the City Walls~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D3
+~
+~
+0 0 12084
+S
+#12086
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12077
+D2
+~
+~
+0 0 12083
+D3
+~
+~
+0 0 12103
+S
+#12087
+Beside a Collapsed Catapult~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12089
+D1
+~
+~
+0 0 12101
+D2
+~
+~
+0 0 12068
+D3
+~
+~
+0 0 12056
+S
+#12088
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12090
+D1
+~
+~
+0 0 12056
+D2
+~
+~
+0 0 12067
+D3
+~
+~
+0 0 12099
+S
+#12089
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12091
+D1
+~
+~
+0 0 12097
+D2
+~
+~
+0 0 12087
+D3
+~
+~
+0 0 12057
+S
+#12090
+A Marshy Pond~
+This unfinished room was created by Accarid.
+~
+120 131072 1 0 0 0
+D0
+~
+~
+0 0 12092
+D1
+~
+~
+0 0 12057
+D2
+~
+~
+0 0 12088
+D3
+~
+~
+0 0 12098
+S
+#12091
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12094
+D1
+~
+~
+0 0 12096
+D2
+~
+~
+0 0 12089
+D3
+~
+~
+0 0 12058
+S
+#12092
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12093
+D1
+~
+~
+0 0 12058
+D2
+~
+~
+0 0 12090
+D3
+~
+~
+0 0 12095
+S
+#12093
+The Battlefield at the Edge of the Forest~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12059
+D2
+~
+~
+0 0 12092
+S
+#12094
+The Battlefield at the Edge of the Forest~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D2
+~
+~
+0 0 12091
+D3
+~
+~
+0 0 12059
+S
+#12095
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12092
+D2
+~
+~
+0 0 12098
+S
+#12096
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D2
+~
+~
+0 0 12097
+D3
+~
+~
+0 0 12091
+S
+#12097
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12096
+D2
+~
+~
+0 0 12101
+D3
+~
+~
+0 0 12089
+S
+#12098
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12095
+D1
+~
+~
+0 0 12090
+D2
+~
+~
+0 0 12099
+S
+#12099
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12098
+D1
+~
+~
+0 0 12088
+D2
+~
+~
+0 0 12069
+D3
+~
+~
+0 0 12100
+S
+#12100
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12099
+D2
+~
+~
+0 0 12070
+D3
+~
+~
+0 0 12110
+S
+#12101
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12097
+D1
+~
+~
+0 0 12102
+D2
+~
+~
+0 0 12078
+D3
+~
+~
+0 0 12087
+S
+#12102
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12105
+D2
+~
+~
+0 0 12079
+D3
+~
+~
+0 0 12101
+S
+#12103
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12086
+D2
+~
+~
+0 0 12082
+D3
+~
+~
+0 0 12104
+S
+#12104
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12118
+D1
+~
+~
+0 0 12103
+D2
+~
+~
+0 0 12081
+D3
+~
+~
+0 0 12105
+S
+#12105
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12117
+D1
+~
+~
+0 0 12104
+D2
+~
+~
+0 0 12080
+D3
+~
+~
+0 0 12102
+S
+#12106
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12107
+D2
+~
+~
+0 0 12075
+S
+#12107
+At the Foot of a Collapsed War Machine~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12111
+D1
+~
+~
+0 0 12108
+D2
+~
+~
+0 0 12074
+D3
+~
+~
+0 0 12106
+S
+#12108
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12109
+D2
+~
+~
+0 0 12073
+D3
+~
+~
+0 0 12107
+S
+#12109
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12110
+D2
+~
+~
+0 0 12072
+D3
+~
+~
+0 0 12108
+S
+#12110
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12116
+D1
+~
+~
+0 0 12100
+D2
+~
+~
+0 0 12071
+D3
+~
+~
+0 0 12109
+S
+#12111
+Entering a Grove Tucked Away in the Trees~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12112
+D2
+~
+~
+0 0 12107
+S
+#12112
+A Long-Abandoned Encampment~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12113
+D1
+~
+~
+0 0 12115
+D2
+~
+~
+0 0 12111
+S
+#12113
+A Long-Abandoned Encampment~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12114
+D2
+~
+~
+0 0 12112
+S
+#12114
+A Long-Abandoned Encampment~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D2
+~
+~
+0 0 12115
+D3
+~
+~
+0 0 12113
+S
+#12115
+A Long-Abandoned Encampment~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12114
+D3
+~
+~
+0 0 12112
+S
+#12116
+Surrounded by Marsh~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D2
+~
+~
+0 0 12110
+S
+#12117
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D2
+~
+~
+0 0 12105
+S
+#12118
+Walking the Battlefield~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12118
+D2
+~
+~
+0 0 12104
+D3
+~
+~
+0 0 12118
+S
+#12119
+On a Street Leading East to the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12029
+D3
+~
+~
+0 0 12120
+S
+#12120
+On a Street Leading East to the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12119
+D3
+~
+~
+0 0 12121
+S
+#12121
+A Street Crossing~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12122
+D1
+~
+~
+0 0 12120
+D2
+~
+~
+0 0 12123
+D3
+~
+~
+0 0 12124
+S
+#12122
+A Shadowy Street~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D2
+~
+~
+0 0 12121
+S
+#12123
+A Shadowy Street~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12121
+S
+#12124
+On a Street Leading East to the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12121
+D3
+~
+~
+0 0 12125
+S
+#12125
+On a Street Leading East to the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12124
+D3
+~
+~
+0 0 12126
+S
+#12126
+A Street Crossing~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12127
+D1
+~
+~
+0 0 12125
+D2
+~
+~
+0 0 12128
+S
+#12127
+A Shadowy Street~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D2
+~
+~
+0 0 12126
+S
+#12128
+A Shadowy Street~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12126
+S
+#12129
+On the Sloping Street to the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12130
+D3
+~
+~
+0 0 12035
+S
+#12130
+Before A Crumbling Arch in the Wall~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12131
+D3
+~
+~
+0 0 12129
+S
+#12131
+A Dark Chamber Behind the Portcullis~
+This room should be blocked by a portcullis on both the west and east sides,
+which can only be opened from on the battalion overhead by crank. Also, in the
+room directly overhead, a special command can be used to dump liquid fire onto
+people in the room, effectively ending their lives.
+~
+120 65545 0 0 0 0
+D1
+~
+~
+0 0 12132
+D3
+~
+~
+0 0 12130
+S
+#12132
+The Great Hall~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12143
+D1
+~
+~
+0 0 12133
+D2
+~
+~
+0 0 12142
+D3
+~
+~
+0 0 12131
+S
+#12133
+The Great Hall~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12144
+D1
+~
+~
+0 0 12134
+D2
+~
+~
+0 0 12141
+D3
+~
+~
+0 0 12132
+S
+#12134
+The Great Hall~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12139
+D1
+~
+~
+0 0 12135
+D2
+~
+~
+0 0 12140
+D3
+~
+~
+0 0 12133
+S
+#12135
+The Great Hall~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12137
+D1
+~
+~
+0 0 12136
+D2
+~
+~
+0 0 12138
+D3
+~
+~
+0 0 12134
+S
+#12136
+The Throne Room, Laid to Waste~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D3
+~
+~
+0 0 12135
+S
+#12137
+The Great Hall~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12145
+D2
+~
+~
+0 0 12135
+D3
+~
+~
+0 0 12139
+S
+#12138
+The Great Hall~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12135
+D2
+~
+~
+0 0 12146
+D3
+~
+~
+0 0 12140
+S
+#12139
+The Great Hall~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12137
+D2
+~
+~
+0 0 12134
+D3
+~
+~
+0 0 12144
+S
+#12140
+The Great Hall~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12134
+D1
+~
+~
+0 0 12138
+D3
+~
+~
+0 0 12141
+S
+#12141
+The Great Hall~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12133
+D1
+~
+~
+0 0 12140
+D3
+~
+~
+0 0 12142
+S
+#12142
+The Great Hall~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12132
+D1
+~
+~
+0 0 12141
+S
+#12143
+The Great Hall~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12144
+D2
+~
+~
+0 0 12132
+S
+#12144
+The Great Hall~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12139
+D2
+~
+~
+0 0 12133
+D3
+~
+~
+0 0 12143
+S
+#12145
+A Broad Stairwell~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D2
+~
+~
+0 0 12137
+D4
+~
+~
+0 0 12148
+D5
+~
+~
+0 0 12147
+S
+#12146
+A Broad Stairwell~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12138
+D4
+~
+~
+0 0 12150
+D5
+~
+~
+0 0 12149
+S
+#12147
+A Broad Stairwell~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D2
+~
+~
+0 0 12268
+D4
+~
+~
+0 0 12145
+S
+#12148
+A Broad Stairwell~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D2
+~
+~
+0 0 12244
+D5
+~
+~
+0 0 12145
+S
+#12149
+A Broad Stairwell~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12269
+D4
+~
+~
+0 0 12146
+S
+#12150
+A Broad Stairwell~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12247
+D5
+~
+~
+0 0 12146
+S
+#12151
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12047
+D3
+~
+~
+0 0 12152
+S
+#12152
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12151
+D3
+~
+~
+0 0 12153
+S
+#12153
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12152
+D3
+~
+~
+0 0 12154
+S
+#12154
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12153
+D3
+~
+~
+0 0 12155
+S
+#12155
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12154
+D3
+~
+~
+0 0 12156
+S
+#12156
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12155
+D3
+~
+~
+0 0 12157
+S
+#12157
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12156
+D3
+~
+~
+0 0 12158
+S
+#12158
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12157
+D3
+~
+~
+0 0 12159
+S
+#12159
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12158
+S
+#12160
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12161
+D3
+~
+~
+0 0 12046
+S
+#12161
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12162
+D3
+~
+~
+0 0 12160
+S
+#12162
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12163
+D3
+~
+~
+0 0 12161
+S
+#12163
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12164
+D3
+~
+~
+0 0 12162
+S
+#12164
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12165
+D3
+~
+~
+0 0 12163
+S
+#12165
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12166
+D3
+~
+~
+0 0 12164
+S
+#12166
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12167
+D3
+~
+~
+0 0 12165
+S
+#12167
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12168
+D3
+~
+~
+0 0 12166
+S
+#12168
+A Street in the Shadow of the Battalion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D3
+~
+~
+0 0 12167
+S
+#12169
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12170
+D3
+~
+~
+0 0 12055
+S
+#12170
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12171
+D3
+~
+~
+0 0 12169
+S
+#12171
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12172
+D3
+~
+~
+0 0 12170
+S
+#12172
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12173
+D3
+~
+~
+0 0 12171
+S
+#12173
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12174
+D3
+~
+~
+0 0 12172
+S
+#12174
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12175
+D3
+~
+~
+0 0 12173
+S
+#12175
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12176
+D3
+~
+~
+0 0 12174
+S
+#12176
+A Corner Bastion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D2
+~
+~
+0 0 12177
+D3
+~
+~
+0 0 12175
+S
+#12177
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12176
+D2
+~
+~
+0 0 12178
+S
+#12178
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12177
+D2
+~
+~
+0 0 12179
+S
+#12179
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12178
+D2
+~
+~
+0 0 12180
+S
+#12180
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12179
+D2
+~
+~
+0 0 12181
+S
+#12181
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12180
+D2
+~
+~
+0 0 12182
+S
+#12182
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12181
+D2
+~
+~
+0 0 12183
+S
+#12183
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12182
+D2
+~
+~
+0 0 12184
+S
+#12184
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12183
+D1
+~
+~
+0 0 12296
+D3
+~
+~
+0 0 12286
+S
+#12185
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12054
+D3
+~
+~
+0 0 12212
+S
+#12186
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12213
+D3
+~
+~
+0 0 12187
+S
+#12187
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12186
+D3
+~
+~
+0 0 12188
+S
+#12188
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12187
+D3
+~
+~
+0 0 12189
+S
+#12189
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12188
+D3
+~
+~
+0 0 12190
+S
+#12190
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12189
+D3
+~
+~
+0 0 12191
+S
+#12191
+A Corner Bastion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12190
+D2
+~
+~
+0 0 12192
+S
+#12192
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12191
+D2
+~
+~
+0 0 12193
+S
+#12193
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12192
+D2
+~
+~
+0 0 12194
+S
+#12194
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12193
+D2
+~
+~
+0 0 12195
+S
+#12195
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12194
+D2
+~
+~
+0 0 12196
+S
+#12196
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12195
+D2
+~
+~
+0 0 12197
+S
+#12197
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12196
+D2
+~
+~
+0 0 12198
+S
+#12198
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12197
+D2
+~
+~
+0 0 12199
+S
+#12199
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12198
+D2
+~
+~
+0 0 12200
+S
+#12200
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12199
+D2
+~
+~
+0 0 12201
+S
+#12201
+On the Barracades~
+This room is parallel with the fountain.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12200
+D2
+~
+~
+0 0 12202
+S
+#12202
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12201
+D2
+~
+~
+0 0 12203
+S
+#12203
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12202
+D2
+~
+~
+0 0 12204
+S
+#12204
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12203
+D2
+~
+~
+0 0 12205
+S
+#12205
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12204
+D2
+~
+~
+0 0 12206
+S
+#12206
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12205
+D2
+~
+~
+0 0 12207
+S
+#12207
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12206
+D2
+~
+~
+0 0 12208
+S
+#12208
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12207
+D2
+~
+~
+0 0 12209
+S
+#12209
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12208
+D2
+~
+~
+0 0 12210
+S
+#12210
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12209
+D2
+~
+~
+0 0 12211
+S
+#12211
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12210
+D2
+~
+~
+0 0 12214
+S
+#12212
+On the Barracades~
+You are in an unfinished room.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12185
+D3
+~
+~
+0 0 12213
+S
+#12213
+On the Barracades~
+You are in an unfinished room.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12212
+D3
+~
+~
+0 0 12186
+S
+#12214
+A Corner Bastion~
+This unfinished room was created by Accarid.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 0 12211
+D1
+~
+~
+0 0 12215
+S
+#12215
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12216
+D3
+~
+~
+0 0 12214
+S
+#12216
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12217
+D3
+~
+~
+0 0 12215
+S
+#12217
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12218
+D3
+~
+~
+0 0 12216
+S
+#12218
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12219
+D3
+~
+~
+0 0 12217
+S
+#12219
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12220
+D3
+~
+~
+0 0 12218
+S
+#12220
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12221
+D3
+~
+~
+0 0 12219
+S
+#12221
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12222
+D3
+~
+~
+0 0 12220
+S
+#12222
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12223
+D3
+~
+~
+0 0 12221
+S
+#12223
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12224
+D3
+~
+~
+0 0 12222
+S
+#12224
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12225
+D3
+~
+~
+0 0 12223
+S
+#12225
+On the Barracades~
+This room is parallel with the fountain.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12226
+D3
+~
+~
+0 0 12224
+S
+#12226
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12227
+D3
+~
+~
+0 0 12225
+S
+#12227
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12228
+D3
+~
+~
+0 0 12226
+S
+#12228
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12229
+D3
+~
+~
+0 0 12227
+S
+#12229
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12230
+D3
+~
+~
+0 0 12228
+S
+#12230
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12231
+D3
+~
+~
+0 0 12229
+S
+#12231
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12232
+D3
+~
+~
+0 0 12230
+S
+#12232
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12233
+D3
+~
+~
+0 0 12231
+S
+#12233
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12234
+D3
+~
+~
+0 0 12232
+S
+#12234
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12235
+D3
+~
+~
+0 0 12233
+S
+#12235
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12236
+D3
+~
+~
+0 0 12234
+S
+#12236
+A Corner Bastion~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12237
+D3
+~
+~
+0 0 12235
+S
+#12237
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12238
+D2
+~
+~
+0 0 12236
+S
+#12238
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12239
+D2
+~
+~
+0 0 12237
+S
+#12239
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12240
+D2
+~
+~
+0 0 12238
+S
+#12240
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12241
+D2
+~
+~
+0 0 12239
+S
+#12241
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12242
+D2
+~
+~
+0 0 12240
+S
+#12242
+On the Barracades~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D0
+~
+~
+0 0 12243
+D2
+~
+~
+0 0 12241
+S
+#12243
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 0
+D1
+~
+~
+0 0 12291
+D2
+~
+~
+0 0 12242
+D3
+~
+~
+0 0 12290
+S
+#12244
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12148
+D1
+~
+~
+0 0 12251
+D2
+~
+~
+0 0 12245
+D3
+~
+~
+0 0 12252
+S
+#12245
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12244
+D1
+~
+~
+0 0 12250
+D2
+~
+~
+0 0 12246
+D3
+~
+~
+0 0 12253
+S
+#12246
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12245
+D1
+~
+~
+0 0 12249
+D2
+~
+~
+0 0 12247
+D3
+~
+~
+0 0 12254
+S
+#12247
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12246
+D1
+~
+~
+0 0 12248
+D2
+~
+~
+0 0 12150
+D3
+~
+~
+0 0 12255
+S
+#12248
+The Privy~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D3
+~
+~
+0 0 12247
+S
+#12249
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12250
+D3
+~
+~
+0 0 12246
+S
+#12250
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D2
+~
+~
+0 0 12249
+D3
+~
+~
+0 0 12245
+S
+#12251
+The Armory~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D3
+~
+~
+0 0 12244
+S
+#12252
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12244
+D2
+~
+~
+0 0 12253
+D3
+~
+~
+0 0 12256
+S
+#12253
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12252
+D1
+~
+~
+0 0 12245
+D2
+~
+~
+0 0 12254
+D3
+~
+~
+0 0 12259
+S
+#12254
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12253
+D1
+~
+~
+0 0 12246
+D2
+~
+~
+0 0 12255
+D3
+~
+~
+0 0 12260
+S
+#12255
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12254
+D1
+~
+~
+0 0 12247
+D3
+~
+~
+0 0 12261
+S
+#12256
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12252
+D2
+~
+~
+0 0 12259
+D3
+~
+~
+0 0 12257
+S
+#12257
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12256
+D2
+~
+~
+0 0 12262
+D3
+~
+~
+0 0 12258
+S
+#12258
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12257
+D2
+~
+~
+0 0 12265
+S
+#12259
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12256
+D1
+~
+~
+0 0 12253
+D2
+~
+~
+0 0 12260
+D3
+~
+~
+0 0 12262
+S
+#12260
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12259
+D1
+~
+~
+0 0 12254
+D2
+~
+~
+0 0 12261
+D3
+~
+~
+0 0 12263
+S
+#12261
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12260
+D1
+~
+~
+0 0 12255
+D3
+~
+~
+0 0 12264
+S
+#12262
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12257
+D1
+~
+~
+0 0 12259
+D2
+~
+~
+0 0 12263
+D3
+~
+~
+0 0 12265
+S
+#12263
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12262
+D1
+~
+~
+0 0 12260
+D2
+~
+~
+0 0 12264
+D3
+~
+~
+0 0 12266
+S
+#12264
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12263
+D1
+~
+~
+0 0 12261
+D3
+~
+~
+0 0 12267
+S
+#12265
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12258
+D1
+~
+~
+0 0 12262
+D2
+~
+~
+0 0 12266
+S
+#12266
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12265
+D1
+~
+~
+0 0 12263
+D2
+~
+~
+0 0 12267
+S
+#12267
+The Barracks~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12266
+D1
+~
+~
+0 0 12264
+S
+#12268
+The Dungeon~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12147
+D1
+~
+~
+0 0 12275
+D2
+~
+~
+0 0 12270
+S
+#12269
+The Dungeon~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12270
+D1
+~
+~
+0 0 12277
+D2
+~
+~
+0 0 12149
+S
+#12270
+The Dungeon~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12268
+D1
+~
+~
+0 0 12276
+D2
+~
+~
+0 0 12269
+D3
+~
+~
+0 0 12271
+S
+#12271
+The Dungeon~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12278
+D1
+~
+~
+0 0 12270
+D2
+~
+~
+0 0 12279
+D3
+~
+~
+0 0 12272
+S
+#12272
+The Dungeon~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12280
+D1
+~
+~
+0 0 12271
+D2
+~
+~
+0 0 12281
+D3
+~
+~
+0 0 12273
+S
+#12273
+The Dungeon~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12282
+D1
+~
+~
+0 0 12272
+D2
+~
+~
+0 0 12283
+D3
+~
+~
+0 0 12274
+S
+#12274
+The Dungeon~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12284
+D1
+~
+~
+0 0 12273
+D2
+~
+~
+0 0 12285
+S
+#12275
+A Small Cell~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D3
+~
+~
+0 0 12268
+S
+#12276
+The Guard Post~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D3
+~
+~
+0 0 12270
+S
+#12277
+A Small Cell~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D3
+~
+~
+0 0 12269
+S
+#12278
+A Small Cell~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D2
+~
+~
+0 0 12271
+S
+#12279
+A Small Cell~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12271
+S
+#12280
+A Small Cell~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D2
+~
+~
+0 0 12272
+S
+#12281
+A Small Cell~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12272
+S
+#12282
+A Small Cell~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D2
+~
+~
+0 0 12273
+S
+#12283
+A Small Cell~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12273
+S
+#12284
+A Cell Used for Storage~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D2
+~
+~
+0 0 12274
+S
+#12285
+A Small Cell~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12274
+S
+#12286
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12184
+D3
+~
+~
+0 0 12287
+S
+#12287
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12286
+D2
+~
+~
+0 0 12288
+S
+#12288
+On the Barracades Over the Gates~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12287
+D2
+~
+~
+0 0 12289
+S
+#12289
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12288
+D1
+~
+~
+0 0 12290
+S
+#12290
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12243
+D3
+~
+~
+0 0 12289
+S
+#12291
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12292
+D3
+~
+~
+0 0 12243
+S
+#12292
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12293
+D3
+~
+~
+0 0 12291
+S
+#12293
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12294
+D3
+~
+~
+0 0 12292
+S
+#12294
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D0
+~
+~
+0 0 12295
+D1
+~
+~
+0 0 2309
+D2
+~
+~
+0 0 12293
+S
+#12295
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D2
+~
+~
+0 0 12294
+D3
+~
+~
+0 0 12298
+S
+#12296
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12297
+D3
+~
+~
+0 0 12184
+S
+#12297
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12298
+D3
+~
+~
+0 0 12296
+S
+#12298
+On the Barracades Over the Citadel~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 0
+D1
+~
+~
+0 0 12295
+D3
+~
+~
+0 0 12297
+S
+#12299
+A Forgotten Sewer~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D2
+~
+~
+0 0 2300
+D4
+~
+~
+0 0 12076
+S
+$~

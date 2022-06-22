@@ -1,0 +1,582 @@
+#3100
+rod fishing~
+a fly-fishing rod~
+A small stick with a long string attached rests here, unused.~
+~
+24 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+2 0 0 0
+#3101
+hat pirate~
+an old pirate's hat~
+An old hat that looks like it belonged to a pirate has been discarded.~
+~
+11 mn 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+3 0 0 12
+A
+23 1
+A
+19 3
+#3102
+trousers pants~
+a pair of old, patched trousers~
+These ratty-looking pants have seen better days.~
+~
+11 0 0 0 0 af 0 0 0 0 0 0 0
+0 0 0 0
+3 0 0 12
+A
+13 15
+A
+2 1
+#3103
+net fishing~
+a small fishing net~
+A small net lies here.~
+~
+24 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+4 0 0 0
+#3104
+crown leaves~
+a crown of silver-veined leaves~
+A few leaves, glistening with silvery streaks, form a circle.~
+~
+9 iop 0 0 0 ae 0 0 0 0 0 0 0
+3 0 0 0
+1 0 0 25
+A
+12 35
+A
+13 25
+#3105
+bark silverwood~
+the bark of a silverwood tree~
+A huge chunk of dark black tree bark with silver streaks glistens in the light.~
+~
+9 bm 0 0 0 aj 0 0 0 0 0 0 0
+15 0 0 0
+10 0 0 24
+A
+13 25
+A
+19 1
+#3106
+cart~
+a small wooden cart~
+A wooden cart full of stolen goods, sits atteneded by the pirate wench.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+50 0 -1 0
+0 0 0 0
+#3107
+urn gold~
+a golden urn~
+A small urn made of solid gold is here.~
+~
+8 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+6 75000 0 0
+#3108
+platinum bar~
+a bar of platinum~
+A beatiful bar of silverish metal has carelessly been left behind.~
+~
+8 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+10 300000 0 0
+#3109
+adamantine coin~
+an adamantine coin~
+A very precious coin has been lost.~
+~
+8 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 500000 0 0
+#3110
+knife~
+a hunting knife~
+A long knife that looks like it would be good for hunting is here.~
+~
+5 jmn 0 0 0 an 0 0 0 0 0 0 0
+0 6 5 11
+5 0 0 23
+A
+18 4
+A
+19 3
+#3111
+bow longbow~
+the Hunter's longbow~
+A large hunting bow is here, waiting for a master.~
+~
+25 amn 0 0 0 an 0 0 0 0 0 0 0
+3 0 0 0
+8 0 0 24
+A
+18 4
+A
+19 3
+#3112
+arrow~
+a mahogony arrow~
+A long, sharp arrow made out of hard wood is here.~
+~
+29 0 0 0 0 ao 0 0 0 0 0 0 0
+0 6 5 0
+1 0 0 24
+A
+18 1
+A
+19 1
+#3113
+shroud hunter~
+the hunter's shroud~
+A dark green shroud has been left carelessly behind.~
+~
+9 j 0 0 0 ak 0 0 0 0 0 0 0
+3 0 0 0
+5 0 0 22
+A
+2 2
+A
+13 25
+#3114
+belt rope cord~
+a cord of rope, tied into a belt~
+A long strand of rope, good for use as a belt, is here.~
+~
+11 0 0 0 0 al 0 0 0 0 0 0 0
+0 0 0 0
+2 0 0 20
+A
+12 30
+A
+1 1
+#3115
+quiver~
+a leather quiver~
+A small quiver made of tanned leather is here.~
+~
+15 mn 0 0 0 ak 0 0 0 0 0 0 0
+25 0 -1 0
+2 0 0 17
+A
+18 2
+A
+19 1
+#3116
+boots leather~
+a pair of soft leather boots~
+A pair of well-worn, soft leather boots have been left behind.~
+~
+11 0 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0
+6 0 0 22
+A
+12 25
+A
+19 2
+#3117
+hide griffon~
+a griffon's hide~
+A beatiful, furry hide of a griffon lies on the ground.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+10 0 0 0
+#3118
+feather griffon~
+a griffon feather~
+The feather of a griffon's wing floats in the wind.~
+~
+12 klop 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 28
+A
+12 35
+A
+13 35
+#3119
+branch~
+a hollow tree branch~
+There is a small, hollow tree branch growing here.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+10 15 3135 0
+0 0 0 0
+#3120
+leaf~
+a silverwood leaf~
+A small silvery leaf lies on the ground.~
+~
+31 cdqr 0 0 0 ao 0 0 0 0 0 0 0
+0 1 1 0
+1 0 0 31
+A
+19 7
+A
+13 30
+#3121
+spirit amber~
+the spirit of a silverwood, encased in amber~
+A small sphere of fossilized amber contains a whispy substance...~
+~
+1 afkl 0 0 0 ao 0 0 0 0 0 0 0
+0 0 -1 0
+5 0 0 30
+A
+18 3
+A
+19 1
+#3122
+coins mound~
+a gigantic pile of precious coins~
+A huge mound of multi-colored coins lies here, gathered from a recent plunder.~
+~
+20 0 0 0 0 a 0 0 0 0 0 0 0
+310500 0 0 0
+25 0 0 0
+#3123
+jerky food~
+some deer jerky~
+A piece of dried deer jerky has been tossed aside.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+3 0 0 0
+1 0 0 0
+#3124
+bread loaf waybread food~
+a small loaf of waybread~
+A small loaf of delicious-looking bread is here.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+8 0 0 0
+1 0 0 0
+#3125
+berries food~
+some wild berries~
+Growing on a bush are several small red and purple berries.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+5 0 0 0
+1 0 0 0
+#3126
+cloak ranger~
+the long green cloak of the ranger~
+A huge pile of dark green fabric lies in a heap.~
+~
+11 klmn 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+5 0 0 30
+A
+13 20
+A
+19 4
+#3127
+bottle stout beer~
+a bottle of stout beer~
+A small bottle of a very dark beer is here.~
+A delicious brew by the god Alenus.
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+3 3 1 0
+8 100 0 0
+#3128
+staff gnarled~
+a gnarled wooden staff~
+A twisted and gnarled wooden staff has been tossed aside.~
+~
+4 gr 0 0 0 ao 0 0 0 0 0 0 0
+20 7 7 23
+3 5000 0 5
+A
+19 -2
+#3129
+vial flask~
+a vial of clear liquid~
+A small vial filled with a clear, odorless liquid is here.~
+~
+10 0 0 0 0 a 0 0 0 0 0 0 0
+20 19 1 3
+1 300 0 0
+#3130
+claws griffon~
+the griffon's claws~
+The severed claws of a mighty griffon have been left here.~
+~
+31 c 0 0 0 agh 0 0 0 0 0 0 0
+0 1 1 0
+6 0 0 0
+#3131
+sword ranger~
+the sword of the ranger~
+A long ranger's sword has been left on the ground.~
+~
+5 kmnp 0 0 0 an 0 0 0 0 0 0 0
+0 8 8 3
+8 0 0 25
+A
+18 6
+A
+19 3
+#3132
+branch silverwood~
+the branch of a Silverwood tree~
+A long tree branch has fallen to the ground.  It's silvery veins shimmer in the light.~
+~
+31 c 0 0 0 ao 0 0 0 0 0 0 0
+0 1 1 0
+16 0 0 0
+#3133
+branch~
+a hollow tree branch~
+There is a small, hollow tree branch growing here.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+15 15 3131 0
+30 0 0 0
+#3134
+ring forest~
+the ring of the forest~
+A small, fossilized ring lies here.~
+~
+11 blmn 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 25
+A
+18 5
+A
+19 3
+#3135
+blade machete~
+a machete~
+A large blade good for cutting your way out of a heavy situation is here.~
+~
+31 c 0 0 0 an 0 0 0 0 0 0 0
+0 1 1 0
+6 0 0 25
+A
+19 4
+A
+18 3
+#3136
+leaf silverwood~
+a glowing silver leaf~
+A small silver-veined leaf glows brightly.~
+~
+1 op 0 0 0 ao 0 0 0 0 0 0 0
+0 0 -1 0
+1 0 0 1
+A
+12 20
+A
+13 15
+#3183
+sword biddlewump cleric~
+the mighty clerical sword of Biddlewump~
+A large, cleric's sword with the name Biddlewump etched into the blade is here.~
+~
+5 an 0 0 0 an 0 0 0 0 0 0 0
+0 7 6 3
+8 0 0 30
+A
+12 50
+A
+4 3
+#3184
+staff blindness~
+Alenus' badass staff of BLINDNESS!~
+A badass staff is here.~
+~
+4 0 0 0 0 ao 0 0 0 0 0 0 0
+34 15 15 4
+5 0 0 32
+#3185
+clip 9mm~
+a 9mm bullet clip~
+A small clip filled with bullets awaits a smoking gun.~
+~
+15 dr 0 0 0 ao 0 0 0 0 0 0 0
+19 0 -1 0
+3 0 0 32
+A
+19 15
+A
+13 75
+#3186
+boots leather black~
+a pair of black leather boots~
+A pair of boots made of black leather have been left in the corner.~
+~
+11 r 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0
+6 0 0 32
+A
+18 15
+A
+19 15
+A
+13 100
+#3187
+bullet 9mm~
+a 9mm bullet~
+A small bullet lies here.~
+~
+28 r 0 0 0 ao 0 0 0 0 0 0 0
+0 100 100 0
+1 0 0 33
+#3188
+pistol 9mm~
+a silenced 9mm pistol~
+A small black gun with a metal cylinder screwed onto the barrel lies here.~
+~
+27 klr 0 0 0 an 0 0 0 0 0 0 0
+3 0 0 0
+10 0 0 33
+A
+18 50
+A
+19 40
+#3189
+shirt ohio bobcat~
+Bobcat's green Ohio University t-shirt~
+A green shirt with the word "Bobcat" embroidered onto the back lies here.~
+~
+11 r 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+3 0 0 32
+A
+13 100
+A
+18 30
+A
+19 30
+A
+24 -10
+#3190
+cookie~
+a cookie~
+A cookie has been left here for someone "special."~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+1 0 0 0
+0 0 0 0
+#3191
+jeans~
+a pair of blue jeans~
+A pair of denim blue jeans have been tossed aside.~
+~
+15 r 0 0 0 af 0 0 0 0 0 0 0
+500 0 -1 0
+5 0 0 32
+A
+13 50
+A
+19 10
+#3192
+rosary beads cross~
+the rosary beads of the MacManus brothers~
+A long necklace of dark beads and a dark-colored celtic cross lay here.~
+~
+4 gi 0 0 0 aco 0 0 0 0 0 0 0
+31 10 10 36
+1 0 0 1
+#3193
+ring smoke~
+a smoke ring~
+Someone blew a smoke ring and it kept its shape!~
+~
+11 r 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 32
+A
+18 10
+A
+19 10
+A
+12 20
+A
+13 20
+#3194
+dagger saint macmanus~
+the dagger of the Boondock Saints~
+The MacManus family dagger has been left behind carelessly.~
+~
+5 klmnr 0 0 0 an 0 0 0 0 0 0 0
+10 50 50 11
+6 0 0 32
+A
+18 35
+A
+19 25
+#3195
+shirt black~
+a black shirt~
+A small shirt of black fabric has been left behind.~
+~
+11 r 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+4 0 0 32
+A
+13 100
+A
+18 30
+A
+19 30
+A
+24 -10
+#3196
+belt~
+a plain leather belt~
+A simple belt made of leather is here.~
+~
+9 mnr 0 0 0 al 0 0 0 0 0 0 0
+10 0 0 0
+3 0 0 32
+A
+18 20
+A
+19 10
+A
+24 -5
+#3197
+ring zeal~
+the ring of Zeal~
+What seems like a small vortex lies on the floor, swirling constantly.~
+~
+11 klmnpr 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 32
+A
+18 10
+A
+19 10
+#3198
+f effort grade~
+an "F" for effort~
+Someone just couldn't quite make it, and only got an "F" for effort.~
+~
+12 dq 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+A
+3 -10
+A
+4 -10
+#3199
+stick ugly~
+an ugly stick~
+A stick that looks like it fell from a very ugly tree lies on the ground.~
+~
+5 c 0 0 0 ano 0 0 0 0 0 0 0
+0 3 3 5
+3 0 0 0
+A
+18 3
+A
+3 -1
+A
+6 -1
+$~

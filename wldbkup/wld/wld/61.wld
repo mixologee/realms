@@ -1,0 +1,1967 @@
+#6100
+Spring Garden and Arch Street~
+Thick vines hang down from the trees above and cling to the thick trunks as
+they snake their way to ground. Two paths converge here and head south and
+east around the city. The ground below your feet is soft and spongy with
+lush green moss.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6101
+D2
+~
+~
+0 0 6110
+D4
+~
+~
+0 0 6150
+S
+#6101
+Spring Garden Street~
+Street is certainly an interesting word for what your walking on. It is more
+like a well groomed path, than anything. The tree's grow as closely as is
+possible to the lush green, moss covered path, and provide excellent cover
+from the prying eyes of the outside world.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6102
+D3
+~
+~
+0 0 6100
+S
+#6102
+Spring Garden Street~
+Huge thick tree's wrap around the path and rise high into the sky. The giant
+roots of the trees stretch all about, but never onto the path itself, as if
+the tree's were aware of it. Another path connects here and heads south into
+the Tropical City's plaza.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6103
+D2
+~
+~
+0 0 6112
+D3
+~
+~
+0 0 6101
+S
+#6103
+Spring Garden Street~
+The moss covered path continues its stretch east and west. The tropical city
+has integrated seamlessly with forest itself, creating a unique sense of
+balance unlike anywhere else you've ever been. The diversity of plants is
+breathtaking and although the primary colors of this city are green an brown,
+some of the large plants have brilliant flowers of red, orange, and blue.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6104
+D3
+~
+~
+0 0 6102
+S
+#6104
+Spring Garden Street~
+The tree's that surround the city and and act as its wall, grow in close to
+the path. All around you, the jungle forest city, feels vibrant with life.
+Animals wander freely through the so called streets, of moss covered paths.
+Some of the older trees towards, the center of the city look like they've
+stood since the begining of time.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6105
+D3
+~
+~
+0 0 6103
+S
+#6105
+Spring Garden Street~
+Street is certainly an interesting word for what your walking on. It is more
+like a well groomed path, than anything. The tree's grow as closely as is
+possible to the lush green, moss covered path, and provide excellent cover
+from the prying eyes of the outside world.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6106
+D3
+~
+~
+0 0 6104
+S
+#6106
+Spring Garden Street~
+The moss covered path continues its stretch east and west. The tropical city
+has integrated seamlessly with forest itself, creating a unique sense of
+balance unlike anywhere else you've ever been. The diversity of plants is
+breathtaking and although the primary colors of this city are green an brown,
+some of the large plants have brilliant flowers of red, orange, and blue.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6107
+D3
+~
+~
+0 0 6105
+S
+#6107
+Spring Garden Street~
+Huge thick tree's wrap around the path and rise high into the sky. The giant
+roots of the trees stretch all about, but never onto the path itself, as if
+the tree's were aware of it. Another path connects here and heads south into
+the Tropical City's plaza.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6108
+D2
+~
+~
+0 0 6117
+D3
+~
+~
+0 0 6106
+D4
+~
+~
+0 0 6164
+S
+#6108
+Spring Garden Street~
+The tree's that surround the city and and act as its wall, grow in close to
+the path. All around you, the jungle forest city, feels vibrant with life.
+Animals wander freely through the so called streets, of moss covered paths.
+Some of the older trees towards, the center of the city look like they've
+stood since the begining of time.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6109
+D3
+~
+~
+0 0 6107
+S
+#6109
+Spring Garden and Vine Street~
+Thick vines hang down from the trees above and cling to the thick trunks as
+they snake their way to ground. Two paths converge here and head south and
+west around the city. The ground below your feet is soft and spongy with
+lush green moss.
+~
+61 0 0 0 0 3
+D2
+~
+~
+0 0 6119
+D3
+~
+~
+0 0 6108
+S
+#6110
+Arch Street~
+Massive coniferns, and numerous other small plants hug the ground closely
+along the path. The trees themselves, grow together closely along the
+western side of the path, creating a living wall to protect city itself.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6100
+D2
+~
+~
+0 0 6120
+D4
+~
+~
+0 0 6152
+S
+#6111
+Mage Guild~
+The guild resides inside a huge tree, like many of the shops throughout the 
+Tropical City. Spells have been scrawled on the walls almost everywhere, making
+it difficult at times, to differentiate one from the next. Spell books and 
+other magical devices are scattered about the area.
+~
+61 8 0 0 0 0
+D2
+~
+~
+0 0 6121
+D4
+~
+~
+0 0 6153
+S
+#6112
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6102
+D2
+~
+~
+0 0 6122
+S
+#6113
+Bank~
+The tree this bank calls home, appears to be hundreds of years old. Even
+after having been carved out for the bank, at it's base, it is still very
+much alive. Branches have actually begun to grow inside the tree, and give
+off a strong feeling of magic.
+~
+61 8 0 0 0 0
+D2
+~
+~
+0 0 6123
+D4
+~
+~
+0 0 6165
+S
+#6114
+Armor Shop~
+This shop is not open yet. The walls are empty and the room is barren.
+~
+61 8 0 0 0 3
+D2
+~
+~
+0 0 6124
+D4
+~
+~
+0 0 6166
+S
+#6115
+Weapon Shop~
+This shop is not open yet. The walls are empty and the room is barren.
+~
+61 8 0 0 0 3
+D2
+~
+~
+0 0 6125
+D4
+~
+~
+0 0 6167
+S
+#6116
+Donation Room~
+This rather bland room, carries a strong magical presence.  The creators
+designed it to send out a magical beacon to all unwanted and unused equipment
+across the island.  When a piece of gear is undesired, the room summons it to
+itself, and offers it to the next person it is meant to be with.  
+~
+61 8 0 0 0 3
+D2
+~
+~
+0 0 6126
+D4
+~
+~
+0 0 6168
+S
+#6117
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6107
+D2
+~
+~
+0 0 6127
+D4
+~
+~
+0 0 6169
+S
+#6118
+Warrior Guild~
+Diagrams of numerous mobs and their weak spots, cover the walls of this large
+tree. There is plenty of open space in the center to practice one's warrior
+skills, or spar with a partner. 
+~
+61 8 0 0 0 0
+D2
+~
+~
+0 0 6128
+S
+#6119
+Vine Street~
+Massive coniferns, and numerous other small plants hug the ground closely
+along the path. The trees themselves, grow together closely along the
+eastern side of the path, creating a living wall to protect city itself.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6109
+D2
+~
+~
+0 0 6129
+S
+#6120
+Arch Street~
+Huge thick tree's wrap around the path and rise high into the sky. The giant
+roots of the trees stretch all about, but never onto the path itself, as if
+the tree's were aware of it. Another path connects here and heads east into
+the Tropical City's plaza.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6110
+D1
+~
+~
+0 0 6121
+D2
+~
+~
+0 0 6130
+D4
+~
+~
+0 0 6154
+S
+#6121
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6111
+D1
+~
+~
+0 0 6122
+D2
+~
+~
+0 0 6131
+D3
+~
+~
+0 0 6120
+D4
+~
+~
+0 0 6155
+S
+#6122
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6112
+D1
+~
+~
+0 0 6123
+D2
+~
+~
+0 0 6132
+D3
+~
+~
+0 0 6121
+S
+#6123
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6113
+D1
+~
+~
+0 0 6124
+D2
+~
+~
+0 0 6133
+D3
+~
+~
+0 0 6122
+S
+#6124
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6114
+D1
+~
+~
+0 0 6125
+D2
+~
+~
+0 0 6134
+D3
+~
+~
+0 0 6123
+S
+#6125
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6115
+D1
+~
+~
+0 0 6126
+D2
+~
+~
+0 0 6135
+D3
+~
+~
+0 0 6124
+S
+#6126
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6116
+D1
+~
+~
+0 0 6127
+D2
+~
+~
+0 0 6136
+D3
+~
+~
+0 0 6125
+S
+#6127
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 67108864 0 0 0 3
+D0
+~
+~
+0 0 6117
+D1
+~
+~
+0 0 6128
+D2
+~
+~
+0 0 6137
+D3
+~
+~
+0 0 6126
+D4
+~
+~
+0 0 6174
+S
+#6128
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6118
+D1
+~
+~
+0 0 6129
+D2
+~
+~
+0 0 6138
+D3
+~
+~
+0 0 6127
+S
+#6129
+Vine Street~
+Huge thick tree's wrap around the path and rise high into the sky. The giant
+roots of the trees stretch all about, but never onto the path itself, as if
+the tree's were aware of it. Another path connects here and heads west into
+the Tropical City's plaza.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6119
+D2
+~
+~
+0 0 6139
+D3
+~
+~
+0 0 6128
+S
+#6130
+Arch Street~
+Massive coniferns, and numerous other small plants hug the ground closely
+along the path. The trees themselves, grow together closely along the
+western side of the path, creating a living wall to protect city itself.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6120
+D2
+~
+~
+0 0 6140
+D4
+~
+~
+0 0 6156
+S
+#6131
+Thieve's Guild~
+This tree is ancient. It's trunk has no holes and the only light in the trunk,
+comes from the entrance. Deep in the shadows you can just make out the faint 
+figure of the thief guildmaster.
+~
+61 9 0 0 0 0
+D0
+~
+~
+0 0 6121
+D4
+~
+~
+0 0 6157
+S
+#6132
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6122
+D2
+~
+~
+0 0 6142
+S
+#6133
+Post Office~
+Much care has been taken to ensure that this young tree, survived the
+hollowing process. As the tree matures, it will slowly grow inside itself,
+filtering the air inside the post office, and producing an equisite decor, at
+the same time.
+~
+61 8 0 0 0 0
+D0
+~
+~
+0 0 6123
+D4
+~
+~
+0 0 6175
+S
+#6134
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6124
+D1
+~
+~
+0 0 6135
+D2
+~
+~
+0 0 6144
+D4
+~
+~
+0 0 6176
+S
+#6135
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6125
+D2
+~
+~
+0 0 6145
+D3
+~
+~
+0 0 6134
+D4
+~
+~
+0 0 6177
+S
+#6136
+The Cajun Kitchen~
+Exotic fruits and other delicasies, from all over the island, fill the room.
+Along the walls are baskets full of mangos, bananas, pineapples and countless
+other tropical fruits. For the brave, a wooden display case, showcases many 
+indiginous insects well known for flavor and nutrients.
+~
+61 8 0 0 0 3
+D0
+~
+~
+0 0 6126
+D4
+~
+~
+0 0 6178
+S
+#6137
+Tropical City Plaza~
+The legendary tropical city plaza is known throughout the world for it's
+amazing aesthetics and design. The whole plaza is a huge hanging garden with
+plants from all other the world, nestled in with the indiginous plants of
+the island. Large waterfalls pour down the sides of some of the bigger trees
+and into crystal reflecting pools.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6127
+D2
+~
+~
+0 0 6147
+D4
+~
+~
+0 0 6179
+S
+#6138
+Cleric Guild~
+This tree is considered holy by many of the natives in the Tropical City, and
+the rest of the island. Many miracles have been witnessed inside it's hollow 
+trunk. It is said that the high cleric who presides over this guild, joined
+his soul to the tree, and will live as long as it does.
+~
+61 8 0 0 0 0
+D0
+~
+~
+0 0 6128
+S
+#6139
+Vine Street~
+Massive coniferns, and numerous other small plants hug the ground closely
+along the path. The trees themselves, grow together closely along the
+eastern side of the path, creating a living wall to protect city itself.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6129
+D2
+~
+~
+0 0 6149
+S
+#6140
+Callow Hill and Arch Street~
+Thick vines hang down from the trees above and cling to the thick trunks as
+they snake their way to ground. Two paths converge here and head north and
+east around the city. The ground below your feet is soft and spongy with
+lush green moss.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6130
+D1
+~
+~
+0 0 6141
+D4
+~
+~
+0 0 6158
+S
+#6141
+Callow Hill Street~
+The tree's that surround the city and and act as its wall, grow in close to
+the path. All around you, the jungle forest city, feels vibrant with life.
+Animals wander freely through the so called streets, of moss covered paths.
+Some of the older trees towards, the center of the city look like they've
+stood since the begining of time.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6142
+D3
+~
+~
+0 0 6140
+D4
+~
+~
+0 0 6159
+S
+#6142
+Callow Hill Street~
+Huge thick tree's wrap around the path and rise high into the sky. The giant
+roots of the trees stretch all about, but never onto the path itself, as if
+the tree's were aware of it. Another path connects here and heads north into
+the Tropical City's plaza.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6132
+D1
+~
+~
+0 0 6143
+D3
+~
+~
+0 0 6141
+S
+#6143
+Callow Hill Street~
+The moss covered path continues its stretch east and west. The tropical city
+has integrated seamlessly with forest itself, creating a unique sense of
+balance unlike anywhere else you've ever been. The diversity of plants is
+breathtaking and although the primary colors of this city are green an brown,
+some of the large plants have brilliant flowers of red, orange, and blue.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6144
+D3
+~
+~
+0 0 6142
+S
+#6144
+Callow Hill Street~
+Just north of here, the trees open up a bit, and give way to the legendary
+Tropical City Plaza. The largest trees are used to house shops and hold up
+the higher levels of the city. The thick green moss that is everywhere,
+covers the ground, and makes walking easy on the feet.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6134
+D1
+~
+~
+0 0 6145
+D3
+~
+~
+0 0 6143
+S
+#6145
+Callow Hill Street~
+Just north of here, the trees open up a bit, and give way to the legendary
+Tropical City Plaza. The largest trees are used to house shops and hold up
+the higher levels of the city. The thick green moss that is everywhere,
+covers the ground, and makes walking easy on the feet.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6135
+D1
+~
+~
+0 0 6146
+D3
+~
+~
+0 0 6144
+S
+#6146
+Callow Hill Street~
+The moss covered path continues its stretch east and west. The tropical city
+has integrated seamlessly with forest itself, creating a unique sense of
+balance unlike anywhere else you've ever been. The diversity of plants is
+breathtaking and although the primary colors of this city are green an brown,
+some of the large plants have brilliant flowers of red, orange, and blue.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6147
+D3
+~
+~
+0 0 6145
+S
+#6147
+Callow Hill Street~
+Huge thick tree's wrap around the path and rise high into the sky. The giant
+roots of the trees stretch all about, but never onto the path itself, as if
+the tree's were aware of it. Another path connects here and heads north into
+the Tropical City's plaza.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6137
+D1
+~
+~
+0 0 6148
+D3
+~
+~
+0 0 6146
+D4
+~
+~
+0 0 6184
+S
+#6148
+Callow Hill Street~
+Street is certainly an interesting word for what your walking on. It is more
+like a well groomed path, than anything. The tree's grow as closely as is
+possible to the lush green, moss covered path, and provide excellent cover
+from the prying eyes of the outside world.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6149
+D3
+~
+~
+0 0 6147
+S
+#6149
+Callow Hill and Vine Street~
+Thick vines hang down from the trees above and cling to the thick trunks as
+they snake their way to ground. Two paths converge here and head north and
+west around the city. The ground below your feet is soft and spongy with
+lush green moss.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6139
+D3
+~
+~
+0 0 6148
+S
+#6150
+Up In The Trees~
+The platform beneath your feet, stretches out a ways. All around you, the
+forest is alive with action. Birds dart through the air and the sharp howl
+of monkeys echo's through the forest occasionally. The leaves of the tree's
+rustle in unison, as the wind pushes through the forest, sending them to the
+ground far below.
+~
+61 0 0 0 0 3
+D1
+~
+~
+0 0 6151
+D2
+~
+~
+0 0 6152
+D5
+~
+~
+0 0 6100
+S
+#6151
+Empty Building~
+This first level home is currently for sale.
+~
+61 0 0 0 0 0
+D2
+~
+~
+0 0 6153
+D3
+~
+~
+0 0 6150
+S
+#6152
+Up In The Trees~
+The platform beneath your feet, stretches out a ways. All around you, the
+forest is alive with action. Birds dart through the air and the sharp howl
+of monkeys echo's through the forest occasionally. The leaves of the tree's
+rustle in unison, as the wind pushes through the forest, sending them to the
+ground far below.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6150
+D1
+~
+~
+0 0 6153
+D2
+~
+~
+0 0 6154
+D5
+~
+~
+0 0 6110
+S
+#6153
+Up In The Trees~
+The platform beneath your feet, stretches out a ways. All around you, the
+forest is alive with action. Birds dart through the air and the sharp howl
+of monkeys echo's through the forest occasionally. The leaves of the tree's
+rustle in unison, as the wind pushes through the forest, sending them to the
+ground far below.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6151
+D2
+~
+~
+0 0 6155
+D3
+~
+~
+0 0 6152
+D4
+~
+~
+0 0 6188
+D5
+~
+~
+0 0 6111
+S
+#6154
+Up In The Trees~
+The platform beneath your feet, stretches out a ways. All around you, the
+forest is alive with action. Birds dart through the air and the sharp howl
+of monkeys echo's through the forest occasionally. The leaves of the tree's
+rustle in unison, as the wind pushes through the forest, sending them to the
+ground far below.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6152
+D1
+~
+~
+0 0 6155
+D2
+~
+~
+0 0 6156
+D5
+~
+~
+0 0 6120
+S
+#6155
+Up In The Trees~
+The platform beneath your feet, stretches out a ways. All around you, the
+forest is alive with action. Birds dart through the air and the sharp howl
+of monkeys echo's through the forest occasionally. The leaves of the tree's
+rustle in unison, as the wind pushes through the forest, sending them to the
+ground far below.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6153
+D2
+~
+~
+0 0 6157
+D3
+~
+~
+0 0 6154
+D5
+~
+~
+0 0 6121
+S
+#6156
+Up In The Trees~
+The platform beneath your feet, stretches out a ways. All around you, the
+forest is alive with action. Birds dart through the air and the sharp howl
+of monkeys echo's through the forest occasionally. The leaves of the tree's
+rustle in unison, as the wind pushes through the forest, sending them to the
+ground far below.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6154
+D1
+~
+~
+0 0 6157
+D2
+~
+~
+0 0 6158
+D5
+~
+~
+0 0 6130
+S
+#6157
+Up In The Trees~
+The platform beneath your feet, stretches out a ways. All around you, the
+forest is alive with action. Birds dart through the air and the sharp howl
+of monkeys echo's through the forest occasionally. The leaves of the tree's
+rustle in unison, as the wind pushes through the forest, sending them to the
+ground far below.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6155
+D2
+~
+~
+0 0 6159
+D3
+~
+~
+0 0 6156
+D5
+~
+~
+0 0 6131
+S
+#6158
+Currency Exchange Shop~
+The platform beneath your feet, stretches out a ways. All around you, the
+forest is alive with action. Birds dart through the air and the sharp howl
+of monkeys echo's through the forest occasionally. The leaves of the tree's
+rustle in unison, as the wind pushes through the forest, sending them to the
+ground far below.
+~
+61 8 0 0 0 3
+D0
+~
+~
+0 0 6156
+D1
+~
+~
+0 0 6159
+D5
+~
+~
+0 0 6140
+S
+#6159
+Magic Shop~
+The platform beneath your feet, stretches out a ways. All around you, the
+forest is alive with action. Birds dart through the air and the sharp howl
+of monkeys echo's through the forest occasionally. The leaves of the tree's
+rustle in unison, as the wind pushes through the forest, sending them to the
+ground far below.
+~
+61 8 0 0 0 3
+D0
+~
+~
+0 0 6157
+D3
+~
+~
+0 0 6158
+D5
+~
+~
+0 0 6141
+S
+#6160
+Empty Building~
+This first level home, is currently for sale.
+~
+61 0 0 0 0 0
+D2
+~
+~
+0 0 6165
+S
+#6161
+Empty Building~
+This first level home, is currently for sale.
+~
+61 0 0 0 0 0
+D2
+~
+~
+0 0 6166
+S
+#6162
+Empty Building~
+This first level home, is currently for sale.
+~
+61 0 0 0 0 0
+D2
+~
+~
+0 0 6167
+S
+#6163
+Empty Building~
+This first level home, is currently for sale.
+~
+61 0 0 0 0 0
+D1
+~
+~
+0 0 6164
+D2
+~
+~
+0 0 6168
+S
+#6164
+Bainbridge Street~
+The platform beneath your feet, is supported by about four massive trees. The
+true mystery in this city is how the feat is accomplished. No nails or
+anchoring of any type can be seen, and yet the platform is as sturdy as the
+ground below.
+~
+61 0 0 0 0 3
+D2
+~
+~
+0 0 6169
+D3
+~
+~
+0 0 6163
+D4
+~
+~
+0 0 6194
+D5
+~
+~
+0 0 6107
+S
+#6165
+Lombard Street~
+The massive tree's all around you, support the platform below your feet. The
+limbs from the trees wrap themselves around the platform keeping it perfectly
+in position. The thick foliage from the tree's never manages to get in the
+way of the platform, making walking quite easy.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6160
+D1
+~
+~
+0 0 6166
+D2
+~
+~
+0 0 6170
+D4
+~
+~
+0 0 6190
+D5
+~
+~
+0 0 6113
+S
+#6166
+Lombard Street~
+The sheer number in the shades of green all around you, is breathtaking to
+say the least. Each tree seems to have it's own particular variance of the
+color. Huge vines snake under the platform and reappear on the other side,
+as they hold it firmly in place.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6161
+D1
+~
+~
+0 0 6167
+D2
+~
+~
+0 0 6171
+D3
+~
+~
+0 0 6165
+D5
+~
+~
+0 0 6114
+S
+#6167
+Lombard Street~
+The massive tree's all around you, support the platform below your feet. The
+limbs from the trees wrap themselves around the platform keeping it perfectly
+in position. The thick foliage from the tree's never manages to get in the
+way of the platform, making walking quite easy.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6162
+D1
+~
+~
+0 0 6168
+D2
+~
+~
+0 0 6172
+D3
+~
+~
+0 0 6166
+D5
+~
+~
+0 0 6115
+S
+#6168
+Lombard Street~
+The sheer number in the shades of green all around you, is breathtaking to
+say the least. Each tree seems to have it's own particular variance of the
+color. Huge vines snake under the platform and reappear on the other side,
+as they hold it firmly in place.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6163
+D1
+~
+~
+0 0 6169
+D2
+~
+~
+0 0 6173
+D3
+~
+~
+0 0 6167
+D5
+~
+~
+0 0 6116
+S
+#6169
+Lombard and Bainbridge Street~
+The massive tree's all around you, support the platform below your feet. The
+limbs from the trees wrap themselves around the platform keeping it perfectly
+in position. The thick foliage from the tree's never manages to get in the
+way of the platform, making walking quite easy.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6164
+D2
+~
+~
+0 0 6174
+D3
+~
+~
+0 0 6168
+D5
+~
+~
+0 0 6117
+S
+#6170
+Empty Building~
+This first level home, is currently for sale.
+~
+61 0 0 0 0 0
+D0
+~
+~
+0 0 6165
+D2
+~
+~
+0 0 6175
+S
+#6171
+Empty Building~
+This first level home, is currently for sale.
+~
+61 0 0 0 0 0
+D0
+~
+~
+0 0 6166
+D2
+~
+~
+0 0 6176
+S
+#6172
+Empty Building~
+This first level home, is currently for sale.
+~
+61 0 0 0 0 0
+D0
+~
+~
+0 0 6167
+D2
+~
+~
+0 0 6177
+S
+#6173
+Empty Building~
+This first level home, is currently for sale.
+~
+61 0 0 0 0 0
+D0
+~
+~
+0 0 6168
+D1
+~
+~
+0 0 6174
+D2
+~
+~
+0 0 6178
+S
+#6174
+Bainbridge Street~
+The sheer number in the shades of green all around you, is breathtaking to
+say the least. Each tree seems to have it's own particular variance of the
+color. Huge vines snake under the platform and reappear on the other side,
+as they hold it firmly in place.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6169
+D2
+~
+~
+0 0 6179
+D3
+~
+~
+0 0 6173
+D4
+~
+~
+0 0 6195
+D5
+~
+~
+0 0 6127
+S
+#6175
+Sansom Street~
+The sheer number in the shades of green all around you, is breathtaking to
+say the least. Each tree seems to have it's own particular variance of the
+color. Huge vines snake under the platform and reappear on the other side,
+as they hold it firmly in place.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6170
+D1
+~
+~
+0 0 6176
+D2
+~
+~
+0 0 6180
+D5
+~
+~
+0 0 6133
+S
+#6176
+Sansom Street~
+The massive tree's all around you, support the platform below your feet. The
+limbs from the trees wrap themselves around the platform keeping it perfectly
+in position. The thick foliage from the tree's never manages to get in the
+way of the platform, making walking quite easy.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6171
+D1
+~
+~
+0 0 6177
+D2
+~
+~
+0 0 6181
+D3
+~
+~
+0 0 6175
+D5
+~
+~
+0 0 6134
+S
+#6177
+Sansom Street~
+The sheer number in the shades of green all around you, is breathtaking to
+say the least. Each tree seems to have it's own particular variance of the
+color. Huge vines snake under the platform and reappear on the other side,
+as they hold it firmly in place.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6172
+D1
+~
+~
+0 0 6178
+D2
+~
+~
+0 0 6182
+D3
+~
+~
+0 0 6176
+D5
+~
+~
+0 0 6135
+S
+#6178
+Sansom Street~
+The platform beneath your feet, is supported by about four massive trees. The
+true mystery in this city is how the feat is accomplished. No nails or
+anchoring of any type can be seen, and yet the platform is as sturdy as the
+ground below.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6173
+D1
+~
+~
+0 0 6179
+D2
+~
+~
+0 0 6183
+D3
+~
+~
+0 0 6177
+D5
+~
+~
+0 0 6136
+S
+#6179
+Sansom and Bainbridge Street~
+The massive tree's all around you, support the platform below your feet. The
+limbs from the trees wrap themselves around the platform keeping it perfectly
+in position. The thick foliage from the tree's never manages to get in the
+way of the platform, making walking quite easy.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6174
+D2
+~
+~
+0 0 6184
+D3
+~
+~
+0 0 6178
+D5
+~
+~
+0 0 6137
+S
+#6180
+Empty Building~
+This first level home, is currently for sale.
+~
+61 0 0 0 0 0
+D0
+~
+~
+0 0 6175
+S
+#6181
+Empty Building~
+This first level home, is currently for sale.
+~
+61 0 0 0 0 0
+D0
+~
+~
+0 0 6176
+S
+#6182
+Empty Building~
+This first level home, is currently for sale.
+~
+61 0 0 0 0 0
+D0
+~
+~
+0 0 6177
+S
+#6183
+Empty Building~
+This first level home, is currently for sale.
+~
+61 0 0 0 0 0
+D0
+~
+~
+0 0 6178
+D1
+~
+~
+0 0 6184
+S
+#6184
+Bainbridge Street~
+The platform beneath your feet, is supported by about four massive trees. The
+true mystery in this city is how the feat is accomplished. No nails or
+anchoring of any type can be seen, and yet the platform is as sturdy as the
+ground below.
+~
+61 0 0 0 0 3
+D0
+~
+~
+0 0 6179
+D3
+~
+~
+0 0 6183
+D4
+~
+~
+0 0 6196
+D5
+~
+~
+0 0 6147
+S
+#6185
+Empty Building~
+This second level home, is currently for sale.
+~
+61 0 0 0 0 0
+D2
+~
+~
+0 0 6188
+S
+#6186
+Empty Building~
+This second level home, is currently for sale.
+~
+61 0 0 0 0 0
+D2
+~
+~
+0 0 6189
+S
+#6187
+Empty Building~
+This second level home, is currently for sale.
+~
+61 0 0 0 0 0
+D2
+~
+~
+0 0 6190
+S
+#6188
+Green Street~
+The platform under your feet, sways gently back and forth along the with the rest
+of the tree's, this high up. The homes on this level look much nicer than those
+below and each one seems to have been uniquely designed. The branches from the
+trees wrap around each home securely holding it in place.
+~
+61 8192 0 0 0 3
+D0
+~
+~
+0 0 6185
+D1
+~
+~
+0 0 6189
+D2
+~
+~
+0 0 6191
+D4
+~
+~
+0 0 6197
+D5
+~
+~
+0 0 6153
+S
+#6189
+Green Street~
+The platform under your feet, sways gently back and forth along the with the rest
+of the tree's, this high up. The homes on this level look much nicer than those
+below and each one seems to have been uniquely designed. The branches from the
+trees wrap around each home securely holding it in place.
+~
+61 8192 0 0 0 3
+D0
+~
+~
+0 0 6186
+D1
+~
+~
+0 0 6190
+D2
+~
+~
+0 0 6192
+D3
+~
+~
+0 0 6188
+D4
+~
+~
+0 0 6198
+S
+#6190
+Green Street~
+The platform under your feet, sways gently back and forth along the with the
+rest of the tree's, this high up.  The homes on this level look much nicer than
+those below and each one seems to have been uniquely designed.  The branches
+from the trees wrap around each home securely holding it in place.  
+~
+61 8192 0 0 0 3
+D0
+~
+~
+0 0 6187
+D2
+~
+~
+0 0 6193
+D3
+~
+~
+0 0 6189
+D4
+~
+~
+0 0 6199
+D5
+~
+~
+0 0 6165
+S
+#6191
+Empty Building~
+This second level home, is currently for sale.
+~
+61 0 0 0 0 0
+D0
+~
+~
+0 0 6188
+S
+#6192
+Empty Building~
+This second level home, is currently for sale.
+~
+61 0 0 0 0 0
+D0
+~
+~
+0 0 6189
+S
+#6193
+Empty Building~
+This second level home, is currently for sale.
+~
+61 0 0 0 0 0
+D0
+~
+~
+0 0 6190
+S
+#6194
+Empty Building~
+This second level home, is currently for sale.
+~
+61 8 0 0 0 0
+D5
+~
+~
+0 0 6164
+S
+#6195
+Empty Building~
+This second level home, is currently for sale.
+~
+61 8 0 0 0 0
+D5
+~
+~
+0 0 6174
+S
+#6196
+Empty Building~
+This second level home, is currently for sale.
+~
+61 8 0 0 0 0
+D5
+~
+~
+0 0 6184
+S
+#6197
+Dormio's House~
+Write a descript an mudmail to tek
+~
+61 2568 0 0 0 0
+D5
+~
+~
+0 0 6188
+S
+#6198
+&CSitting On A C&Mr&Ce&Ms&Cc&Me&Cn&Mt &CM&Mo&Co&Mn&n~
+Above the jungle this crescent moon never moves and never fades from view.  
+Clutters of equipment and scrap papers lie everywhere, and a small blanket is
+nested off to the side.  It looks as if someone lives upon the moon itself, and
+then looking upward you see crudely carved in the surface 'Akiram wuz here!'
+~
+61 2568 0 0 0 0
+D5
+~
+~
+0 0 6189
+S
+#6199
+Emblazon's House~
+make a descript an mudmail to tek
+~
+61 2568 0 0 0 0
+D5
+~
+~
+0 0 6190
+S
+$~

@@ -1,0 +1,5005 @@
+#14300
+The Fountain at the Center of Astari~
+So yeah, this is a temple/city zone with a labyrinth full of evil crap beneath
+it. There's a bunch of other stuff that makes it interesting, read the
+surrounding rooms. The entire city is made of glass.
+~
+143 -469762032 1 0 0 1
+D0
+~
+~
+0 0 14301
+D1
+~
+~
+0 0 14303
+D2
+~
+~
+0 0 14305
+D3
+~
+~
+0 0 14307
+S
+#14301
+The Main Square of Astari~
+This city is basically a giant temple with outposts for the trading of goods and
+necessities of civilized city life. So, there are no real houses, just the
+moonflower temple (dedicated to the moon). Beneath the city, the priests of
+Astari have trapped dangerous abominations in a magical labyrinth, which can be
+accessed beneath the temple behind several doors sealed by locks and magic. 
+There is plenty of loot to be had here, but main mobs will spawn city guards to
+help if they are attacked, so beware.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14312
+D1
+~
+~
+0 0 14302
+D2
+~
+~
+0 0 14300
+D3
+~
+~
+0 0 14308
+S
+#14302
+The Main Square of Astari~
+I'm not sure how to make the temple. Until I figure that out, the zone will not
+be made any larger. It will be partially above ground, in the form of altars to
+the moon, with a complex below ground, living quarters and other necessary city
+centers.
+~
+143 -2147483648 1 0 0 1
+D2
+~
+~
+0 0 14303
+D3
+~
+~
+0 0 14301
+S
+#14303
+The Main Square of Astari~
+The basic shops can be found outside the temple. The entire city is
+weatherproof and mostly outdoors.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14302
+D1
+~
+~
+0 0 14309
+D2
+~
+~
+0 0 14304
+D3
+~
+~
+0 0 14300
+S
+#14304
+The Main Square of Astari~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14303
+D3
+~
+~
+0 0 14305
+S
+#14305
+The Main Square of Astari~
+I suppose that the city will be level 20-25 mobs, the temple will be 23-28, and
+the labyrinth 30-38.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14300
+D1
+~
+~
+0 0 14304
+D2
+~
+~
+0 0 14310
+D3
+~
+~
+0 0 14306
+S
+#14306
+The Main Square of Astari~
+All surface mobiles will be good, all labyrinth mobiles will be evil.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14307
+D1
+~
+~
+0 0 14305
+S
+#14307
+The Main Square of Astari~
+According to the principles of the Astari people, there will be no taverns in
+Astari, and evildoers will be attacked by guards on sight.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14308
+D1
+~
+~
+0 0 14300
+D2
+~
+~
+0 0 14306
+D3
+~
+~
+0 0 14311
+S
+#14308
+The Main Square of Astari~
+Surface items will be themed around punishment of evil and the undead, and
+healing. Below ground, they are themed around the spread of chaos, and exacting
+revenge on members of the light.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14301
+D2
+~
+~
+0 0 14307
+S
+#14309
+East of the Main Square~
+Above here, there is an observatory deck. This is also the corner of the north
+and south temple buildings.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14329
+D3
+~
+~
+0 0 14303
+D4
+~
+~
+0 0 14316
+S
+#14310
+South of the Main Square~
+Above here, there is an observatory deck. This is also the corner of the east
+and west buildings.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14305
+D2
+~
+~
+0 0 14330
+D4
+~
+~
+0 0 14313
+S
+#14311
+West of the Main Square~
+Above here, there is an observatory deck.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14307
+D3
+~
+~
+0 0 14328
+D4
+~
+~
+0 0 14314
+S
+#14312
+North of the Main Square~
+North of here lies the complex around the labryinth entrance. Above here, there
+is an observatory deck.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14327
+D2
+~
+~
+0 0 14301
+D4
+~
+~
+0 0 14315
+S
+#14313
+On a Staircase, Overlooking the Square~
+This unfinished room was created by Accarid.
+~
+143 -2147483644 1 0 0 1
+D0
+~
+~
+0 0 14321
+D5
+~
+~
+0 0 14310
+S
+#14314
+On a Staircase, Overlooking the Square~
+This unfinished room was created by Accarid.
+~
+143 -2147483644 1 0 0 1
+D1
+~
+~
+0 0 14323
+D5
+~
+~
+0 0 14311
+S
+#14315
+On a Staircase, Overlooking the Square~
+This unfinished room was created by Accarid.
+~
+143 -2147483644 1 0 0 1
+D2
+~
+~
+0 0 14317
+D5
+~
+~
+0 0 14312
+S
+#14316
+On a Staircase, Overlooking the Square~
+This unfinished room was created by Accarid.
+~
+143 -2147483644 1 0 0 1
+D3
+~
+~
+0 0 14319
+D5
+~
+~
+0 0 14309
+S
+#14317
+On a Platform Below the Telescope~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14315
+D4
+~
+~
+0 0 14318
+S
+#14318
+On the Observatory Main Level~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D2
+~
+~
+0 0 14325
+D5
+~
+~
+0 0 14317
+S
+#14319
+On a Platform Below the Telescope~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14316
+D4
+~
+~
+0 0 14320
+S
+#14320
+On the Observatory Main Level~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D2
+~
+~
+0 0 14326
+D3
+~
+~
+0 0 14325
+D5
+~
+~
+0 0 14319
+S
+#14321
+On a Platform Below the Telescope~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D2
+~
+~
+0 0 14313
+D4
+~
+~
+0 0 14322
+S
+#14322
+On the Observatory Main Level~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14325
+D1
+~
+~
+0 0 14326
+D5
+~
+~
+0 0 14321
+S
+#14323
+On a Platform Below the Telescope~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D3
+~
+~
+0 0 14314
+D4
+~
+~
+0 0 14324
+S
+#14324
+On the Observatory Main Level~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14325
+D5
+~
+~
+0 0 14323
+S
+#14325
+At the Base of the Telescope~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14318
+D1
+~
+~
+0 0 14320
+D2
+~
+~
+0 0 14322
+D3
+~
+~
+0 0 14324
+S
+#14326
+The Telescope Control Room~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14320
+D3
+~
+~
+0 0 14322
+S
+#14327
+On a Street Paved with Glass~
+The labyrinth will have to be a separate, hundred room zone from the city,
+attached at the lowest room of the temple.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14339
+D2
+~
+~
+0 0 14312
+S
+#14328
+On a Street Paved with Glass~
+The lower level temple will have a number of things, including a crypt, altar,
+glass factory, a communal storage facility, and a public bath.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14311
+D3
+~
+~
+0 0 14361
+S
+#14329
+On a Street Paved with Glass~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14367
+D3
+~
+~
+0 0 14309
+S
+#14330
+On a Street Paved with Glass~
+If this ever matters, the city is heavily immersed in spice trade, exporting
+native spices.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14310
+D2
+~
+~
+0 0 14331
+S
+#14331
+On a Street Paved with Glass~
+The survey message for this zone should be: A shining temple surrounded by
+gardens rises from the desert.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14330
+D1
+~
+~
+0 0 14443
+D2
+~
+~
+0 0 14332
+D3
+~
+~
+0 0 14442
+S
+#14332
+On a Street Paved with Glass~
+To the east and west of here there is an entrance to the temple complex.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14331
+D1
+~
+~
+0 0 14449
+D2
+~
+~
+0 0 14333
+D3
+~
+~
+0 0 14448
+S
+#14333
+On a Street Paved with Glass~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14332
+D2
+~
+~
+0 0 14334
+S
+#14334
+On a Street Paved with Glass~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14333
+D1
+~
+~
+0 0 3333
+D2
+~
+~
+0 0 14335
+S
+#14335
+On a Broad Balcony~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14334
+D1
+~
+~
+0 0 14337
+D2
+~
+~
+0 0 14338
+D3
+~
+~
+0 0 14336
+S
+#14336
+On a Broad Balcony~
+This room is parallel on the north-south axis with west side shops on the
+adjacent street, running north-south.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14335
+D3
+~
+~
+0 0 14347
+D5
+~
+~
+0 0 14374
+S
+#14337
+On a Broad Balcony~
+This room is parallel on the north-south axis with east side shops on the
+adjacent street, running north-south.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14354
+D3
+~
+~
+0 0 14335
+D5
+~
+~
+0 0 14373
+S
+#14338
+On a Broad Balcony, Overlooking the Desert~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14335
+D1
+~
+~
+0 0 14337
+D3
+~
+~
+0 0 14336
+S
+#14339
+On a Street Paved with Glass~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14340
+D2
+~
+~
+0 0 14327
+S
+#14340
+On a Street Paved with Glass~
+To the east and west of here there is an entrance to the temple complex.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14341
+D1
+~
+~
+0 0 14451
+D2
+~
+~
+0 0 14339
+D3
+~
+~
+0 0 14450
+S
+#14341
+On a Street Paved with Glass~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14342
+D2
+~
+~
+0 0 14340
+S
+#14342
+On a Street Paved with Glass~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14343
+D2
+~
+~
+0 0 14341
+S
+#14343
+On a Broad Balcony~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14344
+D1
+~
+~
+0 0 14345
+D2
+~
+~
+0 0 14342
+D3
+~
+~
+0 0 14346
+S
+#14344
+On a Broad Balcony, Overlooking the Desert~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14345
+D2
+~
+~
+0 0 14343
+D3
+~
+~
+0 0 14346
+S
+#14345
+On a Broad Balcony~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14422
+D3
+~
+~
+0 0 14343
+D5
+~
+~
+0 0 14379
+S
+#14346
+On a Broad Balcony~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14343
+D3
+~
+~
+0 0 14430
+D5
+~
+~
+0 0 14381
+S
+#14347
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14336
+D3
+~
+~
+0 0 14348
+S
+#14348
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 3334
+D1
+~
+~
+0 0 14347
+D3
+~
+~
+0 0 14349
+S
+#14349
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14348
+D3
+~
+~
+0 0 14350
+S
+#14350
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 3336
+D1
+~
+~
+0 0 14349
+D3
+~
+~
+0 0 14351
+S
+#14351
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14350
+D3
+~
+~
+0 0 14352
+S
+#14352
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 3335
+D1
+~
+~
+0 0 14351
+D3
+~
+~
+0 0 14353
+S
+#14353
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14385
+D1
+~
+~
+0 0 14352
+S
+#14354
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 3365
+D1
+~
+~
+0 0 14355
+D3
+~
+~
+0 0 14337
+S
+#14355
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 3344
+D1
+~
+~
+0 0 14356
+D3
+~
+~
+0 0 14354
+S
+#14356
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 3364
+D1
+~
+~
+0 0 14357
+D3
+~
+~
+0 0 14355
+S
+#14357
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 3363
+D1
+~
+~
+0 0 14358
+D3
+~
+~
+0 0 14356
+S
+#14358
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 3362
+D1
+~
+~
+0 0 14359
+D3
+~
+~
+0 0 14357
+S
+#14359
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14360
+D3
+~
+~
+0 0 14358
+S
+#14360
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14409
+D3
+~
+~
+0 0 14359
+S
+#14361
+On a Street Paved with Glass~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14328
+D3
+~
+~
+0 0 14362
+S
+#14362
+On a Street Paved with Glass~
+The hotel is on a level over the temple entryway. The temple path slopes down
+into the earth.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14361
+D2
+~
+door~
+1 0 14444
+D3
+~
+~
+0 0 14363
+S
+#14363
+On a Street Paved with Glass~
+To the north and south of here there is an entrance to the temple complex.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14460
+D1
+~
+~
+0 0 14362
+D2
+~
+~
+0 0 14462
+D3
+~
+~
+0 0 14364
+S
+#14364
+On a Street Paved with Glass~
+The hotel is on a level over the temple entryway. The temple path slopes down
+into the earth.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14363
+D2
+~
+door~
+1 0 14446
+D3
+~
+~
+0 0 14365
+S
+#14365
+On a Street Paved with Glass~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14364
+D3
+~
+~
+0 0 14366
+S
+#14366
+On a Broad Balcony~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14393
+D1
+~
+~
+0 0 14365
+D2
+~
+~
+0 0 14392
+D3
+~
+~
+0 0 14394
+S
+#14367
+On a Street Paved with Glass~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 3407
+D1
+~
+~
+0 0 14368
+D3
+~
+~
+0 0 14329
+S
+#14368
+On a Street Paved with Glass~
+To the north and south of here there is an entrance to the temple complex.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14456
+D1
+~
+~
+0 0 14369
+D2
+~
+~
+0 0 14458
+D3
+~
+~
+0 0 14367
+S
+#14369
+On a Street Paved with Glass~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14370
+D3
+~
+~
+0 0 14368
+S
+#14370
+On a Street Paved with Glass~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14371
+D3
+~
+~
+0 0 14369
+S
+#14371
+On a Street Paved with Glass~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14372
+D3
+~
+~
+0 0 14370
+S
+#14372
+On a Broad Balcony~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14401
+D1
+~
+~
+0 0 14403
+D2
+~
+~
+0 0 14402
+D3
+~
+~
+0 0 14371
+S
+#14373
+Below a Balcony, in the Shadow of the Observatory~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D3
+~
+~
+0 0 14375
+D4
+~
+~
+0 0 14337
+S
+#14374
+Below a Balcony, in the Shadow of the Observatory~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14375
+D4
+~
+~
+0 0 14336
+S
+#14375
+At the Foot of a Frosted Glass Mural~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14373
+D2
+~
+~
+0 0 14376
+D3
+~
+~
+0 0 14374
+S
+#14376
+Walking Through a Desert Garden~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 56
+D0
+~
+~
+0 0 14375
+D2
+~
+~
+0 0 14377
+S
+#14377
+Walking Through a Desert Garden~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 56
+D0
+~
+~
+0 0 14376
+D2
+~
+~
+0 0 14378
+S
+#14378
+At the Beginning of a Glass Brick Path~
+This is the room where the south exit of the city goes into the desert.
+~
+143 0 1 0 0 56
+D0
+~
+~
+0 0 14377
+S
+#14379
+Below a Balcony, in the Shadow of the Observatory~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D3
+~
+~
+0 0 14380
+D4
+~
+~
+0 0 14345
+S
+#14380
+At the Foot of a Frosted Glass Mural~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14382
+D1
+~
+~
+0 0 14379
+D3
+~
+~
+0 0 14381
+S
+#14381
+Below a Balcony, in the Shadow of the Observatory~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14380
+D4
+~
+~
+0 0 14346
+S
+#14382
+Walking Through a Desert Garden~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 56
+D0
+~
+~
+0 0 14383
+D2
+~
+~
+0 0 14380
+S
+#14383
+Walking Through a Desert Garden~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 56
+D0
+~
+~
+0 0 14384
+D2
+~
+~
+0 0 14382
+S
+#14384
+At the Beginning of a Brick Glass Path~
+This is the room where the north exit of the city goes into the desert.
+~
+143 0 1 0 0 56
+D2
+~
+~
+0 0 14383
+S
+#14385
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14386
+D2
+~
+~
+0 0 14353
+S
+#14386
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14387
+D1
+~
+~
+0 0 3337
+D2
+~
+~
+0 0 14385
+S
+#14387
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14388
+D2
+~
+~
+0 0 14386
+S
+#14388
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14389
+D1
+~
+~
+0 0 3338
+D2
+~
+~
+0 0 14387
+S
+#14389
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14390
+D2
+~
+~
+0 0 14388
+S
+#14390
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14391
+D1
+~
+~
+0 0 3339
+D2
+~
+~
+0 0 14389
+S
+#14391
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14392
+D2
+~
+~
+0 0 14390
+S
+#14392
+On a Broad Balcony~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14366
+D2
+~
+~
+0 0 14391
+D5
+~
+~
+0 0 14395
+S
+#14393
+On a Broad Balcony~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14423
+D2
+~
+~
+0 0 14366
+D5
+~
+~
+0 0 14397
+S
+#14394
+On a Broad Balcony, Overlooking the Desert~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14393
+D1
+~
+~
+0 0 14366
+D2
+~
+~
+0 0 14392
+S
+#14395
+Below a Balcony, in the Shadow of the Observatory~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14396
+D4
+~
+~
+0 0 14392
+S
+#14396
+At the Foot of a Frosted Glass Mural~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14397
+D2
+~
+~
+0 0 14395
+D3
+~
+~
+0 0 14398
+S
+#14397
+Below a Balcony, in the Shadow of the Observatory~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D2
+~
+~
+0 0 14396
+D4
+~
+~
+0 0 14393
+S
+#14398
+Walking Through a Desert Garden~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 56
+D1
+~
+~
+0 0 14396
+D3
+~
+~
+0 0 14399
+S
+#14399
+Walking Through a Desert Garden~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 56
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 14398
+D3
+~
+~
+0 0 14400
+S
+#14400
+At the Beginning of a Glass Brick Path~
+This is the room where the west exit of the city goes into the desert.
+~
+143 0 1 0 0 56
+D1
+~
+~
+0 0 14399
+S
+#14401
+On a Broad Balcony~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14410
+D2
+~
+~
+0 0 14372
+D5
+~
+~
+0 0 14436
+S
+#14402
+On a Broad Balcony~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14372
+D2
+~
+~
+0 0 14404
+D5
+~
+~
+0 0 14438
+S
+#14403
+On a Broad Balcony, Overlooking the Desert~
+Lo, the crystalgate of awesomeness.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14401
+D2
+~
+~
+0 0 14402
+D3
+~
+~
+0 0 14372
+S
+#14404
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14402
+D2
+~
+~
+0 0 14405
+D3
+~
+~
+0 0 3357
+S
+#14405
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14404
+D2
+~
+~
+0 0 14406
+D3
+~
+~
+0 0 3358
+S
+#14406
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14405
+D2
+~
+~
+0 0 14407
+S
+#14407
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14406
+D2
+~
+~
+0 0 14408
+D3
+~
+~
+0 0 3359
+S
+#14408
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14407
+D2
+~
+~
+0 0 14409
+D3
+~
+~
+0 0 3360
+S
+#14409
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14408
+D2
+~
+~
+0 0 14360
+D3
+~
+~
+0 0 3361
+S
+#14410
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14411
+D2
+~
+~
+0 0 14401
+S
+#14411
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14412
+D2
+~
+~
+0 0 14410
+D3
+~
+~
+0 0 3356
+S
+#14412
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14413
+D2
+~
+~
+0 0 14411
+S
+#14413
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14414
+D2
+~
+~
+0 0 14412
+D3
+~
+~
+0 0 3355
+S
+#14414
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14415
+D2
+~
+~
+0 0 14413
+D3
+~
+~
+0 0 3354
+S
+#14415
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14416
+D2
+~
+~
+0 0 14414
+S
+#14416
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D2
+~
+~
+0 0 14415
+D3
+~
+~
+0 0 14417
+S
+#14417
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14416
+D2
+~
+~
+0 0 3353
+D3
+~
+~
+0 0 14418
+S
+#14418
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14417
+D2
+~
+~
+0 0 3352
+D3
+~
+~
+0 0 14419
+S
+#14419
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14418
+D3
+~
+~
+0 0 14420
+S
+#14420
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14419
+D2
+~
+~
+0 0 3351
+D3
+~
+~
+0 0 14421
+S
+#14421
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14420
+D2
+~
+~
+0 0 3350
+D3
+~
+~
+0 0 14422
+S
+#14422
+On a Path Near the Gardens~
+You are in an unfinished room.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14421
+D3
+~
+~
+0 0 14345
+S
+#14423
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14424
+D1
+~
+~
+0 0 3340
+D2
+~
+~
+0 0 14393
+S
+#14424
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14425
+D2
+~
+~
+0 0 14423
+S
+#14425
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14426
+D1
+~
+~
+0 0 3342
+D2
+~
+~
+0 0 14424
+S
+#14426
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14427
+D1
+~
+~
+0 0 3343
+D2
+~
+~
+0 0 14425
+S
+#14427
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14428
+D1
+~
+~
+0 0 3341
+D2
+~
+~
+0 0 14426
+S
+#14428
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14429
+D1
+~
+~
+0 0 3345
+D2
+~
+~
+0 0 14427
+S
+#14429
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14435
+D2
+~
+~
+0 0 14428
+S
+#14430
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14346
+D2
+~
+~
+0 0 3349
+D3
+~
+~
+0 0 14431
+S
+#14431
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14430
+D3
+~
+~
+0 0 14432
+S
+#14432
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14431
+D2
+~
+~
+0 0 3348
+D3
+~
+~
+0 0 14433
+S
+#14433
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14432
+D3
+~
+~
+0 0 14434
+S
+#14434
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14433
+D2
+~
+~
+0 0 3347
+D3
+~
+~
+0 0 14435
+S
+#14435
+On a Path Near the Gardens~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D1
+~
+~
+0 0 14434
+D2
+~
+~
+0 0 3346
+D3
+~
+~
+0 0 14429
+S
+#14436
+Below a Balcony, in the Shadow of the Observatory~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D2
+~
+~
+0 0 14437
+D4
+~
+~
+0 0 14401
+S
+#14437
+At the Foot of a Frosted Glass Mural~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14436
+D1
+~
+~
+0 0 14439
+D2
+~
+~
+0 0 14438
+S
+#14438
+Below a Balcony, in the Shadow of the Observatory~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 1
+D0
+~
+~
+0 0 14437
+D4
+~
+~
+0 0 14402
+S
+#14439
+Walking Through a Desert Garden~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 56
+D1
+~
+~
+0 0 14440
+D3
+~
+~
+0 0 14437
+S
+#14440
+Walking Through a Desert Garden~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 56
+D1
+~
+~
+0 0 14441
+D3
+~
+~
+0 0 14439
+S
+#14441
+At the Beginning of a Brick Glass Path~
+This is the room where the east exit of the city goes into the desert.
+~
+143 0 1 0 0 56
+D3
+~
+~
+0 0 14440
+S
+#14442
+The Bank of Astari~
+This room will be a bank.
+~
+143 -2147483640 0 0 0 1
+D1
+~
+~
+0 0 14331
+S
+#14443
+The Astari Post Office~
+This room will be a post office.
+~
+143 -2147483640 256 0 0 1
+D3
+~
+~
+0 0 14331
+S
+#14444
+In the Main Hall of the Moonflower Inn~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 1
+D0
+~
+door~
+1 0 14362
+D3
+~
+~
+0 0 14445
+S
+#14445
+In the Main Hall of the Moonflower Inn~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 1
+D1
+~
+~
+0 0 14444
+D2
+~
+~
+0 0 14447
+D3
+~
+~
+0 0 14446
+S
+#14446
+In the Main Hall of the Moonflower Inn~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 1
+D0
+~
+door~
+1 0 14364
+D1
+~
+~
+0 0 14445
+S
+#14447
+Before the Check-in Desk~
+This unfinished room was created by Accarid.
+~
+143 -1073741816 2048 0 0 1
+D0
+~
+~
+0 0 14445
+S
+#14448
+The Entryway to the Temple of Astari~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14332
+D3
+~
+~
+0 0 14452
+S
+#14449
+The Entryway to the Temple of Astari~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14453
+D3
+~
+~
+0 0 14332
+S
+#14450
+The Entryway to the Temple of Astari~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14340
+D3
+~
+~
+0 0 14454
+S
+#14451
+The Entryway to the Temple of Astari~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14455
+D3
+~
+~
+0 0 14340
+S
+#14452
+The Entryway to the Temple of Astari~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14448
+D3
+~
+~
+0 0 14477
+S
+#14453
+The Entryway to the Temple of Astari~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14470
+D3
+~
+~
+0 0 14449
+S
+#14454
+The Entryway to the Temple of Astari~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14450
+D3
+~
+~
+0 0 14484
+S
+#14455
+The Entryway to the Temple of Astari~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14491
+D3
+~
+~
+0 0 14451
+S
+#14456
+The Entryway to the Temple of Astari~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14457
+D2
+~
+~
+0 0 14368
+S
+#14457
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14514
+D1
+~
+~
+0 0 14487
+D2
+~
+~
+0 0 14456
+D3
+~
+~
+0 0 14485
+S
+#14458
+The Entryway to the Temple of Astari~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14368
+D2
+~
+~
+0 0 14459
+S
+#14459
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14458
+D1
+~
+~
+0 0 14466
+D2
+~
+~
+0 0 14506
+D3
+~
+~
+0 0 14464
+S
+#14460
+The Entryway to the Temple of Astari~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14461
+D2
+~
+~
+0 0 14363
+S
+#14461
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 0 0 0 0 0
+D0
+~
+~
+0 0 14526
+D1
+~
+~
+0 0 14478
+D2
+~
+~
+0 0 14460
+D3
+~
+~
+0 0 14480
+S
+#14462
+The Entryway to the Temple of Astari~
+The layout for the temple is as follows: The main level is a wide open room with
+pillars and a single stairway going up to the moonlight collector and down into
+the temple sublevel. The temple sublevel is the largest level, and is divided
+into separate parts, with living quarters, a public bath, a glass factory, and a
+crypt. Below everything is the labyrinth. This is where the Astari people put
+captured criminals and the monsters that they seek out and capture.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14363
+D2
+~
+~
+0 0 14463
+S
+#14463
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14462
+D1
+~
+~
+0 0 14473
+D2
+~
+~
+0 0 14495
+D3
+~
+~
+0 0 14471
+S
+#14464
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14459
+D2
+~
+~
+0 0 14505
+D3
+~
+~
+0 0 14465
+S
+#14465
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14464
+D2
+~
+~
+0 0 14468
+S
+#14466
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14467
+D2
+~
+~
+0 0 14507
+D3
+~
+~
+0 0 14459
+S
+#14467
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D2
+~
+~
+0 0 14508
+D3
+~
+~
+0 0 14466
+S
+#14468
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14465
+D1
+~
+~
+0 0 14505
+D2
+~
+~
+0 0 14469
+S
+#14469
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14468
+D1
+~
+~
+0 0 14509
+D2
+~
+~
+0 0 14470
+S
+#14470
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14469
+D1
+~
+~
+0 0 14581
+D3
+~
+~
+0 0 14453
+S
+#14471
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14463
+D2
+~
+~
+0 0 14496
+D3
+~
+~
+0 0 14472
+S
+#14472
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14471
+D2
+~
+~
+0 0 14497
+S
+#14473
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14474
+D2
+~
+~
+0 0 14494
+D3
+~
+~
+0 0 14463
+S
+#14474
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D2
+~
+~
+0 0 14475
+D3
+~
+~
+0 0 14473
+S
+#14475
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14474
+D2
+~
+~
+0 0 14476
+D3
+~
+~
+0 0 14494
+S
+#14476
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14475
+D2
+~
+~
+0 0 14477
+D3
+~
+~
+0 0 14493
+S
+#14477
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14476
+D1
+~
+~
+0 0 14452
+D3
+~
+~
+0 0 14492
+S
+#14478
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14525
+D1
+~
+~
+0 0 14479
+D3
+~
+~
+0 0 14461
+S
+#14479
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14482
+D3
+~
+~
+0 0 14478
+S
+#14480
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14527
+D1
+~
+~
+0 0 14461
+D3
+~
+~
+0 0 14481
+S
+#14481
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14528
+D1
+~
+~
+0 0 14480
+S
+#14482
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14483
+D2
+~
+~
+0 0 14479
+D3
+~
+~
+0 0 14525
+S
+#14483
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14484
+D2
+~
+~
+0 0 14482
+D3
+~
+~
+0 0 14529
+S
+#14484
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14454
+D2
+~
+~
+0 0 14483
+D3
+~
+~
+0 0 14533
+S
+#14485
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14513
+D1
+~
+~
+0 0 14457
+D3
+~
+~
+0 0 14486
+S
+#14486
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14489
+D1
+~
+~
+0 0 14485
+S
+#14487
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14515
+D1
+~
+~
+0 0 14488
+D3
+~
+~
+0 0 14457
+S
+#14488
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14516
+D3
+~
+~
+0 0 14487
+S
+#14489
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14490
+D1
+~
+~
+0 0 14513
+D2
+~
+~
+0 0 14486
+S
+#14490
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14491
+D1
+~
+~
+0 0 14517
+D2
+~
+~
+0 0 14489
+S
+#14491
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14521
+D2
+~
+~
+0 0 14490
+D3
+~
+~
+0 0 14455
+S
+#14492
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14493
+D1
+~
+~
+0 0 14477
+D3
+~
+~
+0 0 14501
+S
+#14493
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14494
+D1
+~
+~
+0 0 14476
+D2
+~
+~
+0 0 14492
+D3
+~
+~
+0 0 14500
+S
+#14494
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14473
+D1
+~
+~
+0 0 14475
+D2
+~
+~
+0 0 14493
+D3
+~
+~
+0 0 14495
+S
+#14495
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14463
+D1
+~
+~
+0 0 14494
+D2
+~
+~
+0 0 14500
+D3
+~
+~
+0 0 14496
+S
+#14496
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14471
+D1
+~
+~
+0 0 14495
+D2
+~
+~
+0 0 14499
+D3
+~
+~
+0 0 14497
+S
+#14497
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14472
+D1
+~
+~
+0 0 14496
+D2
+~
+~
+0 0 14498
+S
+#14498
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14497
+D1
+~
+~
+0 0 14499
+D2
+~
+~
+0 0 14504
+S
+#14499
+Below a Glass Spiral Staircase~
+Up is the moonlight collector, down is the temple sublevel.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14496
+D1
+~
+~
+0 0 14500
+D2
+~
+~
+0 0 14503
+D3
+~
+~
+0 0 14498
+D4
+~
+~
+0 0 14538
+D5
+~
+~
+0 0 14539
+S
+#14500
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14495
+D1
+~
+~
+0 0 14493
+D2
+~
+~
+0 0 14501
+D3
+~
+~
+0 0 14499
+S
+#14501
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14500
+D1
+~
+~
+0 0 14492
+D3
+~
+~
+0 0 14503
+S
+#14502
+By a Gigantic Lense Inscribed with Arcane Symbols~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D0
+~
+~
+0 0 14546
+D1
+~
+~
+0 0 14544
+D2
+~
+~
+0 0 14547
+D3
+~
+~
+0 0 14545
+D5
+~
+~
+0 0 14511
+S
+#14503
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14499
+D1
+~
+~
+0 0 14501
+D3
+~
+~
+0 0 14504
+S
+#14504
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14498
+D1
+~
+~
+0 0 14503
+S
+#14505
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14464
+D1
+~
+~
+0 0 14506
+D2
+~
+~
+0 0 14509
+D3
+~
+~
+0 0 14468
+S
+#14506
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14459
+D1
+~
+~
+0 0 14507
+D2
+~
+~
+0 0 14510
+D3
+~
+~
+0 0 14505
+S
+#14507
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14466
+D1
+~
+~
+0 0 14508
+D2
+~
+~
+0 0 14511
+D3
+~
+~
+0 0 14506
+S
+#14508
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14467
+D2
+~
+~
+0 0 14512
+D3
+~
+~
+0 0 14507
+S
+#14509
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14505
+D1
+~
+~
+0 0 14510
+D2
+~
+~
+0 0 14581
+D3
+~
+~
+0 0 14469
+S
+#14510
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14506
+D1
+~
+~
+0 0 14511
+D2
+~
+~
+0 0 14582
+D3
+~
+~
+0 0 14509
+S
+#14511
+Below a Glass Spiral Staircase~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14507
+D1
+~
+~
+0 0 14512
+D2
+~
+~
+0 0 14583
+D3
+~
+~
+0 0 14510
+D4
+~
+~
+0 0 14502
+D5
+~
+~
+0 0 14537
+S
+#14512
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14508
+D2
+~
+~
+0 0 14584
+D3
+~
+~
+0 0 14511
+S
+#14513
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14517
+D1
+~
+~
+0 0 14514
+D2
+~
+~
+0 0 14485
+D3
+~
+~
+0 0 14489
+S
+#14514
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14518
+D1
+~
+~
+0 0 14515
+D2
+~
+~
+0 0 14457
+D3
+~
+~
+0 0 14513
+S
+#14515
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14519
+D1
+~
+~
+0 0 14516
+D2
+~
+~
+0 0 14487
+D3
+~
+~
+0 0 14514
+S
+#14516
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14520
+D2
+~
+~
+0 0 14488
+D3
+~
+~
+0 0 14515
+S
+#14517
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14521
+D1
+~
+~
+0 0 14518
+D2
+~
+~
+0 0 14513
+D3
+~
+~
+0 0 14490
+S
+#14518
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14522
+D1
+~
+~
+0 0 14519
+D2
+~
+~
+0 0 14514
+D3
+~
+~
+0 0 14517
+S
+#14519
+Below a Glass Spiral Staircase~
+Up is the moonlight collector, down is the temple sublevel.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14523
+D1
+~
+~
+0 0 14520
+D2
+~
+~
+0 0 14515
+D3
+~
+~
+0 0 14518
+D4
+~
+~
+0 0 14540
+D5
+~
+~
+0 0 14541
+S
+#14520
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14524
+D2
+~
+~
+0 0 14516
+D3
+~
+~
+0 0 14519
+S
+#14521
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14522
+D2
+~
+~
+0 0 14517
+D3
+~
+~
+0 0 14491
+S
+#14522
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14523
+D2
+~
+~
+0 0 14518
+D3
+~
+~
+0 0 14521
+S
+#14523
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14524
+D2
+~
+~
+0 0 14519
+D3
+~
+~
+0 0 14522
+S
+#14524
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D2
+~
+~
+0 0 14520
+D3
+~
+~
+0 0 14523
+S
+#14525
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14529
+D1
+~
+~
+0 0 14482
+D2
+~
+~
+0 0 14478
+D3
+~
+~
+0 0 14526
+S
+#14526
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14530
+D1
+~
+~
+0 0 14525
+D2
+~
+~
+0 0 14461
+D3
+~
+~
+0 0 14527
+S
+#14527
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14531
+D1
+~
+~
+0 0 14526
+D2
+~
+~
+0 0 14480
+D3
+~
+~
+0 0 14528
+S
+#14528
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14532
+D1
+~
+~
+0 0 14527
+D2
+~
+~
+0 0 14481
+S
+#14529
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14533
+D1
+~
+~
+0 0 14483
+D2
+~
+~
+0 0 14525
+D3
+~
+~
+0 0 14530
+S
+#14530
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14534
+D1
+~
+~
+0 0 14529
+D2
+~
+~
+0 0 14526
+D3
+~
+~
+0 0 14531
+S
+#14531
+Below a Glass Spiral Staircase~
+Up is the moonlight collector, down is the temple sublevel.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14535
+D1
+~
+~
+0 0 14530
+D2
+~
+~
+0 0 14527
+D3
+~
+~
+0 0 14532
+D4
+~
+~
+0 0 14542
+D5
+~
+~
+0 0 14543
+S
+#14532
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14536
+D1
+~
+~
+0 0 14531
+D2
+~
+~
+0 0 14528
+S
+#14533
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14484
+D2
+~
+~
+0 0 14529
+D3
+~
+~
+0 0 14534
+S
+#14534
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14533
+D2
+~
+~
+0 0 14530
+D3
+~
+~
+0 0 14535
+S
+#14535
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14534
+D2
+~
+~
+0 0 14531
+D3
+~
+~
+0 0 14536
+S
+#14536
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14535
+D2
+~
+~
+0 0 14532
+S
+#14537
+On a Glass Spiral Staircase~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D4
+~
+~
+0 0 14511
+D5
+~
+~
+0 0 14585
+S
+#14538
+By a Gigantic Lense Inscribed with Arcane Symbols~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D0
+~
+~
+0 0 14548
+D1
+~
+~
+0 0 14551
+D2
+~
+~
+0 0 14550
+D3
+~
+~
+0 0 14549
+D5
+~
+~
+0 0 14499
+S
+#14539
+On a Glass Spiral Staircase~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D4
+~
+~
+0 0 14499
+D5
+~
+~
+0 0 14580
+S
+#14540
+By a Gigantic Lense Inscribed with Arcane Symbols~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D0
+~
+~
+0 0 14557
+D1
+~
+~
+0 0 14558
+D2
+~
+~
+0 0 14559
+D3
+~
+~
+0 0 14556
+D5
+~
+~
+0 0 14519
+S
+#14541
+On a Glass Spiral Staircase~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D4
+~
+~
+0 0 14519
+D5
+~
+~
+0 0 14561
+S
+#14542
+By a Gigantic Lense Inscribed with Arcane Symbols~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D0
+~
+~
+0 0 14553
+D1
+~
+~
+0 0 14554
+D2
+~
+~
+0 0 14555
+D3
+~
+~
+0 0 14552
+D5
+~
+~
+0 0 14531
+S
+#14543
+On a Glass Spiral Staircase~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D4
+~
+~
+0 0 14531
+D5
+~
+~
+0 0 14560
+S
+#14544
+At the Edge of the Tower~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D3
+~
+~
+0 0 14502
+S
+#14545
+An Eastward-facing Hut~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14502
+S
+#14546
+At the Edge of the Tower~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D2
+~
+~
+0 0 14502
+S
+#14547
+At the Edge of the Tower~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D0
+~
+~
+0 0 14502
+S
+#14548
+At the Edge of the Tower~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D2
+~
+~
+0 0 14538
+S
+#14549
+An Eastward-facing Hut~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14538
+S
+#14550
+At the Edge of the Tower~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D0
+~
+~
+0 0 14538
+S
+#14551
+At the Edge of the Tower~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D3
+~
+~
+0 0 14538
+S
+#14552
+An Eastward-facing Hut~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14542
+S
+#14553
+At the Edge of the Tower~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D2
+~
+~
+0 0 14542
+S
+#14554
+At the Edge of the Tower~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D3
+~
+~
+0 0 14542
+S
+#14555
+At the Edge of the Tower~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D0
+~
+~
+0 0 14542
+S
+#14556
+An Eastward-facing Hut~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14540
+S
+#14557
+At the Edge of the Tower~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D2
+~
+~
+0 0 14540
+S
+#14558
+At the Edge of the Tower~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D3
+~
+~
+0 0 14540
+S
+#14559
+At the Edge of the Tower~
+This unfinished room was created by Accarid.
+~
+143 -2147483648 1 0 0 0
+D0
+~
+~
+0 0 14540
+S
+#14560
+In a Long, Brightly-lit Hall, Below a Glass Spiral Staircase~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14572
+D2
+~
+~
+0 0 14573
+D4
+~
+~
+0 0 14543
+S
+#14561
+In a Long, Brightly-lit Hall, Below a Glass Spiral Staircase~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D2
+~
+~
+0 0 14597
+D3
+~
+~
+0 0 14562
+D4
+~
+~
+0 0 14541
+S
+#14562
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14561
+D3
+~
+~
+0 0 14563
+S
+#14563
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14562
+D3
+~
+~
+0 0 14564
+S
+#14564
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14563
+D3
+~
+~
+0 0 14565
+S
+#14565
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14564
+D3
+~
+~
+0 0 14566
+S
+#14566
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14565
+D3
+~
+~
+0 0 14567
+S
+#14567
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14566
+D3
+~
+~
+0 0 14568
+S
+#14568
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14567
+D3
+~
+~
+0 0 14569
+S
+#14569
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14568
+D3
+~
+~
+0 0 14570
+S
+#14570
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 3399
+D1
+~
+~
+0 0 14569
+D3
+~
+~
+0 0 14571
+S
+#14571
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14570
+D3
+~
+~
+0 0 14572
+S
+#14572
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14571
+D3
+~
+~
+0 0 14560
+S
+#14573
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14560
+D2
+~
+~
+0 0 14574
+S
+#14574
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14573
+D2
+~
+~
+0 0 14575
+S
+#14575
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14574
+D2
+~
+~
+0 0 14576
+S
+#14576
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14575
+D2
+~
+~
+0 0 14577
+S
+#14577
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14576
+D2
+~
+~
+0 0 14578
+S
+#14578
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14577
+D2
+~
+~
+0 0 14579
+D3
+~
+~
+0 0 3318
+S
+#14579
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14578
+D2
+~
+~
+0 0 14580
+S
+#14580
+In a Long, Brightly-lit Hall, Below a Glass Spiral Staircase~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14579
+D1
+~
+~
+0 0 14596
+D4
+~
+~
+0 0 14539
+S
+#14581
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14509
+D1
+~
+~
+0 0 14582
+D3
+~
+~
+0 0 14470
+S
+#14582
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14510
+D1
+~
+~
+0 0 14583
+D3
+~
+~
+0 0 14581
+S
+#14583
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14511
+D1
+~
+~
+0 0 14584
+D3
+~
+~
+0 0 14582
+S
+#14584
+The Antichamber~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14512
+D3
+~
+~
+0 0 14583
+S
+#14585
+In a Long, Brightly-lit Hall, Below a Glass Spiral Staircase~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 3303
+D3
+~
+~
+0 0 14586
+D4
+~
+~
+0 0 14537
+S
+#14586
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14585
+D3
+~
+~
+0 0 14587
+S
+#14587
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14586
+D3
+~
+~
+0 0 14588
+S
+#14588
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14587
+D3
+~
+~
+0 0 14589
+S
+#14589
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14588
+D3
+~
+~
+0 0 14590
+S
+#14590
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 3304
+D1
+~
+~
+0 0 14589
+D3
+~
+~
+0 0 14591
+S
+#14591
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 3305
+D1
+~
+~
+0 0 14590
+D2
+~
+~
+0 0 3366
+D3
+~
+~
+0 0 14592
+S
+#14592
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 3306
+D1
+~
+~
+0 0 14591
+D3
+~
+~
+0 0 14593
+S
+#14593
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14592
+D3
+~
+~
+0 0 14594
+S
+#14594
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14593
+D3
+~
+~
+0 0 14595
+S
+#14595
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14594
+D3
+~
+~
+0 0 14596
+S
+#14596
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D1
+~
+~
+0 0 14595
+D3
+~
+~
+0 0 14580
+S
+#14597
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14561
+D2
+~
+~
+0 0 14598
+S
+#14598
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14597
+D2
+~
+~
+0 0 14599
+S
+#14599
+In a Long, Brightly-lit Hall~
+This unfinished room was created by Accarid.
+~
+143 -2147483640 0 0 0 0
+D0
+~
+~
+0 0 14598
+D2
+~
+~
+0 0 3300
+S
+$~

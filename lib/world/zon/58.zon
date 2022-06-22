@@ -1,0 +1,20 @@
+#58
+Accarid~
+The Training Grounds~
+4800 5899 1 2 def 0 0 0 1 100
+M 0 5801 1 5805 	(the nightmare leech)
+E 1 5808 10000 17 	(a delicious-looking kipling pie)
+O 0 5811 1 5811 	(a shiny iron key)
+D 0 5811 2 2 	(The Path of Enlightenment: Doors)
+M 0 5802 1 5809 	(your possessed shadow)
+M 0 5800 1 5803 	(a friendly-looking shopkeeper)
+G 1 5802 100 -1 	(a flannel shirt)
+G 1 5803 100 -1 	(a pair of leather sandals)
+G 1 5804 100 -1 	(an adventurer's hat)
+G 1 5805 100 -1 	(a pair of faded blue jeans)
+G 1 5806 100 -1 	(a steel canteen)
+G 1 5807 100 -1 	(the prodding stick)
+O 0 5800 1 5802 	(a simple sack)
+P 1 5801 1 5800 	(a pile of silver coins)
+S
+$

@@ -1,0 +1,181 @@
+#4100
+dagger fire firedagger~
+the dagger of Fire~
+A long, thin dagger lies on the ground, its blade emitting small tongues of flame.~
+~
+5 jlmnpt 0 0 0 an 0 0 0 0 0 0 0
+0 8 5 11
+12 1500000 0 34
+A
+18 4
+A
+19 4
+#4101
+orb obsidian~
+an orb of obsidian, burning with an inner fire~
+A small piece of obsidian lies on the ground, burning with an intense blue flame.~
+~
+1 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 -1 0
+5 500000 0 35
+A
+13 35
+A
+18 2
+#4102
+ring bone~
+a carved bone ring~
+A small circle of bone lies on the ground.~
+~
+11 0 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+5 100000 0 34
+A
+18 2
+A
+19 3
+#4103
+amulet necklace chain~
+an obsidian necklace, bearing the insignia of King Reos~
+A length of black chain lies crumpled on the ground.~
+~
+9 mnr 0 0 0 ac 0 0 0 0 0 0 0
+10 0 0 0
+5 100000 0 35
+A
+13 60
+A
+19 5
+#4104
+plate battleplate blood~
+a bloodied battleplate~
+A bload-soaked battleplate drips crimson onto the ground.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+15 0 0 0
+25 100000 0 35
+A
+13 20
+A
+19 2
+#4105
+skull demon~
+a charred demon's skull~
+A blackened demon's skull stares at you with ethereal eyes.~
+~
+11 jlmn 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+10 0 0 35
+A
+18 3
+A
+19 4
+#4106
+leg guard guards shin shinguards platinum~
+forged platinum shinguards~
+A pair of forged platinum shinguards have been left here.~
+~
+9 jmn 0 0 0 af 0 0 0 0 0 0 0
+7 0 0 0
+15 150000 0 30
+A
+13 15
+A
+19 2
+#4107
+boots steel~
+forged steel war-boots~
+A heavy pair of steel boots lie on the ground.~
+~
+9 jlmnp 0 0 0 ag 0 0 0 0 0 0 0
+5 0 0 0
+25 150000 0 36
+A
+12 15
+A
+19 4
+#4108
+iron chainmail gloves~
+a pair of forged iron chainmail gloves~
+A pile of chainmail lies on the ground.~
+~
+9 jlmnp 0 0 0 ah 0 0 0 0 0 0 0
+10 0 0 0
+5 150000 0 34
+A
+18 4
+A
+19 1
+#4109
+vambraces~
+spiked steel vambraces~
+A pair of steel vambraces covered in dangerous spikes awaits a new owner.~
+~
+9 jmn 0 0 0 ai 0 0 0 0 0 0 0
+10 0 0 0
+20 100000 0 30
+A
+18 3
+A
+19 3
+#4110
+shield bones~
+a shield of carved dracolich bones~
+A carved-bone shield lies on the ground.~
+~
+9 jlmn 0 0 0 aj 0 0 0 0 0 0 0
+10 0 0 0
+20 150000 0 0
+A
+13 45
+A
+18 5
+#4111
+blood wolf pelt~
+a bloody wolf pelt~
+A blood-stained wolf pelt lies crumpled on the floor.~
+~
+9 jlmnp 0 0 0 ak 0 0 0 0 0 0 0
+5 0 0 0
+15 150000 0 34
+A
+24 -4
+A
+18 4
+#4112
+obsidian scabbard sheath~
+an obsidian scabbard~
+An obsidian scabbard lies on the ground, reflecting light at odd angles.~
+~
+9 jlmn 0 0 0 al 0 0 0 0 0 0 0
+5 0 0 0
+5 150000 0 36
+A
+13 25
+A
+19 1
+#4113
+platinum bracelet hoop circle~
+a forged platinum bracelet~
+A hoop of platinum lies on the ground.~
+~
+9 jlmn 0 0 0 am 0 0 0 0 0 0 0
+5 0 0 0
+10 150000 0 36
+A
+18 3
+A
+19 3
+#4114
+hand reos~
+the severed hand of King Reos~
+A bloody stump of a hand bleeds all over the ground.~
+~
+11 jlmn 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+5 150000 0 36
+A
+13 40
+A
+19 4
+$~

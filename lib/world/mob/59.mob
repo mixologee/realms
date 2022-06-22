@@ -1,0 +1,458 @@
+#5925
+monkey~
+a monkey~
+A playful monkey is here, jumping around.
+~
+This small furry monkey roams about the area in a playful manner. He swings
+from tree to tree with his prehensile tail, and doesn't seem to have a care
+in the world.
+~
+2056 0 0 0 0 0 0 0 0 E
+10 7 3 10d10+400 2d5+10
+5 95000
+8 8 1
+E
+#5926
+native child~
+a native child~
+A small native child stands here.
+~
+This small child rarely leaves the village. Occasionally he is allowed to go
+out on expeditions with the other tribesman to learn the ways of the hunters.
+~
+6216 0 0 0 0 0 0 0 500 E
+10 6 3 10d10+450 2d5+10
+10 99000
+8 8 0
+E
+#5927
+native villager~
+a native~
+A native stands here.
+~
+This native's skin is deeply tanned from his life on the tropical island. He
+wears the traditional garments of his tribe and tends to be friendly towards
+outsiders.
+~
+22600 0 0 0 0 0 0 0 500 E
+15 2 3 14d10+950 3d5+15
+20 185000
+8 8 1
+E
+#5928
+native villager woman~
+a native woman~
+A native woman stands here.
+~
+This native's skin is deeply tanned from her life on the tropical island. She
+wears the traditional garments of her tribe and tends to be friendly towards
+outsiders.
+~
+22600 0 0 0 0 0 0 0 500 E
+15 4 3 14d10+950 3d5+15
+20 185000
+8 8 2
+E
+#5929
+head hunter~
+a headhunter~
+A scary head hunter patrols the area.
+~
+The head hunters look after the tribe as well as handling most of the hunting.
+Though the tribe is not cannibalistic, the heads provide ample proof that they
+are not to be trifled with.
+~
+22536 0 0 0 0 0 0 0 500 E
+25 -20 1 25d10+2000 5d5+25
+20 400000
+8 8 1
+E
+#5930
+monkey king~
+the monkey king~
+The king of the monkey's struts about.
+~
+This large monkey controls the other monkeys of the island. He is larger and
+stronger that the other monkeys. The hair on his face is gently silver with
+age, giving him a wisened look.
+~
+28680 0 0 0 16 0 0 0 1000 E
+20 -8 3 15d10+1250 4d5+20
+0 275000
+8 8 1
+E
+#5931
+native cook~
+the village cook~
+The village cook is here making something tasty.
+~
+It looks unfinished.
+This native woman is in charge of cooking. Her long hair hangs down over her 
+face. Though you've heard the tribal peoples of the village eat well, this womans 
+appearance makes you wonder about the overall hygene of the food she prepares.
+~
+2058 0 0 0 0 0 0 0 300 E
+20 -5 5 17d10+1100 3d5+16
+0 275000
+8 8 2
+E
+#5932
+head huntress black widow~
+Black widow~
+The leader of the head hunters stands here.
+~
+Beautiful and very lethal, this woman leader the dreaded head hunters. Her skin is
+darkly tanned and her almond shaped eyes are constantly examining her surroundings.
+She has been trained since childhood to track and kill.
+~
+28744 0 0 0 524304 0 0 0 300 E
+25 -20 1 25d10+2000 5d5+25
+0 500000
+8 8 2
+E
+#5933
+native chief~
+the chief~
+The chief of the native village stands here proudly.
+~
+The mighty chief of the native nation stands before you. His tribe dominates 
+most of the tropical island. He personally chose Black Widow to command his powerful
+headhunters who act as his and the islands protectors. He carries an air of 
+leadership and wisdom that is quite uncommon for a man his age.
+~
+31050 0 0 0 8192 0 0 0 1000 E
+30 -20 -1 20d20+25000 20d15+40
+10000 750000
+8 8 1
+E
+#5934
+native witch doctor~
+the witch doctor~
+A startling witch doctor is here.
+~
+The woman standing before is rather unsettling. Her hair is a twisted mass of
+dreadlocks, they hang over her black painted face. Her eyes are surrounded by white
+paint and there is a large bone through her nostrils. 
+~
+18442 0 0 0 0 0 0 0 1000 E
+20 0 2 10d40+5000 4d10+20
+0 300000
+8 8 2
+E
+#5950
+old lady~
+a lucky old lady~
+A lucky old lady is standing here.
+~
+The kindly old lady standing before you is a gambling freak. She has been
+spotted sipping whiskey and playing with the bandit for hours upon end. She
+never seems to run out of money and has one quite a bit in her day.
+~
+2122 0 0 0 0 0 0 0 500 E
+5 10 5 4d10+200 2d2+5
+500 12000
+8 8 2
+E
+#5951
+clerk woman~
+a front desk clerk~
+A woman at the desk smiles at you.
+~
+This young woman greets you with a smile. Her main duties include checking
+the guest's in and out, and taking care of any reasonable request by said
+guests.
+~
+2122 0 0 0 0 0 0 0 500 E
+10 7 5 9d10+350 3d3+10
+100 100000
+8 8 2
+E
+#5952
+guest man~
+a hotel guest~
+A guest of the hotel is standing here.
+~
+This wealthy looking gentleman is a patron of the hotel. His hair is well
+groomed and his clothes look like he spent a small fortune on them. It's
+doubtful this man has ever taken part in any form of manual labor
+~
+200 0 0 0 0 0 0 0 -500 E
+10 10 5 8d8+275 2d5+10
+100 90000
+8 8 1
+E
+#5953
+cardshark shark man~
+a card shark~
+A greasy cardshark is here looking for a game.
+~
+The dark skinned man standing before you is a pro card player. His eyes
+dart around the room checking out the competition. He's a born winner and
+lets nothing get in the way of his gold winning.
+~
+10312 0 0 0 0 0 0 0 0 E
+10 7 5 10d10+450 3d3+10
+200 100000
+8 8 1
+E
+#5954
+player man~
+a craps player~
+An excited craps player is here.
+~
+This gentleman has been at the tables all night. Sometimes he's up,
+sometimes he's down, but he's always having fun.
+~
+22538 0 0 0 0 0 0 0 8 E
+10 8 5 10d9+200 3d3+8
+75 85000
+8 8 1
+E
+#5955
+player woman~
+a roulette player~
+A roulette player is here.
+~
+This sexy woman like to risk it all on the whimsy of one indecisive
+little silver ball. 
+~
+22538 0 0 0 0 0 0 0 0 E
+10 10 5 10d8+200 3d3+6
+85 75000
+8 8 2
+E
+#5956
+player man~
+a card player~
+A poker faced player is here.
+~
+This guy shows no emotion and is completely unreadable. Good luck
+playing him.
+~
+30730 0 0 0 0 0 0 0 0 E
+10 8 5 10d8+350 2d5+8
+40 100000
+8 8 1
+E
+#5957
+waitress woman~
+a cocktail waitress~
+A sexy cocktail waitress is here.
+~
+This beautiful woman strides thru the crowds with ease and grace. She smiles
+at everyone she passes by, offering refreshments and flirtation.
+~
+22600 0 0 0 0 0 0 0 0 E
+10 15 5 10d10+100 2d3+5
+50 50000
+8 8 2
+E
+#5958
+dealer woman~
+a house dealer~
+A house dealer is here, dealing out fate.
+~
+Her hands are quicker than most people's eyes. As she controls the game in
+front of her, she watches the room for any shady buisiness that might hinder
+the house's chance of winning.
+~
+26698 0 0 0 0 0 0 0 -100 E
+15 2 5 15d10+500 3d5+15
+200 150000
+8 8 2
+E
+#5959
+security guard~
+a security guard~
+A shiny security guard is here watching over things.
+~
+The shiny red guards watch over the hotel. They are well known for being
+brave, strong and shiny. They are the envy of rental guards everywhere.
+~
+30808 0 0 0 80 0 0 0 200 E
+15 0 3 15d10+850 3d5+15
+5 200000
+8 8 1
+E
+#5960
+manager man Hoboken~
+Hoboken Pilton~
+The hotel manager is here.
+~
+This well dressed, seedy looking man, inherited the hotel from his
+rich father. He has all the looks but none of the class and dignity
+of true wealth.
+~
+256088 0 0 0 80 0 0 0 -200 E
+15 0 -1 15d10+1000 3d5+15
+1500 200000
+8 8 1
+E
+#5961
+waitress woman flo~
+Flo~
+The head waitress is here.
+~
+This woman looks beautiful and yet at the same time, she appears tired 
+and run down. Years of dealing with rowdy clients can take the life out 
+of anyone.
+~
+254024 0 0 0 0 0 0 0 0 E
+30 -30 -10 30d1000+15000 30d127+50
+0 1
+8 8 2
+E
+#5975
+brown bat~
+a small brown bat~
+A small brown bat hangs about, upside down.
+~
+This cute little bat is well known for spreading disease and pestilence. They
+are often referred to as "rats with wings". Dont get too close they are
+easily scared and very scittish.
+~
+524360 0 0 0 524288 0 0 0 0 E
+10 16 5 10d25+40 5d5+5
+0 50000
+8 8 0
+BareHandAttack: 4
+E
+#5976
+large brown bat~
+a large brown bat~
+A large brown bat hangs about, upside down.
+~
+Just a common everyday oversized brown bat. Be careful, they've been known
+to give people the willies.
+~
+6216 0 0 0 524304 0 0 0 0 E
+10 14 5 15d25+50 7d7+7
+0 100000
+8 8 0
+BareHandAttack: 4
+E
+#5977
+cave lizard~
+a small cave lizard~
+A small cave lizard crawls about.
+~
+This pale little lizard runs around the cavern eating anything it can manage to 
+kill. This usually means beatles crickets and the occasional adventurer.
+~
+526408 0 0 0 0 0 0 0 0 E
+12 12 5 10d25+200 10d10+10
+0 125000
+8 8 0
+E
+#5978
+Carnivorous plant~
+a large carnivorous plant~
+A large carnivorous plant is rooted here.
+~
+This beast stand roughly 10 feet tall. It's gaping fly trap mouth grins
+horrificly while it's thick vines lay about the ground. Brilliant blue and
+orange flowers offset its horror with a delicate balance of beauty.
+~
+1239146 0 0 0 80 0 0 0 -1000 E
+20 -5 1 15d10+1000 10d20+18
+0 300000
+8 8 0
+E
+#5979
+bunny rabbit~
+a cute lil bunny~
+A cute lil' bunny is hopping about.
+~
+This cute lil' fuzzball seems quite happy and safe in his forest home.
+~
+524360 0 0 0 0 0 0 0 0 E
+5 17 10 5d5+40 3d3+3
+0 20000
+8 8 0
+E
+#5980
+big carnivorous plant~
+a big carnivorous plant~
+A big carnivorous plant puts it's roots down.
+~
+This beast stand roughly 10 feet tall. It's gaping fly trap mouth grins
+horrificly while it's thick vines lay about the ground. Brilliant blue and orange
+flowers offset its horror with a delicate balance of beauty.
+~
+194606 0 0 0 16 0 0 0 -1000 E
+20 -5 3 10d15+1000 10d20+18
+0 300000
+8 8 0
+E
+#5981
+Daiethlamydor~
+Daiethlamydor~
+Daiethlamydor, son of Sativinor stands here.
+~
+One of the two twins. When exiled from their homeland, they sought refuge here in 
+The Game. In this world they are much more powerful than before.
+~
+253978 0 0 0 16 0 0 0 0 E
+30 -30 -10 30d500+22000 30d127+50
+0 1
+8 8 0
+E
+#5982
+water elemental~
+a water elemental~
+A water elemental protects the pond.
+~
+The beautiful woman before you is made completely of water. Her every curve, flows
+and ripples as she glides across the water. Her liquid wings are a mere facade, to
+her harsh water based reality.
+~
+59402 0 0 0 8336 0 0 0 1000 E
+15 5 10 12d9+900 3d5+10
+0 199999
+8 8 2
+E
+#5983
+raoul duke~
+Mr. Duke~
+Mr. Duke stands before you.
+~
+This balding gentleman has seen alot of action. He is a true testament to
+the power and beauty of hard-core drug use and gambling. His golden
+sunglasses cover up his bloodshot eyes, and a long cigarette holder protrudes
+from his mouth bearing a half broken smoke.
+~
+124955 0 0 0 0 0 0 0 0 E
+31 -30 -10 30d1000+15000 30d127+50
+0 1
+8 8 1
+E
+#5984
+Hunter Thompson~
+Mr. Thompson~
+Mr. Thompson stands before you.
+~
+This balding gentleman has seen alot of action. He is a true testament to
+the power and beauty of hard-core drug use and gambling. His golden
+sunglasses cover up his bloodshot eyes, and a long cigarette holder protrudes
+from his mouth bearing a half broken smoke.
+~
+124955 0 0 0 0 0 0 0 0 E
+31 -30 -10 30d1000+15000 30d127+50
+0 1
+8 8 1
+E
+#5985
+bellboy boy~
+a bellboy~
+A bellboy stands here ready to assist.
+~
+This well dressed lad greets you with a warm smile. He spends most of his
+time carrying bags and opening doors for guests of the hotel, and scrapes a
+good living from the tips he receives for his freindly service.
+~
+2120 0 0 0 0 0 0 0 500 E
+5 12 5 5d8+65 1d5+5
+100 15000
+8 8 1
+E
+$

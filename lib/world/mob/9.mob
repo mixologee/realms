@@ -1,0 +1,135 @@
+#900
+slime ooze goo~
+a sewer slime~
+A pale green, semitransparent ooze flows across the wall.
+~
+The ooze consists of gelatinous fluids animated by the magical energy that
+collects beneath cities. It flows this way and that, gaining in size with each
+like particle it comes in contact with. It shies away from light and open air
+as though it were a sentient being.
+~
+8 0 0 0 2048 0 0 0 0 E
+1 10 11 2d1+2 1d2+1
+0 100
+8 8 0
+Clss: 21
+E
+#901
+custodian man~
+the most dedicated custodian~
+A man trudges through the muck, boldly going where no custodian has gone before.
+~
+This custodian is so dedicated, that he is willing to chase the filth of the
+city to the place where it hides from the enemies above, and push it from the
+city. He brandishes at the muck with his shovel, and sends it flying in wide
+arcs as he swings through it.
+~
+4232 64 0 0 256 0 0 0 400 E
+19 -5 9 20d10+190 2d2+3
+357 100000
+8 8 1
+Clss: 11
+E
+#902
+rat~
+a large rat~
+A large rat skitters through the tunnel, completely unperturbed by your presence.
+~
+The rat is bigger than most of its kin, probably due to breed and the variety of
+tasty shit that can be found in the tunnels beneath Taris'Vaal. It skitters
+through the tunnels in search of food, ignoring you almost completely.
+~
+134217864 0 0 0 2048 0 0 0 -25 E
+1 10 11 5d5+0 1d2+10
+0 500
+8 8 0
+BareHandAttack: 4
+Clss: 2
+E
+#903
+hermit hobo man~
+a hermit of the tunnels~
+A scrawny, filthy man hobbles through the tunnel, feeling his way along the wall.
+~
+This man has long, scraggly hair matted with sludge from the tunnels he lives
+in. The clothing he wears is tattered and heavy with dried muck. His skin is
+stained and corroded from the acidic waters, and his eyes shine white in the
+light. He waves weakly in your direction as you look him over, and continues
+his foraging for edible green algae.
+~
+8 0 0 0 2048 0 0 0 0 E
+3 3 9 10d2+30 1d3+3
+5 900
+8 8 1
+Clss: 2
+E
+#904
+larfish fish~
+a scavenging larfish~
+A long, slimy brown fish skims across the surface of the mud towards you.
+~
+The larfish is typically a scavenger, but will turn to fresh meat when given the
+opportunity. Its favorite prey are the hermits that dwell in the tunnels,
+but... You'll do just fine.
+~
+8 0 0 0 2048 0 0 0 -50 E
+2 -5 9 5d5+20 1d2+3
+0 900
+8 8 0
+BareHandAttack: 4
+Clss: 2
+E
+#905
+rat~
+a gruesome sewer rat~
+A sewer rat stops in its tracks, and begins tracking your scent.
+~
+Sewer rats are closely related to ship rats, sharing many of their horrible
+qualities to a lesser degree- high endurance, increased size, the whole nine
+yards. It senses your presence, and begins tracking you down to go in for the
+kill.
+~
+134217768 0 0 0 2048 0 0 0 -100 E
+4 0 9 10d10+0 3d3+10
+0 2000
+8 8 0
+BareHandAttack: 4
+Att1: 8
+Clss: 2
+E
+#906
+monster beast garbage~
+a garbage beast~
+A strange creature drifts through the water, its humped back arching out of the water.
+~
+The creature springs up and utters an earth-shattering roar as you draw near
+enough to see it clearly- you wish you hadn't, for it is a terrifying beast. 
+It lashes out with slimy tentacles around its many-toothed maw, and rears up on
+six armored crustacean legs. Get out of the way, or be crushed!
+~
+1048618 0 0 0 526336 0 0 0 -200 E
+5 -10 7 10d20+50 5d3+15
+1276 5000
+8 8 0
+BareHandAttack: 2
+Att1: 4
+Att2: 10
+Clss: 13
+E
+#907
+baby zombie~
+a dead baby~
+A dead baby floats face-down in the water, with strange blue flames dancing along behind it.
+~
+Whatever untimely fate this baby suffered, it ended up down here, in the sewers.
+Its barely formed face has once again become a shapeless mass with vaguely human
+features, and its body is bloated and partially eaten. Strange blue flames
+dance around the corpse, suggesting that it is animated by some strange energy..
+~
+135372840 0 0 0 1574912 4 0 0 -75 E
+3 10 10 10d10+0 1d2+10
+0 1000
+8 8 0
+Clss: 1
+E
+$

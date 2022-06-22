@@ -1,0 +1,31 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C23&c]. Type NEWS 23 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+We are currently running on the testrm code. This code includes a lot of
+new stuff that we are currently trying to implement. Any changes that may or
+may not have been made will not be lost, it still exists on the old world and
+will be brought over if requested. Me and Slurk have been working diligently
+over the past week and a half trying to make allt hese new improvements to
+the world. I know the wilderness is currently not available. That will most
+likely be the first part that I tackle. Slurk will be working on bringing over
+all the new commands we need brought over etc. Please bear with us as we 
+try to take this to v2.0...or maybe v1.69 or whatever we call it :P
+
+-B

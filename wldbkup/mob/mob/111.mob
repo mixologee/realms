@@ -1,0 +1,105 @@
+#11100
+ghost~
+the ghost of a guard~
+The ghost of one of the queen's guards roams around here.
+~
+It looks unfinished.
+~
+260216 0 0 0 84 0 0 0 -500 E
+25 -30 -10 30d50+9000 2d10+20
+0 500000
+8 8 0
+Clss: 1
+E
+#11101
+ghoul~
+a decaying ghoul~
+A half-decayed ghoul stands around, falling apart.
+~
+It looks unfinished.
+~
+47208 0 0 0 8208 0 0 0 -500 E
+25 -10 0 30d40+9500 2d20+20
+0 600000
+8 8 0
+Clss: 1
+E
+#11102
+skeleton~
+a skeleton~
+A skeletal creature makes his way towards you.
+~
+It looks unfinished.
+~
+63592 0 0 0 80 0 0 0 -1000 E
+25 -10 0 20d50+9000 1d1+20
+100 375000
+8 8 0
+Clss: 1
+E
+#11103
+mage ghost~
+the ghost of a fallen mage~
+The ghost of one of the queen's sorcerers is floating about.
+~
+It looks unfinished.
+~
+59513 0 0 0 124 0 0 0 0 E
+27 -30 -10 20d25+7500 1d1+10
+0 500000
+8 8 0
+Clss: 1
+E
+#11104
+ghost cleric~
+the ghost of a fallen cleric~
+The spirit of one of the queen's healers is roaming about.
+~
+It looks unfinished.
+~
+61545 0 0 0 80 0 0 0 0 E
+27 -30 -10 20d40+7500 1d1+10
+10000 550000
+8 8 0
+Clss: 1
+E
+#11105
+bodyguard guard~
+Queen Ramona's personal bodyguard~
+The ghost of Queen Ramona's personal bodyguard is roaming the halls protectively.
+~
+It looks unfinished.
+~
+260216 0 0 0 16 0 0 0 0 E
+30 -30 0 30d50+20000 1d1+30
+150000 800000
+8 8 0
+Clss: 1
+E
+#11106
+Queen Ramona~
+the ghost of Queen Ramona~
+The ghost of Queen Ramona glides gracefully through the air.
+~
+It looks unfinished.
+~
+190571 0 0 0 80 0 0 0 0 E
+30 -10 10 10d50+30000 1d1+20
+1000 1500000
+8 8 2
+Clss: 1
+E
+#11107
+dragon baby~
+a red baby dragon~
+A young baby dragon with fire red scales is curled up on the floor.
+~
+It looks unfinished.
+~
+257883 0 0 0 80 0 0 0 -1000 E
+25 -30 5 30d100+20000 1d1+25
+500000 1000000
+8 8 0
+Clss: 24
+E
+$

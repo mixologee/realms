@@ -1,0 +1,52 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C38&c]. Type NEWS 38 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+&YNew System-Side Channel Logger&n
+
+Since we only had a few things in-game that were logged to our server, I
+have added a new feature for you coders out there.  The &RLogChannel&n 
+function can be used as follows:
+
+LogChannel(channel type, "txt to capture")
+
+The following are the current channel types created so far:
+
+GOS_LOG    - Gossip channel
+SAY_LOG    - Say channel
+TELL_LOG   - Telepath
+WIZ_LOG    - Wiznet
+
+These are easy to add on to, so if there is more we need to log we
+can add things on the fly pretty easily.
+
+A quick example is as follows:
+
+LogChannel(TELL_LOG, "%%s to %%s: %%s", GET_NAME(ch), GET_NAME(vict), buf);
+
+This logs it to the server with a timestamp on it as such:
+
+[Tue Jun 30 12:28:31] Slurk to the ghost of Westley: zing!
+
+The logs are located under realmslive/logs/ChannelLog/
+
+As always, enjoy!
+
+&M-Slurk&n
+

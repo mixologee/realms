@@ -1,0 +1,29 @@
+&R                        Realms of Kuvia
+&c             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+------------------------------------------------------------------------
+News file [&C11&c]. Type NEWS 11 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+Skinning is now in and working. This will be used when catching fish or
+on corpses. If your profession skill is high enough, even mobs that are
+not normally skinnable will become skinnable, it will randomly mark a 
+corpse and SCALEABLE or SKINNABLE. You can use the appraise command to see 
+if it is skinnable by the flags of SCALEABLE or SKINNABLE. Currently, it 
+will just give you random pelts or scales. This is still beta testing for the 
+professions module so please don't complain about it not making sense to get 
+ogre pelts from a deer. It is the early stages of this particular module that 
+will eventually be molded into a cohesive part of the world economy and we hope 
+will increase player interaction. I along with some other people think it 
+would be fun to have players helping each other out by one being a fisher/skinner
+and another being a miner/smither and between them be able to trade scales
+for gems or something and make some cool stuff between them. More to come!
+
+
+-B

@@ -1,0 +1,16 @@
+#BUILDING
+Vnum          2
+Type          0
+Vnum_room     3006998
+Size          1
+Owner_Id      1
+Owner_Type    1
+Enter_Type    1
+Defense       41 41
+Health        0 5052
+Flags         2
+Keywords      ruins hut~
+Description   the ruins of a hut~
+End
+
+#END

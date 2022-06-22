@@ -1,0 +1,45 @@
+#5800
+teacher~
+the teacher~
+A teacher of skills and spells sits here, waiting for someone to teach.
+~
+   He looks skinny and has heavy glasses.  Also he looks rather intelligent.  
+To be taught what you can, type <prac> now.  
+~
+253978 0 0 0 80 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+30 900
+6 6 1
+BareHandAttack: 7
+E
+#5801
+leech nightmare~
+the nightmare leech~
+A massive mottled brown creature spans the space between the north and south walls on the east side, pulsing slightly.
+~
+The nightmare leech is a manifestation of your fears, and only the first of many
+foes to come. Do you have the strength to defeat it?
+~
+10 2 0 0 0 0 0 0 0 E
+1 10 9 10d1+10 1d2+0
+10 100
+4 4 0
+BareHandAttack: 4
+Clss: 2
+E
+#5802
+a kindly shopkeeper~
+the shopkeeper~
+This man stands behind the counter, beaming happily at you, the prospective customer.
+~
+This man seems to enjoy his work, standing behind the counter all day long. He
+has everything he needs right here: a cooler full of beer and ramen noodles, a
+cozy-looking futon, and an outhouse around back. He could probably live here
+comfortably.
+~
+10 0 0 0 0 0 0 0 350 E
+1 20 9 0d0+10 1d2+0
+10 100
+8 8 1
+E
+$

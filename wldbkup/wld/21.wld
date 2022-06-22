@@ -1,0 +1,856 @@
+#2100
+Entrance to the School of Hardknocks~
+To the south is the pirates learning facilities.  Many of the students here are
+forced into pirate life at a young age or captured during raids.  All manner of
+studies are taught here from fighting to magic.  
+~
+21 0 0 0 0 0
+D2
+~
+~
+0 0 2101
+S
+#2101
+A Hallway in the School~
+The walls are covered in all sorts of messages and notices for students.  
+Students needing help with work, teachers changing class schedules and other
+school related issues.  
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2100
+D2
+~
+~
+0 0 2102
+S
+#2102
+A Hallway in the School~
+The walls are covered in all sorts of messages and notices for students.  
+Students needing help with work, teachers changing class schedules and other
+school related issues.  
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2101
+D2
+~
+~
+0 0 2103
+S
+#2103
+A Hallway in the School~
+The hall heads north, east and west here.  The sound of metal clanging can be
+heard coming from the east.  From the west there isn't even a peep.  Must be
+some kind of hush hush project that way.  
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2102
+D1
+~
+~
+0 0 2151
+D2
+~
+~
+0 0 2104
+D3
+~
+~
+0 0 2108
+S
+#2104
+The Teacher's Lounge~
+The hallway opens into a spacious area for the faculty to take a load off and
+relax from the pressures of working with the kids.  There is a large wooden
+table surrounded by very comfortable looking chairs.  
+~
+21 65536 0 0 0 0
+D0
+~
+~
+0 0 2103
+D2
+~
+~
+0 0 2105
+S
+#2105
+The Teacher's Lounge~
+There are several vending machines along the wall here for the teachers to grab
+a snack or a drink.  A large fountain rests in between two of the machines.  
+~
+21 65536 0 0 0 0
+D0
+~
+~
+0 0 2104
+D1
+~
+~
+0 0 2107
+D3
+~
+~
+0 0 2106
+S
+#2106
+The Teacher's Lounge~
+Several large bookshelves line the walls in this room.  A small cubby rests in
+the corner of the room with a lamp positioned perfectly for reading.  
+~
+21 65536 0 0 0 0
+D1
+~
+~
+0 0 2105
+S
+#2107
+The Teacher's Lounge~
+Several large bookshelves line the walls in this room.A small cubby rests in the corner of the room with a lamp positioned perfectly for reading.
+~
+21 65536 0 0 0 0
+D3
+~
+~
+0 0 2105
+S
+#2108
+A Hallway in the School~
+The walls are covered with posters and other information.  Students can come
+here to check on schedules, work assignments and other vital school information.
+A small window on the north wall lets the students see the outside world.  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2103
+D3
+~
+~
+0 0 2109
+S
+#2109
+A Hallway in the School~
+The walls are covered filled with lockers here.  Students can keep their books
+and practice gear in their lockers.  A small water fountain rests in between the
+lockers, to help quench the thirsts of the students
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2108
+D3
+~
+~
+0 0 2110
+S
+#2110
+A Hallway in the School~
+The walls are covered with posters and other information.  Students can come
+here to check on schedules, work assignments and other vital school information.
+A small window on the north wall lets the students see the outside world.  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2109
+D2
+~
+~
+0 0 2155
+D3
+~
+~
+0 0 2111
+S
+#2111
+The Thieves' Classroom~
+The room is packed with desks and tables for all the students.  Each seat has a
+perfectly clear view of the teachers podium.  Some paper and books are scatterd
+about one of the tables.  
+~
+21 65536 0 0 0 0
+D1
+~
+~
+0 0 2110
+D3
+~
+~
+0 0 2112
+S
+#2112
+The Thieves' Classroom~
+The room is packed with desks and tables for all the students.  Each seat has a
+perfectly clear view of the teachers podium.  Some paper and books are scatterd
+about one of the tables.  
+~
+21 65536 0 0 0 0
+D1
+~
+~
+0 0 2111
+D2
+~
+~
+0 0 2114
+D3
+~
+~
+0 0 2113
+S
+#2113
+The Thieves' Classroom~
+The room is packed with desks and tables for all the students.  Each seat has a
+perfectly clear view of the teachers podium.  Some paper and books are scatterd
+about one of the tables.  
+~
+21 65536 0 0 0 0
+D1
+~
+~
+0 0 2112
+S
+#2114
+At the Front of the Thieves' Classroom~
+The teacher's podium stand high above the students.  Behind the podium is a
+large tapestry covering the entire south wall.  A small trophy looks a little
+out of place, behind the podium.  
+~
+21 65536 0 0 0 0
+D0
+~
+~
+0 0 2112
+D2
+~
+~
+0 0 2115
+S
+#2115
+The Hall of Trophies~
+The room is filled with several glass cases.  Each case contains a multitude of
+different trophies.  Did the pirates win all these, or just steal them?  
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2114
+D2
+~
+~
+0 0 2120
+D3
+~
+~
+0 0 2116
+S
+#2116
+The Hall of Trophies~
+The room is filled with several glass cases.  Each case contains a multitude of
+different trophies.  Did the pirates win all these, or just steal them?  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2115
+D3
+~
+~
+0 0 2117
+S
+#2117
+The Hall of Trophies~
+The room is filled with several glass cases.  Each case contains a multitude of
+different trophies.  Did the pirates win all these, or just steal them?  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2116
+D3
+~
+~
+0 0 2118
+S
+#2118
+The Hall of Trophies~
+The room is filled with several glass cases.  Each case contains a multitude of
+different trophies.  Did the pirates win all these, or just steal them?  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2117
+D3
+~
+~
+0 0 2119
+S
+#2119
+The Hall of Trophies~
+The room is filled with several glass cases.  Each case contains a multitude of
+different trophies.  Did the pirates win all these, or just steal them?  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2118
+S
+#2120
+The Front of the Mage's Classroom~
+The teacher's podium stand high above the students.  Behind the podium is a
+large tapestry covering the entire south wall.  A small trophy looks a little
+out of place, behind the podium.  
+~
+21 65536 0 0 0 0
+D0
+~
+~
+0 0 2115
+D2
+~
+~
+0 0 2121
+S
+#2121
+The Mage's Classroom~
+The room is packed with desks and tables for all the students.  Each seat has a
+perfectly clear view of the teachers podium.  Some books and potions are
+scatterd about one of the tables.  
+~
+21 65536 0 0 0 0
+D0
+~
+~
+0 0 2120
+D1
+~
+~
+0 0 2123
+D3
+~
+~
+0 0 2122
+S
+#2122
+The Mage's Classroom~
+The room is packed with desks and tables for all the students.  Each seat has a
+perfectly clear view of the teachers podium.  Some books and potions are
+scatterd about one of the tables.  
+~
+21 65536 0 0 0 0
+D1
+~
+~
+0 0 2121
+S
+#2123
+The Mage's Classroom~
+The room is packed with desks and tables for all the students.  Each seat has a
+perfectly clear view of the teachers podium.  Some books and potions are
+scatterd about one of the tables.  
+~
+21 65536 0 0 0 0
+D1
+~
+~
+0 0 2124
+D3
+~
+~
+0 0 2121
+S
+#2124
+A Hallway in the School~
+The walls are covered with posters and other information.  Students can come
+here to check on schedules, work assignments and other vital school information.
+A small window on the south wall lets the students see the outside world.  
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2157
+D1
+~
+~
+0 0 2125
+D3
+~
+~
+0 0 2123
+S
+#2125
+A Hallway in the School~
+The walls are covered filled with lockers here.  Students can keep their books
+and practice gear in their lockers.  A small water fountain rests in between the
+lockers, to help quench the thirsts of the students
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2126
+D3
+~
+~
+0 0 2124
+S
+#2126
+A Hallway in the School~
+The walls are covered with posters and other information.  Students can come
+here to check on schedules, work assignments and other vital school information.
+A small window on the south wall lets the students see the outside world.  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2127
+D3
+~
+~
+0 0 2125
+S
+#2127
+A Hallway in the School~
+The walls are covered filled with lockers here.  Students can keep their books
+and practice gear in their lockers.  A small water fountain rests in between the
+lockers, to help quench the thirsts of the students
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2133
+D3
+~
+~
+0 0 2126
+S
+#2133
+A Hallway in the School~
+The walls are covered with posters and other information.  Students can come
+here to check on schedules, work assignments and other vital school information.
+A small window on the south wall lets the students see the outside world.  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2134
+D3
+~
+~
+0 0 2127
+S
+#2134
+A Hallway in the School~
+The walls are covered filled with lockers here.  Students can keep their books
+and practice gear in their lockers.  A small water fountain rests in between the
+lockers, to help quench the thirsts of the students
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2135
+D3
+~
+~
+0 0 2133
+S
+#2135
+A Hallway in the School~
+The walls are covered with posters and other information.  Students can come
+here to check on schedules, work assignments and other vital school information.
+A small window on the south wall lets the students see the outside world.  
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2154
+D1
+~
+~
+0 0 2136
+D3
+~
+~
+0 0 2134
+S
+#2136
+The Cleric's Classroom~
+The room is packed with desks and tables for all the students.  Each seat has a
+perfectly clear view of the teachers podium.  Some books and potions are
+scatterd about one of the tables.  
+~
+21 65536 0 0 0 0
+D1
+~
+~
+0 0 2137
+D3
+~
+~
+0 0 2135
+S
+#2137
+The Cleric's Classroom~
+The room is packed with desks and tables for all the students.  Each seat has a
+perfectly clear view of the teachers podium.  Some books and potions are
+scatterd about one of the tables.  
+~
+21 65536 0 0 0 0
+D0
+~
+~
+0 0 2139
+D1
+~
+~
+0 0 2138
+D3
+~
+~
+0 0 2136
+S
+#2138
+The Cleric's Classroom~
+The room is packed with desks and tables for all the students.  Each seat has a
+perfectly clear view of the teachers podium.  Some books and potions are
+scatterd about one of the tables.  
+~
+21 65536 0 0 0 0
+D3
+~
+~
+0 0 2137
+S
+#2139
+The Front of the Cleric's Classroom~
+The teacher's podium stand high above the students.  Behind the podium is a
+large tapestry covering the entire north wall.  A small bucket that looks like
+it would be used for cleaning is in the corner, behind the podium.  
+~
+21 65536 0 0 0 0
+D0
+~
+~
+0 0 2140
+D2
+~
+~
+0 0 2137
+S
+#2140
+A Hidden Supply Closet~
+There are all sorts of cleaning supplies here.  Mops, buckets, cleaning
+solutions, and various other janitorial items.  Why would they hide this place,
+it's only cleaning stuff?  
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2145
+D1
+~
+~
+0 0 2141
+D2
+~
+~
+0 0 2139
+S
+#2141
+A Hidden Supply Closet~
+There are all sorts of cleaning supplies here.  Mops, buckets, cleaning
+solutions, and various other janitorial items.  Why would they hide this place,
+it's only cleaning stuff?  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2142
+D3
+~
+~
+0 0 2140
+S
+#2142
+A Hidden Supply Closet~
+There are all sorts of cleaning supplies here.  Mops, buckets, cleaning
+solutions, and various other janitorial items.  Why would they hide this place,
+it's only cleaning stuff?  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2143
+D3
+~
+~
+0 0 2141
+S
+#2143
+A Hidden Supply Closet~
+There are all sorts of cleaning supplies here.  Mops, buckets, cleaning
+solutions, and various other janitorial items.  Why would they hide this place,
+it's only cleaning stuff?  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2144
+D3
+~
+~
+0 0 2142
+S
+#2144
+A Hidden Supply Closet~
+There are all sorts of cleaning supplies here.  Mops, buckets, cleaning
+solutions, and various other janitorial items.  Why would they hide this place,
+it's only cleaning stuff?  
+~
+21 0 0 0 0 0
+D3
+~
+~
+0 0 2143
+S
+#2145
+At the Front of the Warrior's Classroom~
+The teacher's podium stand high above the students.  Behind the podium is a
+large tapestry covering the entire south wall.  A small bucket that looks like
+it would be used for cleaning is in the corner, behind the podium.  
+~
+21 65536 0 0 0 0
+D0
+~
+~
+0 0 2146
+D2
+~
+~
+0 0 2140
+S
+#2146
+The Warrior's Classroom~
+The room is packed with desks and tables for all the students.  Each seat has a
+perfectly clear view of the teachers podium.  Some paper and books are scatterd
+about one of the tables.  
+~
+21 65536 0 0 0 0
+D1
+~
+~
+0 0 2147
+D2
+~
+~
+0 0 2145
+D3
+~
+~
+0 0 2148
+S
+#2147
+The Warrior's Classroom~
+The room is packed with desks and tables for all the students.  Each seat has a
+perfectly clear view of the teachers podium.  Some paper and books are scatterd
+about one of the tables.  
+~
+21 65536 0 0 0 0
+D3
+~
+~
+0 0 2146
+S
+#2148
+The Warrior's Classroom~
+The room is packed with desks and tables for all the students.  Each seat has a
+perfectly clear view of the teachers podium.  Some paper and books are scatterd
+about one of the tables.  
+~
+21 65536 0 0 0 0
+D1
+~
+~
+0 0 2146
+D3
+~
+~
+0 0 2149
+S
+#2149
+A Hallway in the School~
+The walls are covered with posters and other information.  Students can come
+here to check on schedules, work assignments and other vital school information.
+A small window on the north wall lets the students see the outside world.  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2148
+D2
+~
+~
+0 0 2152
+D3
+~
+~
+0 0 2150
+S
+#2150
+A Hallway in the School~
+The walls are covered filled with lockers here.  Students can keep their books
+and practice gear in their lockers.  A small water fountain rests in between the
+lockers, to help quench the thirsts of the students
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2149
+D3
+~
+~
+0 0 2151
+S
+#2151
+A Hallway in the School~
+The walls are covered with posters and other information.  Students can come
+here to check on schedules, work assignments and other vital school information.
+A small window on the north wall lets the students see the outside world.  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2150
+D3
+~
+~
+0 0 2103
+S
+#2152
+A Hallway in the School~
+The walls are covered filled with lockers here.  Students can keep their books
+and practice gear in their lockers.  A small water fountain rests in between the
+lockers, to help quench the thirsts of the students
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2149
+D2
+~
+~
+0 0 2153
+S
+#2153
+A Hallway in the School~
+The walls are covered with posters and other information.  Students can come
+here to check on schedules, work assignments and other vital school information.
+A small window on the east wall lets the students see the outside world.  
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2152
+D2
+~
+~
+0 0 2154
+S
+#2154
+A Hallway in the School~
+The walls are covered filled with lockers here.  Students can keep their books
+and practice gear in their lockers.  A small water fountain rests in between the
+lockers, to help quench the thirsts of the students
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2153
+D2
+~
+~
+0 0 2135
+S
+#2155
+A Hallway in the School~
+The walls are covered filled with lockers here.  Students can keep their books
+and practice gear in their lockers.  A small water fountain rests in between the
+lockers, to help quench the thirsts of the students
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2110
+D2
+~
+~
+0 0 2156
+S
+#2156
+A Hallway in the School~
+The walls are covered with posters and other information.  Students can come
+here to check on schedules, work assignments and other vital school information.
+A small window on the west wall lets the students see the outside world.  
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2155
+D2
+~
+~
+0 0 2157
+S
+#2157
+A Hallway in the School~
+The walls are covered filled with lockers here.  Students can keep their books
+and practice gear in their lockers.  A small water fountain rests in between the
+lockers, to help quench the thirsts of the students
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2156
+D2
+~
+~
+0 0 2124
+S
+$~

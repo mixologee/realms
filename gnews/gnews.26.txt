@@ -1,0 +1,84 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C26&c]. Type NEWS 26 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+Update
+
+These are the class changes that have been put in so far, and there are 25
+pages more that I am still working on. Acc gave me all the class changes and
+they are slowly being implemented.
+
+Warrior:
+
+Parry . chance is computed as follows: game rolls a 1d6, adds Strength, and
+subtracts 14. A result of 7 or greater results in a successful parry. For
+classes other than warrior and thief, the game rolls a 1d3 and subtracts 18.
+In the advanced form, the game only subtracts 10. 
+
+Bash . Knocks down the target for one round, and knocks down the attacker for
+two regardless of hit or miss. You cannot bash with a ranged weapon. Strength
+affects damage (1 point of strength equals 1 percent more damage to what would
+otherwise be a melee attack) and dexterity affects success (the formula for
+success is: the game rolls a 1d6, adds Dexterity, and subtracts 14. A result
+of 4 or higher equals a hit, but a saving throw by the target can nullify
+that; that saving throw is as follows: the game rolls a 1d6, and if the number
+is higher than 4 the bash misses. In the advanced form, there is no lag on
+missing a bash.
+
+Kick . Damage is calculated by strength x strength + damage roll divided by
+10. In the advanced form, it is only divided by 5. Hit roll affects success:
+the game computes 30 + hit-roll divided by 5, and rolls a 1dx (x is that
+number): a result of 35 or less indicates failure; a result of 36 to 45
+indicates 60% damage; a result of 46 to 60 indicates 80% damage; a result of
+61 to 75 indicates 100% damage; a result of 76 or more indicates 120% damage.
+This can be used only once per round.
+
+KNIGHT:
+
+Stomp . A knight can stomp as many times as they can melee. One stomp is equal
+to one full strength kick.
+
+Defend . A knight can only defend when wearing a shield. This lags the one
+defending for three rounds, and the state lasts for three rounds. The amount
+of damage reduced is equal to the Strength of the one defending, in percent
+form.
+
+Death Wish . A knight deals damage equal to what would be half a stab with
+their currently wielded weapon when they die to their currently targeted
+opponent.
+
+RANGER:
+
+Greater Senses . Scan increases to encompass four rooms away instead of 2.
+
+PALADIN:
+
+Cleric Casting . Paladin . A paladin casts as though he or she is a cleric of
+the same level and alignment.
+
+THIEF:
+
+Dodge . Dodge has the same computation as parry.
+
+
+More to come in the future. I know people haven't really been around but i
+wanted to let whoever is around these days to know I am still working in the
+background here.
+
+-B

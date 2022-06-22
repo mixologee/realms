@@ -1,0 +1,87 @@
+#4000
+A Cowboy Hat~
+a Cowboy Hat~
+A brownish-gray cowboy hat. The peak of which reaches 7 inches above the head. JR from Dallas Style.~
+~
+9 cop 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 25
+A
+24 -2
+A
+13 25
+A
+12 25
+#4001
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#4003
+A small rusted key~
+a small rusted key~
+A small rusted key~
+A small rusted key
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+2 0 0 0
+#4004
+Key to the captains quarters~
+Key to the captains quarters~
+Key to the captains quarters~
+Key to the captains quarters
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+3 0 0 0
+#4005
+treasure chest box~
+a large treasure chest~
+A broad black chest sits up against the wall, leaning slightly into it.~
+This chest bears a skull and crossbones emblem over its lock, one that although
+rusted swings readily to the side as you push it, revealing the keyhole. The
+box has withstood the test of time beneath the waves, bearing few signs of age
+other than strings of seaweed and barnacles.
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+0 12 4006 0
+20000 0 0 0
+#4006
+Key to the treasure~
+Key to the treasure~
+Key to the treasure~
+Key to the treasure
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+2 0 0 0
+#4007
+Some pirates booty~
+Some pirates booty~
+Some pirates booty~
+Some pirates booty
+~
+20 0 0 0 0 a 0 0 0 0 0 0 0
+8000 0 0 0
+0 0 0 0
+#4008
+container test~
+a testing container~
+&cseems to be somehow different than the rest.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+0 5 -1 0
+0 0 0 0
+#4009
+key test~
+a testing key~
+A testing key lies on the ground.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+2 0 0 0
+$~

@@ -1,0 +1,59 @@
+[?1049h[?1h=[1;28r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[28;1H"act.informative.c" "act.informative.c" 2692L, 77574C[1;3H[32mint[m tp;
+
+  one_argument(argument, arg);
+
+  [33mif[m (!*arg) {
+    send_to_char(ch, [31m"Your current color level is [m[35m%s[m[31m.[m[35m\r\n[m[31m"[m, ctypes[COLOR_LEV(ch)]);
+    [33mreturn[m;
+  }
+  [33mif[m (((tp = search_block(arg, ctypes, FALSE)) == -[31m1[m)) {
+    send_to_char(ch, [31m"Usage: color { Off | | | Complete }[m[35m\r\n[m[31m"[m);
+    [33mreturn[m;
+  }
+  REMOVE_BIT_AR(PRF_FLAGS(ch), PRF_COLOR_1 | PRF_COLOR_2);
+  SET_BIT_AR(PRF_FLAGS(ch), (PRF_COLOR_1 * (tp & [31m1[m)) | (PRF_COLOR_2 * (tp & [31m2[m) >> [31m1[m));
+
+  send_to_char(ch, [31m"Your [m[35m%s[m[31mcolor[m[35m%s[m[31m is now [m[35m%s[m[31m.[m[35m\r\n[m[31m"[m, CCRED(ch, C_SPR), CCNRM(ch, C_OFF), ctypes[tp]);
+}
+
+
+ACMD(do_toggle)
+{
+  [32mchar[m buf2[[31m4[m];
+
+  [33mif[m (IS_NPC(ch))
+    [33mreturn[m;
+
+  [33mif[m (GET_WIMP_LEV(ch) == [31m0[m)[28;99H2151,3        80%[14;3H[?12l[?25h[?25l[28;1H[K[28;1H:q:q[1m[37m[41mE173: 1 more file to edit[m[73C2151,3        80%[14;3H[?12l[?25h[28;1H
+[?1l>[?1049l[?1049h[?1h=[?12;25h[?12l[?25h[27m[m[H[2J[?25l[1;3H[32mint[m tp;
+
+  one_argument(argument, arg);
+
+  [33mif[m (!*arg) {
+    send_to_char(ch, [31m"Your current color level is [m[35m%s[m[31m.[m[35m\r\n[m[31m"[m, ctypes[COLOR_LEV(ch)]);
+    [33mreturn[m;
+  }
+  [33mif[m (((tp = search_block(arg, ctypes, FALSE)) == -[31m1[m)) {
+    send_to_char(ch, [31m"Usage: color { Off | | | Complete }[m[35m\r\n[m[31m"[m);
+    [33mreturn[m;
+  }
+  REMOVE_BIT_AR(PRF_FLAGS(ch), PRF_COLOR_1 | PRF_COLOR_2);
+  SET_BIT_AR(PRF_FLAGS(ch), (PRF_COLOR_1 * (tp & [31m1[m)) | (PRF_COLOR_2 * (tp & [31m2[m) >> [31m1[m));
+
+  send_to_char(ch, [31m"Your [m[35m%s[m[31mcolor[m[35m%s[m[31m is now [m[35m%s[m[31m.[m[35m\r\n[m[31m"[m, CCRED(ch, C_SPR), CCNRM(ch, C_OFF), ctypes[tp]);
+}
+
+
+ACMD(do_toggle)
+{
+  [32mchar[m buf2[[31m4[m];
+
+  [33mif[m (IS_NPC(ch))
+    [33mreturn[m;
+
+  [33mif[m (GET_WIMP_LEV(ch) == [31m0[m)[28;99H2151,3        80%[14;3H[?12l[?25h[28;1H
+[32mW11: Warning: File "act.informative.c" has changed since editing started[m
+[32mSee ":help W11" for more info.[m
+[32m[O]K, (L)oad File: [m[?1l>[?1049lVim: Caught deadly signal TERM
+Vim: Finished.
+[28;1H

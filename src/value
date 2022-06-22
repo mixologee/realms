@@ -1,0 +1,117 @@
+act.movement.c:  for (raff = world[EXIT(ch, dir)->to_room].room_affs; raff; raff = raff->next)
+act.movement.c:     if (IS_NPC(ch) && raff->type == RAFF_NPC_BARRIER) {
+act.offensive.c:         for (raff = world[EXIT(ch, attempt)->to_room].room_affs; raff; raff = raff->next)
+act.offensive.c:           if (IS_NPC(ch) && raff->type == RAFF_NPC_BARRIER) {
+act.other.c:     for (raff = world[IN_ROOM(ch)].room_affs; raff; raff = raff->next) {
+act.other.c:        if (raff->type == RAFF_SHELTER)
+act.wizard.c:    for (raff = world[IN_ROOM(ch)].room_affs; raff; raff = raff->next) {
+commands.c:  for (raff = world[IN_ROOM(ch)].room_affs; raff; raff = raff->next) {
+commands.c:     if (raff->type == RAFF_SHELTER) {     
+commands.c:       raff->timer = 70;
+commands.c:  raff->type = RAFF_SHELTER;
+commands.c:  raff->timer = 60;
+commands.c:  raff->value = 0;
+commands.c:  raff->ch = NULL;
+commands.c:  raff->text = NULL;
+commands.c:  raff->room = IN_ROOM(ch);
+commands.c:  raff->next = world[IN_ROOM(ch)].room_affs;
+godcmds.c:     raff->type = RAFF_NPC_BARRIER;
+godcmds.c:     raff->timer = 10;
+godcmds.c:     raff->value = 0;
+godcmds.c:     raff->ch = NULL;
+godcmds.c:     raff->text = NULL;
+godcmds.c:     raff->room = IN_ROOM(ch); 
+godcmds.c:     raff->next = world[IN_ROOM(ch)].room_affs;
+godcmds.c:     raff->type = RAFF_PC_BARRIER;
+godcmds.c:     raff->timer = 10;
+godcmds.c:     raff->value = 0;
+godcmds.c:     raff->ch = NULL;
+godcmds.c:     raff->text = NULL;
+godcmds.c:     raff->room = IN_ROOM(ch);
+godcmds.c:     raff->next = world[IN_ROOM(ch)].room_affs;
+handler.c:        for (raff = pRoom->affections; raff; raff = raff->next_in_room)
+handler.c:                if (raff->spell == spl)
+handler.c:        for (raff = pRoom->affections; raff; raff = raff->next_in_room)
+handler.c:                if (raff->bitvector == bitv)
+room_afs.c:          if (raff->type == RAFF_TRACKS) {
+room_afs.c:             if (raff->ch == ch) {
+room_afs.c:               raff->timer = 10;
+room_afs.c:               raff->value = (int)time(NULL) ;
+room_afs.c:          raff = raff->next;
+room_afs.c:           raff->type = RAFF_TRACKS;
+room_afs.c:           raff->ch = ch;
+room_afs.c:           raff->timer = 10;
+room_afs.c:           raff->value = (int)time(NULL);
+room_afs.c:           raff->room = room;
+room_afs.c:           raff->next = world[room].room_affs;
+room_afs.c:    for (raff = world[room].room_affs; raff; raff = raff->next) {
+room_afs.c:       if (raff->type == RAFF_BLOOD) 
+room_afs.c:       if(raff->type == RAFF_NPC_BARRIER)             
+room_afs.c:       if (raff->type == RAFF_PC_BARRIER)
+room_afs.c:       if (raff->type == RAFF_FIRE)
+room_afs.c:       if (raff->type == RAFF_SHELTER) {
+room_afs.c:         if (raff->timer > 5)
+room_afs.c:         else if (raff->timer > 4)
+room_afs.c:         else if (raff->timer > 3)
+room_afs.c:         else if (raff->timer > 2)
+room_afs.c:         else if (raff->timer > 1)
+room_afs.c:  i = raff->room;
+room_afs.c:    world[i].room_affs = raff->next;
+room_afs.c:      while (next_raff->next && next_raff->next != raff)
+room_afs.c:        next_raff = next_raff->next;
+room_afs.c:        if (!next_raff->next) {
+room_afs.c:        next_raff->next = raff->next;
+room_afs.c:  if (raff->type == RAFF_SHELTER) {
+room_afs.c:  else if (raff->type == RAFF_BLOOD) {
+room_afs.c:  else if (raff->type == RAFF_NPC_BARRIER) 
+room_afs.c:  else if (raff->type == RAFF_PC_BARRIER)
+room_afs.c:  else if (raff->type == RAFF_FIRE)
+room_afs.c: if (raff->text)
+room_afs.c:   raff->text = my_free(raff->text);
+room_afs.c:        next=raff->next;
+room_afs.c:        raff->timer = 0;
+room_afs.c:        raff->text = '\0';
+room_afs.c:        raff->type = 0;
+room_afs.c:        raff->value = 0;
+room_afs.c:        raff->room = 0;
+room_afs.c:        raff->ch = '\0';
+room_afs.c:       next = raff->next;
+room_afs.c:       if (raff->timer != -1) {
+room_afs.c:         raff->timer = raff->timer - 1;
+room_afs.c:         if (raff->type == RAFF_BLOOD)
+room_afs.c:           raff->value = raff->value + 1;
+room_afs.c:         if (raff->type == RAFF_SHELTER) {
+room_afs.c:         if (raff->timer == 1 && raff->type == RAFF_NPC_BARRIER) 
+room_afs.c:         if (raff->timer == 1 && raff->type == RAFF_PC_BARRIER)
+room_afs.c:         if (raff->type == RAFF_FIRE) {
+room_afs.c:       if (raff->timer <= 0)
+room_afs.c: for (raff = world[room].room_affs; raff; raff = raff->next) {
+room_afs.c:   if (raff->type == RAFF_BLOOD) {
+room_afs.c:     raff->value = raff->value + 1;
+room_afs.c:     raff->timer = rand_number(15,27);
+room_afs.c:    raff->type = RAFF_BLOOD;      
+room_afs.c:    raff->timer = rand_number(15,27);
+room_afs.c:    raff->value = 1;
+room_afs.c:    raff->ch = 0;
+room_afs.c:    raff->text = strdup(buf);
+room_afs.c:    raff->room = room;    
+room_afs.c:    raff->next = world[room].room_affs;           
+room_afs.c:    next = raff->next;
+room_afs.c:    if (raff->type == RAFF_BLOOD)
+room_afs.c:  for (raff = world[room].room_affs; raff; raff = raff->next) {
+room_afs.c:    if (raff->type == RAFF_BLOOD)
+wild.info.c:		raff->timer = 60;
+wild.info.c:		raff->timer			= 60;
+wild.info.c:		raff->coord			= NULL;
+wild.info.c:		raff->vroom			= NOWHERE;
+wild.info.c:		raff->timer			= 60;
+wild.info.c:		raff->bitvector		        = RAFF_SHELTER;
+wild.info.c:		raff->spell			= 0;
+wild.info.c:		raff->level			= GET_LEVEL(ch);
+wild.info.c:		raff->value			= 0;
+wild.info.c:		raff->text			= "The fire slowly fades and sputters out...\r\n";
+wild.info.c:		CREATE( raff->coord, COORD_DATA, 1 );
+wild.info.c:		raff->coord->y		= GET_RY(tRoom->number);
+wild.info.c:		raff->coord->x		= GET_RX(tRoom->number);
+wild.info.c:		raff->next_in_room	= tRoom->affections;
+wild.info.c:		raff->next			= raff_list;

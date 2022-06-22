@@ -1,0 +1,131 @@
+#6900
+the Key of Tek~
+an Intricate Crystal Sphere~
+A small crystal sphere containing a universe, pulses quietly.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 2
+#6901
+Heavy Metal Strongbox~
+a Heavy Metal Strongbox~
+A heavy metal strongbox sits here, firmly secured to ground.~
+~
+15 f 0 0 0 a 0 0 0 0 0 0 0
+999 5 -1 0
+999 0 0 0
+#6902
+pile of coins~
+a big pile of gold~
+A big ol' pile of gold is lying here.~
+~
+20 0 0 0 0 a 0 0 0 0 0 0 0
+500000 0 0 0
+0 0 0 0
+#6903
+Bracelet of Teera~
+the bracelet of Teera~
+A delicate bracelet is lying here.~
+~
+9 op 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+1 10420 0 15
+A
+12 20
+A
+13 10
+#6904
+starcaster mace~
+the starcaster mace~
+The starcaster mace is lying here.~
+~
+5 abkmop 0 0 0 an 0 0 0 0 0 0 0
+0 3 10 5
+5 10420 0 20
+A
+12 35
+A
+13 20
+#6905
+metal key~
+a small metal key~
+A small metal key is lying here.~
+~
+31 c 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+2 0 0 0
+#6906
+bone sword~
+a sword of pure bone~
+A sword of bone is lying here.~
+~
+5 mno 0 0 0 an 0 0 0 0 0 0 0
+0 10 10 3
+3 100 0 15
+A
+13 10
+A
+18 5
+A
+19 5
+#6907
+bone belt~
+a belt of segmented bone~
+A belt made of segmented bone is lying here.~
+~
+9 jmn 0 0 0 al 0 0 0 0 0 0 0
+5 0 0 0
+3 10000 0 18
+A
+19 4
+#6908
+bone gauntlets~
+a pair of bone gauntlets~
+Some gauntlets made of bone are lying here.~
+~
+9 jmn 0 0 0 ah 0 0 0 0 0 0 0
+5 0 0 0
+3 10420 0 19
+A
+13 10
+A
+19 4
+#6909
+teera's shield~
+a pure white shield~
+A pure white shield is lying here.~
+~
+9 k 0 0 0 aj 0 0 0 0 0 0 0
+5 0 0 0
+4 0 0 20
+A
+13 8
+A
+12 10
+#6995
+teks thingamawhatzit~
+a strange thingamawhatzit~
+A odd looking thingamawhatzit is lying here.~
+~
+12 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#6996
+dunce cap~
+a pointed dunce cap~
+A pointy hat is lying here.~
+~
+11 0 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+A
+1 -10
+A
+3 -10
+A
+5 -10
+A
+4 -10
+A
+2 -10
+$~

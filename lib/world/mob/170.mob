@@ -1,0 +1,386 @@
+#17000
+Gebriad priest~
+Gabriad the high priest~
+A stately man walks through the area, his white priest's robe drifting along behind him.
+~
+It looks unfinished.
+~
+138 0 0 0 8568 0 0 0 800 E
+20 14 10 10d20+300 3d3+3
+170 40000
+8 8 1
+BareHandAttack: 13
+Clss: 6
+E
+#17001
+Parscel preacher~
+Parscel the preacher~
+A balding, red-faced man stands here, beginning to tire from belting out prayers and sermons.
+~
+It looks unfinished.
+~
+2186 0 0 0 8264 0 0 0 750 E
+17 -10 8 10d20+200 4d2+7
+200 28900
+8 8 1
+BareHandAttack: 13
+Att1: 5
+Att2: 5
+Att3: 5
+Clss: 8
+E
+#17002
+priest people man~
+the priest of the people~
+A man who looks like a farmer stuffed in a priest's robe stands here, bowing and smiling to the congregation.
+~
+It looks unfinished.
+~
+2056 0 0 0 80 0 0 0 500 E
+16 -5 9 2d50+200 3d2+7
+160 25600
+8 8 1
+BareHandAttack: 13
+Clss: 7
+E
+#17003
+confessioner man~
+the confessioner~
+A tan man sits here, fondling his rosary beads idly.
+~
+It looks unfinished.
+~
+2186 0 0 0 120 0 0 0 490 E
+16 15 10 10d10+200 2d2+2
+160 25600
+8 8 1
+BareHandAttack: 13
+Clss: 5
+E
+#17004
+boy altarboy~
+the altar boy~
+A church regular boy attends to the altar here.
+~
+It looks unfinished.
+~
+2058 0 0 0 524288 0 0 0 300 E
+14 0 9 2d2+250 2d2+5
+10 19600
+8 8 1
+BareHandAttack: 13
+Att1: 4
+Att2: 4
+Att3: 4
+Clss: 7
+E
+#17005
+woman player organplayer~
+an elderly organ player~
+A white-haired woman sits hunched over the keys of the organ, humming along to the melody.
+~
+It looks unfinished.
+~
+10 0 0 0 8388944 0 0 0 650 E
+15 15 7 3d3+300 2d2+2
+150 22500
+8 8 2
+BareHandAttack: 13
+Att1: 3
+Clss: 6
+E
+#17006
+monk choralier man~
+a singing monk~
+A brown-robed man stands in the gallery, raising his wonderful voice to the sky.
+~
+It looks unfinished.
+~
+2186 0 0 0 65536 0 0 0 600 E
+15 15 7 50d4+200 2d2+2
+0 22500
+8 8 1
+BareHandAttack: 13
+Att1: 3
+Att2: 4
+Clss: 6
+E
+#17007
+traveler man~
+a churchgoing traveler~
+A scruffy man decked out in mostly brown linens sits in the pews, listening intently and nodding silently.
+~
+It looks unfinished.
+~
+1048712 0 0 0 0 0 0 0 157 E
+14 0 10 2d2+300 2d3+7
+167 19600
+8 8 1
+BareHandAttack: 13
+Att1: 4
+Clss: 8
+E
+#17008
+demonlord lord~
+Kultryx the demon lord~
+A massive, iron-banded demon stands here, brandishing a flaming broadsword.
+~
+It looks unfinished.
+~
+1048618 0 0 0 84088 0 0 0 -800 E
+20 -10 9 4d4+500 6d3+10
+1860 40000
+8 8 0
+BareHandAttack: 8
+Att1: 15
+Att2: 14
+Att3: 13
+Clss: 6
+E
+#17009
+beholder lord~
+the beholder thrall-lord~
+A massive eye-like being with armored flesh and countless oozing tentacles drifts through the area, supervising the other beholders.
+~
+It looks unfinished.
+~
+1050664 0 0 0 1073758328 0 0 0 -750 E
+17 15 9 3d3+400 2d2+2
+0 28900
+8 8 0
+BareHandAttack: 2
+Clss: 5
+E
+#17010
+gardener man elder~
+Avrill the gardener~
+A wrinkled old man stands here, hacking away at the ground with a hoe and humming a tune.
+~
+It looks unfinished.
+~
+1048968 0 0 0 8504 0 0 0 900 E
+15 15 10 3d3+500 2d2+2
+150 22500
+8 8 1
+BareHandAttack: 13
+Clss: 5
+E
+#17011
+gravedigger Horace man~
+Horace the gravedigger~
+A being more ancient than dirt stands here in a cloud of dust.
+~
+It looks unfinished.
+~
+1048584 0 0 0 532480 0 0 0 300 E
+15 -7 9 3d3+300 3d2+6
+51 22500
+8 8 1
+BareHandAttack: 13
+Att1: 4
+Clss: 7
+E
+#17012
+churchgoer thrall undead~
+an enthralled churchgoer~
+An undead humanoid flails furiously at the roots over its head.
+~
+It looks unfinished.
+~
+57386 0 0 0 376 0 0 0 -900 E
+16 -10 10 40d3+375 6d5+10
+160 25600
+8 8 0
+BareHandAttack: 13
+Att1: 30
+Att2: 25
+Att3: 20
+Clss: 8
+E
+#17013
+fire demon firedemon slave~
+an enslaved fire demon~
+A fire demon stands here, its limbs bound to the ground by shadowy chains.
+~
+It looks unfinished.
+~
+65578 0 0 0 17728 0 0 0 -469 E
+16 15 8 20d10+300 2d2+2
+0 25600
+8 8 0
+BareHandAttack: 12
+Clss: 5
+E
+#17014
+zombie~
+a rotting zombie~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+1048616 0 0 0 16793680 0 0 0 -1000 E
+10 -80 9 2d2+1428 6d6+1
+100 10000
+8 8 0
+BareHandAttack: 13
+Att1: 30
+Att2: 35
+Att3: 30
+Clss: 1
+E
+#17015
+hound zombie~
+a zombified hound~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+134217768 0 0 0 80 0 0 0 -1000 E
+10 -80 10 2d2+100 10d4+1
+0 10000
+8 8 0
+BareHandAttack: 4
+Clss: 1
+E
+#17016
+beholder~
+a beholder~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+1050664 0 0 0 1073758328 4 0 0 -800 E
+18 14 5 20d3+1000 3d3+3
+0 32400
+8 8 0
+BareHandAttack: 2
+Clss: 5
+E
+#17017
+priest~
+a fallen priest~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+2088 0 0 0 16760 0 0 0 -500 E
+17 15 10 20d3+1000 2d2+2
+170 28900
+8 8 0
+BareHandAttack: 13
+Clss: 6
+E
+#17018
+mob unfinished~
+a defiler beast~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+40 0 0 0 16384 0 0 0 -900 E
+10 -20 -5 10d10+700 6d5+20
+176 10000
+8 8 0
+BareHandAttack: 4
+Clss: 1
+E
+#17019
+merlok~
+a merlok~
+A ghostly white humanoid lurks amidst the flames and brimstone.
+~
+It looks unfinished.
+~
+1050792 0 0 0 1654784 0 0 0 -900 E
+17 -20 8 20d20+300 8d3+5
+0 28900
+8 8 0
+BareHandAttack: 13
+Att1: 20
+Att2: 20
+Att3: 20
+Clss: 8
+E
+#17020
+Tobela woman spirit~
+the spirit of Saint Tobela~
+A saintly woman hovers in the air before you, a golden glow about her.
+~
+It looks unfinished.
+~
+6408 64 0 0 1073750392 4 0 0 1000 E
+30 10 -5 12d12+4200 5d5+5
+0 90000
+8 8 2
+BareHandAttack: 13
+Att1: 25
+Att2: 25
+Att3: 25
+Clss: 17
+E
+#17021
+Faith shadow~
+the shadow Faith~
+A shadowy, winged figure cackles maniacally at your approach, beckoning you to approach.
+~
+It looks unfinished.
+~
+42 0 0 0 16504 4 0 0 -1000 E
+30 -30 6 30d6+3500 10d5+30
+1463 90000
+8 8 1
+BareHandAttack: 11
+Clss: 5
+E
+#17022
+---~
+Abaddon~
+&dBlackface!
+~
+It looks unfinished.
+~
+42 0 0 0 1065080 0 0 0 -1000 E
+40 -80 -5 8d8+5000 10d7+40
+10000 160000
+8 8 0
+BareHandAttack: 8
+Att1: 50
+Att2: 50
+Att3: 50
+Clss: 18
+E
+#17023
+churchgoer~
+a regular churchgoer~
+A churchgoer basks sleepily in the glow of the candles and the murmur of the church.
+~
+It looks unfinished.
+~
+10 0 0 0 376 0 0 0 -900 E
+16 -10 10 40d3+375 6d5+10
+160 25600
+8 8 1
+BareHandAttack: 13
+Att1: 30
+Att2: 25
+Att3: 20
+Clss: 8
+E
+#17024
+churchgoer~
+a regular churchgoer~
+A homely local woman sits devoutly in the pew, hands clasped and eyes attentive.
+~
+It looks unfinished.
+~
+10 0 0 0 376 0 0 0 -900 E
+16 -10 10 40d3+375 6d5+10
+160 25600
+8 8 2
+BareHandAttack: 13
+Att1: 30
+Att2: 25
+Att3: 20
+Clss: 7
+E
+$

@@ -1,0 +1,546 @@
+#12000
+The Gaping Maw of Emca~
+You are in an unfinished room.
+~
+120 65544 0 0 0 17
+D1
+~
+~
+0 0 12001
+S
+#12001
+A Steep Flight of Steps~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 84
+D1
+~
+~
+0 0 12002
+D3
+~
+~
+0 0 12000
+S
+#12002
+A Steep Flight of Steps~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 84
+D1
+~
+~
+0 0 12003
+D3
+~
+~
+0 0 12001
+S
+#12003
+A Curve in the Passage~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 84
+D0
+~
+~
+0 0 12004
+D3
+~
+~
+0 0 12002
+S
+#12004
+A Curve in the Passage~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 84
+D1
+~
+~
+0 0 12005
+D2
+~
+~
+0 0 12003
+S
+#12005
+A Curve in the Passage~
+This unfinished room was created by Accarid.
+~
+120 65544 0 0 0 84
+D2
+~
+~
+0 0 12006
+D3
+~
+~
+0 0 12004
+S
+#12006
+Descending Fire Scorched Steps~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 84
+D2
+~
+~
+0 0 12007
+S
+#12007
+Descending Scorched Steps~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 84
+D0
+~
+~
+0 0 12006
+D1
+~
+~
+0 0 12008
+S
+#12008
+Descending Scorched Steps~
+This unfinished room was created by Accarid.
+~
+120 65536 1 0 0 84
+D0
+~
+~
+0 0 12009
+D3
+~
+~
+0 0 12007
+S
+#12009
+A Portal of Black Stone~
+Type enter portal to enter the portal and go to room 12010. Type enter portal
+to be instantly transported to a room on the other side (a room at the
+southernmost end of each aisle).
+~
+120 65536 1 0 0 84
+D2
+~
+~
+0 0 12008
+S
+#12010
+The Tollgate of Emca~
+Type enter portal to go to room 12009. Give 100 coins demon to enter the main
+part of the zone and be ported to a random room.
+~
+120 131080 0 0 0 13
+S
+#12011
+Within Emca, at the End of the Bloody Aisle~
+Note to self: I need to divide the aisles into different categories, based on
+the items you may receive upon completing the task in each area. If you
+continue in one direction, you will eventually get in another aisle, due to the
+chaotic nature of this place. Every item will have an advantage, and lesser
+disadvantage to using them. This aisle will have potions.
+~
+120 131148 0 0 0 0
+D0
+~
+~
+0 0 12014
+D1
+~
+~
+0 0 12013
+D3
+~
+~
+0 0 12012
+S
+#12012
+Within Emca~
+This unfinished room was created by Accarid.
+~
+120 131080 128 0 0 0
+D1
+~
+~
+0 0 12011
+D3
+~
+~
+0 0 12016
+S
+#12013
+Within Emca~
+This unfinished room was created by Accarid.
+~
+120 131080 128 0 0 0
+D1
+~
+~
+0 0 12015
+D3
+~
+~
+0 0 12011
+S
+#12014
+In an Aisle, Surrounded by Devices of Torture~
+Perhaps this aisle shall be healing items? Equipment that makes you more durable, but hurt less?
+~
+120 131080 128 0 0 0
+D0
+~
+~
+0 0 12025
+D2
+~
+~
+0 0 12011
+S
+#12015
+Within Emca, at the End of the Fiery Aisle~
+This aisle should contain items that inflict damaging spells on the enemy.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12027
+D1
+~
+~
+0 0 12011
+D3
+~
+~
+0 0 12013
+S
+#12016
+Within Emca, at the End of the Shriek Aisle~
+This aisle contains melee enhancement items.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12020
+D1
+~
+~
+0 0 12012
+D3
+~
+~
+0 0 12018
+S
+#12017
+Undead shopper spawn point *mobiles only*~
+Undead shoppers load here.
+~
+120 0 0 0 0 0
+D5
+~
+~
+0 0 12013
+S
+#12018
+Before a Door of Molten Iron~
+This is the door to the Master Demon's office.
+~
+120 131080 0 0 0 0
+D1
+~
+~
+0 0 12016
+D2
+~
+door~
+2 0 12019
+S
+#12019
+The Head Demon's Office~
+This room should deal fire damage to people who hang out in here. It would also
+be nice if the head demon would automatically close the door when it gets opened
+:p
+~
+120 131080 0 0 0 0
+D0
+~
+door~
+2 0 12018
+S
+#12020
+In an Aisle, Surrounded by Shrieking Skulls~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12021
+D2
+~
+~
+0 0 12016
+S
+#12021
+In an Aisle, Surrounded by Shrieking Skulls~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12022
+D2
+~
+~
+0 0 12020
+D3
+~
+~
+0 0 12038
+S
+#12022
+In an Aisle, Surrounded by Shrieking Skulls~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D2
+~
+~
+0 0 12021
+D3
+~
+~
+0 0 12023
+S
+#12023
+Within Emca~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D1
+~
+~
+0 0 12022
+D3
+~
+~
+0 0 12024
+S
+#12024
+At the End of the Icy Aisle~
+This aisle should contain magical support items.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12034
+D1
+~
+~
+0 0 12023
+S
+#12025
+In an Aisle, Surrounded by Devices of Torture~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12026
+D2
+~
+~
+0 0 12014
+S
+#12026
+In an Aisle, Surrounded by Devices of Torture~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12036
+D1
+~
+~
+0 0 12030
+D2
+~
+~
+0 0 12025
+S
+#12027
+In an Aisle, Surrounded by Demonic Flames~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12028
+D2
+~
+~
+0 0 12015
+S
+#12028
+In an Aisle, Surrounded by Demonic Flames~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12029
+D1
+~
+~
+0 0 12039
+D2
+~
+~
+0 0 12027
+S
+#12029
+In an Aisle, Surrounded by Demonic Flames~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D2
+~
+~
+0 0 12028
+S
+#12030
+The Stretching Board~
+This unfinished room was created by Accarid.
+~
+120 131081 24576 0 0 0
+D3
+~
+~
+0 0 12026
+S
+#12031
+In an Aisle, Surrounded by Devices of Torture~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12032
+D2
+~
+~
+0 0 12026
+S
+#12032
+In an Aisle, Surrounded by Devices of Torture~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12033
+D2
+~
+~
+0 0 12031
+S
+#12033
+In an Aisle, Surrounded by Devices of Torture~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D2
+~
+~
+0 0 12032
+S
+#12034
+In an Aisle, Surrounded by Ice~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12035
+D2
+~
+~
+0 0 12024
+S
+#12035
+In an Aisle, Surrounded by Ice~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12036
+D2
+~
+~
+0 0 12034
+S
+#12036
+In an Aisle, Surrounded by Ice~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D0
+~
+~
+0 0 12031
+D2
+~
+~
+0 0 12035
+D3
+~
+~
+0 0 12037
+S
+#12037
+In an Icy Chamber~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D1
+~
+~
+0 0 12036
+S
+#12038
+Inside a Titanic Skull~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D1
+~
+~
+0 0 12021
+S
+#12039
+In the Midst of Demonic Flames~
+This unfinished room was created by Accarid.
+~
+120 131080 0 0 0 0
+D3
+~
+~
+0 0 12028
+S
+$~

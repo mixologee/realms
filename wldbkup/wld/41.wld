@@ -1,0 +1,2146 @@
+#4100
+A Charred and Twisted Dock~
+Tendrils of smoke rise from still smoldering portions of this once sturdy dock.
+Debris floats in the water around the area, sullying the water as it gathers
+around the splintered pilings that hold the dock above the water. To the east,
+a heavy mist blankets a dark and twisted forest, blocking out the sky and
+shrouding the woods in darkness.
+~
+41 4 0 0 0 0
+D1
+~
+~
+0 0 4101
+D3
+~
+~
+0 0 4965980
+S
+#4101
+On a Beach of Black Sand, Before a Dark and Foreboding Forest~
+The calm waves of the bay lap against a beach of fine black sand, pushing bits
+of debris floating in the water against the shore. Small wisps of smoke rise
+from a charred wooden dock to the west, vanishing into the air as a small breeze
+pushes them away. To the east, a dark and foreboding forest encroaches upon the
+beach, its trees growing so thick they create an impenetrable wall of foliage.
+A heavy mist roils through the forest, obscuring any view of the woods within.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4102
+D2
+~
+~
+0 0 4107
+D3
+~
+~
+0 0 4100
+S
+#4102
+On a Beach of Black Sand, Before a Dark and Foreboding Forest~
+Thick fingers of mist pour out of the dark forest to the east and flow lazily
+down the beach. Splintered lances and cloven shields litter the black sand,
+giving evidence to a battle that occured here. The remains of a once-powerful
+warship lie shattered against the shore, its hull charred and broken. The
+ship's mast has been hewn down, and lies fallen upon the beach.
+~
+41 65536 0 0 0 0
+D0
+~
+~
+0 0 4103
+D2
+~
+~
+0 0 4101
+S
+#4103
+On a Beach of Black Sand, Before a Dark and Foreboding Forest~
+The heavy mist from the forest encroaches upon this point, enshrouding the beach
+in a haze of grey. Small rocks and pebbles litter the surface of the beach,
+almost concealing the black sand. Small waves from across the bay lap quietly
+against the shoreline, pushing small bits of debris against the sand. To the
+east, the impenetrable wall of forest bears a few axe marks against various
+trees, as if someone attempted to force a trail through the woods.
+~
+41 65536 0 0 0 0
+D1
+~
+~
+0 0 4115
+D2
+~
+~
+0 0 4102
+D3
+~
+~
+0 0 4104
+S
+#4104
+On a Beach of Black Sand, Before a Small Shack~
+This unfinished room was created by Anubis.
+~
+41 65536 0 0 0 0
+D0
+~
+~
+0 0 4105
+D1
+~
+~
+0 0 4103
+S
+#4105
+Within a Small Wooden Shack~
+This unfinished room was created by Anubis.
+~
+41 65544 0 0 0 0
+D2
+~
+~
+0 0 4104
+D3
+~
+~
+0 0 4106
+S
+#4106
+A Rickety Balcony Overlooking the Ocean~
+This unfinished room was created by Anubis.
+~
+41 65536 0 0 0 0
+D1
+~
+~
+0 0 4105
+S
+#4107
+On a Beach of Black Sand, Before a Dark and Foreboding Forest~
+Small waves from across the bay lap quietly against the shoreline, pushing small
+bits of debris against the sand. Thick fingers of mist pour out of the dark
+forest to the east, flowing lazily down the beach towards the water. The thick
+wall of trees encroaches upon the beach, threatening to swallow the black sand
+into its darkness.
+~
+41 65536 0 0 0 0
+D0
+~
+~
+0 0 4101
+D2
+~
+~
+0 0 4108
+S
+#4108
+On a Beach of Black Sand, Before a Dark and Foreboding Forest~
+Small rocks and pebbles litter the surface of the beach, almost concealing the
+black sand. Broken swords and cloven shields litter the area, giving evidence
+to a battle that occured here. To the east, a dark and foreboding forest
+encroaches upon the beach, its trees growing so thick they create an
+impenetrable wall of foliage. A heavy mist roils through the forest, obscuring
+any view of the woods within.
+~
+41 65536 0 0 0 0
+D0
+~
+~
+0 0 4107
+D2
+~
+~
+0 0 4109
+S
+#4109
+On a Beach of Black Sand, Before a Dark and Foreboding Forest~
+The calm waves of the bay lap against a beach of fine black sand, pushing bits
+of debris floating in the water against the shore. The thick forest to the east
+comes to its southern end against a sheer granite cliff. The impassable wall of
+the cliff marches down into the sea, preventing any further passage south. Out
+in the water, a long point of stone can be seen jutting out into the sea.
+~
+41 65536 0 0 0 0
+D0
+~
+~
+0 0 4108
+D3
+~
+~
+0 0 4110
+S
+#4110
+Within the Shallows of the Bay, Surrounded by Floating Debris~
+This unfinished room was created by Anubis.
+~
+41 65536 0 0 0 6
+D1
+~
+~
+0 0 4109
+D2
+~
+~
+0 0 4111
+S
+#4111
+The Shallows of the Bay, Amongst Flotsam and Jetsam~
+This unfinished room was created by Anubis.
+~
+41 65536 0 0 0 6
+D0
+~
+~
+0 0 4110
+D3
+~
+~
+0 0 4112
+S
+#4112
+The Shallows of the Bay, Amongst Flotsam and Jetsam~
+This unfinished room was created by Anubis.
+~
+41 65536 0 0 0 6
+D0
+~
+~
+0 0 4113
+D1
+~
+~
+0 0 4111
+S
+#4113
+A Rocky Outcropping Extending out into the Bay~
+This unfinished room was created by Anubis.
+~
+41 65536 0 0 0 0
+D0
+~
+~
+0 0 4114
+D2
+~
+~
+0 0 4112
+S
+#4114
+A Rocky Outcropping Extending out into the Bay~
+This unfinished room was created by Anubis.
+~
+41 65536 0 0 0 0
+D2
+~
+~
+0 0 4113
+S
+#4115
+An Overgrown Trail Leading Into a Dark and Foreboding Forest~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 4116
+D3
+~
+~
+0 0 4103
+S
+#4116
+An Overgrown Trail Along a Palisade~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4117
+D3
+~
+~
+0 0 4115
+S
+#4117
+An Overgrown Trail Along a Palisade~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4118
+S
+#4118
+Before a Battle-Scarred Gate in the Palisade~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4124
+D2
+~
+~
+0 0 4119
+D3
+~
+~
+0 0 4117
+S
+#4119
+Within the Gate of a War-Torn Outpost~
+This unfinished room was created by Anubis.
+~
+41 65545 0 0 0 0
+D0
+~
+~
+0 0 4118
+D1
+~
+~
+0 0 4120
+D2
+~
+~
+0 0 4121
+S
+#4120
+A Cramped Guard Shack Next to the Gate~
+This unfinished room was created by Anubis.
+~
+41 65545 0 0 0 0
+D3
+~
+~
+0 0 4119
+S
+#4121
+A Hallway Within the Outpost~
+This unfinished room was created by Anubis.
+~
+41 65545 0 0 0 0
+D0
+~
+~
+0 0 4119
+D2
+~
+~
+0 0 4123
+D3
+~
+~
+0 0 4122
+S
+#4122
+A Barracks, Long Abandoned~
+This unfinished room was created by Anubis.
+~
+41 65545 0 0 0 0
+D1
+~
+~
+0 0 4121
+S
+#4123
+A Deserted Command Center~
+This unfinished room was created by Anubis.
+~
+41 65545 0 0 0 0
+D0
+~
+~
+0 0 4121
+S
+#4124
+A Thin Trail, Deep Within a Dark Forest~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4125
+D2
+~
+~
+0 0 4118
+S
+#4125
+Before a Dark and Twisted Oak Tree~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4126
+D3
+~
+~
+0 0 4124
+S
+#4126
+A Narrow Stream of Dark, Murky Water~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D2
+~
+~
+0 0 4125
+D3
+~
+~
+0 0 4127
+S
+#4127
+A Narrow Stream of Dark, Murky Water~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4126
+D3
+~
+~
+0 0 4128
+S
+#4128
+A Large Boulder Amidst the Dark Forest~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4129
+D1
+~
+~
+0 0 4127
+S
+#4129
+A Small Grove of Twisted Ash Trees~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D2
+~
+~
+0 0 4128
+D3
+~
+~
+0 0 4130
+S
+#4130
+A Bend in the Trail~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4129
+D2
+~
+~
+0 0 4131
+S
+#4131
+Within the Dark Forest~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4130
+D2
+~
+~
+0 0 4132
+S
+#4132
+A Trampled Clearing Amongst the Trees~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4131
+D1
+~
+~
+0 0 4134
+D2
+~
+~
+0 0 4133
+D3
+~
+~
+0 0 4135
+S
+#4133
+Dense, Tangled Underbrush~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4132
+D2
+~
+~
+0 0 4115
+S
+#4134
+Dense, Tangled Underbrush~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4124
+D3
+~
+~
+0 0 4132
+S
+#4135
+Crawling Through a Rotten Log~
+This unfinished room was created by Anubis.
+~
+41 131329 0 0 0 0
+D0
+~
+~
+0 0 4136
+D1
+~
+~
+0 0 4132
+S
+#4136
+A Cliffside Trail, Next to a Small Waterfall~
+This unfinished room was created by Anubis.
+~
+41 131072 0 0 0 0
+D0
+~
+~
+0 0 4137
+D2
+~
+~
+0 0 4135
+S
+#4137
+A Cliffside Trail Overlooking the Ocean~
+This unfinished room was created by Anubis.
+~
+41 131072 0 0 0 0
+D0
+~
+~
+0 0 4138
+D2
+~
+~
+0 0 4136
+S
+#4138
+A Cliffside Trail Overlooking the Ocean~
+This unfinished room was created by Anubis.
+~
+41 131072 0 0 0 0
+D2
+~
+~
+0 0 4137
+D3
+~
+~
+0 0 4139
+S
+#4139
+A Cliffside Trail Overlooking the Ocean~
+This unfinished room was created by Anubis.
+~
+41 131072 0 0 0 0
+D0
+~
+~
+0 0 4140
+D1
+~
+~
+0 0 4138
+S
+#4140
+A Faint Trail Deep Within the Dark Forest~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4141
+D2
+~
+~
+0 0 4139
+S
+#4141
+A Faint Trail Deep Within the Dark Forest~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4142
+D2
+~
+~
+0 0 4140
+S
+#4142
+A Small Clearing, Before a Heavily Fortified Gate~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4143
+D2
+~
+~
+0 0 4141
+S
+#4143
+A Narrow Trail Beneath the Revetments of a Small Outpost~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4144
+D2
+~
+~
+0 0 4150
+D3
+~
+~
+0 0 4142
+S
+#4144
+A Narrow Trail Beneath the Revetments of a Small Outpost~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4145
+D3
+~
+~
+0 0 4143
+S
+#4145
+The Corner of the Outpost, Before a Sheer Granite Cliff~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4146
+D3
+~
+~
+0 0 4144
+S
+#4146
+A Gravel Trail at the Base of a Sheer Granite Cliff~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4164
+D2
+~
+~
+0 0 4147
+D3
+~
+~
+0 0 4145
+S
+#4147
+A Murky Stream through the Forest~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4146
+D2
+~
+~
+0 0 4163
+D3
+~
+~
+0 0 4148
+S
+#4148
+A Shadowy Grove of Twisted Pine Trees~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4147
+S
+#4149
+A Shadowy Grove of Twisted Pine Trees~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4148
+D2
+~
+~
+0 0 4153
+D3
+~
+~
+0 0 4150
+S
+#4150
+Deep Within the Dark Forest~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4149
+S
+#4151
+Climbing an Unusually Tall Tree~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D4
+~
+~
+0 0 4152
+D5
+~
+~
+0 0 4155
+S
+#4152
+High in the Branches of the Tallest Tree in the Forest~
+This unfinished room was created by Anubis.
+~
+41 131072 0 0 0 0
+D5
+~
+~
+0 0 4151
+S
+#4153
+A Trampled Clearing Amongst the Trees~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4149
+D1
+~
+~
+0 0 4154
+D3
+~
+undefined~
+0 0 4155
+S
+#4154
+Before a Dark and Twisted Oak Tree~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D3
+~
+~
+0 0 4153
+S
+#4155
+The Base of an Unusually Tall Tree~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4153
+D4
+~
+~
+0 0 4151
+S
+#4156
+A Trampled Clearing Amongst the Trees~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4154
+D1
+~
+~
+0 0 4158
+D3
+~
+~
+0 0 4157
+S
+#4157
+Crawling Through the Underbrush~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4156
+D2
+~
+~
+0 0 4130
+S
+#4158
+A Bend in the Trail~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D2
+~
+~
+0 0 4159
+D3
+~
+~
+0 0 4156
+S
+#4159
+Within the Dark Forest~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4158
+D1
+~
+~
+0 0 4160
+S
+#4160
+Before a Small Waterfall of Murky Water~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4161
+D3
+~
+~
+0 0 4159
+S
+#4161
+A Narrow Stream of Dark, Murky Water~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4162
+D2
+~
+~
+0 0 4160
+S
+#4162
+A Narrow Stream of Dark, Murky Water~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D2
+~
+~
+0 0 4161
+D3
+~
+~
+0 0 4163
+S
+#4163
+A Murky Pond Overgrown with Underbrush~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4147
+D1
+~
+~
+0 0 4162
+S
+#4164
+Crawling Through the Underbrush~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4165
+D3
+~
+~
+0 0 4146
+S
+#4165
+A Small Wooden Hut Nestled Against a Sheer Granite Cliff~
+This unfinished room was created by Anubis.
+~
+41 131081 0 0 0 0
+D1
+~
+~
+0 0 4175
+D2
+~
+~
+0 0 4166
+D3
+~
+~
+0 0 4164
+S
+#4166
+A Gravel Trail at the Base of a Sheer Granite Cliff~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4165
+D2
+~
+~
+0 0 4167
+S
+#4167
+A Gravel Trail at the Base of a Sheer Granite Cliff~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4166
+D2
+~
+~
+0 0 4168
+S
+#4168
+A Gravel Trail at the Base of a Sheer Granite Cliff~
+This unfinished room was created by Anubis.
+~
+41 131072 0 0 0 0
+D0
+~
+~
+0 0 4167
+D2
+~
+~
+0 0 4169
+S
+#4169
+A Gravel Trail at the Base of a Sheer Granite Cliff~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4168
+D2
+~
+~
+0 0 4170
+S
+#4170
+A Gravel Trail at the Base of a Sheer Granite Cliff~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4169
+D1
+~
+~
+0 0 4171
+D3
+~
+~
+0 0 4126
+S
+#4171
+A Dank Cave Within the Cliffside~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D2
+~
+~
+0 0 4172
+D3
+~
+~
+0 0 4170
+S
+#4172
+A Dank Shaft~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D0
+~
+~
+0 0 4171
+D5
+~
+~
+0 0 4173
+S
+#4173
+A Dank Shaft~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4174
+D4
+~
+~
+0 0 4172
+S
+#4174
+Before A Massive Iron Gate Embedded in the Granite Walls~
+This unfinished room was created by Anubis.
+~
+41 131073 0 0 0 0
+D1
+~
+~
+0 0 4224
+D3
+~
+~
+0 0 4173
+S
+#4175
+A Massive Granite Cavern~
+This unfinished room was created by Anubis.
+~
+41 65537 0 0 0 0
+D0
+~
+~
+0 0 4176
+D1
+~
+~
+0 0 4183
+D3
+~
+~
+0 0 4165
+S
+#4176
+A Hallway Carved from Granite~
+This unfinished room was created by Anubis.
+~
+41 65537 0 0 0 0
+D0
+~
+~
+0 0 4178
+D2
+~
+~
+0 0 4175
+D3
+~
+~
+0 0 4177
+S
+#4177
+A Smoke-Filled Smithy~
+This unfinished room was created by Anubis.
+~
+41 65553 0 0 0 0
+D1
+~
+~
+0 0 4176
+S
+#4178
+A Hallway Carved from Granite~
+This unfinished room was created by Anubis.
+~
+41 65537 0 0 0 0
+D0
+~
+~
+0 0 4181
+D1
+~
+~
+0 0 4179
+D2
+~
+~
+0 0 4176
+D3
+~
+~
+0 0 4180
+S
+#4179
+A Veiled Guardpost~
+This unfinished room was created by Anubis.
+~
+41 65537 0 0 0 0
+D3
+~
+~
+0 0 4178
+S
+#4180
+A Veiled Guardpost~
+This unfinished room was created by Anubis.
+~
+41 65537 0 0 0 0
+D1
+~
+~
+0 0 4178
+S
+#4181
+Before the Well of Souls~
+This unfinished room was created by Anubis.
+~
+41 65537 0 0 0 0
+D2
+~
+~
+0 0 4178
+D5
+~
+~
+0 0 4182
+S
+#4182
+The Well of Souls~
+This unfinished room was created by Anubis.
+~
+41 65537 0 0 0 0
+D4
+~
+~
+0 0 4181
+S
+#4183
+A Hallway Carved from Granite~
+This unfinished room was created by Anubis.
+~
+41 65537 0 0 0 0
+D1
+~
+~
+0 0 4184
+D3
+~
+~
+0 0 4175
+S
+#4184
+A Hallway Carved from Granite~
+This unfinished room was created by Anubis.
+~
+41 65537 0 0 0 0
+D1
+~
+~
+0 0 4185
+D3
+~
+~
+0 0 4183
+S
+#4185
+A Hallway Carved from Granite~
+This unfinished room was created by Anubis.
+~
+41 65537 0 0 0 0
+D0
+~
+~
+0 0 4186
+D1
+~
+~
+0 0 4195
+D3
+~
+~
+0 0 4184
+S
+#4186
+A Dark, Obsidian Passage~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4187
+D1
+~
+~
+0 0 4206
+D2
+~
+~
+0 0 4185
+S
+#4187
+A Dark, Obsidian Passage~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D2
+~
+~
+0 0 4186
+D3
+~
+~
+0 0 4188
+S
+#4188
+A Dark, Obsidian Passage~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4187
+D4
+~
+~
+0 0 4189
+S
+#4189
+A Dark, Obsidian Passage~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D3
+~
+~
+0 0 4190
+D5
+~
+~
+0 0 4188
+S
+#4190
+A Dark, Obsidian Passage~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4189
+D3
+~
+~
+0 0 4191
+S
+#4191
+A Dark, Obsidian Passage~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4190
+D4
+~
+~
+0 0 4192
+S
+#4192
+A Dark, Obsidian Passage~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D3
+~
+~
+0 0 4193
+D5
+~
+~
+0 0 4191
+S
+#4193
+A Dark, Obsidian Passage~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4192
+D3
+~
+~
+0 0 4194
+S
+#4194
+A Pitch Black Cavern~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4193
+S
+#4195
+A Crystalline Shaft~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D3
+~
+~
+0 0 4185
+D5
+~
+~
+0 0 4196
+S
+#4196
+A Crystalline Shaft~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D4
+~
+~
+0 0 4195
+D5
+~
+~
+0 0 4197
+S
+#4197
+Within a Massive Ruby Geode~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4198
+D2
+~
+~
+0 0 4205
+D4
+~
+~
+0 0 4196
+S
+#4198
+Within a Massive Ruby Geode~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4199
+D3
+~
+~
+0 0 4197
+S
+#4199
+Within a Massive Ruby Geode~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D2
+~
+~
+0 0 4200
+D3
+~
+~
+0 0 4198
+S
+#4200
+Within a Massive Ruby Geode~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4199
+D2
+~
+~
+0 0 4201
+S
+#4201
+Within a Massive Ruby Geode~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4200
+D3
+~
+~
+0 0 4202
+S
+#4202
+Before an Enormous Ruby Gate~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4203
+D1
+~
+~
+0 0 4201
+D3
+~
+~
+0 0 4204
+S
+#4203
+The Lair of the Ruby Dragon~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D2
+~
+~
+0 0 4202
+S
+#4204
+Within a Massive Ruby Geode~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4205
+D1
+~
+~
+0 0 4202
+S
+#4205
+Within a Massive Ruby Geode~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4197
+D2
+~
+~
+0 0 4204
+S
+#4206
+A Fiery Brimstone Cavern~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4207
+D1
+~
+~
+0 0 4213
+D3
+~
+~
+0 0 4186
+S
+#4207
+A Fiery Brimstone Cavern~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4208
+D1
+~
+~
+0 0 4212
+D2
+~
+~
+0 0 4206
+S
+#4208
+A Fiery Brimstone Cavern~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4209
+D1
+~
+~
+0 0 4211
+D2
+~
+~
+0 0 4207
+S
+#4209
+A Fiery Brimstone Cavern~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4210
+D2
+~
+~
+0 0 4208
+S
+#4210
+A Fiery Brimstone Cavern~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4217
+D2
+~
+~
+0 0 4211
+D3
+~
+~
+0 0 4209
+S
+#4211
+A Burning Lake of Molten Rock~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4210
+D1
+~
+~
+0 0 4216
+D2
+~
+~
+0 0 4212
+D3
+~
+~
+0 0 4208
+S
+#4212
+A Burning Lake of Molten Rock~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4211
+D1
+~
+~
+0 0 4215
+D2
+~
+~
+0 0 4213
+D3
+~
+~
+0 0 4207
+S
+#4213
+A Fiery Brimstone Cavern~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4212
+D1
+~
+~
+0 0 4214
+D3
+~
+~
+0 0 4206
+S
+#4214
+A Fiery Brimstone Cavern~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4215
+D1
+~
+~
+0 0 4221
+D3
+~
+~
+0 0 4213
+S
+#4215
+A Burning Lake of Molten Rock~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4216
+D1
+~
+~
+0 0 4220
+D2
+~
+~
+0 0 4214
+D3
+~
+~
+0 0 4212
+S
+#4216
+A Burning Lake of Molten Rock~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4217
+D1
+~
+~
+0 0 4219
+D2
+~
+~
+0 0 4215
+D3
+~
+~
+0 0 4211
+S
+#4217
+A Fiery Brimstone Cavern~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4218
+D2
+~
+~
+0 0 4216
+D3
+~
+~
+0 0 4210
+S
+#4218
+A Fiery Brimstone Cavern~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D2
+~
+~
+0 0 4219
+D3
+~
+~
+0 0 4217
+S
+#4219
+A Burning Lake of Molten Rock~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4218
+D1
+~
+~
+0 0 4223
+D2
+~
+~
+0 0 4220
+D3
+~
+~
+0 0 4216
+S
+#4220
+A Burning Lake of Molten Rock~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4219
+D1
+~
+~
+0 0 4222
+D2
+~
+~
+0 0 4221
+D3
+~
+~
+0 0 4215
+S
+#4221
+A Fiery Brimstone Cavern~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4220
+D3
+~
+~
+0 0 4214
+S
+#4222
+A Small Alcove Sheltered from the Inferno~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4223
+D3
+~
+~
+0 0 4220
+S
+#4223
+A Small Alcove Sheltered from the Inferno~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D2
+~
+~
+0 0 4222
+D3
+~
+~
+0 0 4219
+S
+#4224
+The Entrance to Temerin's Dungeon~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4225
+D2
+~
+~
+0 0 4228
+D3
+~
+~
+0 0 4174
+S
+#4225
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4226
+D3
+~
+~
+0 0 4224
+S
+#4226
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4227
+D3
+~
+~
+0 0 4225
+S
+#4227
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D2
+~
+~
+0 0 4234
+D3
+~
+~
+0 0 4226
+S
+#4228
+A Carved-Bone Staircase~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4224
+D5
+~
+~
+0 0 4229
+S
+#4229
+A Carved-Bone Staircase~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D2
+~
+~
+0 0 4230
+D4
+~
+~
+0 0 4228
+S
+#4230
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4229
+D1
+~
+~
+0 0 4233
+D2
+~
+~
+0 0 4231
+S
+#4231
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4230
+D1
+~
+~
+0 0 4232
+S
+#4232
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4233
+D3
+~
+~
+0 0 4231
+S
+#4233
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D2
+~
+~
+0 0 4232
+D3
+~
+~
+0 0 4230
+S
+#4234
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4227
+D2
+~
+~
+0 0 4235
+S
+#4235
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4234
+D2
+~
+~
+0 0 4236
+S
+#4236
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4235
+D1
+~
+~
+0 0 4237
+S
+#4237
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4238
+D3
+~
+~
+0 0 4236
+S
+#4238
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4239
+D2
+~
+~
+0 0 4237
+S
+#4239
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4240
+D2
+~
+~
+0 0 4238
+S
+#4240
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D0
+~
+~
+0 0 4241
+D3
+~
+~
+0 0 4239
+S
+#4241
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D2
+~
+~
+0 0 4240
+D3
+~
+~
+0 0 4242
+S
+#4242
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+41 0 0 0 0 0
+D1
+~
+~
+0 0 4241
+S
+$~

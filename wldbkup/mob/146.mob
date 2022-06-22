@@ -1,0 +1,327 @@
+#14600
+Archon~
+an archon~
+A massive, heavily armored turtle glides briskly across the sand.
+~
+The archon drags itself on four broad, leathery fins, swaying smoothly from side
+to side as it slides across the sand in one fluid motion. Its dome of
+many-peaked carapace surrounds most of its body, except for its massive beaked
+head, leathery fins, and long spined tail. It watches you keenly, wary of your
+presence on its island.
+~
+72 0 0 0 0 0 0 0 0 E
+20 0 -4 4d4+2000 7d6+30
+0 40000
+8 8 0
+BareHandAttack: 8
+Att1: 24
+Clss: 8
+E
+#14601
+Siren~
+the Siren~
+A beautiful woman lies in the sun, singing a haunting melody.
+~
+The Siren resembles a beautiful woman, alluring with her hot body and wonderful
+singing voice - a perfect lure for its natural prey. She reclines seductively
+on the rocks, singing and pulling her comb through her body-length blonde hair.
+A heavy, blood-spattered medallion rests in her cleavage, safe from prying
+fingers, because anyone who comes too close to the Siren risks his or her life.
+~
+8234 0 0 0 16720 0 0 0 -730 E
+35 10 9 6d6+4000 12d3+10
+0 122500
+8 8 2
+BareHandAttack: 12
+Clss: 5
+E
+#14602
+griffon~
+a griffon~
+A lion with the wings and head of an eagle stalks the jungle, guarding its clan's territory.
+~
+Griffons naturally live in open areas, such as plains, mountains, and the open
+ocean, given a place to land, such as the cliffs on this island. They are
+territorial, perceptive beings, compounded by the tendencies of both eagles and
+lions, and infamous gatherers of treasure. Naturally they would find this isle
+to their liking.
+~
+8200 0 0 0 -1073209264 0 0 0 200 E
+30 -10 -2 12d6+3000 6d7+35
+300 90000
+8 8 1
+BareHandAttack: 8
+Att1: 30
+Att2: 30
+Att3: 30
+Clss: 6
+E
+#14603
+mantrap snare~
+a mantrap snare~
+A tangle of thorned vines straddles several trees across your path.
+~
+At a glance the snare is merely a tangle of jungle vines strewn across the path
+and between the trees, but closer examination reveals that it shifts
+uncomfortably as you draw near, hungrily anticipating the moment you fall into
+its trap, the heavily thorned branches over its mouth, where it can wrap its
+vines about you and rip the life from your body. Its camouflage is brilliant,
+intelligent and tactile, and its fight is better.
+~
+10 0 0 0 134217728 0 0 0 0 E
+27 -20 3 5d5+3500 6d6+20
+0 72900
+8 8 0
+BareHandAttack: 2
+Clss: 21
+E
+#14604
+Cecial~
+Cecial the marooned cannoneer~
+A burly man stands guard at the edge of the camp, eyes peeled for intruders.
+~
+This man was once a loyal cannoneer on the Interference under captain Aenautic,
+but has been reduced to camp guard.
+~
+42 0 0 0 0 0 0 0 -300 E
+33 -10 9 6d6+2500 5d5+10
+330 108900
+8 8 1
+Clss: 8
+E
+#14605
+Lillian~
+Lillian the marooned interior decorator~
+A frail-looking young man wearing floral print peers disdainfully at his new surroundings.
+~
+Lillian obviously misses his place on the Waterhydra.
+~
+42 0 0 0 0 0 0 0 0 E
+33 9 9 6d6+2300 5d5+5
+330 108900
+8 8 1
+Clss: 6
+E
+#14606
+Marrow~
+Marrow the marooned lookout~
+A tall, dark-haired man peers out across the ocean, lost in thought.
+~
+Marrow once held the appointment of lookout on the Fleeting Cadaver, but now he
+only looks out on other ships, carefully staying on the horizon.
+~
+42 0 0 0 0 0 0 0 0 E
+33 -20 9 6d6+2400 5d4+15
+330 108900
+8 8 1
+Clss: 7
+E
+#14607
+Kain~
+Kain the marooned swashbuckler~
+A large man laughs uncontrollably at some joke.
+~
+Kain maintains his drunken ways, even in the complete absence of alcohol. 
+Where does he get it?
+~
+42 0 0 0 0 0 0 0 -300 E
+33 -15 8 6d6+2600 5d6+15
+330 108900
+8 8 1
+Clss: 8
+E
+#14608
+Marie~
+Marie the marooned pirate mistress~
+A sultry female lies on a carpet of leaves, pouting.
+~
+Marie's only purpose on the island seems to be to bear children and look pretty
+- what good is female entertainment, anyway?
+~
+42 0 0 0 0 0 0 0 -355 E
+33 9 9 6d6+2200 5d5+5
+330 108900
+8 8 2
+Clss: 5
+E
+#14609
+pirate~
+a second generation marooned pirate~
+A young man walks quietly through the jungle, glancing furtively about as he searches for prey.
+~
+This young man has never known another land or other people - only the strange
+beauty of this dangerous isle.
+~
+1048616 0 0 0 524288 0 0 0 0 E
+30 10 -8 6d6+300 5d5+5
+300 90000
+8 8 1
+Clss: 8
+E
+#14610
+pirate~
+a second generation marooned pirate~
+A woman wearing little but war paint creeps through the brush, lost in the hunt.
+~
+This young woman wears not a stitch of clothing as she stalks her prey, only a
+girdle of broad jungle leaves. She knows nothing but the ways of the jungle,
+having lived here all her life.
+~
+1048616 0 0 0 524288 0 0 0 0 E
+30 10 -8 6d6+300 5d5+5
+300 90000
+8 8 2
+Clss: 7
+E
+#14611
+pirate~
+a gelatinous undead pirate~
+The corpse of a pirate stands before you, animated in its own gelatinous flesh.
+~
+Pirate on ships that crash off the isle have no choice but to drown or be eaten
+or dashed upon the rocks or sucked beneath the waves, and rest restlessly on the
+ocean floor, eventually rising when their flesh has been reduced to ooze and
+coming ashore to serve their pirate lords.
+~
+1286184 0 0 0 -2147483568 1024 0 0 0 E
+35 -15 7 12d12+2600 5d5+15
+350 122500
+8 8 0
+BareHandAttack: 8
+Att1: 20
+Att2: 20
+Att3: 20
+Clss: 8
+E
+#14612
+shark sandshark~
+a hellraised sandshark~
+A shark, bloated and mutilated in undeath, launches itself at you with unnatural vigor.
+~
+Sand sharks that ate the gelatinous flesh of the undead pirates around the isle
+eventually die and become undead themselves, more menacing in undeath than they
+ever were in life. Their reactions are not dulled by pain, and are quickened by
+extrasensory perception, and their drive to devour is only stronger.
+~
+135520296 0 0 0 -2146369520 0 0 0 0 E
+20 -15 -5 4d4+3000 12d5+35
+0 40000
+8 8 0
+Att1: 50
+Att2: 50
+Att3: 50
+Clss: 2
+E
+#14613
+crabperson~
+a crab person~
+A large humanoid with crablike claws and armor scuttles about in the shadows.
+~
+The crab people live in the caves during the day and come out at night to forage
+for their tribe. Their shoulders are broad and armored like a crab, their arms
+end in multiple claws, one bigger than the other, and crab limbs sprout from the
+bases of each arm and leg, allowing them to scuttle hunched and sideways along
+the rocky shoals, quickly and subtly.
+~
+10280 0 0 0 -2146432944 0 0 0 0 E
+38 -15 -11 7d7+5000 7d7+20
+0 144400
+8 8 1
+BareHandAttack: 6
+Att1: 40
+Att2: 40
+Att3: 40
+Clss: 12
+E
+#14614
+flesheater~
+a flesheater~
+&d!
+~
+The flesheater is like a sea slug, only much larger and covered in poisonous
+spines. It blends in perfectly with its surroundings - too well -, and waits
+for prey to arrive and be instantly engulfed in the corrosive mucus surrounding
+its greasy hide.
+~
+-2147311576 31 0 0 2128 1 0 0 0 E
+40 -15 -7 8d8+7000 6d9+40
+400 160000
+8 8 0
+BareHandAttack: 4
+Att1: 35
+Att2: 35
+Att3: 35
+Clss: 14
+E
+#14615
+spider~
+a crater critter~
+A dark red arachnid with thick limbs and sharp spines crawls around in search of food.
+~
+The strange red arachnid creeps along one leg at a time, completely silently. 
+Its sting arches up over its head, lashing about anxiously as it searches for
+prey.
+~
+136 0 0 0 524352 0 0 0 0 E
+20 -4 -8 4d4+2000 6d5+24
+0 40000
+8 8 0
+BareHandAttack: 10
+Att1: 25
+Att2: 25
+Att3: 25
+Clss: 7
+E
+T 4614
+#14616
+Kleinshaevin~
+the spirit of Captain Kleinshaevin~
+The spirit of a truly titanic man hovers in the air over its treasure.
+~
+It looks unfinished.
+~
+40970 0 0 0 336 1 0 0 -1000 E
+40 -20 -9 8d8+10000 6d6+40
+420 160000
+8 8 1
+BareHandAttack: 13
+Att1: 35
+Att2: 35
+Att3: 35
+Clss: 8
+E
+#14617
+Aenautic~
+the spirit of Captain Aenautic~
+A shaggy-bearded navigator hovers in the air over his treasure chest.
+~
+It looks unfinished.
+~
+57386 0 0 0 65856 1 0 0 -1000 E
+40 -20 -9 8d8+10000 6d6+40
+420 160000
+8 8 1
+BareHandAttack: 13
+Att1: 35
+Att2: 35
+Att3: 35
+Clss: 8
+E
+#14618
+Katrov~
+the spirit of Captain Katrov~
+A thin, harrowed man with wiry, bunched muscles stands guard over his treasure after death.
+~
+It looks unfinished.
+~
+40970 0 0 0 336 1 0 0 -1000 E
+40 -20 -9 8d8+10000 6d6+40
+420 160000
+8 8 1
+BareHandAttack: 13
+Att1: 35
+Att2: 35
+Att3: 35
+Clss: 8
+E
+$

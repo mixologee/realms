@@ -1,0 +1,84 @@
+Name: Delbin
+Pass: DeQ47zead7/.s
+Titl: the Cleric
+Sex : 1
+Clas: 1
+Levl: 23
+Id  : 91
+Brth: 1211431032
+Plyd: 1266837
+Last: 1212697869
+Hite: 173
+Wate: 150
+Alin: -51
+Act : ghw 0 0 0
+Aff : 0 0 0 0
+Pref: o 0 0 0
+Room: 1
+Lern: 29
+Hung: 24
+Thir: 24
+Hit : 266/207
+Mana: 422/209
+Move: 423/423
+Str : 18/0
+Int : 18
+Wis : 18
+Dex : 18
+Con : 18
+Cha : 18
+Ac  : 100
+Gold: 321140
+Bank: 104000
+Exp : 164978641
+Page: 0
+Reca: 6127
+Sls : 477
+Mkls: 21
+Deth: 1
+Clan: 88
+Wcl : 1
+OreI: 1000
+OreG: 1000
+OreB: 1000
+OreC: 1000
+OreT: 1000
+OreM: 1000
+OreA: 1000
+OreS: 1000
+GemD: 1000
+GemC: 1000
+GemJ: 1000
+GemR: 1000
+GemE: 1000
+GemS: 1000
+GemG: 1000
+GemT: 1000
+Dyng: -1
+Page: 0
+Skil:
+1 95
+3 95
+4 95
+14 95
+15 95
+16 95
+23 95
+27 95
+28 95
+33 95
+36 95
+40 95
+42 95
+43 95
+44 95
+47 95
+48 95
+52 95
+55 95
+0 0
+Affs:
+1 384 -20 17 0
+3 8 5 18 0
+3 8 -1 24 0
+0 0 0 0 0

@@ -1,0 +1,115 @@
+#7100
+small cockroach~
+a small cockroach~
+A small cockroach skitters about.
+~
+This small scavenger runs about looking for food. He's almost cute with his
+beady little eyes and long antennae, then he goes and eats a three day old
+corpse.
+~
+131097 0 0 0 589824 0 0 0 100 E
+1 17 0 5d10+25 1d1+3
+0 420
+8 8 0
+E
+#7101
+Black Sewer Rat~
+a black sewer rat~
+A black sewer rat wanders the sewers.
+~
+Small black an fuzzy. This little bastard is just the right combo
+of cute and diseased. Don't get to close.
+~
+135244 0 0 0 524288 0 0 0 0 E
+2 17 2 5d25+0 2d2+3
+0 1420
+8 8 0
+BareHandAttack: 4
+E
+#7102
+Brown Sewer Rat~
+a brown sewer rat~
+A brown sewer rat roams the tunnels.
+~
+It's just a common old ordinary disease infested RAT!!
+Christ, kill it already.
+~
+137292 0 0 0 524288 0 0 0 0 E
+3 18 2 5d20+20 2d2+2
+0 2420
+8 8 0
+BareHandAttack: 4
+E
+#7103
+toad~
+a wicked little toad~
+A wicked little toad is here.
+~
+This small brown spends most it's time prowling the sewers for anything smaller
+than itself, to eat. It's body is covered with hundreds of rubber spines and warts.
+~
+2120 0 0 0 0 0 0 0 0 E
+5 16 3 6d20+20 3d2+4
+0 10000
+8 8 0
+E
+#7104
+man bum hobo joe~
+hobo joe~
+Hobo Joe meanders about looking for dinner.
+~
+This down on his luck fellow has lived under the city for many years now. The
+rough an dark atmosphere has made him quite the survivor. You can barely see
+his face through his ragged and dirty, grey beard. His clothes are heavily
+soiled and he smells repugnant.
+~
+18504 0 0 0 0 0 0 0 500 E
+7 14 2 10d10+10 5d5+6
+10 15000
+8 8 1
+E
+#7105
+man bum hobo bob~
+hobo bob~
+Hobo Bob meanders about looking for dinner.
+~
+This down on his luck fellow has lived under the city for many years now. The
+rough an dark atmosphere has made him quite the survivor. You can barely see
+his face through his ragged and dirty, grey beard. His clothes are heavily
+soiled and he smells repugnant.
+~
+18504 0 0 0 0 0 0 0 500 E
+7 14 2 10d10+10 5d5+6
+10 15000
+8 8 1
+E
+#7106
+man bum hobo hank~
+hobo hank~
+Hobo Hank meanders about looking for dinner.
+~
+This down on his luck fellow has lived under the city for many years now. The
+rough an dark atmosphere has made him quite the survivor. You can barely see
+his face through his ragged and dirty, grey beard. His clothes are heavily
+soiled and he smells repugnant.
+~
+18504 0 0 0 0 0 0 0 500 E
+7 14 2 10d10+10 5d5+6
+10 15000
+8 8 1
+E
+#7107
+woman bum hobo jen~
+hobo jen~
+Hobo Jen meanders about looking for dinner.
+~
+This down on her luck gal has lived under the city for many years now. The
+rough an dark atmosphere has made her quite the survivor. Her clothes are 
+heavily soiled and she smells repugnant.
+~
+18504 0 0 0 0 0 0 0 500 E
+7 14 2 10d10+10 5d5+6
+10 15000
+8 8 2
+E
+$

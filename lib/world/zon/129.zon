@@ -1,0 +1,24 @@
+#129
+Accarid~
+The Forbidden City (I)~
+12900 13199 30 2 d 0 0 0 1 100
+M 0 12900 4 12902 	(a gate guard of the Forbidden City)
+E 1 12900 10000 16 	(a keen steel katana)
+E 1 12901 10000 5 	(a breast plate of ceramic armor)
+E 1 12902 10000 8 	(a pair of black leather boots, reinforced with steel)
+E 1 12903 10000 7 	(a pair of ceramic shin plates)
+E 1 12904 10000 13 	(a long skirt of layered ceramic)
+E 1 12905 10000 9 	(a pair of spiked steel gloves, padded with silk)
+D 0 12902 3 2 	(Between Two Massive Watchtowers)
+M 0 12901 36 12960 	(an angry-looking samurai warrior)
+M 0 12901 36 12958 	(an angry-looking samurai warrior)
+M 0 12901 36 12959 	(an angry-looking samurai warrior)
+M 0 12901 36 12956 	(an angry-looking samurai warrior)
+M 0 12901 36 12955 	(an angry-looking samurai warrior)
+M 0 12901 36 12957 	(an angry-looking samurai warrior)
+M 0 12901 36 12954 	(an angry-looking samurai warrior)
+M 0 12901 36 12953 	(an angry-looking samurai warrior)
+M 0 12901 36 12952 	(an angry-looking samurai warrior)
+D 0 12903 1 2 	(Between Two Watchtowers)
+S
+$

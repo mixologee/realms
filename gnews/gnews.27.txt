@@ -1,0 +1,209 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C26&c]. Type NEWS 26 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+Update
+
+These are the class changes that have been put in so far, and there are 25
+pages more that I am still working on. Acc gave me all the class changes and
+they are slowly being implemented.
+
+CLERIC:
+
+Godly Armor . Level 1 . 30m . 48 hours . Armor reduces the target.s armor
+class by 20. This spell cannot be cast during combat.
+
+Bless . Level 1 . 15m .72 hours . The blessing of the gods reduces saving
+spell by 1 and increases hit roll by 10. This spell cannot be cast during
+combat.
+Protection . Level 2 . 20m . 48 hours . The Protection spell defends the user
+from mobiles and players of the opposite alignment, preventing 1/5 of all
+damage. This can only be cast on the one casting, no other players or mobiles.
+There is no protection spell from neutral-align players and mobiles. This
+spell cannot be cast during combat.
+
+Detect Invisible . Level 3 . 5m . 50 hours . Sense invisible life forms in the
+same room as you up to ten levels higher than you. This spell cannot be cast
+during combat.
+Know Alignment . Level 4 - 5m . 50 hours . Know the alignment of players,
+mobiles, and certain objects for the duration of this spell. This spell cannot
+be cast during combat.
+
+Detect Magic . Level 4 . 5m . 50 hours . The target can detect magical auras
+about players, mobiles, and certain objects for the duration of the spell.
+This spell cannot be cast during combat.
+Cure Blindness . Level 5 . 10m . Instant . Cure Blindness removes the
+Blindness status effect. This spell cannot be cast during combat.
+
+Aura Bolt . Level 5 . 8m . Instant . A cleric can channel their divine wrath
+in the form of a blast of energy from their aura, which will damage any foe.
+The strength of this attack will increase with every level, and is affected by
+wisdom. A saving throw is allowed based upon level and wisdom. The strength of
+Aura Bolt increases by 1 every 2 levels, and starts dealing 3d5; so it tops
+out at 3d5 + 20. 1dx is added to the strength of the attack where x equals the
+wisdom of the one casting. Saving spell increases the strength of this attack,
+by -2dy every 2 levels. So, the final formula is 3d5 + 20 + (number 1-25)
+-2dy. (A saving throw is allowed based upon the same criteria; the formula is
+x/2 + y/2 - z/2, where x equals the target.s level, y equals the target.s
+wisdom, and z equals the target.s saving vs. spell. Whichever gets a higher
+number when these two rolls are compared wins- if the caster wins, the target
+takes full damage, and if the target wins they take half damage.)
+Create Water . Level 8 . 20m . Instant . This spell is used to extinguish
+flames. Each casting reduces the duration of the flames by 1/60 of an hour,
+and a typical flame lasts for 1/6 of an hour. However, a campfire lasts for
+four hours unaided, and thus takes many more castings to extinguish. Being
+underwater also extinguishes flames.
+
+Create Food . Level 8 . 40m . Instant . Create Food transforms some of the air
+around the target into a simple but nutritious food item.
+
+Word of Recall . Level 9 . 60m . Instant . This transports the caster to the
+last recall point they had been to within the range of the spell. This spell
+incurs a one round lag state.
+Refresh . Level 12 . 5 times the number of targets plus 10 . Instant . This
+spell increases the number of current movement points the affected players
+have. The strength of this spell increases with level. This spell cannot be
+cast during combat.
+
+Sanctify . Level 13 . 75m . the caster.s level divided by five and rounded
+down . The Sanctify spell halves all damage taken from attacks unless
+specified as otherwise. There is a random element to the amount blocked, as it
+ranges from 15 points lower than and 15 points higher than half of the damage
+taken. This spell counters the effects of Retribution. This spell cannot be
+cast during combat.
+Heal . Level 14 . 50m . Instant . This healing spell is twice as effective as
+Cure, but is 1/3 less effective on the caster and 1/3 more effective on a
+target other than the caster.
+Remove Curse . Level 15 . 30m . Instant . A cleric is able to dispel the
+effects of a curse with this spell, if the spell is within ten or less levels
+of the caster (i.e. more than ten levels up between the caster of the curse
+and the cleric, the spell won.t work). This spell cannot be cast upon the
+caster. This spell cannot be cast during combat.
+Transport . Level 18 . 30 multiplied by the number of targets plus 50 .
+Instant . This spell can only affect those in formation with the player in the
+room. It will transport all of the affected to the recall point of the one
+casting if that room is within range of the spell.
+Call Lightning . Level 20 . 35m . Instant . Outdoors during a rain or
+lightning storm, the caster can direct a lightning bolt down from the sky to
+strike a target and deal a massive amount of damage- up to 80 points in the
+form of 8d10, if the target fails a saving throw for half damage. (The saving
+throw formula is this: 1dx + 1dy + 1dz where x equals the target.s level and y
+equals the target.s dexterity and z equals the target.s constitution. This is
+compared to the caster.s 1dx + 1dw + 1d20 where w equals the caster.s wisdom.
+Whoever gets the higher number succeeds.)
+Quake . Level 21 . 18m . Instant . The caster can cause the ground under the
+targets to quake, possibly throwing them to the ground. A saving throw is
+allowed to prevent damage and being flung, which is aided by dexterity. (Two
+separate saving throws are made: one to prevent damage, a 1dx where x equals
+constitution, and a 1dy where y equals dexterity. A roll of 10 or better
+represents success on either saving throw).
+Regen . Level 32 . 30m . 6 hours . The target experiences a dramatic increase
+in hit point regeneration rate but a dramatically lowered magic regeneration
+rate. This spell only affects the target while they are resting or sitting.
+This spell cannot be cast during combat. This spell can only be cast upon
+yourself.
+
+Revive . Level 33 . 250m . Instant . This spell can bring a character back to
+life before their corpse is dragged into the Underworld if a certain kind of
+item is used to focus the energy. Different foci may be able to increase the
+percent of hit points the player receives upon resurrection (default percent
+is 5). The burden of having your life drained into the corpse can be shared by
+the player.s current formation. This spell cannot be cast during combat.
+
+MAGE:
+
+Magic Missile . Level 1 (CC only) . 3m . Instant . A mage can fire a barrage
+of solid magic orbs at an opponent. Each orb deals a set amount of damage, no
+saving throw is allowed, and missiles cannot miss. The number of missiles
+fired increases with level (the formula is 1/4x + 3 where x equals level).
+Each missile deals 4 points of damage.
+
+Teleport . Level 9 . 45m . Instant . This spell teleports the caster a
+distance from their previous location into the wilderness. By adding a number
+to the spell, the caster can set a relative distance they want to appear from
+their previous location (i.e. cast teleport 6 = teleport near a room 6
+kilometers [60 rooms] from their location, in any direction). The higher their
+level, the closer they appear to the specified location.
+
+Invisibility . Level 10 . 5m . 18 hours . The affected target becomes
+invisible until they are engaged in combat, which means they cannot be seen by
+those who do not have detect invisibility cast.
+
+Strengthen . Level 12 . 20m . 30 hours . The affected target experiences
+increased strength, by one point for each spell cast. The affect stacks, but
+not the time it lasts. 
+
+Fireball . Level 13 . 21m . Instant . Fireball is able to strike a single
+target and a random set of 1d2 players surrounding them in the formation; if
+they are not in a formation, they get hit with this spell twice.
+(ppl lighting on fire not in yet....)
+This spell deals 1.5dx +20 where x equals level. A saving throw is allowed
+based on level and saving vs. spell (the formula is x compared to x . 1dy
+where x equals level and y equals saving vs. spell).
+
+Manashield (CC only) . Level 15 . 30m . 5 hours . The magic inherent within a
+mage allows them to create a solid shield about themselves that takes the
+damage from attacks in eau of their hit points until they read 33% or less
+mana. Intelligence and level affect the efficiency of the manashield in
+absorbing energy; the higher the intelligence and level of the caster, the
+lower the percent of damage they receive. The default minimum damage taken to
+mana in proportion to hit points is 140%; the minimum, at level 40 and with 25
+intelligence, is 90%.
+
+Charm . Level 17 . 30m . Instant . This spell forces a weak-minded target to
+follow limited orders of the caster while in their formation. This spell
+cannot succeed on a player of a level difference less than 30, and every round
+the player stands a chance of becoming freed. A saving throw is allowed based
+on intelligence and level. (Compare x + y + 1dz to target.s x + y . w where x
+equals level, y equals intelligence, z equals charisma, and w equals saving
+vs. spell; the higher number wins.)
+
+Curse . Level 20 . 25m . 12 hours . The strength of a curse depends on level,
+but the formulas are as follows: for increase in saving vs. spell, it is
+increased by the caster.s level divided by four; for decrease in hit roll, it
+is equal to the caster.s level divided by 5 plus 2. So, at level 4 it is +4ss
+and -10hr. Also, the victim will find it more difficult to make a critical hit
+or flee, and they will botch spells and miss attacks more (a 1d7 is rolled
+every time the use a melee skill, melee attack, or cast a spell of any kind; a
+roll of 1 indicates failure). A saving throw is allowed based on level and
+saving vs. spell.
+
+Sonic Blast . Level 21 . 24m . Instant . The caster creates a sonic pulse
+which emanates from his/her/its body, striking all nearby foes. It deals heavy
+damage, and a saving throw is allowed for reduced damage as in the case of
+Blade. This spell deals double damage underwater. Sonic blast deals 2dx . 10d2
+where x equals the caster.s level; so at level 21 the maximum strength is 32,
+and at level 40 it is 70.
+
+Enchant Weapon . Level 27 . 50m . The lifespan of the weapon . This spell
+enhances a previously unremarkable weapon (one with no affects) giving it a
+bonus to hit roll and damage roll. This bonus increases with level, starting
+at 2/1 at level 27 and increasing by 1 hit roll every 3 levels (topping out at
+6 hit roll at level 39) and also increasing by 1 damage roll every 4 levels
+(topping out at 4 damage roll at level 39). The stats it creates is slightly
+random, never going lower than 2/1 but maxing out at 6/4. This spell cannot be
+cast during combat.
+
+NECROMANCER:
+
+Animate Dead . 100m . Instant . At the consumption of one unit of blood, a
+necromancer can animate a dead body with similar stats to the original mobile
+or player, just severely impaired (unable to cast or use skills) and undead.
+This spell cannot be cast during combat.
+-B

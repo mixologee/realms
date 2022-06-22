@@ -1,0 +1,137 @@
+#7000
+crab~
+a sewer crab~
+A sewer crab sidewalks about the sewers.
+~
+Life underground has left this scavenger pale white. It's eyes
+aren't used much but it still manages to survive down here.
+It oversized claws look like they could cut a rat in half.
+~
+2124 0 0 0 16 0 0 0 0 E
+15 10 -2 30d15+100 12d15+10
+0 70000
+8 8 0
+BareHandAttack: 8
+E
+#7001
+mutant~
+a sewer mutant~
+A vile sewer mutant lurches about.
+~
+It looks unfinished.
+~
+6248 0 0 0 16 0 0 0 0 E
+15 8 2 15d40+150 10d10+15
+420 150000
+8 8 0
+E
+#7002
+crawler~
+a sewer crawler~
+A wretched sewer crawler writhes about.
+~
+This wretched monstrocity twists and lurches through the sewers. Bent limbs grab
+at the ground as it drags itself about. It has no visible eyes anywhere on it's 
+boil covered body, but somewhere in the center is a gaping hole adorned with teeth.
+~
+2120 0 0 0 0 0 0 0 0 E
+20 -5 0 20d20+3000 15d8+20
+0 275000
+8 8 0
+E
+#7003
+walker man~
+the sewer walker~
+The dark sewer walker stands here.
+~
+The large menace before you, is barely visible in the low light levels of the
+sewers. He is clad in all black from head to toe. His long hair is raggedm, dirty and
+falls down in front of face, making his features indistinguishable. He claims the 
+lower sewers for his own, and will attack anyone on sight.
+~
+59496 0 0 0 524304 0 0 0 -1000 E
+25 -10 -2 30d130+6000 25d25+30
+10420 550000
+8 8 1
+E
+#7004
+baby spider~
+a baby spider~
+A baby spider crawls about.
+~
+It looks unfinished.
+~
+6248 0 0 0 0 0 0 0 0 E
+10 10 3 10d9+125 2d4+5
+0 50000
+8 8 0
+E
+#7005
+Spider queen~
+the spider queen~
+The spider queen is here, guarding her nest.
+~
+It looks unfinished.
+~
+30778 0 0 0 16 0 0 0 -500 E
+25 -5 2 20d10+2000 4d25+20
+0 250000
+8 8 2
+E
+#7006
+black spider~
+a black spider~
+A large black spider stalks the sewers.
+~
+It looks unfinished.
+~
+22632 0 0 0 16 0 0 0 0 E
+15 5 2 15d10+450 3d5+15
+0 175000
+8 8 1
+BareHandAttack: 4
+E
+#7007
+spider~
+a furry striped spider~
+A furry, striped spider peers out from the shadows.
+~
+Eight large legs protrude from the body of this striped and hairy creature.
+It's many eyes glimmer in the low light levels of the sewers as they watch
+your every move, for any signs of weakness or agression.
+~
+23113 0 0 0 80 0 0 0 -500 E
+20 0 2 20d20+1500 6d15+15
+0 225000
+8 8 0
+E
+#7008
+insect beetle~
+a huge armored beetle~
+A huge armored beetle pushes through the sewers.
+~
+Jet black and covered in a hard shell, this hulking beast of a beetle slowly
+pushes it's way through the sewers. It's body glimmers in the dim light as
+it's glass like eyes seem impervious to everything around it.
+~
+26696 0 0 0 16 0 0 0 0 E
+25 0 -5 10d10+20000 5d10+20
+0 500000
+8 8 0
+E
+#7009
+leech~
+a large black leech~
+A leech the size of your arm slowly slides through the sewers.
+~
+This shiny black creatures only purpose is too suck the life blood out of
+anything it happens to meet.  Most of its body is long an flat.  At its head
+however, there is a large suction cup lined on the inside by a multitude of
+razor like fangs.  
+~
+26744 0 0 0 64 0 0 0 -1000 E
+15 6 4 10d100+2000 5d6+20
+0 200000
+8 8 0
+E
+$

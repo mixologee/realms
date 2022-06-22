@@ -1,0 +1,48 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C34&c]. Type NEWS 34 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+New Wilderness Map System / Help System
+
+I just implemented our new wilderness map system today. It will now
+dynamically create the rooms as you walk around. I haven't created a clean up
+function to remove unused rooms yet because I wanted to see how this works 
+first. My next step will be to populate the new wilderness. This has freed up
+over 3GB of RAM on the server which will increase game speed for players...
+whenever they show up. It also has decreased reboot time to about 30 seconds.
+
+I also have implemented the new help system if you haven't already
+noticed. All the oasis help files have been ported to the new system which
+will be helpful to all builders, new and old. 
+
+listkeywords will give you a list of the categories. Youc an then do a listk
+<category> for a list of all the keywords available under that category. I
+have also added the Help ID number when gods do help <whatever> so you can
+figure out the help number to edit a specific help file. The command for that
+is hedit <number>, or hedit -1 for a new help file. Please make sure to set
+the proper category and level restrictions for the help files.
+
+I will be leaving Sunday 5/24 and will be gone until 5/29. Goin to Vegas for
+work stuff. If you have any problems please email me at jay@beaconnet.com and
+I will see what I can do. Slurk will be around during the day and Anubis will
+be around his normal times I would imagine. Seek them out for help first. Nice
+to see people still working around here. Thanks.
+
+-B
+

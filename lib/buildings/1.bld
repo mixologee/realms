@@ -1,0 +1,35 @@
+#BUILDING
+Vnum          1
+Type          3
+Vnum_room     6540
+Size          1
+Owner_Id      1
+Owner_Type    1
+Enter_Type    0
+Defense       35 35
+Health        132 132
+Keywords      trading post~
+Description   a trading post~
+End
+
+#ROOMS
+#0
+Untitled~
+Empty room.~
+ijklnopswxzABE 0 0 0
+D2
+~
+door~
+a 0 0
+D2
+~
+door~
+a 0 0
+D2
+~
+door~
+a 0 0
+S
+$
+
+#END

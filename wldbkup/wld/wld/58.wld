@@ -1,0 +1,419 @@
+#5800
+The Beginning~
+Welcome to the Realms of Kuvia! If you have just completed making your first
+character, congratulations. This is The Beginning, the start of every
+character's journey in this dangerous and exciting world. You are still a
+novice, and have lessons to learn before you are ready to go and interact with
+your fellow players and the world around you. Read each room description for
+important information on what to do next. Proceed north by typing 'north' into
+your prompt and pressing enter or return. Words in '' are commands. You may
+type 'exit' at any time to see available exits. Also, by typing 'autoexit',
+exits will automatically be displayed when you enter a room.
+~
+58 28 60 0 0 76
+D0
+This obviously is the grand entrace to Mudschool.
+A sign over the entrace says:
+'Only for newbies'
+~
+~
+0 5800 5801
+D1
+ A portal is giving of small crackling noises,
+Through it you see the inner chamber of the
+temple in the Capital.
+~
+portal~
+0 5800 -1
+E
+credits info~
+   Welcor
+~
+S
+#5801
+The Path to Enlightenment: Wayfinder~
+There are many commands, some of which you will use a lot and some of which will
+rarely cross your screen. On the Path of Enlightenment you will learn the most
+basic and most useful commands, and some of the principles of a text-based game.
+Most commands can be abbreviated to one or a few more letters, since it is
+tedious to repeatedly type out a command over and over. The basic movement
+commands are north, east, south, west, up, and down, each of which shorten to
+their first letter. Try following the path east to your next lesson.
+~
+58 28 60 0 0 76
+D1
+~
+~
+0 5800 5802
+D2
+~
+~
+0 5800 5800
+S
+#5802
+The Path of Enlightenment: Sight~
+Use the 'look' command to view the room you are in. The entire world is made of
+a series of "rooms", each representing a small area of the game. Someone seems
+to have dropped their bag here- go ahead and take it, if its on the ground it's
+yours. Type 'get bag' to pick up the bag, which puts it in your 'inventory'. 
+Use 'examine' to look at an object and its contents, using the syntax 'examine
+<object>'.
+~
+58 28 60 0 0 76
+D0
+~
+~
+0 5800 5803
+D3
+~
+~
+0 5800 5801
+S
+#5803
+The Path of Enlightenment: Possessions~
+You now have in your possession if you got it a bag and 25 gold coins. Use
+'inventory' to see the items you currently carry on your person, and 'equipment'
+to see what items you are wearing. Good god, you're running around in your
+skivies! Fortunately, a shop keeper has been positioned here to help passersby
+with such a problem as this. Use 'list' to see what goods are for sale and for
+how much. Use 'buy <item#>' to fork over the gold in return for that item.
+~
+58 28 156 0 0 24
+D1
+~
+~
+0 5800 5804
+D2
+~
+~
+0 5800 5802
+S
+#5804
+The Path of Enlightenment: Possessions II~
+If you followed the instructions of the last room and bought one of everything,
+you should have a canteen, a hat, the prodding stick, a pair of sandals, used
+blue jeans, and a tee shirt. Use the 'wear' command to wear equipment, 'hold'
+to hold the canteen, and 'wield' to wield the stick. Different items are used
+in different ways: the clothing is meant to be worn, the canteen holds water to
+drink from when held, and the stick is your first weapon. Proceed north when
+you have tried these commands.
+~
+58 28 188 0 0 76
+D0
+~
+~
+0 5800 5805
+D3
+~
+~
+0 5800 5803
+S
+#5805
+The Path of Enlightenment: Combat~
+There will always be someone or something against you. Always. Now that you
+are prepared, you may face your first foe- the nightmare leech. It is a wary
+foe, and will not attack you, but it must be overcome to continue eastward. 
+Use 'consider' to tell how strong a foe is compared to you, and 'kill <target>'
+to initate combat. If you need to, 'flee' to another room and 'rest' to
+regenerate some hit points. At the end of combat 'get all corpse' and see what
+you find.
+~
+58 12 60 0 0 76
+D1
+~
+~
+0 5800 5806
+D2
+~
+~
+0 5800 5804
+S
+#5806
+The Path of Enlightenment: Nourishment~
+Congratulations on having mastered your fears. Buried within fears are your
+expectations, and what more could you expect from a well-fought battle than a
+good meal? Lo, a kipling pie appeared in the corpse of the leech! Food and
+water are both healthy parts of a complete breakfast, and essential to your
+survival. Your hit points, mana, and movements will regenerate much slower when
+you are hungry or thirsty, so take the time to eat up! You must hold an item to
+'eat' it or 'drink' from it.
+~
+58 28 44 0 0 76
+D0
+~
+~
+0 5800 5807
+D3
+~
+~
+0 5800 5805
+S
+#5807
+The Path of Enlightenment: Persona~
+Use the 'score' command to view your personal status. Such information as your
+name, your level, and spell affects will appear. Notice the spot for saving
+throws and armor class: those kinds of scores you want to decrease, as the lower
+they are, the lower the chance of you being fully affected by an attack (saving
+throws for special attacks, armor class for melee attacks). Your Hit points,
+Mana, and moVements are displayed in your prompt, above the bar where you put in
+commands.
+~
+58 28 60 0 0 76
+D1
+~
+~
+0 5800 5808
+D2
+~
+~
+0 5800 5806
+S
+#5808
+The Path of Enlightenment: Growth~
+You will grow more powerful and more knowledgeable with time, maybe become a
+legendary player. Right now, right here, you can learn the tools of your trade,
+the skills of warriors and thieves and the spells of clerics and mages. You can
+only practice skills and spells of your level and class, and this consumes
+practices which you should have. Don't expect to train everything to the max
+right now, but get ones that will help you raise your level. When you are
+finished, continue on the path.
+~
+58 28 60 0 0 76
+D0
+~
+~
+0 5800 5809
+D3
+~
+~
+0 5800 5807
+E
+cleric~
+   You may choose to learn two spells :
+ 
+'armor' which will protect yourself or others.
+'cure light' which will cure a small amount of hitpoints.
+ 
+To get better at any one of these, type
+ 
+<practice armor>
+or
+<practice cure light>
+ 
+to use the spells later, type
+<cast 'armor' xxx> and <cast 'cure light' xxx> 
+where xxx is the name of your target.
+ 
+~
+E
+thief~
+   The only skill you can learn on this low level is backstab.
+A backstab is, as the name suggests, a way of getting behind
+your enemy, and stab him/her/it in the back.
+
+To get better at this, type <practice backstab>
+
+If you just want to see what you can learn, type <practice>
+
+Later, you can use the skill by typing <backstab> instead 
+of <kill> to initiate combat. Note, though that you need
+to use a pointed weapon to be able to backstab.
+~
+E
+mage magic user~
+   The only spell you can learn on this low level is a 'magic missile', 
+which will do a little damage to your enemy - if you have mana to cast it.
+ 
+To get better at this, type <practice magic>
+ 
+If you just want to see what you can learn, type <practice>.
+ 
+Later, you can use the skill in combat by typing 
+<cast 'magic missile' xxx>. 
+~
+E
+warrior~
+   The only skill you can learn on this low level is a kick, 
+which will do a little damage to your enemy - if you hit.
+
+To get better at this, type <practice kick>
+
+If you just want to see what you can learn, type <practice>.
+
+Later, you can use the skill in combat by typing <kick>.
+~
+S
+#5809
+Mudschool 9th Lesson: Who Am I - really ?~
+   To get some statistics on yourself type <score>.
+ 
+You will then get an overview of your current condition:
+Your age is in the first line.
+ 
+The display of hitpoints, mana and move shows you how much you have
+right now, and your current maximum in the ()'s.
+ 
+Your AC is next. It is best if it's low, as monsters hit you less often then.
+After that is your alignment. 1000 being pure good, -1000 being pure evil. 
+Next is your experience and gold followed by how long you have been playing.
+Lastly you are informed of your level and current position.
+ 
+Now continue north.
+~
+58 28 44 0 0 0
+D0
+~
+~
+0 5800 5810
+D2
+~
+~
+0 5800 5808
+S
+#5810
+Mudschool 10th Lesson: Shortcuts~
+   To avoid typing <score> all the time, the game has a small shortcut:
+ 
+By now you will have noticed the > that keeps appearing every time, you enter 
+a command. This is your prompt, and it can be set to display various 
+characteristics of your character. Right now type <prompt all>.
+ 
+A line looking something like this will appear as your prompt:
+12H 8M 31V >  
+The numbers are the same as the ones in <score>. Current hitpoints (H), mana 
+(M), and move (V).
+ 
+Remember: All commands can be abbreviated, to some extend. 
+Example : <pr all> will work just as good as <prompt all>
+ 
+Now move east for some basic manouvres.
+~
+58 28 60 0 0 0
+D1
+~
+~
+0 5800 5811
+D2
+~
+~
+0 5800 5809
+S
+#5811
+Mudschool 11th Lesson : Doors - a menace to free movement.~
+   In this room a door blocks your way east.
+ 
+To get past it you'll have to <open door>.
+ 
+If for any reason you'd wish to stop others from doing the same,
+the command <close door> will do the trick. If you happen to carry
+the right key, you may also <lock door> and <unlock door>.
+ 
+Thieves may also try to unlock a locked door by <pick>ing it, 
+if they know the skill.
+ 
+Right now, <open door> and proceed east.
+~
+58 28 0 0 0 0
+D1
+A common door is here.
+~
+door~
+1 5800 5812
+D3
+~
+~
+0 5800 5810
+S
+#5812
+Mudschool 12th Lesson : Socialising~
+   The world might seem a little boring if you don't know how to communicate.
+ 
+You may <say> things, so others in the same room as you can hear you. Try
+<say Hello>
+ 
+Others in the room would see the results as
+Yourname says, 'Hello'
+ 
+Another important command is <tell>. It is used like this:
+ 
+<tell xxx yyy>, where xxx is the person you'd like to talk to, and 
+                yyy is what you have to say.
+ 
+Later on, you can use commands like gossip, yell, holler and shout, to 
+communicate with everybody on the mud, in your local area, and so forth.
+More info on those by typing <help subject>.
+ 
+You're almost done with Mudschool, just hurry south.
+~
+58 28 0 0 0 0
+D2
+~
+~
+0 5800 5814
+D3
+A common door is here.
+~
+door~
+1 5800 5811
+S
+#5813
+Mudschool 14th Lesson : What NOT to do :)~
+   To get an overview of the do's and dont's, type <policy>. These are a few 
+rules, which must be abided by for you to be allowed to stay. 
+ 
+We try to keep them short and to the point. 
+ 
+The last command you'll learn is <recall>. This will transport you
+to the main chamber of the temple, as long as you are still a newbie.
+ 
+To leave Mudschool, type <recall>.
+~
+58 28 0 0 0 0
+D3
+~
+~
+0 5800 5814
+S
+#5814
+Mudschool 13th Lesson : Getting the game on your side.~
+   To liven up the world with colors, type <color complete>
+ 
+If in doubt about any command, type <help xxx> to get help on the command 
+in question.
+ 
+Now go east for the final lesson.
+~
+58 28 0 0 0 0
+D0
+~
+~
+0 5800 5812
+D1
+~
+~
+0 5800 5813
+S
+#5815
+Welcors ~~~ ~~~ furnace~
+   You seem to be standing in a cave of some sort.  A rather large cave.  
+Actually the cave is so large you think you could just as well be standing
+outside.  The ceiling is so high above you, you can't really make out the
+contours of it.  The sides of the cave are burning.  Had you not felt so
+comfortable, you could easily think you were inside a gigantic fire, looking
+out through the flames.  You realise, with a sudden stab of fear, that you've
+unwittingly stumbled into the home of Welcor, God of Fiery Justice.  You've
+better not be here when he gets back...    
+~
+58 28 8 0 0 0
+E
+Welcor~
+   Even when not here, you sense his presence.    
+~
+E
+flame wall burning fire~
+   As you study the walls closer, you realise magic keeps the fire alive, and
+it really is HOT.  Reaching out to touch it proves a very bad idea, giving you
+several burn marks on your hand
+~
+S
+$~

@@ -1,0 +1,5065 @@
+#400
+The Gaping Entrance to a Cave~
+Here light from the outside still illuminates the ground, but beyond lies utter
+darkness- hopefully you throught to bring a light. It seems the cave were made
+by countless ages of dripping water, judging from the small streams of water
+running into the depths of the cave. A faint warm breeze blows from within...
+What could be down there?
+~
+4 268 0 0 0 0
+D2
+~
+~
+0 0 401
+D4
+~
+~
+0 0 2999022
+S
+#401
+Descending into Darkness~
+Leaving the light behind you, there is only darkness ahead. Holding your light
+aloft you can see that every surface is wet with water flowing from the cave
+mouth. The air has a consistent warmth to it unusual for a cave, but it is not
+comfortably warm due to the high humidity. The path continues south from here.
+~
+4 256 0 0 0 0
+D0
+~
+~
+0 0 400
+D2
+~
+~
+0 0 402
+S
+#402
+Descending into Darkness~
+That last pinpoint of light from the surface world is far away, just a glint on
+the cave walls now. Fortunately you have your light to guide you, however long
+it lasts. The breeze flowing out of the cavern is moister here than near the
+cave entrance- perhaps there is water below your feet.
+~
+4 256 0 0 0 0
+D0
+~
+~
+0 0 401
+D1
+~
+~
+0 0 403
+S
+#403
+The First Bend in the Tunnel~
+Without your light, you would have failed to notice the steep drop before you,
+and could have become lost in the tumble down never to return to the surface
+world. You hear a stone fall nearby- you are not alone.
+~
+4 257 0 0 0 0
+D3
+~
+~
+0 0 402
+D5
+~
+~
+0 0 404
+S
+#404
+At an Intersection in the Cavern~
+A short stumble down the passage takes you to a four-way intersection, branching
+off in each of the cardinal directions. Every path looks the same, equally wet
+with dripping water and soft brown clay. The breeze blows from the south one
+moment, then the east, then the west, remaining inconsistent in its source. 
+The dripping of water into pools creates a sort of symphony that echoes through
+the many passages.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 414
+D1
+~
+~
+0 0 407
+D2
+~
+~
+0 0 405
+D3
+~
+~
+0 0 406
+D4
+~
+~
+0 0 403
+S
+T 405
+#405
+Deeper in the Cave~
+The southbound tunnel is quite muddy and wet, with a steady stream winding south
+over the thick clay. A shovel lies forgotten in one corner, probably left by
+some idle fortune-seeker coming to gather some of the rich clay that makes the
+finest pottery and potting soil.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 404
+D2
+~
+~
+0 0 410
+S
+#406
+A Hollowed-Out Vein of Rock~
+A rocky tunnel presents itself where hard stone could not be worn away by the
+dripping water so easily as limestone and clay. The tunnel is littered with
+stones that have come loose in the many ages of flowing water. The stream flows
+to the east from here, coming down the incline from the west.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 404
+D3
+~
+~
+0 0 409
+S
+#407
+The Eastern Path~
+The sudden changes in air flow is nauseating at best- it makes finding your
+direction in the dark impossible, and your light flickers this way and that. A
+small brook flows to the east, leading you deeper into the cave.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 408
+D3
+~
+~
+0 0 404
+S
+#408
+The Eastern Path~
+The sudden changes in air flow is nauseating at best- it makes finding your
+direction in the dark impossible, and your light flickers this way and that. A
+small brook flows to the south, leading you deeper into the cave.
+~
+4 264 0 0 0 0
+D2
+~
+~
+0 0 415
+D3
+~
+~
+0 0 407
+S
+#409
+A Hollowed-Out Vein of Rock~
+A rocky tunnel presents itself where hard stone could not be worn away by the
+dripping water so easily as limestone and clay. The tunnel is littered with
+stones that have come loose in the many ages of flowing water. The stream flows
+to the east from here, coming down the incline from the south.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 406
+D2
+~
+~
+0 0 420
+S
+#410
+A Tall Cavern, Filled with Bats~
+The vaulted ceiling of this cavern resembles a sort of makeshift cathedral, with
+dozens of bats chittering and climbing about as the monks and a large stalactite
+their altar. The mud is not so deep here, and the water not so quick moving-
+you do not linger, because the swooping bats may become entangled in your
+equipment.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 405
+D1
+~
+~
+0 0 416
+D2
+~
+~
+0 0 411
+S
+#411
+A Tight Squeeze in the Muddy Tunnel~
+There is only enough room for one person to move through at a time here, as the
+path is constricted to only being a meter wide. The mud is particularly deep,
+and the water runs high in the tunnel. Bats don't even come to this place, as
+there is no place to hang or hide.
+~
+4 268 128 0 0 39
+D0
+~
+~
+0 0 410
+D2
+~
+~
+0 0 444
+S
+#412
+The Eastern Path~
+The tunnel to the north sends a sharp wind into this room, making your light
+dance and flicker. The brook flows south, and the sound of a waterfall can be
+heard somewhere ahead.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 417
+D2
+~
+~
+0 0 413
+S
+#413
+The Eastern Path~
+The tunnel widens, and a and a granite cliff rising from the clay floor can be
+seen to the west. A pool of water is here, and it looks reasonably safe to
+drink from. The waterfall must be close now, the sound is more distinct here
+than further north.
+~
+4 0 0 0 0 0
+D0
+~
+~
+0 0 412
+D3
+~
+~
+0 0 418
+S
+#414
+Beneath a Clay Overhang~
+In this small, cramped chamber of clay the sounds of the world outside seem to
+vanish. Holy engravings line the walls, possibly the result of some local
+tribesman priest attempting to create a safe place for travellers to rest free
+of danger. The attempt must have worked- a sort of tranquility permeates the
+very walls and flows in the air of this haven.
+~
+4 -1073741572 8 0 0 0
+D2
+~
+~
+0 0 404
+S
+#415
+The Eastern Path~
+The sudden changes in air flow is nauseating at best- it makes finding your
+direction in the dark impossible, and your light flickers this way and that. A
+small brook flows to the east, leading you deeper into the cave.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 408
+D2
+~
+~
+0 0 416
+S
+#416
+A Break in the Tunnel~
+Part of the tunnel wall to the west has collapsed, allowing entry into the next
+tunnel to the west. Mud and water spills in from the west- perhaps it isn't
+such a good idea to go that way.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 415
+D2
+~
+~
+0 0 417
+D3
+~
+~
+0 0 410
+S
+#417
+The Eastern Path~
+The wind is strong in this room, putting out your light and sending you into
+pitch black darkness. The sound of the brook ushers you to the east, away from
+whatever sinister being enjoys this kind of darkness.
+~
+4 265 0 0 0 0
+D0
+~
+~
+0 0 416
+D1
+~
+~
+0 0 445
+D2
+~
+~
+0 0 412
+S
+#418
+A Tall Cliff Over the South Path~
+Despite the constantly flowing water an outcropping of granite to the west has
+survived the test of time. A five meter high cliff rises strait up out of the
+ground, with a sort of ledge, even another tunnel, at the top. The path slopes
+to the south, leading to what sounds like a waterfall.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 444
+D1
+~
+~
+0 0 413
+D2
+~
+~
+0 0 419
+S
+T 418
+#419
+A Deep Channel Approaching the Waterfall~
+Where all the streams come together it creates a mighty underground river. The
+water is dirty with silt, and the current curves and runs over large rocks
+wedged in the side of the wall. To the south, the water rushes down into the
+earth where a subterranean lake has formed.
+~
+4 264 0 0 0 6
+D0
+~
+~
+0 0 418
+D2
+~
+~
+0 0 425
+S
+#420
+A Hollowed-Out Vein of Rock~
+This part of the tunnel is completely made of hard stone, above below and all
+around. It is narrower than the path before it, probably because this path
+formed where a soft vein of rock wore away. The path continues south from here,
+up the incline towards a ledge.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 409
+D2
+~
+~
+0 0 421
+S
+#421
+A Hollowed-Out Vein of Rock~
+This part of the tunnel is completely made of hard stone, above below and all
+around. It is narrower than the path before it, probably because this path
+formed where a soft vein of rock wore away. The path continues south from here,
+up the incline towards a ledge.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 420
+D2
+~
+~
+0 0 422
+S
+#422
+A Hollowed-Out Vein of Rock~
+This unfinished room was created by Accarid. This part of the tunnel is
+completely made of hard stone, above below and all around. It is narrower than
+the path before it, probably because this path formed where a soft vein of rock
+wore away. The path continues south from here, up the incline towards a ledge.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 421
+D2
+~
+~
+0 0 423
+S
+#423
+A Hollowed-Out Vein of Rock~
+This part of the tunnel is completely made of hard stone, above below and all
+around. It is narrower than the path before it, probably because this path
+formed where a soft vein of rock wore away. The path continues south from here,
+up the incline towards a ledge.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 422
+D2
+~
+~
+0 0 424
+S
+#424
+A Granite Cliff~
+The tunnel widens here, and comes to a halt overlooking another path below. 
+Here is where water drips from the ceiling and runs north down the incline,
+creating a small pool here. You could probably scale the cliff to the east and
+get down onto the path below.
+~
+4 536871176 0 0 0 0
+D0
+~
+~
+0 0 423
+D1
+~
+~
+0 0 418
+S
+T 424
+#425
+At the Top of the Waterfall~
+The river swirls down into the earth over an oddly-shaped boulder, ricocheting
+off of several flat rocks on the way down before falling into the pool below. 
+It is an uphill struggle to keep from being pulled into the hole by the raging
+waters.
+~
+4 265 128 0 0 0
+D0
+~
+~
+0 0 419
+D5
+~
+~
+0 0 426
+S
+T 425
+#426
+A Rocky Ledge in the Waterfall~
+The pounding water forces you to your knees on a lone ledge of granite. The
+water rushes all around you, creating a deafening roar. The underground lake
+lies an unknowable distance below you- your light does not reach far enough to
+tell. It could be five or five hundred meters down into the water below.
+~
+4 13 0 0 0 9
+D5
+~
+~
+0 0 427
+S
+#427
+At the Foot of the Waterfall~
+The waterfall comes to a crashing halt in a deep pool, fortunately not too far
+from the ledge above, a mere seven meter drop. The water froths from the air
+bubbles rising up from the bottom of the lake, and smells faintly of rot and wet
+chalk. No point of friendly rock is to be found in this deep part of the lake,
+so rest must be found elsewhere.
+~
+4 65544 0 0 0 9
+D0
+~
+~
+0 0 437
+D1
+~
+~
+0 0 431
+D2
+~
+~
+0 0 434
+D3
+~
+~
+0 0 428
+D5
+~
+~
+0 0 448
+S
+#428
+Walking in the Underground Lake~
+The waterfall comes to a crashing halt in a deep pool, fortunately not too far
+from the ledge above, a mere seven meter drop. The water froths from the air
+bubbles rising up from the bottom of the lake, and smells faintly of rot and wet
+chalk. No point of friendly rock is to be found in this deep part of the lake,
+so rest must be found elsewhere.
+~
+4 65544 0 0 0 9
+D0
+~
+~
+0 0 443
+D1
+~
+~
+0 0 427
+D2
+~
+~
+0 0 450
+D3
+~
+~
+0 0 429
+S
+#429
+Walking in the Underground Lake~
+The gradually sloping granite floor rises up above the water, becoming almost
+dry land where you stand. A ring of detritus lies on the ground at various
+heights, the result of rainstorms past flooding the cavern. Salt crystals have
+dried up at the waterline and encrust the jetsam lying on the stone floor, and
+it seems something that lives down here must find this stuff edible judging from
+the bite-shaped chunks missing from the ring closest to the water.
+~
+4 65548 0 0 0 9
+D1
+~
+~
+0 0 428
+D3
+~
+~
+0 0 430
+D5
+~
+~
+0 0 462
+S
+#430
+A Stony Cavern Beach~
+A rock slide has created a steep beach here, which has over time melded together
+into a single oddly-shaped boulder. Small divots, tunnels, and caves mark where
+underground creatures have made their homes, safe from flooding and aquatic
+predators. A skull lies crushed upon the ground- could it be human in origin?
+~
+4 65548 0 0 0 0
+D1
+~
+~
+0 0 429
+D2
+A fresh rock slide covers the hidden tunnel to the south. With a bit of effort, it could be moved.
+~
+rockslide~
+1 0 455
+S
+#431
+Walking in the Underground Lake~
+The only thing keeping the water from seeping down endlessly and creating a
+bottomless chasm is this sheet of hard bedrock, upon which the water forms a
+pool, and where detritus from above settles and forms the soft, disgusting soil.
+The creatures of this cavern have adapted to the sickening atmosphere of decay
+and lack of sunlight, living quite comfortably below the surface of the earth.
+~
+4 65544 0 0 0 9
+D0
+~
+~
+0 0 442
+D1
+~
+~
+0 0 432
+D2
+~
+~
+0 0 449
+D3
+~
+~
+0 0 427
+S
+#432
+Walking in the Underground Lake~
+The waterfall comes to a crashing halt in a deep pool, fortunately not too far
+from the ledge above, a mere seven meter drop. The water froths from the air
+bubbles rising up from the bottom of the lake, and smells faintly of rot and wet
+chalk. No point of friendly rock is to be found in this deep part of the lake,
+so rest must be found elsewhere.
+~
+4 65544 0 0 0 9
+D1
+~
+~
+0 0 433
+D3
+~
+~
+0 0 431
+S
+#433
+A Rocky Beach on the Underground Lake~
+The gradually sloping granite floor rises up above the water, becoming almost
+dry land where you stand. A ring of detritus lies on the ground at various
+heights, the result of rainstorms past flooding the cavern. Salt crystals have
+dried up at the waterline and encrust the jetsam lying on the stone floor, and
+it seems something that lives down here must find this stuff edible judging from
+the bite-shaped chunks missing from the ring closest to the water. A round
+tunnel has formed between two large stalactites worn by rushing water to the
+south, leading into darkness.
+~
+4 65548 0 0 0 0
+D2
+~
+~
+0 0 463
+D3
+~
+~
+0 0 432
+S
+#434
+Walking in the Underground Lake~
+The waterfall comes to a crashing halt in a deep pool, fortunately not too far
+from the ledge above, a mere seven meter drop. The water froths from the air
+bubbles rising up from the bottom of the lake, and smells faintly of rot and wet
+chalk. No point of friendly rock is to be found in this deep part of the lake,
+so rest must be found elsewhere.
+~
+4 65544 0 0 0 9
+D0
+~
+~
+0 0 427
+D1
+~
+~
+0 0 449
+D2
+~
+~
+0 0 435
+D3
+~
+~
+0 0 450
+S
+#435
+Walking in the Underground Lake~
+The waterfall comes to a crashing halt in a deep pool, fortunately not too far
+from the ledge above, a mere seven meter drop. The water froths from the air
+bubbles rising up from the bottom of the lake, and smells faintly of rot and wet
+chalk. No point of friendly rock is to be found in this deep part of the lake,
+so rest must be found elsewhere.
+~
+4 65544 0 0 0 9
+D0
+~
+~
+0 0 434
+D2
+~
+~
+0 0 436
+S
+#436
+A Rocky Beach on the Underground Lake~
+The gradually sloping granite floor rises up above the water, becoming almost
+dry land where you stand. A ring of detritus lies on the ground at various
+heights, the result of rainstorms past flooding the cavern. Salt crystals have
+dried up at the waterline and encrust the jetsam lying on the stone floor, and
+it seems something that lives down here must find this stuff edible judging from
+the bite-shaped chunks missing from the ring closest to the water.
+~
+4 65544 0 0 0 0
+D0
+~
+~
+0 0 435
+D2
+A thick wall of mud presents an immovable barrier to the south- or is it?
+~
+mud barrier~
+1 0 461
+S
+#437
+Walking in the Underground Lake~
+The waterfall comes to a crashing halt in a deep pool, fortunately not too far
+from the ledge above, a mere seven meter drop. The water froths from the air
+bubbles rising up from the bottom of the lake, and smells faintly of rot and wet
+chalk. No point of friendly rock is to be found in this deep part of the lake,
+so rest must be found elsewhere.
+~
+4 65544 0 0 0 9
+D0
+~
+~
+0 0 438
+D1
+~
+~
+0 0 442
+D2
+~
+~
+0 0 427
+D3
+~
+~
+0 0 443
+S
+#438
+Walking in the Underground Lake~
+The waterfall comes to a crashing halt in a deep pool, fortunately not too far
+from the ledge above, a mere seven meter drop. The water froths from the air
+bubbles rising up from the bottom of the lake, and smells faintly of rot and wet
+chalk. No point of friendly rock is to be found in this deep part of the lake,
+so rest must be found elsewhere.
+~
+4 65544 0 0 0 9
+D0
+~
+~
+0 0 439
+D1
+~
+~
+0 0 451
+D2
+~
+~
+0 0 437
+S
+#439
+A Rocky Beach on the Underground Lake~
+The gradually sloping granite floor rises up above the water, becoming almost
+dry land where you stand. A ring of detritus lies on the ground at various
+heights, the result of rainstorms past flooding the cavern. Salt crystals have
+dried up at the waterline and encrust the jetsam lying on the stone floor, and
+it seems something that lives down here must find this stuff edible judging from
+the bite-shaped chunks missing from the ring closest to the water.
+~
+4 65548 0 0 0 0
+D0
+~
+~
+0 0 452
+D1
+~
+~
+0 0 441
+D2
+~
+~
+0 0 438
+D3
+~
+~
+0 0 440
+S
+#440
+A Dark, Water-Filled Cave~
+The walls are rough and gouged, as if this part of the cave were the work of
+some great clawed being intent on creating a burrow, or perhaps just the
+side-effect of its passage. Whatever it was, it doesn't seem to be present now-
+which doesn't stop other dangerous beings from lurking in the darkness.
+~
+4 65801 0 0 0 0
+D1
+~
+~
+0 0 439
+S
+#441
+A Dark, Water-Filled Cave~
+The walls are rough and gouged, as if this part of the cave were the work of
+some great clawed being intent on creating a burrow, or perhaps just the
+side-effect of its passage. Whatever it was, it doesn't seem to be present now-
+which doesn't stop other dangerous beings from lurking in the darkness.
+~
+4 65801 0 0 0 0
+D3
+~
+~
+0 0 439
+S
+#442
+Walking in the Underground Lake~
+The waterfall comes to a crashing halt in a deep pool, fortunately not too far
+from the ledge above, a mere seven meter drop. The water froths from the air
+bubbles rising up from the bottom of the lake, and smells faintly of rot and wet
+chalk. No point of friendly rock is to be found in this deep part of the lake,
+so rest must be found elsewhere.
+~
+4 65544 0 0 0 9
+D0
+~
+~
+0 0 451
+D2
+~
+~
+0 0 431
+D3
+~
+~
+0 0 437
+S
+#443
+Walking in the Underground Lake~
+The waterfall comes to a crashing halt in a deep pool, fortunately not too far
+from the ledge above, a mere seven meter drop. The water froths from the air
+bubbles rising up from the bottom of the lake, and smells faintly of rot and wet
+chalk. No point of friendly rock is to be found in this deep part of the lake,
+so rest must be found elsewhere.
+~
+4 65544 0 0 0 9
+D1
+~
+~
+0 0 437
+D2
+~
+~
+0 0 428
+S
+#444
+On the Muddy Southbound Path~
+The soft, wet clay is about shin deep here, making movement in places slightly
+difficult. The roar of a waterfall can be heard to the south, but it is only
+faint. The speed of flowing water quickens here, rushing south towards its
+ultimate destination.
+~
+4 264 128 0 0 0
+D0
+~
+~
+0 0 411
+D2
+~
+~
+0 0 418
+S
+#445
+A Small Cramped Tunnel~
+This tunnel must have formed where soft stone was worn away by dripping water.
+There is not even enough room to stand up strait, and the water runs up the
+walls in its journey down into the earth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 446
+D3
+~
+~
+0 0 417
+S
+#446
+A Small Cramped Tunnel~
+This tunnel must have formed where soft stone was worn away by dripping water.
+There is not even enough room to stand up strait, and the water runs up the
+walls in its journey down into the earth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 447
+D3
+~
+~
+0 0 445
+S
+#447
+A Dead End in the Cave~
+The tunnel comes to an end here, in a mess of thick clay and fallen stalactites.
+Dozens of bats hang from the cavern ceiling, despite the dripping water.
+~
+4 264 0 0 0 0
+D2
+~
+~
+0 0 446
+S
+#448
+Deep in the Underground Lake~
+The water here is more clay than liquid. The presence of dense mud all around
+is stifling, and there seem to be things squirming about within it, reacting to
+your sudden arrival. It would be best to return to the surface at once.
+~
+4 65548 0 0 0 9
+D4
+~
+~
+0 0 427
+S
+#449
+Walking in the Underground Lake~
+The waterfall comes to a crashing halt in a deep pool, fortunately not too far
+from the ledge above, a mere seven meter drop. The water froths from the air
+bubbles rising up from the bottom of the lake, and smells faintly of rot and wet
+chalk. No point of friendly rock is to be found in this deep part of the lake,
+so rest must be found elsewhere.
+~
+4 65544 0 0 0 9
+D0
+~
+~
+0 0 431
+D3
+~
+~
+0 0 434
+S
+#450
+Walking in the Underground Lake~
+The waterfall comes to a crashing halt in a deep pool, fortunately not too far
+from the ledge above, a mere seven meter drop. The water froths from the air
+bubbles rising up from the bottom of the lake, and smells faintly of rot and wet
+chalk. No point of friendly rock is to be found in this deep part of the lake,
+so rest must be found elsewhere.
+~
+4 65544 0 0 0 9
+D0
+~
+~
+0 0 428
+D1
+~
+~
+0 0 434
+D2
+~
+~
+0 0 454
+S
+#451
+Walking in the Underground Lake~
+The waterfall comes to a crashing halt in a deep pool, fortunately not too far
+from the ledge above, a mere seven meter drop. The water froths from the air
+bubbles rising up from the bottom of the lake, and smells faintly of rot and wet
+chalk. No point of friendly rock is to be found in this deep part of the lake,
+so rest must be found elsewhere.
+~
+4 65544 0 0 0 9
+D2
+~
+~
+0 0 442
+D3
+~
+~
+0 0 438
+S
+#452
+A Bubbling Mud Pool~
+A bubbling pool of warm mud gushes up from a hole in the stone far below your
+dangling feet, and you struggle to stay afloat in the tossing current of filth.
+Here it gushes up, there it sinks down again, and all around is chaos. 
+Something graps onto your foot, something with painful biting suckers!
+~
+4 65544 0 0 0 0
+D2
+~
+~
+0 0 439
+D4
+~
+~
+0 0 453
+S
+#453
+Deep in the Mud~
+Somehow you manage to find yourself lost in the mud- why did you have to climb
+up into the ceiling?! The weight of it is suffocating, you must escape!
+~
+4 66045 0 0 0 0
+D4
+~
+~
+0 0 411
+S
+#454
+A Deep, Clean Pool~
+Unusual for this cave, this alcove is spotlessly clean. This is probably due to
+a cold spring that rises from the many holes in the stone floor. Amethyst
+crystals of varying shapes and sizes protrude from the walls, low ceiling, and
+cavern floor, and glint in the light.
+~
+4 265 0 0 0 0
+D0
+~
+~
+0 0 450
+S
+#455
+A Secret Tunnel in the Underground Lake~
+A rock slide has closed off the exit to the north, forming a self-sustaining
+environment here, dominated by the dripping nutrient-rich water and giant
+centipedes. Here there are not so many crystals, and a white sand has formed on
+the ground as a result of their being torn down in the rockslide.
+~
+4 65801 0 0 0 0
+D0
+A fresh rockslide blocks the hidden tunnel to the south. With a bit of effort, it could be moved.
+~
+rockslide~
+1 0 430
+D2
+~
+~
+0 0 456
+S
+#456
+A Secret Tunnel in the Underground Lake~
+The ceiling is studded with massive white quartz crystals, and stalactites and
+stalagmites abound. The air is stale, but it is likely that the creatures that
+live here do not breathe normal air. In the darkness you can hear the
+skittering of many hundreds of feet, clicking and splashing along the ground
+somewhere..
+~
+4 65801 0 0 0 0
+D0
+~
+~
+0 0 455
+D2
+~
+~
+0 0 457
+S
+#457
+A Secret Tunnel in the Underground Lake~
+The ceiling is studded with massive white quartz crystals, and stalactites and
+stalagmites abound. The air is stale, but it is likely that the creatures that
+live here do not breathe normal air. In the darkness you can hear the
+skittering of many hundreds of feet, clicking and splashing along the ground
+somewhere..
+~
+4 65801 0 0 0 0
+D0
+~
+~
+0 0 456
+D1
+~
+~
+0 0 458
+S
+#458
+A Secret Tunnel in the Underground Lake~
+The ceiling is studded with massive white quartz crystals, and stalactites and
+stalagmites abound. The air is stale, but it is likely that the creatures that
+live here do not breathe normal air. In the darkness you can hear the
+skittering of many hundreds of feet, clicking and splashing along the ground
+somewhere..
+~
+4 65801 0 0 0 0
+D2
+~
+~
+0 0 459
+D3
+~
+~
+0 0 457
+S
+#459
+A Secret Tunnel in the Underground Lake~
+The ceiling is studded with massive white quartz crystals, and stalactites and
+stalagmites abound. The air is stale, but it is likely that the creatures that
+live here do not breathe normal air. In the darkness you can hear the
+skittering of many hundreds of feet, clicking and splashing along the ground
+somewhere..
+~
+4 65801 0 0 0 0
+D0
+~
+~
+0 0 458
+D1
+~
+~
+0 0 460
+S
+#460
+A Secret Tunnel in the Underground Lake~
+The ceiling is studded with massive white quartz crystals, and stalactites and
+stalagmites abound. The air is stale, but it is likely that the creatures that
+live here do not breathe normal air. In the darkness you can hear the
+skittering of many hundreds of feet, clicking and splashing along the ground
+somewhere..
+~
+4 65801 0 0 0 0
+D1
+~
+~
+0 0 461
+D3
+~
+~
+0 0 459
+S
+#461
+A Secret Tunnel in the Underground Lake~
+A thick albeit soft wall of mud hides this tunnel from view to the north. The
+ceiling is studded with massive white quartz crystals, and stalactites and
+stalagmites abound. In the darkness you can hear the skittering of many
+hundreds of feet, clicking and splashing along the ground somewhere..
+~
+4 65801 0 0 0 0
+D0
+A thick wall of mud presents an immovable barrier to the south- or is it?
+~
+mud barrier~
+1 0 436
+D3
+~
+~
+0 0 460
+S
+#462
+A Hollow Under the Lake~
+Deep in the mud, you find the first vegetation in this underground lake that you
+have seen. It waves rythmically in the water as if of its own volition, bright
+green and inviting. The bones of countless fish lie about in the mud, broken
+and mashed into an almost paste-like substance. A brown leather boot lies on
+the surface of the mud, mysteriously unaffected by the nibblings of fish. The
+mud closes over your head as you sink lower- perhaps it can be forced open.
+~
+4 65672 0 0 0 9
+D4
+~
+~
+0 0 429
+S
+T 400
+T 401
+T 402
+#463
+In a Glistening Room Coated with Ice~
+The air here is still, wet, and cold, and has created a slippery coating of ice
+on every surface. Examining the ice closely, you can make out the forms of
+small summer insects frozen within it that flew into this cave and became
+entombed in the ice when they stopped to rest. The smell of decay is not so
+strong here, and the breeze that could be felt in the upper tunnels blows
+strongly here, cold and harsh. It must have become warm going over the lake and
+up the waterfall.
+~
+4 65805 0 0 0 0
+D0
+~
+~
+0 0 433
+D1
+~
+~
+0 0 464
+S
+#464
+An Icy Tunnel~
+The air here is still, wet, and cold, and has created a slippery coating of ice
+on every surface. Examining the ice closely, you can make out the forms of
+small summer insects frozen within it that flew into this cave and became
+entombed in the ice when they stopped to rest. The smell of decay is not so
+strong here, and the breeze that could be felt in the upper tunnels blows
+strongly here, cold and harsh. It must have become warm going over the lake and
+up the waterfall.
+~
+4 65801 0 0 0 0
+D2
+~
+~
+0 0 465
+D3
+~
+~
+0 0 463
+S
+#465
+An Icy Tunnel~
+The air here is still, wet, and cold, and has created a slippery coating of ice
+on every surface. Examining the ice closely, you can make out the forms of
+small summer insects frozen within it that flew into this cave and became
+entombed in the ice when they stopped to rest. The smell of decay is not so
+strong here, and the breeze that could be felt in the upper tunnels blows
+strongly here, cold and harsh. It must have become warm going over the lake and
+up the waterfall.
+~
+4 65801 0 0 0 0
+D0
+~
+~
+0 0 464
+D1
+~
+~
+0 0 466
+S
+#466
+An Icy Tunnel~
+The air here is still, wet, and cold, and has created a slippery coating of ice
+on every surface. Examining the ice closely, you can make out the forms of
+small summer insects frozen within it that flew into this cave and became
+entombed in the ice when they stopped to rest. The smell of decay is not so
+strong here, and the breeze that could be felt in the upper tunnels blows
+strongly here, cold and harsh. It must have become warm going over the lake and
+up the waterfall.
+~
+4 65801 0 0 0 0
+D0
+~
+~
+0 0 467
+D3
+~
+~
+0 0 465
+S
+#467
+A Blood-Stained Cavern Tunnel~
+A large quantity of blood has been spilt here, which melted the ice and then
+became frozen within it shortly after having been shed by an unknown creature.
+Deep claw marks cover the walls, and a large quantity of gems have been gathered
+here. Moving them would surely incur the wrath of their procurer.
+~
+4 65800 0 0 0 0
+D0
+~
+~
+0 0 468
+D2
+~
+~
+0 0 466
+S
+T 467
+#468
+The Corpse of a Slain Adventurer, Preserved in Ice~
+Here is the source of the blood, cold, dead, and entombed in a thick layer of
+ice- one would imagine this is the work of an ice drake. Why this warrior
+crossed the drake is unknowable, perhaps he sought fame in defeating a drake
+alone, or attempted to steal its treasure, or perhaps it sensed an evil aura
+about him and attacked. In any case, he is as dead as the walls are cold.
+~
+4 65801 0 0 0 0
+D2
+~
+~
+0 0 467
+D3
+~
+~
+0 0 469
+S
+#469
+An Icy Tunnel~
+The air here is still, wet, and cold, and has created a slippery coating of ice
+on every surface. Examining the ice closely, you can make out the forms of
+small summer insects frozen within it that flew into this cave and became
+entombed in the ice when they stopped to rest. The smell of decay is not so
+strong here, and the breeze that could be felt in the upper tunnels blows
+strongly here, cold and harsh. It must have become warm going over the lake and
+up the waterfall.
+~
+4 65801 0 0 0 0
+D0
+~
+~
+0 0 470
+D1
+~
+~
+0 0 468
+S
+#470
+An Icy Tunnel~
+The air here is still, wet, and cold, and has created a slippery coating of ice
+on every surface. Examining the ice closely, you can make out the forms of
+small summer insects frozen within it that flew into this cave and became
+entombed in the ice when they stopped to rest. The smell of decay is not so
+strong here, and the breeze that could be felt in the upper tunnels blows
+strongly here, cold and harsh. It must have become warm going over the lake and
+up the waterfall.
+~
+4 65801 0 0 0 0
+D1
+~
+~
+0 0 471
+D2
+~
+~
+0 0 469
+S
+#471
+An Icy Tunnel~
+The air here is still, wet, and cold, and has created a slippery coating of ice
+on every surface. Examining the ice closely, you can make out the forms of
+small summer insects frozen within it that flew into this cave and became
+entombed in the ice when they stopped to rest. The smell of decay is not so
+strong here, and the breeze that could be felt in the upper tunnels blows
+strongly here, cold and harsh. It must have become warm going over the lake and
+up the waterfall.
+~
+4 65801 0 0 0 0
+D1
+~
+~
+0 0 472
+D3
+~
+~
+0 0 470
+S
+#472
+An Icy Tunnel~
+The air here is still, wet, and cold, and has created a slippery coating of ice
+on every surface. Examining the ice closely, you can make out the forms of
+small summer insects frozen within it that flew into this cave and became
+entombed in the ice when they stopped to rest. The smell of decay is not so
+strong here, and the breeze that could be felt in the upper tunnels blows
+strongly here, cold and harsh. It must have become warm going over the lake and
+up the waterfall.
+~
+4 65801 0 0 0 0
+D0
+~
+~
+0 0 480
+D1
+~
+~
+0 0 473
+D3
+~
+~
+0 0 471
+S
+#473
+An Icy Tunnel~
+The air here is still, wet, and cold, and has created a slippery coating of ice
+on every surface. Examining the ice closely, you can make out the forms of
+small summer insects frozen within it that flew into this cave and became
+entombed in the ice when they stopped to rest. The smell of decay is not so
+strong here, and the breeze that could be felt in the upper tunnels blows
+strongly here, cold and harsh. It must have become warm going over the lake and
+up the waterfall.
+~
+4 65801 0 0 0 0
+D2
+~
+~
+0 0 474
+D3
+~
+~
+0 0 472
+S
+#474
+An Icy Tunnel~
+The air here is still, wet, and cold, and has created a slippery coating of ice
+on every surface. Examining the ice closely, you can make out the forms of
+small summer insects frozen within it that flew into this cave and became
+entombed in the ice when they stopped to rest. The smell of decay is not so
+strong here, and the breeze that could be felt in the upper tunnels blows
+strongly here, cold and harsh. It must have become warm going over the lake and
+up the waterfall.
+~
+4 65800 0 0 0 0
+D0
+~
+~
+0 0 473
+D2
+~
+~
+0 0 475
+S
+#475
+A Tunnel of Ice~
+The air here is still, wet, and cold, and has created a slippery coating of ice
+on every surface. Examining the ice closely, you can make out the forms of
+small summer insects frozen within it that flew into this cave and became
+entombed in the ice when they stopped to rest. The smell of decay is not so
+strong here, and the breeze that could be felt in the upper tunnels blows
+strongly here, cold and harsh. To the east, a large cavern opens up out of the
+earth.
+~
+4 65801 0 0 0 0
+D0
+~
+~
+0 0 474
+D1
+~
+~
+0 0 476
+S
+#476
+A Vaulted Cavern, Coated in Ice~
+The cavern is spherical in nature, and it is difficult to find steady footing
+amongst the hanging rocks and floor projections. There are four cavelike
+openings from here, one going north, east, south, and down into the earth along
+a sloping tunnel. The cold wind blows strongest here, throwing you further off
+balance.
+~
+4 65800 0 0 0 0
+D0
+~
+~
+0 0 477
+D1
+~
+~
+0 0 479
+D2
+~
+~
+0 0 478
+D3
+~
+~
+0 0 475
+D5
+~
+~
+0 0 481
+S
+#477
+An Icy Alcove~
+It seems that this cavern as a whole was once much larger, but droplets of water
+have over the ages filled in much of it. A few areas remain unaffected by this
+process, and three such caverns exist due to the swirling wind keeping the moist
+air from landing on the walls.
+~
+4 65545 0 0 0 0
+D2
+~
+~
+0 0 476
+S
+#478
+An Icy Alcove~
+It seems that this cavern as a whole was once much larger, but droplets of water
+have over the ages filled in much of it. A few areas remain unaffected by this
+process, and three such caverns exist due to the swirling wind keeping the moist
+air from landing on the walls.
+~
+4 65545 0 0 0 0
+D0
+~
+~
+0 0 476
+S
+#479
+An Icy Alcove~
+It seems that this cavern as a whole was once much larger, but droplets of water
+have over the ages filled in much of it. A few areas remain unaffected by this
+process, and three such caverns exist due to the swirling wind keeping the moist
+air from landing on the walls.
+~
+4 65545 0 0 0 0
+D3
+~
+~
+0 0 476
+S
+#480
+A Chamber of Icy Quartz Crystals~
+Thick, stocky quartz crystals surround the doorway, hiding this room from view
+in the main tunnel. These same crystals form an almost flat surface upon which
+to rest, and the very walls glow with an ambiant light.
+~
+4 1073741884 0 0 0 0
+D2
+~
+~
+0 0 472
+S
+#481
+Descending Slippery Stone Steps~
+A layer of flat black rocks are stacked one on top of the other, forming a
+rudimentary stairway down into the cave. You had best watch your footing- the
+ice makes it very slippery, and the strong wind makes it difficult to balance.
+~
+4 65800 0 0 0 0
+D4
+~
+~
+0 0 476
+D5
+~
+~
+0 0 482
+S
+#482
+A Carved Passageway~
+Astonishingly enough, the tunnel leading south begins to look more and more like
+it has been carved by some intelligent creature. The walls are neat and meet to
+form an equilateral triangle carved with runes and heiroglyphs portraying
+prehistoric man conversing with a beautiful woman, hovering and enshrouded in
+mist. Another glyph illustrates the nature of this underground temple- a system
+of connected, interwoven concentric circles.
+~
+4 268 0 0 0 0
+D2
+~
+~
+0 0 484
+D4
+~
+~
+0 0 481
+D5
+
+~
+undefined~
+0 0 483
+S
+#483
+A Subterranean Bone Yard~
+It's a long fall from the room above, far too long a drop for there to be any
+plausible means of escape that way. A sort of white powder covers the ground,
+and bits of intact bone combined with frozen and ungnawed meat lying about
+indicates that some monster has managed to drag victims down here and rip the
+bones from their flesh as a meal. You can only hope you are not next on the
+menu.
+~
+4 33685513 0 0 0 0
+D0
+~
+~
+0 0 485
+S
+#484
+The Beginning of the Labyrinth~
+In the nature of a labyrinth, there is a single path that ultimately leads to a
+center and a reward- but at a risk. An inscription here on the wall details
+combat with earth golems over a bottomless pit. Of course, it appears that
+these were made many ages ago- the golems couldn't still be here if they ever
+existed, right?
+~
+4 268 0 0 0 0
+D0
+~
+~
+0 0 482
+D2
+~
+~
+0 0 558
+S
+#485
+A Subterranean Bone Yard~
+You can hear the ooze lurching about in the dark. It seems to echo from every
+corner of the darkness, from all sides, surrounding you. The sound of it moving
+about, the darkness, the bones- all you can think about is escape from this
+frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 496
+D1
+~
+~
+0 0 486
+D2
+~
+~
+0 0 483
+S
+#486
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 487
+D3
+~
+~
+0 0 485
+S
+#487
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 492
+D2
+~
+~
+0 0 488
+D3
+~
+~
+0 0 486
+S
+#488
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 487
+D2
+~
+~
+0 0 489
+S
+#489
+In a Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 488
+D1
+~
+~
+0 0 490
+S
+#490
+In a Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D2
+~
+~
+0 0 491
+D3
+~
+~
+0 0 489
+S
+#491
+Another Dead End~
+Is there any escape from this godawful pit of death? The path ends in a pile of
+frozen flesh and rock. No glimmer of hope shines down from the darkness of the
+void above- there is only the maddening sound of the bone ooze, grinding over
+the earth in pursuit of its prey.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 490
+S
+#492
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 493
+D2
+~
+~
+0 0 487
+S
+#493
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 494
+D3
+~
+~
+0 0 492
+S
+#494
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 495
+D3
+~
+~
+0 0 493
+S
+#495
+Another Dead End~
+It seems like this part of the cavern is where rock fell into the main tunnel,
+leaving a hollow much too large for a bone ooze to enter. Despite its sheltered
+nature, the alcove that has formed here is not completely safe- a ring of dirt
+on the wall hints that in the event of a rain storm, this room is filling up
+with water.
+~
+4 131085 0 0 0 0
+D2
+~
+~
+0 0 494
+S
+#496
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 506
+D2
+~
+~
+0 0 485
+D3
+~
+~
+0 0 497
+S
+#497
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 496
+D3
+~
+~
+0 0 498
+S
+#498
+A Pile of Bones~
+If you didn't know better, it would look like many things have died here. In
+fact, only one thing has died, and it deposited all the bones within its
+gelatinous body on the ground in a heap. The pile of bones makes moving through
+this area of the cave difficult, but you must carry on if you wish to escape.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 503
+D1
+~
+~
+0 0 497
+D3
+~
+~
+0 0 499
+S
+#499
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 498
+D2
+~
+~
+0 0 500
+S
+#500
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 499
+D3
+~
+~
+0 0 501
+S
+#501
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 502
+D1
+~
+~
+0 0 500
+S
+#502
+Another Dead End~
+There are so many dead ends in this cave it almost seems that there is NO way
+out. Some metal bits have been deposited here by a bone ooze, useless to it but
+possibly precious to you.
+~
+4 131081 0 0 0 0
+D2
+~
+~
+0 0 501
+S
+#503
+A Small Alcove~
+It looks like a bone ooze began carving a tunnel here and then ran into stout
+resistance in the form of a vein of solid iron, running parallel to the main
+path. The vein of iron ore is scratched, but not at all worn away.
+~
+4 131081 0 0 0 0
+D2
+~
+~
+0 0 498
+S
+#506
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 507
+D1
+~
+~
+0 0 654
+D2
+~
+~
+0 0 496
+D5
+~
+~
+0 0 656
+S
+#507
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 508
+D2
+~
+~
+0 0 506
+S
+#508
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 520
+D1
+~
+~
+0 0 509
+D2
+~
+~
+0 0 507
+D3
+~
+~
+0 0 517
+S
+#509
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131337 0 0 0 0
+D0
+~
+~
+0 0 510
+D3
+~
+~
+0 0 508
+S
+#510
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131337 0 0 0 0
+D1
+~
+~
+0 0 511
+D2
+~
+~
+0 0 509
+S
+#511
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D2
+~
+~
+0 0 512
+D3
+~
+~
+0 0 510
+S
+#512
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 511
+D1
+~
+~
+0 0 513
+S
+#513
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 514
+D3
+~
+~
+0 0 512
+S
+#514
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 515
+D3
+~
+~
+0 0 513
+S
+#515
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D2
+~
+~
+0 0 514
+D3
+~
+~
+0 0 516
+S
+#516
+Another Dead End~
+How aggrivating! The path in the cavern maze comes to a dead halt at a wall of
+stone. The white powder of what used to be bones piles up in a corner and fills
+a pothole here, indicating that something tends to rest here.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 515
+S
+#517
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 508
+D3
+~
+~
+0 0 518
+S
+#518
+A Dead End~
+The ceiling, which you have not seen up to this point, dips down to about
+fifteen meters overhead and slopes at a sharp angle to the ground, closing off
+the tunnel to the west. A mass of rubble lies against the north wall, where a
+portion of the ceiling collapsed in and broke on the high passage wall.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 517
+D5
+~
+~
+0 0 519
+S
+#519
+A Pit of Sharp Bones~
+If you're here, you are going to be dead very shortly. It's a long, sharp fall
+from the ledge above, onto long, sharp bones.
+~
+4 131083 0 0 0 0
+D4
+~
+~
+0 0 518
+S
+#520
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 521
+D2
+~
+~
+0 0 508
+S
+#521
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D2
+~
+~
+0 0 520
+D3
+~
+~
+0 0 522
+S
+#522
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 521
+D3
+~
+~
+0 0 523
+S
+#523
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 525
+D1
+~
+~
+0 0 522
+D2
+~
+~
+0 0 524
+D3
+~
+~
+0 0 528
+S
+#524
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 523
+S
+#525
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 526
+D2
+~
+~
+0 0 523
+S
+#526
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D3
+~
+~
+0 0 525
+D5
+~
+~
+0 0 527
+S
+#527
+A Bottomless Pit, Lined with Stone Spikes~
+A bubble in between two or more layers of rock collapsed during an earthquake,
+forming this seemingly bottomless pit going into the depths of the earth that is
+lined with sharp rocks that tear your flesh as you fall down... Down... Down
+to your death.
+~
+4 131087 0 0 0 0
+D4
+~
+~
+0 0 526
+S
+#528
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 523
+D3
+~
+~
+0 0 529
+S
+#529
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 530
+D1
+~
+~
+0 0 528
+S
+#530
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 531
+D2
+~
+~
+0 0 529
+S
+#531
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D2
+~
+~
+0 0 530
+D3
+~
+~
+0 0 532
+S
+#532
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 533
+D1
+~
+~
+0 0 531
+S
+#533
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 534
+D2
+~
+~
+0 0 532
+S
+#534
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131080 0 0 0 0
+D0
+~
+~
+0 0 535
+D3
+~
+~
+0 0 533
+S
+#535
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 536
+D2
+~
+~
+0 0 534
+S
+#536
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 537
+D3
+~
+~
+0 0 535
+S
+#537
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 538
+D3
+~
+~
+0 0 536
+S
+#538
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 539
+D2
+~
+~
+0 0 537
+S
+#539
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 540
+D3
+~
+~
+0 0 538
+S
+#540
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 541
+D3
+~
+~
+0 0 539
+S
+#541
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D2
+~
+~
+0 0 542
+D3
+~
+~
+0 0 540
+S
+#542
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 541
+D1
+~
+~
+0 0 546
+D3
+~
+~
+0 0 543
+S
+#543
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 542
+D2
+~
+~
+0 0 544
+S
+#544
+The End of the Caves~
+The tunnel gradually widens, and the white sand has disappeared. Some lichens
+that typically live in the dark cling to some rocks embedded in the walls- could
+you be nearing safety?
+~
+4 131337 0 0 0 0
+D0
+~
+~
+0 0 543
+D5
+~
+~
+0 0 545
+S
+#545
+A Spotless Tunnel~
+Every square centimeter of this downward-sloping tunnel is spotless, lacking any
+dust or cobwebs. The intense cold makes it impossible for any normal creature
+to linger here long, so the rocks are without fungus or the glowing bacteria
+that typically inhabits caves. To the east, the tunnel slopes upwards again.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 657
+D4
+~
+~
+0 0 544
+S
+#546
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 547
+D3
+~
+~
+0 0 542
+S
+#547
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 548
+D2
+~
+~
+0 0 546
+S
+#548
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D2
+~
+~
+0 0 547
+D3
+~
+~
+0 0 549
+S
+#549
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 550
+D1
+~
+~
+0 0 548
+S
+#550
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D2
+~
+~
+0 0 549
+D3
+~
+~
+0 0 551
+S
+#551
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D1
+~
+~
+0 0 550
+D3
+~
+~
+0 0 552
+S
+#552
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D0
+~
+~
+0 0 553
+D1
+~
+~
+0 0 551
+S
+#553
+A Subterranean Bone Yard~
+The white powder covers the ground all around you, and strips of flesh lie
+against the walls. You can hear the ooze lurching about in the dark. It seems
+to echo from every corner of the darkness, from all sides, surrounding you. 
+The sound of it moving about, the darkness, the bones- all you can think about
+is escape from this frightening place.
+~
+4 131081 0 0 0 0
+D2
+~
+~
+0 0 552
+D3
+~
+~
+0 0 554
+S
+#554
+Nearing a Pool of Clear Water~
+Ahead to the north lies a wide pool of water with a beach of white sand,
+surrounded by bones. The walls are unscarred by the disolving agents released
+from the bone ooze's flesh, so perhaps the beast does not venture this close to
+water.
+~
+4 131085 0 0 0 0
+D0
+~
+~
+0 0 555
+D1
+~
+~
+0 0 553
+S
+#555
+At a Clear Pool, with a Sandy Bottom~
+A steady drip of water has created a pool in a hole in the ground, with a white
+sandy bottom. The water is clear and still, and surrounded by the bones of
+creatures like rats and some humans that managed to get this far in the cave. 
+Perhaps you should avoid drinking this water.
+~
+4 131085 0 0 0 0
+D0
+~
+~
+0 0 556
+D2
+~
+~
+0 0 554
+D5
+~
+~
+0 0 557
+S
+#556
+On the Far Side of the Pool~
+A dozen stalagmites protrude from the floor where water has been dripping for
+eons and formed the pool to the south. The source of the poisoning is obvious
+here- cloudy yellow quartz crystals, that hint at the presence of sulfur.
+~
+4 131081 0 0 0 0
+D2
+~
+~
+0 0 555
+S
+#557
+Deep in the Cold Pool~
+This unfinished room was created by Accarid. The sand is deeper and thicker
+than it appeared from the surface, and while the water is refreshing something
+in the water stings your eyes and skin, and the sand makes it difficult to swim
+back up to solid ground.
+~
+4 131081 0 0 0 0
+D4
+~
+~
+0 0 555
+S
+#558
+A Glowing Labyrinth of Metal Walls~
+Suddenly, the atmosphere changes in a way your mortal mind cannot perceive- it
+is as if a continual sound you could only feel in your soul has ceased, replaced
+by another. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 484
+D1
+~
+~
+0 0 559
+D5
+~
+~
+0 0 485
+S
+#559
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 560
+D3
+~
+~
+0 0 558
+D5
+~
+~
+0 0 483
+S
+#560
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 561
+D3
+~
+~
+0 0 559
+D5
+~
+~
+0 0 487
+S
+#561
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D2
+~
+~
+0 0 562
+D3
+~
+~
+0 0 560
+D5
+~
+~
+0 0 556
+S
+#562
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 561
+D3
+~
+~
+0 0 563
+D5
+~
+~
+0 0 496
+S
+#563
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 562
+D3
+~
+~
+0 0 564
+D5
+~
+~
+0 0 490
+S
+#564
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 563
+D3
+~
+~
+0 0 565
+D5
+~
+~
+0 0 527
+S
+#565
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. One glyph in particular stands out among the
+others. It appears to have been carved into the wall with a crude instrument
+and does not glow, not at all like the other glyphs. The glyph consists of two
+lines, intersecting at right angles, with another lighter line crossing it.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 564
+D2
+~
+~
+0 0 566
+D3
+~
+~
+0 0 585
+D5
+~
+~
+0 0 503
+S
+#566
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 565
+D2
+~
+~
+0 0 567
+D5
+~
+~
+0 0 547
+S
+#567
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 566
+D1
+~
+~
+0 0 568
+D5
+~
+~
+0 0 508
+S
+#568
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 569
+D3
+~
+~
+0 0 567
+D5
+~
+~
+0 0 510
+S
+#569
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D2
+~
+~
+0 0 570
+D3
+~
+~
+0 0 568
+S
+#570
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 569
+D2
+~
+~
+0 0 571
+D5
+~
+undefined~
+0 0 511
+S
+#571
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 570
+D3
+~
+~
+0 0 572
+D5
+~
+~
+0 0 521
+S
+#572
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 571
+D2
+~
+~
+0 0 573
+D5
+~
+~
+0 0 501
+S
+#573
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 572
+D3
+~
+~
+0 0 574
+D5
+~
+~
+0 0 553
+S
+#574
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 573
+D3
+~
+~
+0 0 575
+D5
+~
+~
+0 0 506
+S
+#575
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 574
+D3
+~
+~
+0 0 576
+D5
+~
+~
+0 0 533
+S
+#576
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 575
+D3
+~
+~
+0 0 577
+D5
+~
+~
+0 0 531
+S
+#577
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 576
+D3
+~
+~
+0 0 578
+D5
+~
+~
+0 0 534
+S
+#578
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 577
+D3
+~
+~
+0 0 579
+D5
+~
+~
+0 0 545
+S
+#579
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 578
+D2
+~
+~
+0 0 580
+D5
+~
+~
+0 0 555
+S
+#580
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 579
+D2
+~
+~
+0 0 581
+D5
+~
+~
+0 0 498
+S
+#581
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 580
+D1
+~
+~
+0 0 582
+D5
+~
+~
+0 0 495
+S
+#582
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 583
+D3
+~
+~
+0 0 581
+D5
+~
+~
+0 0 502
+S
+#583
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 584
+D3
+~
+~
+0 0 582
+D5
+~
+~
+0 0 518
+S
+#584
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 585
+D3
+~
+~
+0 0 583
+D5
+~
+~
+0 0 520
+S
+#585
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. One glyph in particular stands out among the
+others. It appears to have been carved into the wall with a crude instrument
+and does not glow, not at all like the other glyphs. The glyph consists of two
+lines, intersecting at right angles, with another lighter line crossing it.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 565
+D2
+~
+~
+0 0 586
+D3
+~
+~
+0 0 584
+S
+#586
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 585
+D3
+~
+~
+0 0 587
+D5
+~
+~
+0 0 530
+S
+#587
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 586
+D2
+~
+~
+0 0 588
+D5
+~
+~
+0 0 527
+S
+#588
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 587
+D2
+~
+~
+0 0 589
+D5
+~
+~
+0 0 654
+S
+#589
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 588
+D1
+~
+~
+0 0 590
+D5
+~
+~
+0 0 553
+S
+#590
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 591
+D3
+~
+~
+0 0 589
+D5
+~
+~
+0 0 555
+S
+#591
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 592
+D2
+~
+~
+0 0 590
+D5
+~
+~
+0 0 544
+S
+#592
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D2
+~
+~
+0 0 593
+D3
+~
+~
+0 0 591
+D5
+~
+~
+0 0 548
+S
+#593
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 592
+D2
+~
+~
+0 0 594
+D5
+~
+~
+0 0 545
+S
+#594
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 593
+D1
+~
+~
+0 0 595
+D5
+~
+~
+0 0 486
+S
+#595
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 596
+D3
+~
+~
+0 0 594
+D5
+~
+~
+0 0 488
+S
+#596
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 597
+D2
+~
+~
+0 0 595
+D5
+~
+~
+0 0 493
+S
+#597
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 598
+D2
+~
+~
+0 0 596
+D5
+~
+~
+0 0 551
+S
+#598
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 599
+D2
+~
+~
+0 0 597
+D5
+~
+~
+0 0 539
+S
+#599
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 600
+D2
+~
+~
+0 0 598
+D5
+~
+~
+0 0 548
+S
+#600
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 601
+D2
+~
+~
+0 0 599
+D5
+~
+~
+0 0 657
+S
+#601
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 602
+D3
+~
+~
+0 0 600
+D5
+~
+~
+0 0 530
+S
+#602
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 603
+D3
+~
+~
+0 0 601
+D5
+~
+~
+0 0 555
+S
+#603
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D2
+~
+~
+0 0 602
+D3
+~
+~
+0 0 604
+D5
+~
+~
+0 0 486
+S
+#604
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 603
+D3
+~
+~
+0 0 605
+D5
+~
+~
+0 0 543
+S
+#605
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 604
+D3
+~
+~
+0 0 606
+D5
+~
+~
+0 0 491
+S
+#606
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 605
+D3
+~
+~
+0 0 607
+D5
+~
+~
+0 0 523
+S
+#607
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 606
+D3
+~
+~
+0 0 608
+D5
+~
+~
+0 0 485
+S
+#608
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 607
+D3
+~
+~
+0 0 609
+D5
+~
+~
+0 0 490
+S
+#609
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 610
+D1
+~
+~
+0 0 608
+D5
+~
+~
+0 0 511
+S
+#610
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 611
+D2
+~
+~
+0 0 609
+D5
+~
+~
+0 0 522
+S
+#611
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 612
+D2
+~
+~
+0 0 610
+D5
+~
+~
+0 0 483
+S
+#612
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D2
+~
+~
+0 0 611
+D3
+~
+~
+0 0 613
+D5
+~
+~
+0 0 526
+S
+#613
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 612
+D2
+~
+~
+0 0 614
+D5
+~
+~
+0 0 544
+S
+#614
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 613
+D2
+~
+~
+0 0 615
+D5
+~
+~
+0 0 529
+S
+#615
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 614
+D2
+~
+~
+0 0 616
+D5
+~
+~
+0 0 552
+S
+#616
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 615
+D2
+~
+~
+0 0 617
+D5
+~
+~
+0 0 549
+S
+#617
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 616
+D2
+~
+~
+0 0 618
+D5
+~
+~
+0 0 548
+S
+#618
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 617
+D2
+~
+~
+0 0 619
+D5
+~
+~
+0 0 532
+S
+#619
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 618
+D2
+~
+~
+0 0 620
+D5
+~
+~
+0 0 489
+S
+#620
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 619
+D3
+~
+~
+0 0 621
+D5
+~
+~
+0 0 510
+S
+#621
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 620
+D3
+~
+~
+0 0 622
+D5
+~
+~
+0 0 549
+S
+#622
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 621
+D3
+~
+~
+0 0 623
+D5
+~
+~
+0 0 511
+S
+#623
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 622
+D3
+~
+~
+0 0 624
+D5
+~
+~
+0 0 553
+S
+#624
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 623
+D3
+~
+~
+0 0 625
+D5
+~
+~
+0 0 529
+S
+#625
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 624
+D3
+~
+~
+0 0 626
+D5
+~
+~
+0 0 540
+S
+#626
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 625
+D3
+~
+~
+0 0 627
+D5
+~
+~
+0 0 495
+S
+#627
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 626
+D3
+~
+~
+0 0 628
+D5
+~
+~
+0 0 499
+S
+#628
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 627
+D3
+~
+~
+0 0 629
+D5
+~
+~
+0 0 537
+S
+#629
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 628
+D3
+~
+~
+0 0 630
+D5
+~
+~
+0 0 509
+S
+#630
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 629
+D2
+~
+~
+0 0 631
+D5
+~
+~
+0 0 546
+S
+#631
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 630
+D3
+~
+~
+0 0 632
+D5
+~
+~
+0 0 551
+S
+#632
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 631
+D3
+~
+~
+0 0 633
+D5
+~
+~
+0 0 501
+S
+#633
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 632
+D3
+~
+~
+0 0 634
+D5
+~
+~
+0 0 546
+S
+#634
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 633
+D2
+~
+~
+0 0 635
+D5
+~
+~
+0 0 541
+S
+#635
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 634
+D2
+~
+~
+0 0 636
+D5
+~
+~
+0 0 545
+S
+#636
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 635
+D1
+~
+~
+0 0 637
+D5
+~
+~
+0 0 517
+S
+#637
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 638
+D3
+~
+~
+0 0 636
+D5
+~
+~
+0 0 541
+S
+#638
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 639
+D3
+~
+~
+0 0 637
+D5
+~
+~
+0 0 486
+S
+#639
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 640
+D3
+~
+~
+0 0 638
+D5
+~
+~
+0 0 529
+S
+#640
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 641
+D3
+~
+~
+0 0 639
+D5
+~
+~
+0 0 547
+S
+#641
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 642
+D3
+~
+~
+0 0 640
+D5
+~
+~
+0 0 500
+S
+#642
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes lining the wall blink and flash,
+leading you further into the labyrinth.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 643
+D2
+~
+~
+0 0 641
+D5
+~
+~
+0 0 502
+S
+#643
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes blink slower and brighter now; perhaps
+you are approaching the end of the caverns.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 644
+D2
+~
+~
+0 0 642
+S
+#644
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes blink slower and brighter now perhaps
+you are approaching the end of the caverns.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 645
+D3
+~
+~
+0 0 643
+S
+#645
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes blink slower and brighter now perhaps
+you are approaching the end of the caverns.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 646
+D3
+~
+~
+0 0 644
+S
+#646
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes blink slower and brighter now perhaps
+you are approaching the end of the caverns.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 647
+D3
+~
+~
+0 0 645
+S
+#647
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes blink slower and brighter now perhaps
+you are approaching the end of the caverns.
+~
+4 264 0 0 0 0
+D2
+~
+~
+0 0 646
+D3
+~
+~
+0 0 648
+S
+#648
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes blink slower and brighter now perhaps
+you are approaching the end of the caverns.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 647
+D3
+~
+~
+0 0 649
+S
+#649
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes blink slower and brighter now perhaps
+you are approaching the end of the caverns.
+~
+4 264 0 0 0 0
+D1
+~
+~
+0 0 648
+D3
+~
+~
+0 0 650
+S
+#650
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes blink slower and brighter now perhaps
+you are approaching the end of the caverns.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 651
+D1
+~
+~
+0 0 649
+S
+#651
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes blink slower and brighter now perhaps
+you are approaching the end of the caverns.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 652
+D2
+~
+~
+0 0 650
+S
+#652
+A Glowing Labyrinth of Metal Walls~
+This strange labyrinth slopes gradually down into the earth- if that is where
+you are now. The air is lighter in your lungs, and every solid surface seems to
+have a pull of its own. The three walls of the tunnel pull in every direction,
+creating the effect of jumping in an elevator. You are no longer on the
+material plane, it would seem. The runes blink slower and brighter now perhaps
+you are approaching the end of the caverns.
+~
+4 264 0 0 0 0
+D0
+~
+~
+0 0 653
+D2
+~
+~
+0 0 651
+S
+#653
+The Heart of the Caverns~
+This chamber glows brilliantly with a steady cool green light that comes from
+the metal walls. A thumping sound fills the air- it is the heartbeat of the
+earth, which can be heard here on the elemental plane of Earth so deep in the
+ground. A stone slab rises from the floor of the cylindrical chamber, upon
+which rests a sleeping goddess.
+~
+4 28 8 0 0 0
+D2
+~
+~
+0 0 652
+S
+#654
+A Smoky Chamber~
+The side passage opens up into a smoky chamber lined with quartz crystals of the
+same hue as the air, thick grey and black. The air blows warm here, stirred and
+heated by the denizen of this dark place.
+~
+4 131337 0 0 0 0
+D1
+~
+iron door heavy runes~
+2 432 655
+D3
+~
+~
+0 0 506
+S
+#655
+A Hidden Office~
+This office is shaped like a cube, if you twisted the top and bottom in opposite
+directions and put little cubbies in the walls, ceiling and floor. Just when
+you realize this doesn't make sense, the room RoTatEs, putting you on the
+ceiling, opposite the thick iron door engraved with runes. Opposite the door is
+a large desk, stacked with papers and manned by a well-endowed secretary. 
+Little shiny things are set neatly in every box and every corner- just the way a
+magpie likes it.
+~
+4 1610613276 0 0 0 0
+D3
+~
+iron door heavy runes~
+2 432 654
+S
+#656
+A Pit of Sharp Bones~
+If you're here, you are going to be dead very shortly. It's a long, sharp fall
+from the ledge above, onto long, sharp bones.
+~
+4 131083 0 0 0 0
+D4
+~
+~
+0 0 506
+S
+#657
+A Way Out!~
+Hooray, light! A way out! You'd best hurry and scramble your way up the wall,
+before some awful stroke of fate snatches the exit away from you, and leaves you
+to die deep below ground.
+~
+4 131084 0 0 0 0
+D3
+~
+~
+0 0 545
+D4
+~
+~
+0 0 482
+S
+$~

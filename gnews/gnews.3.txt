@@ -1,0 +1,32 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+                   ::::    ::: :::::::::: :::       :::  :::::::: 
+                  :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+                 :+:+:+  +:+ +:+        +:+       +:+ +:+         
+                +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+               +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+              #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+             ###    #### ##########   ###   ###    ########   
+                                          
+-------------------------------------------------------------------
+News file [&C3&c]. Type NEWS 3 to re-read this article at a later date.
+-------------------------------------------------------------------&n
+
+&YNew Forum Topic - &R Professions
+&G----------------------------------
+
+Please take a moment and log into the forums at 
+HTTP://REALMSOFKUVIA.COM/FORUMS
+and discuss the current professions thread, all input is welcome.
+
+Feel free to add your likes, dislikes, alternate ideas.
+
+This idea is not set in stone by any means!
+
+&C-S&n

@@ -1,0 +1,706 @@
+#4600
+pine cone pinecone~
+a prickly pine cone~
+A small unopened cone hangs from a branch, swaying in the breeze.~
+~
+34 i 0 0 0 ao 0 0 0 m 0 0 0
+0 0 0 0
+1 0 0 0
+E
+pine cone pinecone~
+The pine cones in this forest are close to the color of pitch, and sharp with
+thorns. They only open to release their seeds when the moon is blue, once every
+few years.
+~
+A
+19 5
+#4601
+nest raven's~
+a raven's nest~
+A broad bunch of twigs cemented together with dirt sits here.~
+~
+15 crE 0 0 0 ae 0 0 0 e 0 0 0
+3 0 -1 0
+12 2 0 4
+E
+nest raven's~
+This nest was made by a raven for its eggs. Disturbing it probably incurred the
+wrath of the mother.
+~
+A
+2 -3
+A
+3 3
+A
+13 20
+#4602
+burrow warren rabbit~
+the rabbit warren~
+A deep crater leads to a sloping tunnel, signs of rabbit activity.~
+~
+15 qrs 0 0 0 a 0 0 0 0 0 0 0
+100 0 -1 0
+1000 0 0 0
+E
+burrow warren rabbit~
+Something shines just inside the burrow.
+~
+#4603
+spider fang~
+a spider's black fang~
+A spider's fang lies here, still attached to a fleshy bit on the end.~
+~
+5 suB 0 0 0 an 0 0 0 0 0 0 0
+2 4 11 0
+1 150 0 1
+E
+spider fang~
+This fang once belonged to an immense spider. It is a full half foot long, and
+as wide as a grown man's thumb. It is black, and shines in the light.
+~
+A
+19 3
+A
+12 5
+#4604
+spider armor shell~
+a black spider's shiny shell~
+The outer shell of a massive spiders abdomen shines in the light upon the ground.~
+~
+32 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+3 200 0 0
+E
+spider armor shell~
+This shell came from the abdomen of a very large spider. It looks like it would
+make a nice part of some pieces of armor.
+~
+A
+14 -100
+#4605
+spider leg~
+the shell of a massive black spider's leg~
+Several plates of shiny black shell lie upon the ground- they may have once been connected, on a limb.~
+Not Set.
+~
+32 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+3 100 0 0
+E
+spider leg~
+This long, light, hollow tube is the armor from a piece of a very large spider's
+leg. It looks like it would be a nice component in some sort of armor.
+~
+#4606
+spider shell dagger~
+a long, curved dagger forged of spider armor~
+A large shiny black dagger gleams upon the ground.~
+Not Set.
+~
+5 E 0 0 0 anr 0 0 0 0 0 0 0
+5 5 11 11
+7 12000 0 10
+E
+spider shell dagger~
+This dagger is constructed from the shell of a very large spider. It is long
+and curved and light, a very good stabbing weapon. The material it is made of
+grants it extreme maneuverability and solid sharp edges.
+~
+A
+19 3
+A
+18 3
+A
+2 1
+#4607
+claws bones shade's~
+the bony white claws of a shade~
+A bunch of soggy-looking bones rattle about menacingly.~
+~
+5 agBD b 0 0 ahn 0 0 0 k 0 0 0
+3 3 8 0
+6 0 185 10
+E
+claws bone shade shade's~
+These claws take on a life of their own as you hold them in your hands. They
+leap into the air, and dig themselves into the backs of your hands, unable to be
+removed by mundane means. You feel empowered by them, but that might not be
+such a great thing considering the affect it may have on your mind...
+~
+A
+3 -1
+A
+5 -1
+A
+19 3
+A
+13 5
+#4608
+zeroni's shawl~
+Madame Zeroni's shawl~
+A rainbow of glittering jewels adorns this dark green cotton shawl.~
+~
+11 D b 0 0 ai 0 0 0 0 0 0 0
+0 0 0 0
+2 450 185 0
+E
+zeroni's shawl~
+The shawl is soft to the touch- even the gems are set so perfectly that they are
+unnoticeable if not for the way they shine. The cloth is dark green cotton, and
+it is large enough to wrap around a small woman's shoulders twice.
+~
+A
+12 17
+A
+13 10
+A
+24 -1
+A
+17 -1
+#4609
+bangle silver~
+a silver bangle~
+A silver bangle gleams upon the ground.~
+~
+11 w 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+1 50 185 0
+E
+bangle silver~
+This bangle is simple and elegant, made of silver and engraved with the sigils
+of the planets. It is light, and not very wide, and it would probably look
+better with a few other bangles.
+~
+A
+4 1
+A
+12 10
+#4610
+golden bangle~
+a golden bangle~
+A golden bangle glitters upon the ground.~
+~
+11 wE b 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+1 150 185 0
+E
+golden bangle~
+This bangle is elegant and simple, a single thin band of gold engraved with
+symbols of luck and fortune. It would probably look better with another bangle.
+~
+A
+13 10
+A
+18 3
+A
+3 1
+#4611
+dress~
+a form-fitting white silk dress~
+A small white dress lies here like a smooth cloth puddle.~
+~
+11 u 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+1 400 170 0
+E
+dress~
+This dress is small, smaller than would fit any normal girl. It is made of fine
+white silk, and bears some signs of wear and tear.
+~
+A
+17 -2
+A
+13 5
+#4612
+wooden armor breastplate plate~
+a wooden breast plate~
+A hollow construction of enchanted wood awaits an owner.~
+~
+9 gkmnu 0 0 0 ad 0 0 0 0 0 0 0
+10 0 0 0
+10 40 0 17
+E
+wooden armor breastplate plate~
+This armor doesn't seem to have been carved- rather, it was grown. Its surface
+is knotted with organic shapes and smooth curves of the wood, the kind only
+found in living trees that is lost when they are cut and carved. It seems to
+emit a kind of life energy as you touch it..
+~
+A
+1 3
+A
+13 15
+A
+18 2
+#4613
+mace wooden~
+a heavy wooden mace~
+An intricately carved mace lies here.~
+~
+5 kmB e 0 0 an 0 0 0 0 0 0 0
+1 6 5 5
+9 60 0 17
+E
+mace wooden~
+This mace seems to have been grown rather than forged. Its shape is organic and
+smooth, like new branches. It vibrates with life, and seems eager to crush some
+skulls.
+~
+E
+mace proc~
+This mace procs bash.
+~
+A
+19 3
+#4614
+helmet raven feathers~
+a helmet crested with raven feathers~
+A wooden helmet lined with shiny black feathers lies here.~
+~
+9 kE 0 0 0 ae 0 0 0 0 0 0 0
+7 0 0 0
+5 30 0 17
+E
+helmet raven feathers~
+This helmet is crested with raven feathers. The ravens probably wouldn't
+appreciate that much at all.
+~
+A
+12 25
+A
+18 4
+A
+24 -2
+#4615
+kilt wool unicorn~
+a kilt of unicorn skin~
+A heavily pleated kilt of pristine unicorn hide lies in a ruffled heap here.~
+~
+9 k 0 0 0 af 0 0 0 0 0 0 0
+1 0 0 0
+2 1000 0 17
+E
+kilt wool unicorn~
+The wool of a unicorn is black and silky smooth, perfect for deflecting blades
+and protecting vulnerable flesh. It is thick and warm, but not too warm, lest
+it cause the warrior to overheat. The wool fibers seem to twist this way and
+that, never beginning or ending.
+~
+A
+13 10
+A
+17 -3
+A
+24 -2
+#4616
+herb plant sweetleaf pineberry leaf berry~
+a rare sweetleaf pineberry plant~
+A small bright green herb with spiny, conelike leaves sprouts healthily from the soft earth.~
+~
+19 0 0 0 0 abeo 0 0 0 0 0 0 0
+0 0 0 0
+1 1800 0 0
+#4617
+sack eggsack spider hatchling husk silk~
+a large spider egg sack of yellow tinted silk~
+A silken husk lies hollow upon the ground.~
+~
+15 0 0 0 0 aklo 0 0 0 0 0 0 0
+68 1 0 0
+1 10000 185 3
+A
+3 1
+A
+17 -5
+A
+24 -1
+#4618
+herb green mint~
+a green mint herb of vitality~
+A tall, bright green herb is here, looking delicious.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+1 0 0 0
+1 50 50 0
+#4619
+corpse skeleton bundle silk~
+the skeleton of an unwary and foolish adventurer, swathed in a thick bundle of silk~
+A long, uneven bundle of white silk is here, firmly attached to the side of the tree.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 -1 0
+100 10 0 0
+E
+corpse skeleton bundle silk~
+A skull stares with silken eyes from its spider-woven shroud- the rest of its
+skeleton is all but closed from view.
+~
+#4620
+ring golden~
+a tarnished golden ring~
+A tarnished band of gold sits lopsidedly on the ground.~
+~
+11 wE 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+1 7000 180 5
+A
+18 3
+#4621
+pendant iron~
+a heavy iron pendant~
+A heavy octagonal piece of iron on a chain has been dropped here.~
+~
+11 wE 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+9 1250 185 7
+A
+1 1
+A
+17 -3
+A
+13 3
+#4622
+rabbit carcass~
+a very limp, very dead small brown rabbit~
+A rabbit lies in a twisted heap upon the ground, dead.~
+~
+19 crxy d 0 0 ano 0 0 0 0 0 0 0
+8 0 0 0
+5 100 10 0
+A
+18 2
+#4623
+lantern iron~
+a guilded iron lantern~
+A squat iron lantern with a square, ornately decorated base is here, its ring almost touching the ground.~
+~
+1 erw 0 0 0 aop 0 0 0 e 0 0 0
+0 0 18 0
+5 100 185 0
+A
+19 3
+A
+18 -1
+#4624
+helmet spider armor~
+a cavernous chitin spider helmet~
+A holey piece of spider armor sits lopsidedly on the ground.~
+~
+9 u d 0 0 aj 0 0 0 0 0 0 0
+-4 0 0 0
+17 4000 185 0
+A
+3 1
+A
+2 1
+A
+24 -2
+#4625
+mask spider armor~
+a heavy red iron mask inscribed with spider runes~
+A heavy mask of reddened metal is sitting here, making a hole in the ground.~
+~
+9 0 0 0 0 aj 0 0 0 0 0 0 0
+8 0 0 0
+20 9001 185 17
+A
+24 -2
+A
+18 4
+A
+19 1
+#4626
+aura spider queen~
+the Darkmoor Queen's aura of spider affinity~
+A patch of grey mist sparks and crackles with strange runes.~
+~
+12 fqsD d 0 0 aq 0 0 0 0 i 0 0
+0 0 0 0
+0 0 0 20
+A
+12 8
+A
+13 8
+A
+3 3
+#4627
+tree Tumtum~
+the Tumtum tree~
+A dark purple tree stands here, short and stout.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+-1 0 0 0
+100000 0 0 0
+E
+tree Tumtum~
+The tumtum tree stands alone in the field, basking in the few rays of sunshine
+that fall upon its broad purple leaves. Its bark carries an incensed scent,
+dizzying in its strength as you draw near. It is said that by meditating in the
+fumes beneath the tumtum tree, one might witness a vision. It is also said that
+meditation draws near the vicious Jabberwock.
+~
+#4628
+fruit berry tumtum~
+a tumtum fruit~
+A large, seed-encrusted berry sits on its side here.~
+
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+12 0 0 -1
+5 1000 0 0
+E
+fruit berry tumtum~
+The tumtum fruit is much like a big, pitless peach, and grows on the inside of
+the tumtum tree where its many red seeds, which are found on the skin of the
+fruit, can be carried out and spread by ants. It is due to the nature of this
+fruit that the tumtum tree, when it finally bursts into flames after hundreds of
+years, quickly rises again.
+~
+#4629
+vorpal sword~
+a vorpal sword~
+A blade of dark metal flashes silver and rattles along the ground, waiting for a master.~
+~
+5 gB de 0 0 an 0 0 0 0 0 0 0
+5 7 7 3
+10 100000 0 20
+#4630
+ruins structure marble building~
+the ruins of an ancient building~
+The ruins of an ancient building rises from the forest before you.~
+~
+6 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1000000 0 0 0
+E
+ruins structure marble building~
+A mosaic covers one of the walls that remained standing through time. It
+depicts elves and dryads together, communing with a turtle that has a shell like
+a mountain, covered in trees and moss. It is accompanied by glyphs that you
+cannot understand with your limited knowledge of the ancient elven world.
+~
+#4631
+hole rabbithole~
+a rabbit hole~
+A large hole plunges deep into the soft earth.~
+~
+6 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1000000 0 0 0
+#4632
+mushroom toadstool~
+a red and white toadstool~
+A red toadstool with red spots stands upright on the ground.~
+~
+19 0 0 0 0 aeo 0 0 0 0 0 0 0
+2 0 0 -1
+1 1400 0 0
+#4633
+skeleton dragon~
+the skeleton of an ancient black dragon, set in stone~
+Immense bones protrude from the stone all around you, set in the shape of a dragon.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+-1 0 0 0
+100000 0 0 0
+#4634
+arrow~
+a light, silver-tipped arrow~
+A long wooden arrow sits stuck in the ground by its tip.~
+~
+29 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 250 0 5
+A
+19 5
+#4635
+scales pile blackscales~
+a pile of black dragon scales~
+A pile of large, black scales rests in a heap upon the ground.~
+~
+32 s d 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+80 100000 0 0
+#4636
+acorn~
+a fist-sized acorn~
+An acorn the size of a man's fist is here.~
+~
+34 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+5 10 0 0
+A
+19 4
+#4637
+roast rabbit~
+a fine rabbit roast~
+A rabbit roast is getting dirty on the ground.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+2 150 0 0
+#4638
+whip swampgrass~
+a whip of woven swampgrass~
+A long braid of waxy grass attached to an ivory handle lies coiled here.~
+~
+5 mnB 0 0 0 an 0 0 0 0 0 0 0
+7 5 5 2
+3 1100 0 15
+A
+2 3
+A
+18 3
+#4639
+scroll sanctuary~
+a scroll of Sanctuary~
+A white scroll is here, neatly rolled and tied.~
+~
+2 a ad 0 0 ao 0 0 0 0 0 0 0
+71 -1 -1 -1
+1 500 0 0
+A
+4 2
+A
+3 2
+#4640
+staff glass~
+a glass staff~
+A thick staff of glass is here, looking fragile.~
+~
+4 0 d 0 0 ao 0 0 0 0 0 0 0
+40 10 9 19
+5 500 0 0
+A
+3 2
+A
+5 2
+#4641
+potion sweetleaf~
+a sweetleaf potion~
+A tall vial of thick green liquid rests upright on the ground.~
+~
+10 0 d 0 0 ao 0 0 0 0 0 0 0
+10 28 16 98
+1 500 0 0
+#4642
+staff birch blinding~
+a birch staff of blinding~
+A birch staff lies on the ground at your feet.~
+~
+4 0 d 0 0 ao 0 0 0 0 0 0 0
+15 5 5 4
+3 500 0 0
+A
+2 2
+A
+6 2
+#4643
+potion vitality~
+a potion of vitality~
+A potion full of clear green liquid stands upright on the ground.~
+~
+10 0 d 0 0 ao 0 0 0 0 0 0 0
+20 98 98 98
+1 500 0 0
+A
+24 -1
+A
+17 -5
+#4644
+egg spider~
+an unhatched spider egg~
+A large egg sack is attached to the ground here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+100 100000 0 0
+A
+2 -10
+A
+5 -10
+#4645
+tooth caiman~
+the massive mother caiman's biggest tooth~
+A huge caiman tooth sits upright on the ground.~
+
+~
+4 0 0 0 0 ao 0 0 0 0 0 0 0
+20 7 5 39
+7 10000 0 0
+A
+1 1
+A
+13 15
+A
+19 1
+#4646
+tarot cards deck~
+a deck of hand-painted tarot cards~
+A rather tall deck of cards stands here, looking rather mysterious.~
+~
+12 dnq 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+2 500 0 0
+E
+tarot cards deck~
+The cards are worn in places from use, but the gyst of their contents remains
+completely intact. The cards are backed with a knotted design, made of a single
+circuit; the cards seem to have been hand-painted with an intense amount of
+care.
+~
+A
+18 2
+A
+24 -2
+A
+3 2
+#4647
+Azure Twilight claymore~
+Azure Twilight, the shining blue claymore~
+A dark blue claymore throws a bright glow about the area.~
+~
+5 mn e 0 0 an 0 0 0 0 0 0 0
+7 4 7 3
+14 10000 0 16
+A
+18 3
+A
+19 3
+A
+17 -3
+#4648
+armor suit~
+a golden suit of armor~
+A golden suit of armor lies here, the face of a god staring at the sky from its navel.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+7 0 0 0
+20 1000 0 16
+#4649
+greaves~
+a pair of greaves, forged of blue steel~
+A pair of greaves lies here, crackling with blue energy.~
+~
+9 0 0 0 0 af 0 0 0 0 0 0 0
+3 0 0 0
+10 1000 0 16
+A
+18 3
+A
+24 -1
+A
+12 5
+#4650
+aura heroism~
+a shining gold aura of heroism~
+An aura hovers here, glowing like the warm summer sun and glinting like goldfire.~
+~
+12 0 d 0 0 aq 0 0 0 0 e 0 0
+0 0 0 0
+0 0 0 16
+A
+17 -20
+A
+24 -2
+$~

@@ -1,0 +1,43 @@
+#1500
+man slave~
+a pirate slave~
+A young man is tending to the farmland.
+~
+A yound lad, not but fifteen years old, with a sunk-in malnourished face and
+build.  His clothes are tattered and his shoes have holes in them.  
+~
+8 0 0 0 0 0 0 0 0 E
+10 0 5 10d10+600 5d5+5
+1 40000
+8 8 1
+Clss: 1
+E
+#1501
+slave woman~
+a pirate slave~
+A young woman is here, tending to the farmlands.
+~
+This young girl, below all the dirt and grime, is quite pretty.  Her clothes are
+dirty and her hair is matted from long days of slaving on the farms.  
+~
+8 0 0 0 0 0 0 0 0 E
+10 0 5 10d10+500 5d5+5
+1 35000
+8 8 2
+Clss: 1
+E
+#1502
+pirate overseer~
+a pirate overseer~
+An older pirate is yelling loudly at someone.
+~
+This pirate is middle aged, with a patch over his left eye.  He has a scraggly
+beard and a peg leg.  
+~
+57352 0 0 0 0 0 0 0 0 E
+15 0 5 30d50+700 15d2+20
+1000 100000
+8 8 1
+Clss: 1
+E
+$

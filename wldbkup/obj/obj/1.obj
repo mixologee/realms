@@ -1,0 +1,53 @@
+#100
+note paper message~
+a short note~
+A flimsy paper is lying here.~
+~
+16 q 0 0 0 a 0 0 0 0 0 0 0
+1 0 0 0
+1 100 0 0
+#101
+quill pen~
+a small feather~
+A small white feather is lying here in the dirt.~
+~
+21 q 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 100 0 0
+#111
+pandora box~
+pandora's box~
+A small glowing chest.~
+~
+1 uB 0 0 0 ap 0 0 0 defghilmnoxyzA ad 0 0
+0 0 0 0
+0 0 0 41
+A
+18 100
+A
+19 100
+A
+13 25
+A
+12 25
+#149
+odoyle bow~
+Great Bow of O'Doyle~
+A huge bow with the words "O'Doyle Rules!!" etched into it rests here.~
+~
+25 r 0 0 0 akn 0 0 0 0 0 0 0
+3 0 0 0
+10 2000000 0 1
+A
+18 50
+A
+19 50
+#150
+arrow odoyle~
+Great Arrow of O'Doyle~
+O'Doyle's Great Arrow is lying here.~
+~
+29 r 0 0 0 ao 0 0 0 0 0 0 0
+0 30 50 0
+1 1000000 0 32
+$~

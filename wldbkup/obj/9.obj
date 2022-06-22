@@ -1,0 +1,47 @@
+#900
+crates~
+a pile of stacked crates~
+A pile of crates are stacked beneath the trapdoor in this chamber.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+100 13 6137 0
+10000 0 0 0
+#901
+liquor whiskey bottle greg~
+a bottle of "Old Greg's Finest" whiskey~
+A shadily labeled brown glass bottle sits here.~
+~
+17 0 d 0 0 ao 0 0 0 0 0 0 0
+10 10 5 0
+15 250 0 0
+#902
+shard metal~
+a shard of twisted metal~
+A shard of twisted metal lies on the ground.~
+~
+5 0 0 0 0 anr 0 0 0 0 0 0 0
+1 4 3 11
+5 10 0 2
+#903
+robe~
+a filthy hobo's robe~
+This filthy robe looks fit for a hobo.~
+~
+11 0 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+3 10 0 0
+A
+17 -2
+A
+5 1
+#904
+light glass orb~
+a flickering glass orb~
+A glass orb set in a ring of broken bricks lies here, tilted on its side.~
+~
+1 agr 0 0 0 ap 0 0 0 0 0 0 0
+0 0 -1 0
+6 1000 0 0
+A
+18 2
+$~

@@ -1,0 +1,249 @@
+#11000
+opal ring~
+a small, opal ring~
+A small hoop made entirely of opal is resting on the gorund here.~
+~
+11 0 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+0 1000 0 10
+A
+13 5
+A
+19 1
+#11001
+cloak torn~
+a torn cloak~
+A long, flowing cloak, ripped in several places is piled up on the floor.~
+~
+9 0 0 0 0 ak 0 0 0 0 0 0 0
+2 0 0 0
+5 500 0 10
+A
+18 1
+A
+19 1
+#11002
+shield offense~
+an offensive shield~
+A large shield that looks good for fighting sits on the floor.~
+~
+9 0 0 0 0 aj 0 0 0 0 0 0 0
+8 0 0 0
+10 100 0 10
+A
+19 2
+#11003
+sword broad~
+a king's broad sword~
+A very kingly looking broad sword is lying here.~
+~
+5 mn 0 0 0 an 0 0 0 0 0 0 0
+0 5 6 3
+7 0 0 10
+A
+18 6
+#11004
+armor plate~
+a large piece of plate armor~
+The armor of the great king Bearlifax is resting on the ground.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+6 0 0 0
+10 0 0 10
+A
+19 1
+A
+12 5
+#11005
+dagger diamond studded~
+a diamond studded dagger~
+A mid-size dagger with diamonds encrusted in the hilt.~
+~
+5 n 0 0 0 an 0 0 0 0 0 0 0
+0 3 6 11
+0 0 0 10
+A
+18 1
+A
+19 2
+#11006
+wristband leather~
+a thin, leather wristband~
+A thin, leather wristband is lying here.~
+~
+11 0 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 10
+A
+13 5
+A
+19 2
+#11007
+boot swift~
+boots of swiftness~
+A soft pair of light boots.~
+~
+11 0 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0
+2 0 0 10
+A
+12 8
+A
+18 2
+#11008
+arm garde~
+a light pair of arm gardes~
+A light looking pair of arm protectors is lying on the ground.~
+~
+9 0 0 0 0 ai 0 0 0 0 0 0 0
+4 0 0 0
+5 0 0 10
+A
+13 10
+A
+24 -1
+#11009
+crown marshall~
+the crown of King Marshall~
+A crown that once belonged to a great king is here.~
+~
+11 0 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 10
+A
+18 2
+A
+19 -1
+#11010
+ring wizard~
+a wizard's ring~
+A ring that once belonged to a great wizard king.~
+~
+11 0 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+2 0 0 10
+A
+13 5
+A
+12 5
+#11011
+necklace jewel~
+a jewel covered necklace~
+A very elegant necklace covered in jewels is shining brightly here.~
+~
+11 0 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+2 0 0 10
+A
+12 15
+A
+13 5
+#11012
+armor studded~
+Some studded armor~
+Some magical studded armor is lying on the ground.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+5 0 0 0
+0 0 0 10
+A
+12 10
+A
+13 10
+#11013
+pants baggy~
+a pair of baggy pants~
+A pair of comfortable looking pants are piled on the ground.~
+~
+11 0 0 0 0 af 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 10
+A
+12 15
+A
+3 1
+#11014
+staff~
+a heavy white staff~
+The staff of the great king Westley is here.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+0 5 5 5
+0 0 0 0
+A
+13 10
+A
+18 1
+#11015
+mace archuro~
+the great mace of Archuro~
+The great mace of Archuro, the last great king of the pirates.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+0 6 4 7
+0 0 0 10
+A
+13 12
+A
+19 1
+#11016
+bracelet magic~
+a small, magical bracelet~
+A small hoop, with a bright aura surrounding it lies here.~
+~
+11 0 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 10
+A
+12 15
+#11017
+ring cleric~
+a ring of the healing arts~
+A large ring used by those who practice the healing arts is here.~
+~
+11 0 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 10
+A
+13 5
+A
+12 15
+#11018
+gloves Archuro~
+a pair of soft gloves~
+A pair of soft gloves made of white cloth are sitting ont he ground.~
+~
+11 0 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 10
+A
+12 10
+A
+13 12
+#11019
+cloak white~
+a bright, white cloak~
+A regal looking white cloak is lying here.~
+~
+11 0 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+3 0 0 10
+A
+13 15
+#11020
+key tomb~
+the key to Bearlifax's tomb~
+A small stone that looks like it fits somewhere is lying here.~
+~
+18 c 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#11021
+key~
+the key to Marshall's tomb~
+The key to Marshall's tomb is lying here.~
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+$~

@@ -1,0 +1,4781 @@
+#6300
+Taris'Vaal City Square, Before a Massive Fountain~
+Manicured lawns and bright borders of flowers surround a great rowan tree,
+growing at the heart of the city. It stretches its many branches in all
+directions, providing protection physically and magically for the land of Kuvia.
+At the roots of the rowan, a beautiful fountain flows, the bubbling of the cool
+and inviting liquid creating a counterpoint to the music of the birds, and
+spreading a faint spearmint scent throughout the area. 
+~
+63 67108868 0 0 0 0
+D0
+~
+~
+0 0 6303
+D1
+~
+~
+0 0 6302
+D2
+~
+~
+0 0 6306
+D3
+~
+~
+0 0 6301
+D4
+~
+~
+0 0 6460
+E
+tree~
+The branches of this tree gracefully reach out and cover the area, providing a
+great place to escape the sun during the day.  Small birds flit in and out of
+the branches, playing a seemingly never-ending game of tag with each other.  As
+you look closer at the tree, you can see someone has lovingly inscribed a heart
+containing the letters K + Z upon its trunk.  
+~
+S
+#6301
+The Guild of Young Adventurers~
+Gleaming white marble walls magnify and reflect ambient light all around this
+building. Oaken planks worn smooth with age and care are covered in
+emerald-dyed carpets with gold fletching. Rough hewn tables with maps and
+parchments are lined around the wall. Several plaques and signs in a multitude
+of languages hang from studs along the walls of the room. Piles of new
+equipment, fresh food, and waterskins are stocked in the corners. An air of
+astringent cleanliness permeates the senses, refreshing you for your first
+journey! 
+~
+63 12 0 0 0 0
+D1
+~
+~
+0 0 6300
+D4
+~
+~
+0 0 5800
+S
+#6302
+A Massive Ebony Obelisk, Surrounded by Crystalline Formations~
+Standing dozens of feet tall, a massive ebony obelisk dominates the immediate
+area with its presence. The surface of the obelisk is polished to perfection,
+reflecting everything with immaculate accuracy. Small quartz crystals, glowing
+with a pale blue light from within, surround the obelisk like a glass lawn,
+illuminating the obelisk with a shimmering aura of reflected blue light.
+~
+63 0 0 0 0 0
+D3
+~
+~
+0 0 6300
+S
+#6303
+Taris'Vaal City Square, North of the Fountain~
+A shining ledge made of pure crystal hovers magically over the ground. The
+radiant crest of the goddess Kuvia rests upon it, supported by ornately carved
+crystal roses that almost seem to be alive. Little streams of water, appearing
+to start from the top of the crest, run down through the crevices of the
+structure and disappear before they can fall to the marble bricks below. 
+~
+63 4 0 0 0 1
+D0
+~
+~
+0 0 6305
+D1
+~
+~
+0 0 6304
+D2
+~
+~
+0 0 6300
+D3
+~
+~
+0 0 6548
+D5
+~
+~
+0 0 6312
+S
+#6304
+Taris'Vaal's Collection of Unwanted Miscellany~
+Rows upon rows of shelves line this warehouse-like facility. Each shelf
+contains weapons, armor, and other useful items, all categorized and stored in
+their proper place. Unwanted objects from across the realm ultimately find
+their way here, where they're made available to whoever wishes to have them. 
+Type LOOK SIGN for more information.
+~
+63 8 32 0 0 0
+D3
+~
+~
+0 0 6303
+E
+sign~
+If you desire to know the qualities of an object, type 'appraise <object>'.
+If an object appears in the room with a --> before its name, you might want
+to investigate further.
+If an object appears in the room with an X before its name, you cannot use
+that object.
+~
+S
+#6305
+An Ancient Altar to the Goddess Kuvia~
+Well-tended beds of flowers and a thick blanket of grass surround a beautiful
+marble shrine memorializing the great Goddess Kuvia. Over time, a lush carpet
+of vines has entwined itself around the base of the shrine, giving it a more
+natural feeling. A testament to the resilience of the works of man, this altar
+has stood for centuries. 
+~
+63 8 8 0 0 0
+D2
+~
+~
+0 0 6303
+S
+#6306
+Taris'Vaal City Square, South of the Fountain~
+A beautiful square tiled with hand-chiseled marble bricks stretches out over the
+ground. To the north, a gorgeous fountain gives off an unusual shining light,
+and it radiates peace throughout the area. Various foliage is visible at the
+edges of this plaza, adding a splash of color here and there. A gigantic marble
+archway towers overhead, seeming to welcome visitors to the heart of Taris'Vaal.
+~
+63 0 0 0 0 1
+D0
+~
+~
+0 0 6300
+D1
+~
+~
+0 0 6307
+D2
+~
+~
+0 0 6325
+D3
+~
+~
+0 0 6319
+S
+#6307
+Warrior Avenue~
+Freshly crushed gravel has been spread out across this street, giving this
+avenue a crisp, clean look.  Travelers and vendors bustle up and down the
+street, haggling as they go about their daily business.  A slight breeze blows
+down the street, catching the occasional leaf or piece of paper and sending it
+spiraling through the air.  
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6543
+D1
+~
+~
+0 0 6308
+D2
+~
+~
+0 0 6317
+D3
+~
+~
+0 0 6306
+S
+#6308
+Warrior Avenue~
+Freshly crushed gravel has been spread out across this street, giving this
+avenue a crisp, clean look. Travelers and vendors bustle up and down the
+street, haggling as they go about their daily business. A slight breeze blows
+down the street, catching the occasional leaf or piece of paper and sending it
+spiraling through the air. 
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6396
+D1
+~
+~
+0 0 6309
+D2
+~
+~
+0 0 6318
+D3
+~
+~
+0 0 6307
+S
+#6309
+Warrior Avenue~
+Freshly crushed gravel has been spread out across this street, giving this
+avenue a crisp, clean look. Travelers and vendors bustle up and down the
+street, haggling as they go about their daily business. A slight breeze blows
+down the street, catching the occasional leaf or piece of paper and sending it
+spiraling through the air. 
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6397
+D1
+~
+~
+0 0 6310
+D2
+~
+~
+0 0 6524
+D3
+~
+~
+0 0 6308
+S
+#6310
+Warrior Avenue~
+Freshly crushed gravel has been spread out across this street, giving this
+avenue a crisp, clean look. Travelers and vendors bustle up and down the
+street, haggling as they go about their daily business. A slight breeze blows
+down the street, catching the occasional leaf or piece of paper and sending it
+spiraling through the air. 
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6398
+D1
+~
+~
+0 0 6311
+D2
+~
+~
+0 0 6523
+D3
+~
+~
+0 0 6309
+S
+#6311
+The Corner of Warrior Avenue and Knight Street~
+The cobblestones of Knight Street subtly disappear into the crushed gravel of
+Warrior Avenue. Children wind around the lamp posts and trees, kicking loose
+pieces of gravel. A willow tree grows in the corner created by the
+intersection, its long, hanging branches partially concealing a stone bench that
+faces the gates to the east, providing a perfect place to observe all sorts of
+people leaving and entering. 
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6356
+D2
+~
+~
+0 0 6342
+D3
+~
+~
+0 0 6310
+S
+#6312
+The Entrance to the Combat Arena~
+Several wooden benches line a small patch of soft sand, providing rest areas for
+those waiting to compete in the arena below. A small flight of steps leads down
+to the arena. The sound of metal clashing on metal can occasionally be heard
+from below, followed by the cheer of spectators. 
+~
+63 1073741848 0 0 0 0
+D4
+~
+~
+0 0 6303
+D5
+~
+~
+0 0 6313
+S
+#6313
+The South-East Corner of the Combat Arena~
+You are within the Combat Arena.
+~
+63 2162696 0 0 0 0
+D0
+~
+~
+0 0 6316
+D3
+~
+~
+0 0 6314
+D4
+~
+~
+0 0 6312
+S
+#6314
+The South-West Corner of the Combat Arena~
+You are within the Combat Arena.
+~
+63 2162696 0 0 0 0
+D0
+~
+~
+0 0 6315
+D1
+~
+~
+0 0 6313
+S
+#6315
+The North-West Corner of the Combat Arena~
+You are within the Combat Arena.
+~
+63 2162696 0 0 0 0
+D1
+~
+~
+0 0 6316
+D2
+~
+~
+0 0 6314
+S
+#6316
+The North-East Corner of the Combat Arena~
+You are within the Combat Arena.
+~
+63 2162696 0 0 0 0
+D2
+~
+~
+0 0 6313
+D3
+~
+~
+0 0 6315
+S
+#6317
+Stan's Outlandish Pub~
+Wild depictions of far off lands adorn the walls of this outlandish pub. A
+thick smoke hangs heavy in the air, emanating from the various pipes and cigars
+of the patrons. Along the south wall, a wide wooden bar stands chock full of
+various bottles of ales, lagers, and other liquors from across the land. 
+~
+63 156 0 0 0 0
+D0
+~
+~
+0 0 6307
+D2
+~
+door~
+1 0 6544
+S
+#6318
+Taris'Vaal's Long-Term Storage Facility~
+Rows of equipment bins line the whitewashed walls of this facility. A large,
+obsidian chandelier burning with a magical flame hangs from the ceiling, casting
+off a bright light. A small sign hangs on the southern wall, providing
+information to passing citizens. Type LOOK SIGN for more information.
+~
+63 12 0 0 0 0
+D0
+~
+~
+0 0 6308
+E
+sign~
+&MRENTBIN        - Open your account, this is free of charge.
+OPEN BIN       - Open your storage bin.
+CLOSE BIN      - Close your storage bin.
+GET <ITEM> BIN - Get an item from your storage bin.
+PUT <ITEM> BIN - Put an item into your storage bin.
+LOOK IN BIN    - View all the items in your storage bin.
+  
+You may keep up to 100 items in your storage bin.&n
+~
+S
+#6319
+Cleric Street~
+Small, wooden benches line the street here, allowing passerby to rest during
+their daily business. Small trees have been planted by the benches, their
+branches providing some protection from the elements. Freshly crushed gravel
+covers the street, making passage as easy as possible. 
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6306
+D2
+~
+~
+0 0 6324
+D3
+~
+~
+0 0 6320
+S
+#6320
+Cleric Street~
+Small, wooden benches line the street here, allowing passerby to rest during
+their daily business. Small trees have been planted by the benches, their
+branches providing some protection from the elements. Freshly crushed gravel
+covers the street, making passage as easy as possible. 
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6319
+D3
+~
+~
+0 0 6321
+S
+#6321
+Cleric Street~
+Small, wooden benches line the street here, allowing passerby to rest during
+their daily business. Small trees have been planted by the benches, their
+branches providing some protection from the elements. Freshly crushed gravel
+covers the street, making passage as easy as possible. 
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6320
+D2
+~
+~
+0 0 6480
+D3
+~
+~
+0 0 6322
+S
+#6322
+Cleric Street~
+Small, wooden benches line the street here, allowing passerby to rest during
+their daily business. Small trees have been planted by the benches, their
+branches providing some protection from the elements. Freshly crushed gravel
+covers the street, making passage as easy as possible. 
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6321
+D3
+~
+~
+0 0 6323
+S
+#6323
+The Corner of Cleric Street and Druid Way~
+Three broad roads meet to form a busy corner. The traffic moves in a constant
+flow, streaming mostly in a east and south direction. Carts of goods mix with
+coaches of various sizes coming in to the city through the large metal gates. 
+Much pride has been taken to keep this area neat and tidy for the hundreds of
+visitors passing by.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6322
+D2
+~
+~
+0 0 6327
+D3
+~
+~
+0 0 6357
+S
+#6324
+The First Financial Institute of Taris'Vaal~
+This is the First Financial Institute of Taris'Vaal, Home Branch. Several
+tellers stand inside a cage-like area, waiting on people as they wander in this
+depository. The walls of this room are made of plaster, with the exception of a
+strong stone wall that surrounds the steel vault along the behind the tellers.
+~
+63 156 0 0 0 0
+D0
+~
+~
+0 0 6319
+S
+#6325
+Magic User Boulevard~
+A cobblestone pathway begins and the crowd thickens as people try to move into
+the square to the north or leave it. Tall bushes full of fragrant flowers line
+both sides of the path, obstructing any view to the east or west. To the
+southwest, the lush trees of a park can be seen towering in the distance. 
+~
+63 0 0 0 0 1
+D0
+~
+~
+0 0 6306
+D1
+~
+~
+0 0 6419
+D2
+~
+~
+0 0 6326
+D3
+~
+~
+0 0 200
+S
+#6326
+The Four Corners~
+The cobblestone road continues to a bustling intersection dubbed for its heavy
+traffic. Various merchants push their carts up and down its paths, shouting out
+their wares for all to hear, while children playing their games dart between
+strolling people. White marble benches are placed in between well-tended flower
+beds to allow busy pedastrians a place to rest. 
+~
+63 0 0 0 0 1
+D0
+~
+~
+0 0 6325
+D1
+~
+~
+0 0 6346
+D2
+~
+~
+0 0 6341
+D3
+~
+~
+0 0 6334
+S
+#6327
+Druid Way~
+The stone path is lined with hundreds of trees, creating darkness on either
+side. Between the many trees little wooden houses have been built by the
+Druids. Lanterns have been placed next to the road barely lighting up the stone
+path. Sounds of bears and wolves can be heard coming from the pitch black areas
+between the trees.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6323
+D2
+~
+~
+0 0 6328
+S
+#6328
+The Intersection of Druid Way and Priest Street~
+In the middle of the intersection grows a large oak tree, it appears that
+traffic is moving at a more relaxed pace. Surrounding the tree are several
+wooden benches for the tired travelers who wish to rest. A golden path to the
+east makes the view quite surreal.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6327
+D1
+~
+~
+0 0 6331
+D2
+~
+~
+0 0 6329
+S
+#6329
+Druid Way~
+The stone path is lined with hundreds of trees, creating darkness on either
+side. Between the many trees little wooden houses have been built by the
+Druids. Lanterns have been placed next to the road barely lighting up the stone
+path. Sounds of bears and wolves can be heard coming from the pitch black areas
+between the trees.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6328
+D2
+~
+~
+0 0 6330
+S
+#6330
+The Corner of Druid Way and Paladin Avenue~
+The cobbled road curves around and heads up to the center of the town. Sizable
+trees line the path of this long road. The branches of the ancient birch grow
+over this path, providing a canopy from the weather. A sign has been nailed
+into the trunk of the tree. Clouds of dust, disturbed by the footsteps of
+passersby, dance across the cobblestone, finally landing in a small pile between
+the cracks. 
+~
+63 0 0 0 0 1
+D0
+~
+~
+0 0 6329
+D1
+~
+~
+0 0 6336
+D3
+~
+~
+0 0 6358
+E
+sign tree~
+&BDeer Crossing!
+~
+S
+#6331
+Priest Street~
+Stone planting beds line the street on either side, sprouting colorful displays
+of various flowers. Pedestrians line both sides of the street, narrowly
+avoiding the constant traffic of peddlers' carts. Some are clearly rushed, and
+hurry on to their destination, while others sit on padded benches, chatting
+quietly with their companions about the day's events. 
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6332
+D3
+~
+~
+0 0 6328
+S
+#6332
+Priest Street~
+Stone planting beds line the street on either side, sprouting colorful displays
+of various flowers. Pedestrians line both sides of the street, narrowly
+avoiding the constant traffic of peddlers' carts. Some are clearly rushed, and
+hurry on to their destination, while others sit on padded benches, chatting
+quietly with their companions about the day's events. 
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6525
+D1
+~
+~
+0 0 6333
+D2
+~
+~
+0 0 6463
+D3
+~
+~
+0 0 6331
+S
+#6333
+Priest Street~
+Stone planting beds line the street on either side, sprouting colorful displays
+of various flowers. Pedestrians line both sides of the street, narrowly
+avoiding the constant traffic of peddlers' carts. Some are clearly rushed, and
+hurry on to their destination, while others sit on padded benches, chatting
+quietly with their companions about the day's events. 
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6334
+D2
+~
+~
+0 0 6335
+D3
+~
+~
+0 0 6332
+S
+#6334
+Priest Street~
+The smell of fresh pastries fills the air here, tantalizing the nose and making
+the mouth water. To the north is a shop, the sign above it proudly proclaiming
+"Cletus' Confectionary". Pigeons flock here, hoping for a stray crumb or two
+from the patrons walking out of the shop, arms laden with sweet goodies. 
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6465
+D1
+~
+~
+0 0 6326
+D3
+~
+~
+0 0 6333
+S
+#6335
+Taris'Vaal Messenger Services~
+Countless post boxes line the walls, each with a gleaming lockbox door on the
+front. The floor is gleaming marble, and the ceiling is domed and intricately
+carved with a rendering of the Taris'Vaal seal. People occasionally dart in,
+find their box, and leave with their mail.
+~
+63 28 256 0 0 0
+D0
+~
+~
+0 0 6333
+S
+#6336
+Paladin Avenue~
+The smooth white stone of the thoroughfare is clean and free of marks. The
+placement of the stones is so tight that despite the absence of grout or mortar,
+not a single weed can push up between them. The trees are full and vibrant,
+dropping leaves occasionally upon the thick grass on either side of the street.
+The city wall rises high over their tops to the south and the back of a rather
+large house can be discerned between the trunks to the north. 
+~
+63 0 0 0 0 1
+D0
+~
+~
+0 0 6405
+D1
+~
+~
+0 0 6337
+D3
+~
+~
+0 0 6330
+S
+#6337
+Paladin Avenue~
+Several white stone benches have been tucked beneath the trees closest to the
+wall. Smallpatches of clover line the pavers of the street, gather around the
+trunks of the trees, and dot the grass under the benches. The whitewashed back
+of a rather large house can be seen through the boughs of the northern trees. 
+~
+63 0 0 0 0 1
+D1
+~
+~
+0 0 6338
+D3
+~
+~
+0 0 6336
+S
+#6338
+Paladin Avenue~
+Thick patches of weeds with bright red flowers and hairy stems line the northern
+side of the cobblestones that form this section of the street. A low stone
+monument springs from the ground to the south of the road, as if it had been
+planted. It is decorated with a bas-relief carving of a male and female
+centaur, their hands are clasped and they are gazing deeply into each other's
+eyes. 
+~
+63 0 0 0 0 1
+D1
+~
+~
+0 0 6339
+D3
+~
+~
+0 0 6337
+S
+#6339
+Paladin Avenue~
+Guilds, to train special skills, line the cobblestone road that extends east and
+west. Peddlers rest outside of each guild waiting to sell items to the
+adventurers as they come and go. To the north, a sign has been posted outside
+the building that simply states, "Thieves Guild"
+~
+63 0 0 0 0 1
+D0
+~
+~
+0 0 6403
+D1
+~
+~
+0 0 6340
+D3
+~
+~
+0 0 6338
+S
+#6340
+The Southern Square of Taris'Vaal~
+In the center of the street is laid out a small circular garden patch. This
+garden is unique not for its size, but for the arrangement of the flower colors.
+In the center are planted light yellow sunflowers, surrounding this radius are
+roses, carnations that seem to magically change colors as the light hits them.
+Radiating out from the center are lines of an elegant violet colored flower that
+fades in intensity from very pale near the center, to a deep midnight color near
+the outer edges. Three redwood benches are placed in a circle around the
+garden, with enough space for travelers passing by to get close enough to
+examine the garden upon their passing. 
+~
+63 0 0 0 0 1
+D0
+~
+~
+0 0 6341
+D1
+~
+~
+0 0 6350
+D2
+~
+~
+0 0 6355
+D3
+~
+~
+0 0 6339
+S
+#6341
+Magic User Boulevard~
+Tall bushes and trees line the edges of the road, the perfumes of their blossoms
+refreshing and relaxing. Small deposits of mica in the cobblestones of the road
+cause them to constantly sparkle, giving the area a magical feel. Here and
+there, a break occurs and there is a smooth white bench offering a moment of
+respite to the weary traveler. Bees buzz all around, gathering nectar from the
+fragrant flowers situated in the foliage. 
+~
+63 0 0 0 0 1
+D0
+~
+~
+0 0 6326
+D2
+~
+~
+0 0 6340
+S
+#6342
+Knight Street~
+The light cobblestones of this street look to be swept frequently by the city's
+custodians, because despite the large amount of traffic the road is quite clean.
+Large oak trees line the street and provide shade to the many people resting
+beneath them, who point out to passing citizens how beautiful the misty blue
+mountains which reside to the east look from here. Small posts with little
+lanterns are found every few steps to light the way at night. 
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6311
+D2
+~
+~
+0 0 6343
+S
+#6343
+The Intersection of Summoner Lane and Knight Street~
+The colorful stones of Summoner Lane come to an abrupt end to become clean, grey
+cobblestone as the road merges with Knight Street. Many visitors, and even some
+citizens, stop on the side of the street to take in the beauty of the mountains
+standing in the east. A pattern of oak trees and small posts holding lanterns
+has been arranged along the sides of the path. 
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6342
+D2
+~
+~
+0 0 6344
+D3
+~
+~
+0 0 6349
+S
+#6344
+Knight Street~
+The light cobblestones of this street look to be swept frequently by the city's
+custodians, because despite the large amount of traffic the road is quite clean.
+Large oak trees line the street and provide shade to the many people resting
+beneath them, who point out to passing citizens how beautiful the misty blue
+mountains which reside to the east look from here. Small posts with little
+lanterns are found every few steps to light the way at night. 
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6343
+D2
+~
+~
+0 0 6345
+S
+#6345
+The Corner of Knight Street and Ranger Way~
+The end of Knight Street is punctuated by an immense oak tree; ropes have been
+tied to its branches for swinging, and birdhouses can be spotted through the
+foliage. Among the small lantern-posts that recur along the street are patches
+of colorful flowers. To the west lies Ranger Way. 
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6344
+D3
+~
+~
+0 0 6353
+S
+#6346
+Summoner Lane~
+Colorful stones and curbing have been chosen to pave this street, giving it a
+cheery, light feel. Stone lampposts, illuminated by a magical flame, give this
+road ample light at any time of day. Small pieces of debris fall from passing
+carts as their owners drag them to the various markets, but its quickly swept up
+by the ever present city custodians. 
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6354
+D1
+~
+~
+0 0 6347
+D3
+~
+~
+0 0 6326
+S
+#6347
+Summoner Lane~
+Colorful stones and curbing have been chosen to pave this street, giving it a
+cheery, light feel. Stone lampposts, illuminated by a magical flame, give this
+road ample light at any time of day. Small pieces of debris fall from passing
+carts as their owners drag them to the various markets, but its quickly swept up
+by the ever present city custodians. 
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6348
+D2
+~
+~
+0 0 6540
+D3
+~
+~
+0 0 6346
+S
+#6348
+Summoner Lane~
+Colorful stones and curbing have been chosen to pave this street, giving it a
+cheery, light feel. Stone lampposts, illuminated by a magical flame, give this
+road ample light at any time of day. Small pieces of debris fall from passing
+carts as their owners drag them to the various markets, but its quickly swept up
+by the ever present city custodians. 
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6349
+D3
+~
+~
+0 0 6347
+S
+#6349
+Summoner Lane~
+Colorful stones and curbing have been chosen to pave this street, giving it a
+cheery, light feel. Stone lampposts, illuminated by a magical flame, give this
+road ample light at any time of day. Small pieces of debris fall from passing
+carts as their owners drag them to the various markets, but its quickly swept up
+by the ever present city custodians. 
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6343
+D3
+~
+~
+0 0 6348
+S
+#6350
+A Stone Bridge Over the Mighty River Taris, on Ranger Way~
+Thick blocks of stone have been laid together to form a solid bridge across the
+mighty River Taris. Small fish can be seen darting to and fro under the surface
+of the water. Small water lilies float above the waves, carried downstream by
+the gentle current.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6351
+D3
+~
+~
+0 0 6340
+D5
+~
+~
+0 0 6545
+S
+#6351
+Ranger Way~
+Citizens stroll along both sides of the street, barely avoiding merchant's carts
+full of the latest wares. Some are clearly in a hurry, rushing down the street
+cradling some new potion or orb, while others sit and chat quietly on benches
+lining the street. Ranger Way continues to the east and west.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6401
+D1
+~
+~
+0 0 6352
+D3
+~
+~
+0 0 6350
+S
+#6352
+Ranger Way~
+Citizens stroll along both sides of the street, barely avoiding merchant's carts
+full of the latest wares. Some are clearly in a hurry, rushing down the street
+cradling some new potion or orb, while others sit and chat quietly on benches
+lining the street. Ranger Way continues to the east and west.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6399
+D1
+~
+~
+0 0 6353
+D3
+~
+~
+0 0 6351
+S
+#6353
+Ranger Way~
+Citizens stroll along both sides of the street, barely avoiding merchant's carts
+full of the latest wares. Some are clearly in a hurry, rushing down the street
+cradling some new potion or orb, while others sit and chat quietly on benches
+lining the street. Ranger Way continues to the east and west.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6345
+D2
+~
+~
+0 0 6486
+D3
+~
+~
+0 0 6352
+S
+#6354
+The Inn of the Setting Sun~
+Polished wood panels grace the walls of this building, giving the room a rustic,
+natural feeling. A large, oaken counter lines the north wall, behind which the
+hotel's receptionist waits patiently to assist the next customer. Several plush
+couches occupy the main waiting area, allowing ample space for those who need to
+rest and relax. 
+~
+63 4 0 0 0 0
+D2
+~
+~
+0 0 6346
+D4
+~
+~
+0 0 6471
+S
+#6355
+The Southern Gates of Taris'Vaal~
+Several white-barked birch trees stand majestically above the wooden gates of
+the city. Vigilant guards stand sentinel, protecting the town from anything
+that may come from the wilderness to the south. The faint sounds of children
+playing can be heard from seemingly every direction. A tower rises just north
+of the gates, providing a vantage point as well as a place to store extra
+supplies for the guard. 
+~
+63 4 0 0 0 0
+D0
+~
+~
+0 0 6340
+D2
+~
+~
+0 0 2993001
+S
+#6356
+The Eastern Gates of Taris'Vaal~
+The massive gates to the west are constructed of thick steel beams and
+reinforced with straps of forged mithril. Impervious to any seige when closed,
+during the day they stand open to allow travelers from far off lands to enter
+Taris'Vaal. During the night, the gates are closed and guards posted to protect
+the city from the creatures of the night. 
+~
+63 4 0 0 0 0
+D1
+~
+~
+0 0 6455
+D3
+~
+~
+0 0 6311
+S
+#6357
+The Western Gates of Taris'Vaal~
+The massive gates to the east are constructed of thick steel beams and
+reinforced with straps of forged mithril. Impervious to any seige when closed,
+during the day they stand open to allow travelers from far off lands to enter
+Taris'Vaal. During the night, the gates are closed and guards posted to protect
+the city from the creatures of the night. 
+~
+63 4 0 0 0 0
+D1
+~
+~
+0 0 6323
+D3
+~
+~
+0 0 2998999
+S
+#6358
+The Entrance to the Housing District of Taris'Vaal~
+Many large birch trees line the edge of this road. The branches hang across the
+path, providing a canopy from the weather. Several fruit trees grow on the
+eastern side of the pathway, giving an array of color to the area. Each house
+along this avenue has a small square yard with thick green grass and colorful
+flowers thriving within its boundaries. The sounds of children laughing and
+playing can be heard from every direction. 
+~
+63 0 0 0 0 1
+D1
+~
+~
+0 0 6330
+D3
+~
+~
+0 0 6359
+S
+#6359
+Sorcerer Lane~
+A large oak tree, surrounded by a small garden, graces the center of this
+intersection. Small benches, providing rest for passing citizens, mark the
+place where the garden gives way to the solid cobblestones of Sorcerer Way. 
+From this point the Taris'Vaal Housing District spreads out in all directions.
+Citizens stroll through the area, some stopping to rest on benches surrounding
+the garden, while others hurry past on their way home.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6366
+D1
+~
+~
+0 0 6358
+D2
+~
+~
+0 0 6367
+D3
+~
+~
+0 0 6360
+S
+#6360
+Sorcerer Lane~
+Large oak trees line either side of this street, their branches arching
+overhead.  Thick vines climb their trunks, covering them in a thick blanket of
+green.  Through the trees, older houses can be seen, draped in thick covers of
+dark ivy.  Small fences line the borders of well tended yards surrounding the
+houses.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6359
+D3
+~
+~
+0 0 6361
+S
+#6361
+Sorcerer Lane~
+Large oak trees line either side of this street, their branches arching
+overhead.  Thick vines climb their trunks, covering them in a thick blanket of
+green.  Through the trees, older houses can be seen, draped in thick covers of
+dark ivy.  Small fences line the borders of well tended yards surrounding the
+houses.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6360
+D3
+~
+~
+0 0 6362
+S
+#6362
+Sorcerer Lane~
+A large oak tree, surrounded by a small garden, graces the center of this
+intersection.  Small benches, providing rest for passing citizens, mark the
+place where the garden gives way to the solid cobblestones of Sorcerer Way.  
+From this point the Taris'Vaal Housing District spreads out in all directions.
+Citizens stroll through the area, some stopping to rest on benches surrounding
+the garden, while others hurry past on their way home.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6368
+D1
+~
+~
+0 0 6361
+D2
+~
+~
+0 0 6369
+D3
+~
+~
+0 0 6363
+S
+#6363
+Sorcerer Lane~
+Large oak trees line either side of this street, their branches arching
+overhead.  Thick vines climb their trunks, covering them in a thick blanket of
+green.  Through the trees, older houses can be seen, draped in thick covers of
+dark ivy.  Small fences line the borders of well tended yards surrounding the
+houses.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6362
+D3
+~
+~
+0 0 6364
+S
+#6364
+Sorcerer Lane~
+Large oak trees line either side of this street, their branches arching
+overhead.  Thick vines climb their trunks, covering them in a thick blanket of
+green.  Through the trees, older houses can be seen, draped in thick covers of
+dark ivy.  Small fences line the borders of well tended yards surrounding the
+houses.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6363
+D3
+~
+~
+0 0 6365
+S
+#6365
+Sorcerer Lane~
+A large oak tree, surrounded by a small garden, graces the center of this
+intersection.  Small benches, providing rest for passing citizens, mark the
+place where the garden gives way to the solid cobblestones of Sorcerer Way.  
+From this point the Taris'Vaal Housing District spreads out in all directions.
+Citizens stroll through the area, some stopping to rest on benches surrounding
+the garden, while others hurry past on their way home.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6370
+D1
+~
+~
+0 0 6364
+D2
+~
+~
+0 0 6371
+D3
+~
+~
+0 0 6410
+S
+#6366
+Monk Close~
+The houses on this narrow close are old and weathered, their once vibrant colors
+now cracked with age. However, the yards are well kept, lining the street with
+thick grass and tended gardens. Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6388
+D2
+~
+~
+0 0 6359
+S
+#6367
+Assassin Avenue~
+The smell of freshly-cut lumber and hot tar permeate the air here. New houses
+line the street on either side, standing in stark contrast to the older abodes
+of the neighborhood. Bright, young flowers fill gardens along the sides of the
+street, attempting to mask the smell of construction with their perfumes. The
+muted sounds of the city seem far away as they filter between the houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6359
+D2
+~
+~
+0 0 6392
+S
+#6368
+Necromancer Place~
+Large oak trees line either side of this street, their branches arching
+overhead.  Thick vines climb their trunks, covering them in a thick blanket of
+green.  Through the trees, older houses can be seen, draped in thick covers of
+dark ivy.  Small fences line the borders of well tended yards surrounding the
+houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6380
+D2
+~
+~
+0 0 6362
+S
+#6369
+Ninja Court~
+The houses on this narrow court are old and weathered, their once vibrant colors
+now cracked with age.  However, the yards are well kept, lining the street with
+thick grass and tended gardens.  Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6362
+D2
+~
+~
+0 0 6384
+S
+#6370
+Rogue Alley~
+The houses on this narrow alley are old and weathered, their once vibrant colors
+now cracked with age.  However, the yards are well kept, lining the street with
+thick grass and tended gardens.  Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6372
+D2
+~
+~
+0 0 6365
+S
+#6371
+Thief Street~
+The smell of freshly-cut lumber and hot tar permeate the air here.  New houses
+line the street on either side, standing in stark contrast to the older abodes
+of the neighborhood.  Bright, young flowers fill gardens along the sides of the
+street, attempting to mask the smell of construction with their perfumes.  The
+muted sounds of the city seem far away as they filter between the houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6365
+D2
+~
+~
+0 0 6376
+S
+#6372
+Rogue Alley~
+The houses on this narrow alley are old and weathered, their once vibrant colors
+now cracked with age.  However, the yards are well kept, lining the street with
+thick grass and tended gardens.  Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6373
+D2
+~
+~
+0 0 6370
+S
+#6373
+Rogue Alley~
+The houses on this narrow alley are old and weathered, their once vibrant colors
+now cracked with age.  However, the yards are well kept, lining the street with
+thick grass and tended gardens.  Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6374
+D2
+~
+~
+0 0 6372
+S
+#6374
+Rogue Alley~
+The houses on this narrow alley are old and weathered, their once vibrant colors
+now cracked with age.  However, the yards are well kept, lining the street with
+thick grass and tended gardens.  Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6375
+D2
+~
+~
+0 0 6373
+S
+#6375
+Rogue Alley~
+The houses on this narrow alley are old and weathered, their once vibrant colors
+now cracked with age.  However, the yards are well kept, lining the street with
+thick grass and tended gardens.  Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D2
+~
+~
+0 0 6374
+S
+#6376
+Thief Street~
+The smell of freshly-cut lumber and hot tar permeate the air here.  New houses
+line the street on either side, standing in stark contrast to the older abodes
+of the neighborhood.  Bright, young flowers fill gardens along the sides of the
+street, attempting to mask the smell of construction with their perfumes.  The
+muted sounds of the city seem far away as they filter between the houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6371
+D2
+~
+~
+0 0 6377
+S
+#6377
+Thief Street~
+The smell of freshly-cut lumber and hot tar permeate the air here.  New houses
+line the street on either side, standing in stark contrast to the older abodes
+of the neighborhood.  Bright, young flowers fill gardens along the sides of the
+street, attempting to mask the smell of construction with their perfumes.  The
+muted sounds of the city seem far away as they filter between the houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6376
+D2
+~
+~
+0 0 6378
+S
+#6378
+Thief Street~
+The smell of freshly-cut lumber and hot tar permeate the air here.  New houses
+line the street on either side, standing in stark contrast to the older abodes
+of the neighborhood.  Bright, young flowers fill gardens along the sides of the
+street, attempting to mask the smell of construction with their perfumes.  The
+muted sounds of the city seem far away as they filter between the houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6377
+D2
+~
+~
+0 0 6379
+S
+#6379
+Thief Street~
+The smell of freshly-cut lumber and hot tar permeate the air here.  New houses
+line the street on either side, standing in stark contrast to the older abodes
+of the neighborhood.  Bright, young flowers fill gardens along the sides of the
+street, attempting to mask the smell of construction with their perfumes.  The
+muted sounds of the city seem far away as they filter between the houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6378
+S
+#6380
+Necromancer Place~
+Large oak trees line either side of this street, their branches arching
+overhead.  Thick vines climb their trunks, covering them in a thick blanket of
+green.  Through the trees, older houses can be seen, draped in thick covers of
+dark ivy.  Small fences line the borders of well tended yards surrounding the
+houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6381
+D2
+~
+~
+0 0 6368
+S
+#6381
+Necromancer Place~
+Large oak trees line either side of this street, their branches arching
+overhead.  Thick vines climb their trunks, covering them in a thick blanket of
+green.  Through the trees, older houses can be seen, draped in thick covers of
+dark ivy.  Small fences line the borders of well tended yards surrounding the
+houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6382
+D2
+~
+~
+0 0 6380
+S
+#6382
+Necromancer Place~
+Large oak trees line either side of this street, their branches arching
+overhead.  Thick vines climb their trunks, covering them in a thick blanket of
+green.  Through the trees, older houses can be seen, draped in thick covers of
+dark ivy.  Small fences line the borders of well tended yards surrounding the
+houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6383
+D2
+~
+~
+0 0 6381
+S
+#6383
+Necromancer Place~
+Large oak trees line either side of this street, their branches arching
+overhead.  Thick vines climb their trunks, covering them in a thick blanket of
+green.  Through the trees, older houses can be seen, draped in thick covers of
+dark ivy.  Small fences line the borders of well tended yards surrounding the
+houses.
+~
+63 0 0 0 0 0
+D2
+~
+~
+0 0 6382
+S
+#6384
+Ninja Court~
+The houses on this narrow court are old and weathered, their once vibrant colors
+now cracked with age.  However, the yards are well kept, lining the street with
+thick grass and tended gardens.  Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6369
+D2
+~
+~
+0 0 6385
+S
+#6385
+Ninja Court~
+The houses on this narrow court are old and weathered, their once vibrant colors
+now cracked with age.  However, the yards are well kept, lining the street with
+thick grass and tended gardens.  Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6384
+D2
+~
+~
+0 0 6386
+S
+#6386
+Ninja Court~
+The houses on this narrow court are old and weathered, their once vibrant colors
+now cracked with age.  However, the yards are well kept, lining the street with
+thick grass and tended gardens.  Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6385
+D2
+~
+~
+0 0 6497
+S
+#6387
+Before an Ornate Memorial~
+This unfinished room was created by Anubis.
+~
+63 8196 0 0 0 0
+D0
+~
+~
+0 0 6497
+D2
+~
+~
+0 0 6462
+S
+#6388
+Monk Close~
+The houses on this narrow close are old and weathered, their once vibrant colors
+now cracked with age. However, the yards are well kept, lining the street with
+thick grass and tended gardens. Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6389
+D2
+~
+~
+0 0 6366
+S
+#6389
+Monk Close~
+The houses on this narrow close are old and weathered, their once vibrant colors
+now cracked with age. However, the yards are well kept, lining the street with
+thick grass and tended gardens. Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6390
+D2
+~
+~
+0 0 6388
+S
+#6390
+Monk Close~
+The houses on this narrow close are old and weathered, their once vibrant colors
+now cracked with age. However, the yards are well kept, lining the street with
+thick grass and tended gardens. Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6391
+D2
+~
+~
+0 0 6389
+S
+#6391
+Monk Close~
+The houses on this narrow close are old and weathered, their once vibrant colors
+now cracked with age. However, the yards are well kept, lining the street with
+thick grass and tended gardens. Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D2
+~
+~
+0 0 6390
+S
+#6392
+Assassin Avenue~
+The smell of freshly-cut lumber and hot tar permeate the air here. New houses
+line the street on either side, standing in stark contrast to the older abodes
+of the neighborhood. Bright, young flowers fill gardens along the sides of the
+street, attempting to mask the smell of construction with their perfumes. The
+muted sounds of the city seem far away as they filter between the houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6367
+D2
+~
+~
+0 0 6393
+S
+#6393
+Assassin Avenue~
+The smell of freshly-cut lumber and hot tar permeate the air here. New houses
+line the street on either side, standing in stark contrast to the older abodes
+of the neighborhood. Bright, young flowers fill gardens along the sides of the
+street, attempting to mask the smell of construction with their perfumes. The
+muted sounds of the city seem far away as they filter between the houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6392
+D2
+~
+~
+0 0 6394
+S
+#6394
+Assassin Avenue~
+The smell of freshly-cut lumber and hot tar permeate the air here. New houses
+line the street on either side, standing in stark contrast to the older abodes
+of the neighborhood. Bright, young flowers fill gardens along the sides of the
+street, attempting to mask the smell of construction with their perfumes. The
+muted sounds of the city seem far away as they filter between the houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6393
+D2
+~
+~
+0 0 6395
+S
+#6395
+Assassin Avenue~
+The smell of freshly-cut lumber and hot tar permeate the air here. New houses
+line the street on either side, standing in stark contrast to the older abodes
+of the neighborhood. Bright, young flowers fill gardens along the sides of the
+street, attempting to mask the smell of construction with their perfumes. The
+muted sounds of the city seem far away as they filter between the houses.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6394
+S
+#6396
+The Pen is not Mightier~
+Wooden racks, containing various types of weaponry, line the walls of this shop.
+Everything from massive broadswords to tiny daggers that seem more like toys
+than weapons have been placed on display for those seeking to purchase a new
+blade. A hot forge rests in the back of the shop, where Horus, the owner, works
+his art on a fresh piece of steel. 
+~
+63 268435612 0 0 0 0
+D2
+~
+~
+0 0 6308
+S
+#6397
+Nar Trigg's Abode of Armor~
+Suits of armor, encased in glass boxes, line the walls of this shop. Several
+racks of shields sit on the floor in front of the glass cases. Citizens mill
+about this shop, examining various pieces of equipment as they try to choose
+their next purchase. The shopkeeper, a rather imposing looking man, stands in
+the back of the shop, examining a freshly made suit of armor.
+~
+63 268435676 0 0 0 24
+D2
+~
+~
+0 0 6309
+S
+#6398
+The House of the Arcane~
+Just beyond the iron doors lies claustrophobia incarnate, haphazard shelves
+lined with strange and potentially dangerous artifacts. Every thing smells like
+dust, and light seems to be swallowed up by the dark room. In the center of the
+labyrinthine shelf arrangement is the sitting space and a small lab for mixing
+alchemic ingredients and creating magical components.
+~
+63 220 0 0 0 0
+D2
+~
+~
+0 0 6310
+S
+#6399
+A Well-Lit Foyer Before the Cleric's Guild~
+This room greatly resembles the antichamber of a formal church, with its heavy
+oak double doors open at all times of the day and night, the two rows of
+permanently lit candles on either side of the red rug going to the altar, and
+the crystal chandalier overhead. Even with this finery the foyer appears, as in
+the nature of the clergy, rather humble and homely. A wreath of local flowers
+behind a wooden cross over the door invites you down the path to the altar.
+~
+63 28 0 0 0 0
+D1
+~
+~
+0 0 6400
+D2
+~
+~
+0 0 6352
+S
+#6400
+The Cleric's Guild~
+Rather than opening up into the pews, there is a small altar here at the back of
+the room flanked by an organ and sitting area where the guildmistress teaches
+apprentice clerics the ways of the clergy. The guildmistress herself sits
+calmly upon one of the mats here, at the base of the altar.
+~
+63 24 0 0 0 0
+D3
+~
+~
+0 0 6399
+S
+#6401
+A Well-Lit Foyer Before the Mage's Guild~
+This unfinished room was created by Anubis.
+~
+63 4 0 0 0 0
+D2
+~
+~
+0 0 6351
+D3
+~
+~
+0 0 6402
+S
+#6402
+The Mage's Guild~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6401
+S
+#6403
+A Dimly-Lit Foyer Before the Thieves' Guild~
+Stooping under the dangling sign of the Thieves' Guild you nearly run into a
+swinging ogre's fist trap! Well a model of one, it would be much too dangerous
+to have a real one swinging around. Other such quirks as throwing knives and
+easily concealed daggers, laying about on desks and tables and things that would
+serve as good hiding places due to their haphazard arrangement. Some of the
+lights have been put out by thrown blades gone awry from the center of the
+thieves' guild below.
+~
+63 4 0 0 0 0
+D2
+~
+~
+0 0 6339
+D5
+~
+~
+0 0 6404
+S
+#6404
+The Thieves' Guild~
+At the bottom of the wooden ladder is a sort of miniature combat pit, with
+dummies lining that walls that have obviously been quite overspent- many have
+stuffing emerging from their backs where repeated unexpected stabs have left
+their mark. The walls are scarred by blows and scrapes from trainees past,
+which may have partly been due not so much to their lack of skill but the lack
+of lighting. You glance about, searching for the guildmistress...
+~
+63 24 0 0 0 0
+D4
+~
+~
+0 0 6403
+S
+#6405
+A Well-Lit Foyer Before the Warrior's Guild~
+Proud stone statues of famed warriors past line the hall to the warrior's guild,
+facing each other from either side of the hall. The walls are dazzling white,
+the floor mottled marble, and the tapestries the most brilliant crimson with a
+golden dragon emblazoned upon each. Do wn the hall on the right a pair of
+double doors are held open by blue and white porcelain vases, welcoming you to
+the guild.
+~
+63 28 0 0 0 0
+D1
+~
+~
+0 0 6406
+D2
+~
+~
+0 0 6336
+S
+#6406
+The Warrior's Guild~
+The stock of armor and weaponry here rivals that of a military store room, with
+every conceivable piece of equipment one could need during training lining the
+walls in racks. Maces, longbows, short bows, composite bows, crossbows,
+shortswords, longswords, broadswords, daggers , knives and more, equally coupled
+with various kinds of armor, from light leather-padded tunics to full spiked
+body armor. The trainer hi mself is here sparring with one of the dummies he
+fought in his past- as least, a model of one.
+~
+63 24 0 0 0 0
+D3
+~
+~
+0 0 6405
+S
+#6407
+The Hall of the Gods - Level 42~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D3
+~
+~
+0 0 6549
+S
+#6408
+Custodian Generator~
+This is where the little custodians will spawn!
+~
+63 1024 0 0 0 0
+D0
+~
+~
+0 0 6310
+D1
+~
+~
+0 0 6343
+D2
+~
+~
+0 0 6340
+D3
+~
+~
+0 0 6358
+D4
+~
+~
+0 0 6300
+D5
+~
+~
+0 0 6365
+S
+#6409
+Custodian Generator~
+This is where more little custodians will spawn!
+~
+63 1024 0 0 0 0
+D0
+~
+~
+0 0 6347
+D1
+~
+~
+0 0 6333
+D2
+~
+~
+0 0 6320
+D3
+~
+~
+0 0 6325
+D4
+~
+~
+0 0 6341
+S
+#6410
+The Entrance to a Shrine~
+A strange ethereal ladder seems to extend indefinately into the sky.  Delicate
+crystaline rungs reflect the light of the stars back out into the black of
+space.  The air is so cold, a thin layer of ice has formed on the individual
+rungs.  The room seems to take up infinite space, with the stars and planets of
+the galaxy surrounding it.  
+~
+63 13 0 0 0 0
+D1
+~
+~
+0 0 6365
+D4
+~
+~
+0 0 6411
+E
+star galaxy~
+&C  *    .  *       .             *
+                         *
+ *   .        *       .       .       *
+   .     *
+           .     .  *        *
+       .                .        .
+                             .
+         *          .   *
+&C  *    .  *       .             *
+                         *
+ *   .        *       .       .       *
+   .     *
+           .     .  *        *
+       .                .        .
+                             .
+         *          .   *
+
+~
+S
+#6411
+Ursae Minoris~
+The most striking feature of this room is the high domed ceiling, which is
+completely covered with decorative cloisonne to look like the night sky.  There
+is no noticable source of illumination, yet the room is as bright as day.  Some
+sort of enchantment makes the stars appear to swirl and constantly change
+positions, continuously creating new constellations.  A large crystal altar in
+the center of the room seems to pulse along with the stars.  Upon closer
+inspection of the altar, it appears to be carved with strange symbols that seem
+to spell out a verse of poetry.  
+~
+63 8 0 0 0 0
+D0
+~
+~
+0 0 6412
+D1
+~
+~
+0 0 6413
+D2
+~
+~
+0 0 6414
+D3
+~
+~
+0 0 6415
+D5
+~
+~
+0 0 6410
+E
+verse symbol carving altar~
+"To Eos, Fumigation from Manna.  Hear me, O Goddess, whose emerging ray leads on
+the broad refulgence of the day blushing Eos, whose celestial light beams on the
+world with reddening splendours bright.  Mankind in thee eternally delight, and
+none presumes to shun thy beauteous sight.  Soon as they splendours break the
+bands of rest, and eyes unclose, with pleasing sleep oppressed: men, reptiles,
+birds, and beasts, with general voice, and all the nations of the deep rejoice
+for all the culture of our life is thine.  Come, blessed power, and to these
+rites incline: thy holy light increase, and unconfined diffuse its radiance on
+the mystics mind.  "
+
+- Orphic Hymn 78 to Eos
+~
+S
+#6412
+The Home of the North Wind~
+The enameled ceiling continues to the north as far as the eye can see, mimicking
+the night sky.  A verse is engraved along the border.  Snow completely covers
+the ground here, and fierce gusts of wind create an almost hurricane-like
+atmosphere.  The temperature here is much colder than the room to the south.  
+The few trees that seem to have weathered the storm are completely bare, and the
+candle sconces on the wall have long since burnt out.  
+~
+63 8 0 0 0 0
+D2
+~
+~
+0 0 6411
+E
+engraving~
+"To Boreas, Fumigation from Frankincense.  Boreas, whose wintry blasts,
+terrific, tear the bosom of the deep surrounding air cold icy power, approach,
+and favouring blow, and Thrake awhile desert, exposed to snow: the airs
+all-misty darkening state dissolve, with pregnant clouds whose frames in showers
+resolve.  Serenely temper all within the sky, and wipe from moisture aithers
+splendid eye.  "
+
+- Orphic Hymn 80 to Boreas
+~
+S
+#6413
+The Home of the East Wind~
+Another strange verse is engraved along the edge of the enameled ceiling.  A
+grape arbor borders a grove of fruit trees.  Apple, orange, pear and cherry
+trees grow in no discernable order, adding to the chaotic sense of the orchard.
+Thorns from raspberries and blackberries poise in anticipation of ripping
+clothing, while their vines tangle with those of overripe melons.  
+~
+63 8 0 0 0 0
+D3
+~
+~
+0 0 6411
+E
+engraving~
+"Send a breeze then, over the fields soft wind Euros: Euros, saviour of Sparta,
+may you come with victory at all times!  Ie Paian, ieie Paian!  "
+
+- Greek Lyric V Folk Songs
+~
+S
+#6414
+The Home of the South Wind~
+The line of strange engravings bordering the enameled ceiling is almost hidden
+by a torrential downpour.  The water beats down on every available surface, and
+collects in a large lake where the floor should be.  Strange shapes seem to
+appear and disappear in the rain - ships and men with strange fish tails instead
+of legs.  
+~
+63 524296 0 0 0 0
+D0
+~
+~
+0 0 6411
+E
+engraving~
+"To Notos, Fumigation from Frankincense.  Wide-coursing gales, whose lightly
+leaping feet with rapid wings the airs wet bosom beat, approach, benevolent,
+swift-whirling powers, with humid clouds the principles of showers for showery
+clouds are portioned to your care, to send on earth from all-surrounding air.  
+Hear, blessed power, these holy rites attend, and fruitful rains on earth
+all-parent send.  "
+
+- Orphic Hymn 82 to Notus
+~
+S
+#6415
+The Home of the West Wind~
+The enameled ceiling continues to the west as far as the eye can see, continuing
+to mimic the night sky.  A line of engravings borders it.  Lush greenery carpets
+the floor.  Pungent herbs are interspersed among radiant flowers.  Roses and ivy
+compete for space climbing the walls.  In the distance, a misty rainbow arches
+over a verdant forest.  
+~
+63 8 0 0 0 0
+D1
+~
+~
+0 0 6411
+E
+engraving~
+"To Zephyros, Fumigation from Frankincense.  Sea-born, aerial, blowing from the
+west, sweet Breezes, who give to wearied labour rest.  Vernal and grassy, and of
+murmuring sound, to ships delightful through the sea profound for these,
+impelled by you with
+
+- Orphic Hymn 81 to Zephyrus
+~
+S
+#6416
+Male Guard generator~
+This is where the male guards appear!
+~
+63 1024 0 0 0 0
+D0
+~
+~
+0 0 6300
+D1
+~
+~
+0 0 6365
+D2
+~
+~
+0 0 6358
+D3
+~
+~
+0 0 6340
+D4
+~
+~
+0 0 6343
+D5
+~
+~
+0 0 6310
+S
+#6417
+Female Guard Generator~
+This is where the girly guards appear!
+~
+63 1024 0 0 0 0
+D0
+~
+~
+0 0 6347
+D1
+~
+~
+0 0 6333
+D2
+~
+~
+0 0 6320
+D3
+~
+~
+0 0 6325
+D4
+~
+~
+0 0 6341
+S
+#6418
+Mercenary Generator~
+This is where the mercenaries appear!
+~
+63 1024 0 0 0 0
+D0
+~
+~
+0 0 6365
+D1
+~
+~
+0 0 6358
+D2
+~
+~
+0 0 6340
+D3
+~
+~
+0 0 6343
+D4
+~
+~
+0 0 6310
+S
+#6419
+Entrance to the Hall of the Gods~
+This unfinished room was created by Anubis.
+~
+63 1028 0 0 0 0
+D3
+~
+~
+0 0 6325
+D4
+~
+~
+0 0 6420
+S
+#6420
+The Hall of the Gods - Level 41~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6421
+D1
+~
+~
+0 0 6426
+D4
+~
+~
+0 0 6431
+D5
+~
+~
+0 0 6419
+S
+#6421
+The Hall of the Gods - Level 41~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6422
+D2
+~
+~
+0 0 6420
+S
+#6422
+The Hall of the Gods - Level 41~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6423
+D2
+~
+~
+0 0 6421
+S
+#6423
+The Hall of the Gods - Level 41~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6424
+D2
+~
+~
+0 0 6422
+S
+#6424
+The Hall of the Gods - Level 41~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6425
+D2
+~
+~
+0 0 6423
+S
+#6425
+The Hall of the Gods - Level 41~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D2
+~
+~
+0 0 6424
+S
+#6426
+The Hall of the Gods - Level 41~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6427
+D3
+~
+~
+0 0 6420
+S
+#6427
+The Hall of the Gods - Level 41~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6428
+D3
+~
+~
+0 0 6426
+S
+#6428
+The Hall of the Gods - Level 41~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6429
+D3
+~
+~
+0 0 6427
+S
+#6429
+The Hall of the Gods - Level 41~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6430
+D3
+~
+~
+0 0 6428
+S
+#6430
+The Hall of the Gods - Level 41~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D3
+~
+~
+0 0 6429
+S
+#6431
+The Hall of the Gods - Level 42~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6432
+D1
+~
+~
+0 0 6437
+D4
+~
+~
+0 0 6442
+D5
+~
+~
+0 0 6420
+S
+#6432
+The Hall of the Gods - Level 42~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6433
+D2
+~
+~
+0 0 6431
+D3
+~
+~
+0 0 6493
+S
+#6433
+The Hall of the Gods - Level 42~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6434
+D1
+~
+~
+0 0 6546
+D2
+~
+~
+0 0 6432
+D3
+~
+~
+0 0 6491
+S
+#6434
+The Hall of the Gods - Level 42~
+Where the hell is everyone? I've been working on this game for weeks and
+haven't seen a soul. It's maddening. It's discouraging. Have I been abandoned
+by the people who hired me? The server has not dropped yet, which is a good
+sign, but how long will it last? First it was Slurk, then Anubis, then
+Bluntmaster - I'm the only active god left. I can only hope that the game is
+being worked on externally, and that when they come back I will be recognized
+for my work.
+-Accarid, the God of Death
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6435
+D1
+~
+~
+0 0 6461
+D2
+~
+~
+0 0 6433
+D3
+~
+~
+0 0 6504
+S
+#6435
+The Hall of the Gods - Level 42~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6436
+D1
+~
+~
+0 0 6526
+D2
+~
+~
+0 0 6434
+D3
+~
+~
+0 0 6552
+S
+#6436
+The Hall of the Gods - Level 42~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6536
+D2
+~
+~
+0 0 6435
+D3
+~
+~
+0 0 6505
+S
+#6437
+The Hall of the Gods - Level 42~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6466
+D1
+~
+~
+0 0 6438
+D2
+~
+~
+0 0 6529
+D3
+~
+~
+0 0 6431
+S
+#6438
+The Hall of the Gods - Level 42~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6534
+D1
+~
+~
+0 0 6439
+D2
+~
+~
+0 0 6532
+D3
+~
+~
+0 0 6437
+S
+#6439
+The Hall of the Gods - Level 42~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6498
+D1
+~
+~
+0 0 6440
+D2
+~
+~
+0 0 6538
+D3
+~
+~
+0 0 6438
+S
+#6440
+The Hall of the Gods - Level 42~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6502
+D1
+~
+~
+0 0 6441
+D2
+~
+~
+0 0 6541
+D3
+~
+~
+0 0 6439
+S
+#6441
+The Hall of the Gods - Level 42~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6500
+D1
+~
+~
+0 0 6549
+D2
+~
+~
+0 0 6550
+D3
+~
+~
+0 0 6440
+S
+#6442
+The Hall of the Gods - Level 43~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6443
+D1
+~
+~
+0 0 6448
+D5
+~
+~
+0 0 6431
+S
+#6443
+The Hall of the Gods - Level 43~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6444
+D2
+~
+~
+0 0 6442
+S
+#6444
+The Hall of the Gods - Level 43~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6445
+D2
+~
+~
+0 0 6443
+S
+#6445
+The Hall of the Gods - Level 43~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6446
+D2
+~
+~
+0 0 6444
+S
+#6446
+The Hall of the Gods - Level 43~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6447
+D2
+~
+~
+0 0 6445
+S
+#6447
+The Hall of the Gods - Level 43~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6468
+D2
+~
+~
+0 0 6446
+S
+#6448
+The Hall of the Gods - Level 43~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6449
+D2
+~
+~
+0 0 6495
+D3
+~
+~
+0 0 6442
+S
+#6449
+The Hall of the Gods - Level 43~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6554
+D1
+~
+~
+0 0 6450
+D3
+~
+~
+0 0 6448
+S
+#6450
+The Hall of the Gods - Level 43~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6451
+D3
+~
+~
+0 0 6449
+S
+#6451
+The Hall of the Gods - Level 43~
+&m                                  _ " _
+   _ " _                         (_\|/_)
+  (_\|/_)  &C_ " _         _ " _    &m(/|\)
+   (/|\)  &C(_\|/_)&m " _  &C (_\|/_)
+           &C(/|\)&m_\|/_) &C  (/|\)
+                &m(/|\)
+&W                 _
+&W               _(_)_                          &MwWWWw   &W_
+&R   @@@@       &W(_)&Y@&W(_)   &MvVVVv     &W_     &R@@@@  &M(___) &W_(_)_
+  &R@@&Y()&R@@ &MwWWWw  &W(_)&G\    &M(___)   &W_(_)_  &R@@&Y()&R@@   &GY  &W(_)&Y@&W(_)
+&R   @@@@  &M(___)     &G`|/    Y    &W(_)&Y@&W(_)  &R@@@@   &G\|/   &W(_)
+&G    /      Y       \|    \|/    /&W(_)    &G\|      |/      |
+&G \ |     \ |/       | / \ | /  \|/       |/    \|      \|/
+   |//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|//
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^2
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6507
+D1
+~
+~
+0 0 6452
+D3
+~
+~
+0 0 6450
+S
+#6452
+The Hall of the Gods - Level 43~
+&y     &Y,,,                      &Y,,,
+    &Y{{{}}    &Y,,,             &Y{{{}}    &Y,,,&G
+ &Y,,, &R^Y^    &Y{{{}},,,&G      &Y,,, &R^Y^&G    &Y{{{}},,,
+&Y{{}}} &G|/&Y,,,&G  &R^Y^&G&Y{{}}}&G    &Y{{}}}&G |/&Y,,,  &R^Y^&G&Y{{}}}
+ &R^Y^&G \|&Y{{}}}&G/\|/ &R^Y^&G  &Y,,, &R^Y^&G \|&Y{{}}}&G/\|/ &R^Y^  &Y,,,
+&y &G\|/ \|/&R^Y^&G  \|&Y,,,&G|/ &Y{{}}}&G\|/ \|/&R^Y^&G  \|&Y,,,&G|/ &Y{{}}}
+&y &G\|/ \|/\|/  \&Y{{{}}&G/  &R^Y^&G \|/ \|/\|/  \&Y{{{}}&G/  &R^Y^&G
+&y &G\|/\\|/\|/ \\|&R^Y^&G//  \|/ \|/\\|/\|/ \\|&R^Y^&G//  \|/
+&y &G\|//\|/\|/,\\|/|/|// \|/ \|//\|/\|/,\\|/|/|// \|/
+&G ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 2301
+D1
+~
+~
+0 0 3600
+D3
+~
+~
+0 0 6451
+S
+T 6452
+#6453
+Male Traveler Generator~
+This is where the male travelers appear!
+~
+63 1024 0 0 0 0
+D0
+~
+~
+0 0 6333
+D1
+~
+~
+0 0 6347
+D2
+~
+~
+0 0 6358
+D3
+~
+~
+0 0 6310
+D4
+~
+~
+0 0 6325
+S
+#6454
+Female Traveler Generator~
+This is where the travelers appear!
+~
+63 1024 0 0 0 0
+D0
+~
+~
+0 0 6365
+D1
+~
+~
+0 0 6358
+D2
+~
+~
+0 0 6340
+D3
+~
+~
+0 0 6325
+D4
+~
+~
+0 0 6310
+S
+#6455
+A Gravel Path~
+Small tufts of grass and short weeds thrust through the crushed white gravel of
+this path, splashing the white with bits of green. A small gate on the north
+side of the path leads to the Taris'Vaal Community Park, where the sound of
+children playing can be heard. To the west, the majestic walls of the City of
+Taris'Vaal thrust upwards into the sky.
+~
+63 4 0 0 0 0
+D0
+~
+~
+0 0 2400
+D1
+~
+~
+0 0 6456
+D2
+~
+~
+0 0 2997004
+D3
+~
+~
+0 0 6356
+S
+#6456
+A Gravel Path~
+Small tufts of grass and short weeds thrust through the crushed white gravel of
+this path, splashing the white with bits of green. A small, iron fence lines
+the path on either side, its rusted bars covered with thick growths of ivy. To
+the south, the beginnings of an old graveyard can be seen.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6457
+D3
+~
+~
+0 0 6455
+S
+#6457
+A Gravel Path~
+Small tufts of grass and short weeds thrust through the crushed white gravel of
+this path, splashing the white with bits of green. A small, iron fence lines
+the path on either side, its rusted bars covered with thick growths of ivy. To
+the south, the beginnings of an old graveyard can be seen.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6458
+D3
+~
+~
+0 0 6456
+S
+#6458
+A Gravel Path~
+Small tufts of grass and short weeds thrust through the crushed white gravel of
+this path, splashing the white with bits of green. A small, iron fence lines
+the path on either side, its rusted bars covered with thick growths of ivy. To
+the south, the beginnings of an old graveyard can be seen.
+~
+63 4 0 0 0 0
+D1
+~
+~
+0 0 2999008
+D2
+~
+~
+0 0 6459
+D3
+~
+~
+0 0 6457
+S
+#6459
+Before a Rusty Iron Gate~
+The gravel path comes to an end at these old iron gates. The smithwork spells
+out the words "Taris'Vaal Cemetery" in spidery letters, which bear traces of
+gilding but have been rendered rusty and bare through time and the dedicated
+work of nighttime vandals. From here you can see some distance into the
+graveyard before a light mist renders everything imperceptible.
+~
+63 0 1 0 0 17
+D0
+~
+~
+0 0 6458
+D2
+~
+~
+0 0 3700
+S
+#6460
+The Level 40 Treehouse~
+Upon entering the treehouse you notice it is sparsely furnished.  Two beige
+couches and a mohogony coffee table are in the center of the room.  Paintings of
+beautiful, scantily clad women adorn the walls.  Sounds from Taris'Vaal can be
+heard coming through the windows all around the room that also afford a full
+view of the city below.  The cozy atmosphere here makes for a nice place to
+relax and keep watch on the city or finish a project.  
+~
+63 28 256 0 0 0
+D5
+~
+~
+0 0 6300
+S
+#6461
+The Foyer of Dolph's Office~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6528
+D3
+~
+~
+0 0 6434
+S
+#6462
+The Final Resting Place of the Dark Nomads of the Abyss~
+This unfinished room was created by Anubis.
+~
+63 6660 0 0 0 0
+D0
+~
+undefined~
+0 0 6387
+S
+#6463
+An Inviting Tea Room~
+As you enter the room, you are enveloped in a soft light coming from candles
+placed on dainty white tables. Also upon the tables are tea sets and plates of
+delicate snacks. Turning your head to the left, you notice windows that have
+been covered in maroon curtains which cast a warm reddish light along with the
+glow of the candles. 
+~
+63 28 0 0 0 0
+D0
+~
+~
+0 0 6332
+D2
+~
+~
+0 0 6464
+S
+#6464
+The Tea Mistress's Bedroom~
+A large, fluffy bed dominates the room, heaped high with comfortable looking
+quilts. The walls are covered in elaborate paintings of blue skies and white,
+puffy clouds, with dragons of many different colors soaring around them. The
+amazing thing about the dragons is that they're moving, weaving in and out of
+the clouds in an amazing dance. To one side of the room is an enormous tub of
+hot water, surrounded by crimson curtains for privacy, venting odd-colored,
+aromatic steam. The eastern wall supports a large bookcase filled with all
+sorts of books, from casting ancient spells to how to catch pixies. 
+~
+63 8 0 0 0 0
+D0
+~
+~
+0 0 6463
+E
+green dragon~
+The small dragon doesn't move at all until you move closer to it.  
+Astonishingly, it jumps out of the painting and flutters to your ear, where its
+tiny wings ruffle your hair.  It then flutters back to it's painting and rejoins
+its friends.  It winks at you as you turn away.  
+~
+E
+paintings cloud clouds sky skies~
+The walls are covered in amazing paintings of many-colored dragons soaring
+through blue skies and around white, gleaming clouds.  A green dragon does not
+appear to be moving for some reason.  
+~
+E
+tub water~
+This huge tub appears to be able to fit over six people comfortably.  
+Surrounding the tub are ancient runes, placed here to magically relax the
+bathers.  Red steam slowly rises from the hot water.  
+~
+E
+steam~
+The red steam could possibly be an additional effect of the runes surrounding
+the hot tub.  It carries with it the scent of jasmine.  
+~
+E
+bookcase book books bookshelves bookcases shelf shelves~
+The bookcase is filled with books, mostly about dragons, but others as well.  
+There are tomes filled with powerful spells, biographies of ancient wizards and
+witches, and even survival guides and nature books.  
+~
+S
+#6465
+Cletus' Confectionary~
+The smell of sugar mixing with an awful body odor assaults your nose as you
+enter this shop. Empty boxes litter the floor, having been pulled from now
+empty shelves lining the walls. An immense man stands behind the counter,
+stuffing his face with various candies as he awaits his next batch to come out
+of the oven.
+~
+63 156 0 0 0 0
+D2
+~
+~
+0 0 6334
+S
+#6466
+An Entryway to Kyte's Office~
+This unfinished room was created by Anubis.
+~
+63 8192 0 0 0 0
+D0
+~
+~
+0 0 6467
+D2
+~
+~
+0 0 6437
+S
+#6467
+Kyte's Fluffy Wuffy Pile of Kitties~
+                  __     __,
+                      \,`~"~` /
+      .-=-.           /        \
+     / .-. \         ={        |=
+    (_/   \ \          \      / 
+           \ \        _/`'`'`b
+            \ `.__.-'`        \-._
+             |            '.__ `'-;_
+             |            _.' `'-.__)
+              \    ;_..--'/     //  \
+              |   /  /   |     //    |
+              \  \ \__)   \   //    /
+               \__)        './/   .'
+                             `'-'`
+~
+63 3584 0 0 0 0
+D2
+~
+~
+0 0 6466
+D4
+~
+~
+0 0 2500
+S
+#6468
+The Office of the Town Idiot~
+Vrise's office is a complex thing, which your mind cannot grasp... 
+Exaggerations and outright lies float through the air in abject complacency. 
+The walls shift and fade, and suddenly crash without warning, the floor is
+there, and then it is not, almost as if even the room cannot be honest or stable
+either.
+This is the realm of the Idiot... It's retarded!
+~
+63 1025 0 0 0 0
+D2
+~
+~
+0 0 6447
+S
+#6469
+At the Gates of Silvia Park~
+Large wooden gates have been opened and tied off to the walls of the park;
+granting access in and out of the peaceful area.  A calm and gentle breeze
+whistles through the area, softly caressing those in its path.  Butterflies of a
+deep blue and black flutter in on the breeze in search of the sweetness of the
+park's flowers.  The soft dirt path leads south into the serenity of Silvia
+Park, while it veers off into the city to the north.  
+~
+63 4 0 0 0 1
+D2
+~
+~
+0 0 6470
+D3
+~
+~
+0 0 6481
+E
+gate gates wood wooden~
+An inverted, arrowhead-shaped, coat of arms has been mounted to the wooden beams
+of each gate.  The gates themselves have been fashioned from the thick trunks of
+redwood trees.  Preserved vines have been decoratively placed in angles along
+the bottom corners of each.  
+~
+E
+coat arms plaque coatofarms coatarms plaques arrow arrows~
+Fashioned into the shape of an arrowhead pointed down; the coat of arms has a
+jagged edge that threatens the tender skinned.  Bands of purple and red
+intertwine with each other around the center edge of the arrowhead.  Framed
+within the bands is depicted the image of a mother wolf protecting a small boy
+and girl.  Carved in an extravagant script, the word 'Silvia' has been etched
+into the plaque above the dark grey wolf.  
+~
+S
+#6470
+Silvia Park~
+The dirt path from the north ends, tapering off to a soft green grass.  Bushes
+filled with beautiful flowers and tall trees are scattered in some sort of a
+symmetrical pattern around the park.  Fat little bumblebees buzz around the
+blooms, looking for a tasty snack of pollen.  The breeze is cool and crisp,
+stirring stray leaves up as it goes.  
+~
+63 0 0 0 0 2
+D0
+~
+~
+0 0 6469
+D1
+~
+~
+0 0 6477
+D3
+~
+~
+0 0 6483
+S
+#6471
+A Wood-Paneled Hallway~
+Thick, plush carpet lines the hallway floor and polished wood panels grace the
+walls, giving this hallway a cozy appearance. Several doors can be seen on
+either side of the hall, any one of them opening to an opulent room for
+travelers to rest. 
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6472
+D5
+~
+~
+0 0 6354
+S
+#6472
+A Wood-Paneled Hallway~
+Thick, plush carpet lines the hallway floor and polished wood panels grace the
+walls, giving this hallway a cozy appearance. Several doors can be seen on
+either side of the hall, any one of them opening to an opulent room for
+travelers to rest. 
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6473
+D2
+~
+~
+0 0 6471
+D3
+~
+~
+0 0 6475
+S
+#6473
+A Wood-Paneled Hallway~
+Thick, plush carpet lines the hallway floor and polished wood panels grace the
+walls, giving this hallway a cozy appearance. Several doors can be seen on
+either side of the hall, any one of them opening to an opulent room for
+travelers to rest. 
+~
+63 0 0 0 0 0
+D2
+~
+~
+0 0 6472
+D3
+~
+~
+0 0 6474
+S
+#6474
+An Opulent Room Within the Inn~
+Thick, luxurious carpet graces the floor of this opulent room. Nestled against
+the northern wall, a massive goose-down bed invites weary travelers to lose
+themselves in a deep, comfortable sleep. A large, marble-topped bar lines the
+west wall, containing bottles of the finest brews from througout the realm. 
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6473
+S
+#6475
+An Opulent Room Within the Inn~
+Thick, luxurious carpet graces the floor of this opulent room. Nestled against
+the northern wall, a massive goose-down bed invites weary travelers to lose
+themselves in a deep, comfortable sleep. Polished wood panelling covers the
+walls, adding a natural feel to the room. One of the panels along the western
+wall seems to have pulled loose, leaving a small gap. 
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6472
+D3
+~
+panel~
+1 -1 6476
+S
+#6476
+A Den of Thieves~
+Sounds of movement echo from all around as the entrance you came in through is
+suddenly blocked. You seem to be inside a secret hideout within the Inn. 
+Small tables and other plain furnishings clutter the room. A few small weapons,
+papers and so forth are scattered around, suggesting recent activity here. 
+Curtains cover the windows to this room, making it very dark. A crude carpet
+lying on the ground has been pulled aside, revealing the faint outline of a
+trapdoor to the street below. 
+~
+63 131081 0 0 0 0
+D3
+~
+~
+0 0 -1
+D5
+~
+trapdoor~
+1 0 6325
+S
+#6477
+A Game of Marbles~
+The grass tapers off to a small dirt patch.  A circle with lines running through
+it drawn with white chalk covers the ground, looking slightly smudged from
+constant use.  A small crowd of people gathers around, making bets in hushed
+tones as each shot is fired.  An upbeat repetive music drifts in from the east,
+as if to lull the crowd in that direction.  
+~
+63 0 0 0 0 2
+D1
+~
+~
+0 0 6478
+D2
+~
+~
+0 0 6521
+D3
+~
+~
+0 0 6470
+S
+#6478
+Under a Greenspire Linden Tree~
+A canopy of deep green leaves provides a welcomming shade to this area of the
+park.  Here the loud bustle of the park seems to fade away as if this tree was
+in an entirely seperate location.  A small, knotted rope dangles from one of the
+top-most branches of the tree, offering easy access for climbers.  The most
+distinct sound is that of the almost hypnotic music.  A small make-shift gate
+stands open to the east and a colorful tarp comes in to view.  The melody has
+gotten louder, and it's source must lie just ahead.  
+~
+63 0 0 0 0 2
+D1
+~
+~
+0 0 6479
+D2
+~
+~
+0 0 6522
+D3
+~
+~
+0 0 6477
+D4
+~
+~
+0 0 6510
+S
+#6479
+A Gaily Painted Carousel~
+The carousel's base and top are carved from smooth ivory marble veined with gold
+and pink.  Crystal roses adorn the intricate designs, shimmering softly.  There
+are all sorts of animals to ride on, attached by crystal poles to the ceiling
+and floor of the carousel.  The animals are painted so life-like it seems as
+though they will move at any moment from their perches of their own volition.  
+They all move up and down, round and round at a slow, steady pace to a strain of
+cheerful music.  Here and there, between the animals, there is a small marble
+bench lined with gold for those who do not wish the up and down motion.  
+~
+63 16 0 0 0 2
+D3
+~
+~
+0 0 6478
+S
+#6480
+The Base of a Steep Hill~
+This unfinished room was created by Saralise.
+~
+63 4 0 0 0 2
+D0
+~
+~
+0 0 6321
+D4
+~
+~
+0 0 6481
+S
+#6481
+A Grassy Path~
+This unfinished room was created by Saralise.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6469
+D5
+~
+~
+0 0 6480
+S
+#6482
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6481
+S
+#6483
+The Beginning of a Path~
+The pebbles of glistening white and sparkling pink spread off to the west and
+south.  West in the distance, a wolfish statue stands over the shimmering
+pathways.  Despite the local bustle and commotion, harmony fills the air.  As
+the many park visitors pass they greet each other merrily, in waves and
+gestures.  Redwood benches and iron lamp posts line the paths through the park,
+accompanied with delicate little dandelion blooms dancing in the gentle breeze.
+~
+63 0 0 0 0 2
+D1
+~
+~
+0 0 6470
+D2
+~
+~
+0 0 6516
+D3
+~
+~
+0 0 6484
+S
+#6484
+A Junction in the Path~
+The pebbles of glistening white and sparkling pink spread off in various
+directions.  To the west they bend around the statue of a wolf, east to the
+fountains and lake, and south to a stage of festivity.  Redwood benches and iron
+lamp posts line the paths through the park, accompanied with delicate little
+dandelion blooms dancing in the gentle breeze.  
+~
+63 0 0 0 0 2
+D1
+~
+~
+0 0 6483
+D2
+~
+~
+0 0 6512
+D3
+~
+~
+0 0 6485
+S
+#6485
+Along the Northern Path of Silvia Park~
+Trailing along the northern part of the park, the sound of birds fill the
+fragrant air.  The pebble path stretches to the west and east from the statue of
+Silvia the wolf.  Off to the east the entrance to the park can be seen across
+from a large and ornate fountain.  The western path curves around behind the
+statue, a large bay tree sitting at the corner of the intersecting paths.  
+~
+63 0 0 0 0 2
+D1
+~
+~
+0 0 6484
+D3
+~
+~
+0 0 6488
+S
+#6486
+The Entrance to the Landfill~
+An awful odor emanates from the south, permeating this entire area. A small
+stone path leads south from Ranger Way through a large wrought iron gate. 
+Beyond the gate, a massive pile of refuse can be seen, gathering vermin of all
+kind. Several custodians pass through the area, carrying sacks of garbage and
+adding them to the pile.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6353
+D2
+~
+~
+0 0 6487
+S
+#6487
+A Trash Heap~
+An untold amount of refuse has been piled here in one massive heap. Garbage
+from across all Taris'Vaal is carried here by custodians and thrown onto the
+pile. The odors range from the sickly sweet smell of rotting meat to the thick
+musky odor of discarded animal skins. Thousands of flies blot out sky as they
+mill about the garbage, and the collective sound of their wings overwhelms even
+the loudest shouts from the custodians.
+~
+63 4 0 0 0 0
+D0
+~
+~
+0 0 6486
+S
+#6488
+A Quiet Corner by Silvia the Wolf~
+A tall bay tree towers above the patrons walking along the glimmering path of
+pearly pebbles.  Even in the shade of the bay tree, the pebbles shine serenly
+along the ground.  The large statue of the wolf named Silvia has been erected
+opposite the tree; her two human children hiding behind her from the terrors of
+the world.  Far to the south, an enormous stone stands against the horizon, moss
+covering its giant-sized surface.  
+~
+63 0 0 0 0 2
+D1
+~
+~
+0 0 6485
+D2
+~
+~
+0 0 6489
+S
+#6489
+Behind the Statue of Silvia the Wolf~
+Benches of redwood and lamp posts of a dark jade-colored iron line the pebbled
+path.  Behind the eastern benches, a cast-iron fence chest high to a human
+stands between the park's patrons and the statue of Silvia the Wolf.  The back
+of the wolf and her two small human children can be seen from this vantage
+point.  The two small children, one a boy, one a girl, cower behind the
+protective body of Silvia.  Lush rose bushes have been planted around the base
+of the statue, formed into a zig-zag of white and pink blooms.  
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6488
+D2
+~
+~
+0 0 6490
+S
+#6490
+At an Intersection Along the Western Wall~
+The pearly paths of pebbles come to form a t-junction here, splitting to the
+north, east, and south.  Along the southern path, the pebbles pass beside a
+giant sized rock covered in moss of a brownish-green.  The northern path passes
+behind a statue of a large female wolf and two small children.  While to the
+east, the path of pebbles leads between the two.  A gentle breeze flows through
+the area, mingling the scents of flora, moss, and lake into one.  
+~
+63 0 0 0 0 2
+D0
+~
+~
+0 0 6489
+D2
+~
+~
+0 0 6509
+S
+#6491
+&WWishing Upon A Falling Star&n~
+&BAs you step into this strangely quiet room your eyes are drawn to the
+beautiful&n &Yglow&n &Bin the very back of the room.  Looking more carefully you
+realize that this glow is actually a&n &WWishing Star&n&B.  The longer you gaze
+at that star the more the glow seems to infuse you.  In the back of your mind
+you hear a faint whisper "Make a wish.  "&n
+~
+63 8200 0 0 0 0
+D1
+~
+~
+0 0 6433
+D3
+~
+~
+0 0 6492
+E
+glow~
+&YA Brilliant Golden Glow Surrounds You.  &n
+~
+S
+#6492
+&WStarfallen's&n Office in the &WClouds&n~
+&BYou've entered into a strangely dark room.  As your eyes slowly adjust to the
+dim lighting, you realize there are&n &Wtwinkling stars&n &Bcovering the walls
+and ceiling.  You feel almost as if you've fallen directly into the night sky.
+&n
+~
+63 2560 0 0 0 0
+D1
+~
+~
+0 0 6491
+E
+Stars~
+As you look closely at the stars they seem to reach out and enter your very
+being.  
+~
+S
+#6493
+&YRiko's Pub for Slackers~
+      .======================================.
+      | ___ ___ ___               _   _   _  |
+      | \_/ \_/ \_/ C|||C|||C||| |-| |-| |-| |
+      | _|_ _|_ _|_  ||| ||| ||| |_| |_| |_| |
+      '======================================'
+                                      ______
+           .:.    .:.                | SIGN |
+          C|||'  C|||'               |______|
+        ___|||____|||___________________||__
+        ____________________________________
+        |   ____    ____    ____    ____   |
+        |  (____)  (____)  (____)  (____)  |
+        |    ||      ||      ||      ||    |
+        |    ||      ||      ||      ||    |
+        '----||------||------||------||----'
+&MThe bar counter is carved from polished black marble, a nd occupies one side of
+the room. Different kinds of glasses are stacked above the bar, waiting to be
+filled. Looking to the right, you notice a VIP area with comfy couches and red
+velvet ropes. The sound of music is dimmed by the laughter and voices of
+several of the cheerful guests. On the bar counter you see glasses of beer and
+bowls filled with strange-looking peanuts.&n
+~
+63 8192 0 0 0 0
+D0
+~
+~
+0 0 6494
+D1
+~
+~
+0 0 6432
+E
+sign~
++----------------------------------+
+|                                  |
+|     Please tip the Barman        |
+|                                  |
++----------------------------------+
+               |    |
+               |    |
+~
+S
+T 6493
+#6494
+Riko's Office~
+Aint got nothing cool yet homie.
+~
+63 1073875601 0 0 0 0
+D2
+~
+~
+0 0 6493
+S
+#6495
+Aenarion's Office~
+You are in an unfinished room.
+~
+63 8192 0 0 0 0
+D0
+~
+~
+0 0 6448
+D2
+~
+~
+0 0 6496
+S
+#6496
+Aenarion's House...~
+You are in an unfinished room.
+~
+63 2560 0 0 0 0
+D0
+~
+~
+0 0 6495
+S
+#6497
+Ninja Court~
+The houses on this narrow court are old and weathered, their once vibrant colors
+now cracked with age.  However, the yards are well kept, lining the street with
+thick grass and tended gardens.  Several citizens stroll down the road, pausing
+momentarily to admire their neighbor's gardens before moving on.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6386
+D2
+~
+~
+0 0 6387
+S
+#6498
+Darkbane's Reception Area and Sundae Shoppe~
+There is something sinister about this poorly-lit reception area.  The
+front-desk is covered with cobwebs, and the empty receptionist's chair resembles
+a cross between a papasan and an iron maiden.  There is a dusty computer on the
+desk and its flickering green and black terminal are migraine inducing.  The
+visitors' chairs have been badly abused and are covered with putrified black and
+green slime - the result of an ice cream sundae party gone horribly, horribly
+wrong.  
+~
+63 8192 0 0 0 0
+D2
+~
+~
+0 0 6439
+D3
+~
+~
+0 0 6499
+E
+computer comp~
+A Commodore 64.  Running...  Maniac Mansion?  This does not bode well.  Does not
+bode well at all.  
+~
+S
+#6499
+The Anti-Antechamber~
+This unfinished room was created by Fluffybun.  It is mighty dark in this
+antechamber.  Truth be told, you are likely to be eaten by a Grue.  
+~
+63 3584 0 0 0 0
+D1
+~
+~
+0 0 6498
+S
+#6500
+Gangplank to Quitixieria's Office "Watch YOUR STEP!"~
+This board appears to be slowly rotting and soft in the middle.  Splinters and
+chips fray the edges of the waterlogged wood, and there is evidence of rats
+leaving from the room above.  
+~
+63 8192 0 0 0 0
+D2
+~
+~
+0 0 6441
+D4
+~
+~
+0 0 6501
+S
+#6501
+The Captain's Quarters~
+This room is well apportioned in dark woods glowing with a rich mahognay and
+walnut finish.  An immense teak desk takes up over half the office, and an old
+Ship's Wheel hangs from behind the desk.  A floor rug knit of albatross and gull
+feathers comforts the sore feet, while a pot of coffee percolates gently over
+the small stovetop in the corner of the room.  Several Ship's Planks, covered
+with signatures and faded with weather and age, are the true testament of this
+wily captain.  
+~
+63 2560 0 0 0 0
+D5
+~
+~
+0 0 6500
+S
+#6502
+A Walkway of Stolen Souls~
+The ground here is seperated by a gaping chasm, with no clear indication of how
+to get across.  Stepping forward closer to the edge reveals an eerie, yet firm
+walkway of dismembered bodies, which rises to meet your foot as you step
+cautiously into the air
+~
+63 8532 0 0 0 0
+D2
+~
+~
+0 0 6440
+D5
+~
+~
+0 0 6503
+S
+#6503
+The Main Office of Varius~
+This is a descriptive room description.
+~
+63 2588 0 0 0 0
+D4
+~
+~
+0 0 6502
+S
+#6504
+&BThe Cell Below Accarid's Office~
+Passing through the crimson curtains over the doorway, you experience sudden
+chill and dryness. The lair seems immaculately clean, and arranged in a way
+that might only be coherent in the mind of a madman. Dozens of mysterious
+tomes, artifacts, and vials line the walls haphazardly on all sides. A
+mechanical raven caws from its perch, warning you back to wherever you came
+from. An inscribed pentagram of metallic silver sand surrounded by arcane runes
+takes up one corner of the rough mahogany floor.
+~
+63 131084 0 0 0 0
+D1
+~
+~
+0 0 6434
+D4
+~
+~
+0 0 6531
+S
+#6505
+Smakula's Waiting Room~
+Foyer of Smakula's Office
+~
+63 8192 0 0 0 0
+D1
+~
+~
+0 0 6436
+D4
+~
+~
+0 0 6506
+S
+#6506
+Smakula's Office of Tranquility~
+This unfinished room was created by Anubis.
+~
+63 2560 0 0 0 0
+D5
+~
+~
+0 0 6505
+S
+#6507
+Hallway of S~
+&RYou are in a hallway&Y... &Gof S&n
+~
+63 8200 0 0 0 0
+D0
+~
+~
+0 0 6508
+D2
+~
+~
+0 0 6451
+S
+#6508
+&GSlurk's Room&B~
+Nothing.
+~
+63 1073744384 0 0 0 99
+D2
+~
+door~
+1 0 6507
+S
+#6509
+Upon the Western Path~
+Shimmering pebbles of pink and white form a wide path along the western side of
+the park.  Along the eastern side of the path an enourmous boulder covered in
+brownish-green moss stretches far into the sky.  A cast-iron fence stands as the
+only barrier between the massive stone and the pebbled path.  Tiny petals from
+the various flora that line the path have fallen limply onto the edges of the
+pebbles, mixing their blues, yellows, reds, greens and whites with the
+shimmering colors of the small rocks.  
+~
+63 0 0 0 0 2
+D0
+~
+~
+0 0 6490
+D2
+~
+~
+0 0 6511
+S
+#6510
+Within the Leafy Branches.~
+A small bird's nest is perched precariously in the crevice formed between two
+intersecting branches.  Crinkled, grey bark strips off the underlying wood at
+the slightest touch and emits a woodsy scent.  Red-breasted robins flit from
+branch to branch, chirping back and forth, and contributing to the general
+cacophony of sounds.  
+~
+63 257 0 0 0 3
+D5
+~
+~
+0 0 6478
+S
+#6511
+At the Southwestern Corner of Silvia Park~
+Nestled in the southern corner of the park, the breeze blows gently through the
+area.  Up against the park wall, diagonal from where the two pebble paths meet,
+a tall bay tree stands majestically.  Halfway up the trunk a large hole,
+surrounded by leaves and branches is barely noticeable.  A few old leaves have
+drifted down and lie scattered across the shiny pink and white pebbles.  Far to
+the north a large statue can be seen peeking behind the extraordinarily large
+boulder to the immediate northeast.  Park benches and lamp posts dot the sides
+of the paths, accompanied by flora of various colors and sizes.  
+~
+63 0 0 0 0 2
+D0
+~
+~
+0 0 6509
+S
+#6512
+In Front of Silvia the Wolf~
+Behind rows of pink and white rose bushes, a large monument has been erected in
+the shape of a motherly wolf.  Around her feet, two small children clutch to her
+body as she protects them from the dangers of the world.  A slight breeze flows
+through the area, mingling rose, dandelion, lake and willow and dances about the
+park's patrons senses.  Tiny white and pink pebbles act as a path to the other
+areas of Silvia Park.  
+~
+63 0 0 0 0 2
+D0
+~
+~
+0 0 6484
+D1
+~
+~
+0 0 6516
+D2
+~
+~
+0 0 6513
+S
+#6513
+Along the Central Path~
+The park's central path of pearly pebbles splits off to the west; glimmering
+between the large statue of Silvia and an enormous moss-covered stone.  On the
+eastern side of the central path, an ancient and tall weeping willow stands
+guarded behind a thick, cast-iron fence.  Further down the path towards the
+southeastern corner of the park, a redwood stage has been set up for the dancers
+and musicians of Taris'Vaal to perform for the crowds.  The glistening waters of
+Silvia Lake shimmer behind the stage and tree, filling the air with a semi-sweet
+fragrance.  
+~
+63 0 0 0 0 2
+D0
+~
+~
+0 0 6512
+D1
+~
+~
+0 0 6517
+D2
+~
+~
+0 0 6514
+S
+#6514
+Upon the Central Path of Silvia Park~
+Tiny pebbles of white and pink form a large path through the center of Silvia
+Park.  Benches and lamp posts line the western side of the path, a black
+cast-iron fence erected behind them.  A magnificently sized boulder stretches to
+the heavens directly behind them; it juts from the ground as if it sprouted
+there, and looks too large to have been moved to its current position by any
+mortals.  A grand wooden stage is off to the east, jovial music filling the air.
+
+~
+63 0 0 0 0 2
+D0
+~
+~
+0 0 6513
+D1
+~
+~
+0 0 6518
+D2
+~
+~
+0 0 6515
+S
+#6515
+Southeast of an Enormous Rock~
+A large portion of the northwestern horizon is blocked from sight by an enormous
+boulder jutting out of the ground.  Brownish-green moss covers almost the entire
+boulder, leaving only a few patches of greyish stone visible.  A miniature
+forest has been set up around the base of the rock, reaching across the ground
+from the stone to the cast-iron fence that has been erected around the
+monstrosity.  Redwood benches and large iron lamp posts line the path of pebbles
+towards the other parts of the park.  
+~
+63 0 0 0 0 2
+D0
+~
+~
+0 0 6514
+D1
+~
+~
+0 0 6519
+S
+#6516
+A Refreshment Stand~
+An artesian spring has been diverted to a fountain, to supply cool water to this
+refreshment stand.  As the park bustles with activity, a small girl mixes
+various berries and water into stout goblets.  Another woman places the goblets
+upon a smooth cherrywood counter surrounding the stand, and waves a wand over
+them, creating ready-to-serve drinks for every patron.  A red and white striped
+canopy has been erected overhead, providing a shady respite from the harsh sun.
+~
+63 8 0 0 0 2
+D0
+~
+~
+0 0 6483
+D1
+~
+~
+0 0 6520
+D2
+~
+~
+0 0 6517
+D3
+~
+~
+0 0 6512
+S
+#6517
+An Artesian Spring~
+Iron railings surround a circle of volcanic rock, protruding one arm above the
+rocks a large wooden tube deposits water into the basin of a short furrow.  The
+glistening crystalline water courses northward in the furrow.  The water pours
+into a deep stone cauldron covered by a bright multicolored stand.  
+~
+63 524289 0 0 0 6
+D0
+~
+~
+0 0 6516
+D2
+~
+~
+0 0 6518
+D3
+~
+~
+0 0 6513
+S
+#6518
+Next to the Dancer's Stage~
+Tiny pink and white pebbles glisten in the light as the pebbled path circles
+around a large wooden stage.  A redwood bench rests against a black-ironed fence
+along the north, an enormous and aged weeping willow growing behind it.  
+Laughter and music fill the air as the dancers perform for the park patrons.  
+Festive masks and other decor line the edges of the wooden stage, giving off a
+sense of merriment.  
+~
+63 0 0 0 0 2
+D0
+~
+~
+0 0 6517
+D2
+~
+~
+0 0 6519
+D3
+~
+~
+0 0 6514
+S
+#6519
+Next to the Dancer's Stage~
+Stepping rythmically upon a large wooden stage, the dancers of Silvia Park have
+drawn quite a crowd.  Laughing children, staring husbands and enraptured wives
+crowd around the stage in hopes of a good spot to watch the spectacle.  Gaily
+painted festival masks dot the edges of the stage, along with other flamboyant
+decor.  Tiny pebbles of a pink and white assortment glint and glimmer underfoot,
+the rounded rocks crunching together as people walk to and fro.  The path of
+pebbles wraps around the stage to the east and north, and heads west to the rest
+of the park and an enormous rock jutting out of the ground.  
+~
+63 0 0 0 0 2
+D0
+~
+~
+0 0 6518
+D3
+~
+~
+0 0 6515
+S
+#6520
+A Small Clearing~
+This unfinished room was created by Saralise.  A soft glow seems to surround the
+area.  Benches chiseled from clear crystal offer a brief respite from walking.
+Rose bushes with plump blooms are growing around the benches, some of their
+thorny vines entangling around the legs.  Delicious smells and the faint strains
+of a carousel waft in from the east, while to the west a dancer's stage and a
+tall statue of a wolf can be seen.  Tall, thick bushes prevent movement to the
+south.  
+~
+63 0 0 0 0 2
+D1
+~
+~
+0 0 6521
+D3
+~
+~
+0 0 6516
+S
+#6521
+A Small Crystal Bridge~
+A sparkling crystal bridge with bright green vines entwined about it stands
+proudly over where the earth seemingly begins to split open to reveal the waters
+of Lake Domine lapping the sand gently.  Tiny fish and even smaller tadpoles
+wriggle around on the shallow bank, looking for food.  Occasionally a larger
+fish tries to venture close for a snack, but cannot swim well enough to get a
+bite.  
+~
+63 524288 0 0 0 2
+D0
+~
+~
+0 0 6477
+D1
+~
+~
+0 0 6522
+D3
+~
+~
+0 0 6520
+S
+#6522
+Next to the Picnic Area~
+The pink pebbles of the pathway gradually blend with blue and green pebbles,
+causing an interesting gradient of colors.  The delicious aroma of freshly-made
+food drifts into the area on the breeze.  Two large wooden posts, each with a
+large blue and silver ribbon tied to their middles, stand proudly at the edge of
+the picnic area.  A large banner, painted with colorful swirls and abstract
+designs, is suspended between the posts.  
+~
+63 0 0 0 0 2
+D0
+~
+~
+0 0 6478
+D3
+~
+~
+0 0 6521
+E
+sign~
+&CWELCOME ONE AND ALL! 
+~
+S
+#6523
+The House of Alchemy~
+This unfinished room was created by Anubis.
+~
+63 156 0 0 0 0
+D0
+~
+~
+0 0 6310
+S
+#6524
+Taris'Vaal General Store~
+A blazing fire set upon a hearth in the east wall fills this store with a warm,
+soft glow. Wooden shelves fill the western half of the store, displaying
+various goods for travelling in the wild. Racks of cloaks sit in a small circle
+behind the shelves. A large counter lines the southern wall, and a rather rough
+looking man stands behind it.
+~
+63 28 0 0 0 24
+D0
+~
+~
+0 0 6309
+S
+#6525
+A Bustling Bakery~
+The smell of recently baked pie wafts between the walls of this tiny store. 
+Along the eastern wall, boxes await breads and cakes, which are resting atop the
+glass counter. Bits of blue ribbon sit on the granite floor in a small heap. 
+Just above the countertop, a small plaque bearing the words, "The Best Little
+Bakery in Taris'Vaal" hangs slightly askew.
+~
+63 156 0 0 0 24
+D2
+~
+~
+0 0 6332
+S
+#6526
+Zairzyne's Waiting Room~
+A big sign on the wall reads, '&RGO AWAY!&n'.
+~
+63 8192 0 0 0 0
+D3
+~
+~
+0 0 6435
+D5
+~
+~
+0 0 6527
+S
+#6527
+Descending into the pit of &RZairzyne&B~
+           &g__________ 
+          |          | 
+          |______(*)_| 
+          &R/\__----__/\ 
+         /_/&Y()&w||||&Y()&R\_\ 
+         |_\ &Yo&w||||&Yo &R/_| 
+         |----&WJeep&R----|   &MV&BR&COOOO&GMMM
+         &w|_|        |_|&n 
+~
+63 1073875456 0 0 0 0
+D4
+~
+~
+0 0 6526
+S
+#6528
+Dolph's Office~
+You are in Dolph's inner office. You see an IKEA desk, and an IKEA chair, and an IKEA lamp.
+~
+63 0 0 0 0 0
+D3
+~
+~
+0 0 6461
+S
+#6529
+The Foyer of Samehdi's Office~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6437
+D2
+~
+~
+0 0 6530
+S
+#6530
+Samehdi's Office~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6529
+S
+#6531
+&BThe Depths of _-=&RAccarid's Lair&B=-_~
+You are struck by the worst dark and cold you have ever felt. This the
+preference of Accarid, the denizen of this god-foresaken place. Silent
+lightning flashes on the nonexistent horizon in the darkness, illuminating a
+stone desk, high-backed throne of iron, and a nightmarish magpie watching you
+keenly from above. Suddenly an easy chair sweeps you off your feet and takes
+you before the desk, and you feel yourself sink into it, toothed leather binding
+around your wrists- there is no escape for you now.
+~
+63 1006766120 27016 0 0 13
+D0
+~
+~
+0 0 400
+D1
+~
+~
+0 0 900
+D2
+~
+~
+0 0 12000
+D3
+~
+~
+0 0 4600
+D4
+~
+~
+0 0 12900
+D5
+~
+Hatch~
+0 0 6504
+S
+#6532
+Quest God Headquarters (TM)~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6438
+D1
+~
+~
+0 0 6533
+S
+#6533
+The Office of Mashanu~
+   The darkness blocks your eyes from making out anything that might be in this
+office. As you feel around with your hands they seem to hit objects but unable
+to see you can not make out what they are and maybe you don't really want to
+know. The darkness slowly starts to make your head spin causing great amounts
+of dizziness. As your equilibrium fails completely you fall over hitting the
+wall. All your weight is supported by the stone office wall but your feet start
+to slide out from under you. Afraid to find out what is on the ground with your
+bum you try to fight the slide. Scratching at the walls your nails fill with
+smelly goop. 
+~
+63 9 0 0 0 0
+D3
+~
+~
+0 0 6532
+S
+#6534
+MaGGiC's Lair of Ultimate Devastation~
+Fowl smells and black charred stains cover the wall in this dark gloomy lair.  
+The thick blankets of smoke are quickly rising from the depths below.  (work in
+progress)
+~
+63 0 0 0 0 0
+D2
+~
+~
+0 0 6438
+D5
+~
+~
+0 0 6535
+S
+#6535
+A MaGGiCal Abomination~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D4
+~
+~
+0 0 6534
+S
+#6536
+Tazarthi's Waiting Room~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D3
+~
+~
+0 0 6436
+D4
+~
+~
+0 0 6537
+S
+#6537
+Tazarthi's Office~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D5
+~
+~
+0 0 6536
+S
+#6538
+The Foyer to Nadddre's Office~
+This unfinished room was created by Accarid.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6439
+D4
+~
+~
+0 0 6539
+S
+#6539
+The Lair of The &RPyromancer~
+This unfinished room was created by Accarid.
+~
+63 0 0 0 0 0
+D5
+~
+~
+0 0 6538
+S
+#6540
+Taris'Vaal Traders~
+This unfinished room was created by Bluntmaster.
+~
+63 0 4 0 0 2
+D0
+~
+~
+0 0 6347
+S
+#6541
+A Swirling Vortex~
+This unfinished room was created by Vexus.
+~
+63 8 0 0 0 0
+D0
+~
+~
+0 0 6440
+D4
+~
+~
+0 0 6542
+S
+#6542
+The Black Throne of Vexus~
+This unfinished room was created by Vexus.
+~
+63 65544 0 0 0 0
+D5
+~
+~
+0 0 6541
+S
+#6543
+Taris' Blacksmith~
+This unfinished room was created by Bluntmaster.
+~
+63 4 0 0 0 0
+D2
+~
+~
+0 0 6307
+S
+#6544
+A Small Room Behind the Bar~
+This room has a cot and a toilet, but it is obviously not intended to be a
+living area. Crates are stacked all around the room, except for the spot over a
+trapdoor in the floor.
+~
+63 0 0 0 0 0
+D0
+~
+door~
+1 0 6317
+D5
+~
+trapdoor~
+1 0 935
+S
+#6545
+Beneath the Bridge, on the Taris~
+This unfinished room was created by Accarid.
+~
+63 4 0 0 0 75
+D0
+~
+~
+0 0 941
+D4
+~
+~
+0 0 6350
+S
+#6546
+Myrna's Waiting Chamber~
+You are greeted by the sight of a field of lavender under a pale green sky,
+courtesy of the tall windows that line the far wall. Bamboo grows in
+stone-filled pots scattered about the room. A blue velvet couch invites you to
+stay and rest awhile, but for the traveler with more urgency a spiral staircase
+leads up to Myrna's office.
+~
+63 24 0 0 0 0
+D3
+~
+~
+0 0 6433
+D4
+~
+~
+0 0 6547
+S
+#6547
+Myrna's Office~
+A wall of windows fills the room with natural light. In lieu of a desk is a
+drafting table buried under piles of paper, half-done blueprints, and little
+mechanical contraptions. As you enter the room, a number of them whir to life,
+gears turning and metal parts clacking. A chalkboard on the wall bears a simple
+message: "Type t Myrna if you need me."  
+~
+63 24 0 0 0 0
+D5
+~
+~
+0 0 6546
+S
+#6548
+The Library of Taris'Vaal~
+This room still requires a description
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6303
+S
+#6549
+The Hall of the Gods - Level 42~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6407
+D3
+~
+~
+0 0 6441
+S
+#6550
+The Ebony Universe before Devarius' Office~
+All around--a peaceful blackness--an almost nothing. Tones and loving whispers
+from your past and infinite future amble peacefully above the air, in harmony
+with your pulsing heart. No ground exists, but with every tentative step you
+take, rose and periwinkle light thickens to illuminate a path now negotiated
+between you and the attentive universe. Above, a tiny scintilla of brilliant
+light flickers with all the power of some mighty quasar--an opening in this
+wondrous stillness.
+~
+63 -2147483551 1 0 0 0
+D0
+~
+~
+0 0 6441
+D4
+~
+~
+0 0 6551
+D5
+~
+~
+0 0 -1
+S
+#6551
+The Twilit Heart of the Universe~
+Sunset after sunrise layer and merge in the sky, from eons of sunsets already
+spun by the planets, and from every sunrise yet to pass. Pastel moons calmly
+wane and wax through suns and binary stars going to sleep behind rose colored
+skies. Strange birds and beautiful winged creatures appear and disappear as
+smoothly. The peace overwhelms your senses, and you feel a blessing
+regenerating your body, no doubt enhanced by Devarius' frequent meditations in
+this space on new vistas seen in Kuvia.
+~
+63 1073741840 1 0 0 0
+D5
+~
+~
+0 0 6550
+S
+#6552
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D1
+~
+~
+0 0 6435
+D2
+~
+~
+0 0 6553
+S
+#6553
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+63 0 0 0 0 0
+D0
+~
+~
+0 0 6552
+S
+#6554
+&YThe Hallowed Golden Gates&B~
+&WTwo giant pillars of the purest marble stone form the foundation for an
+equally impressive gateway, gleaming with a heavenly golden shine. The light of
+the sun itself seems to radiate from the gates, reflecting a heavenly aura upon
+those who approach. A bright white light is all that may be seen by the mortal
+eye behind the gates, yet there is no sense of fear or desperation -- only true
+serenity and ultimate peace. &n
+~
+63 0 0 0 0 0
+D2
+~
+~
+0 0 6449
+S
+T 6449
+$~

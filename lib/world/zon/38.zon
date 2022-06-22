@@ -1,0 +1,33 @@
+#38
+Accarid~
+The Lake of Darkmoor~
+3800 3899 30 1 a 0 0 0 0 0
+T 0 2 3807 3877 	(Composite Root Echo)
+D 0 3878 3 4 	(The Chamber of Elven Memories)
+M 0 3805 1 3878 	(Ae the sentient wall)
+O 0 3804 1 3878 	(a heavy black box)
+P 1 3803 10000 3804 	(a pair of razor-sharp elven armguards)
+P 1 3805 10000 3804 	(the mithril pendant of an elven king)
+P 1 3806 1 3804 	(an elven ranger's bridle)
+P 1 3807 10000 3804 	(a crimson soulgem, forged of crystalline dragonblood)
+P 1 3808 10000 3804 	(a girdle of chainmail, set with a mithril plate)
+P 1 3817 1 3804 	("A Prophecy of Kuvia")
+M 0 3807 1 3859 	(the dryad woodsmith)
+G 1 3812 10000 -1 	(a pair of ashen greaves)
+G 1 3813 10000 -1 	(an oaknot ring)
+G 1 3814 10000 -1 	(a redwood breastplate)
+G 1 3815 10000 -1 	(a treant towershield)
+G 1 3816 10000 -1 	(a wristguard of golden sequoia wood)
+M 0 3806 1 3858 	(a dryad apothecary)
+G 1 4641 10000 -1 	(a sweetleaf potion)
+G 1 4643 10000 -1 	(a potion of vitality)
+G 1 3809 10000 -1 	(a strong brew of treant leaves)
+G 1 3810 10000 -1 	(distilled essence of moonlight)
+G 1 3811 10000 -1 	(a wooden flask of mole liquor)
+D 0 3875 1 4 	(A Sloping, Boulder-Lined Tunnel)
+M 0 3804 1 3885 	(Giias the Treant Elder)
+O 0 3802 1 3868 	(an ancient, primitive portal)
+M 0 3800 1 3801 	(the Treant)
+E 1 3801 10000 16 	(a long, heavy hickory switch)
+S
+$

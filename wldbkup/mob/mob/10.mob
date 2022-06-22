@@ -1,0 +1,76 @@
+#1000
+Danni D'Arythnia mage woman~
+the magess Danni D'Arythnia~
+The great magess Danni D'Arythnia is pacing the floor here.
+~
+This sad looking woman is clad in a blue cloak and her golden hair lays limply
+about her shoulders.  She seems to be looking for something important within the
+wreckage of her workroom.  
+~
+74 0 0 0 8192 0 0 0 1000 E
+20 15 10 4d20+0 5d10+5
+50000 1000000
+8 8 2
+BareHandAttack: 2
+E
+#1001
+garden pixie~
+a garden pixie~
+A dainty garden pixie is flitting around the gardens.
+~
+This pixie looks like a beautiful human female, only she's less than a foot
+tall.  Her wings are shimmering and irridescent with every color of the rainbow
+within them.  The gossamer gown that adorns her tiny frame shines with an
+unearthly light.  
+~
+72 0 0 0 0 0 0 0 1000 E
+18 10 -10 20d20+50 5d6+10
+1000 160000
+8 8 2
+BareHandAttack: 1
+E
+#1002
+bug glow fly~
+a glowing bug~
+A glowing green fly is buzzing around here.
+~
+This little bug is glowing rather brightly.  It flies around merrily with a
+trail of humming from it's wings.  
+~
+72 0 0 0 0 0 0 0 0 E
+18 10 0 20d20+50 10d8+10
+1000000 1000
+8 8 0
+BareHandAttack: 1
+E
+#1003
+spirit guide d'arythnia~
+the spirit guide of D'Arythnia~
+A beautiful spirit is hovering here, guarding the gates to D'Arythnia.
+~
+This translucent spirit has a beautiful face etched with years of sadness.  A
+flowing gown of ethereal mist flows about her.  She is surrounded by a faint
+unearthly light.  
+~
+4431882 0 0 0 545792000 0 0 0 1000 E
+40 -70 -10 30d100+2000 100d60+90
+1000000 1500000
+8 8 2
+BareHandAttack: 12
+E
+#1004
+D'Arythnia Kalot warrior~
+Kalot D'Arythnia~
+The honorable warrior, Kalot D'Arythnia, is pacing the room.
+~
+This man's chisled face has obviously seen more than mortal eyes were ever meant
+to see.  His eyes hold a deep sense of pain and suffering, but his back is
+straight and his head is held high.  He pulses with an unearthly light, and at
+moments shimmers out
+~
+10 0 0 0 0 0 0 0 1000 E
+20 -30 -10 10d20+300 7d10+50
+10000 250000
+8 8 1
+E
+$

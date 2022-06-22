@@ -1,0 +1,178 @@
+#9700
+man scout~
+a weather beaten scout~
+A weather beaten scout crouches here.
+~
+The sun and wind have almost erased the features of this scout, making it easier
+to hide.  His hands clutch a hardened spear of charred wood, and his tattered
+clothes blend him into the background of the shifting sand.
+~
+8 0 0 0 0 0 0 0 100 E
+12 10 5 5d10+0 5d4+20
+200 50420
+8 8 0
+BareHandAttack: 14
+E
+T 1
+#9701
+nomad man bedouin~
+the sunblistered nomad~
+A sunblistered nomad attacks you!
+~
+This nomad has the eyes of a desert rattlesnake, black and unseeing from gazing
+into the sun.  His skin is burnished leather, wrinkles upon wrinkles, deeper and
+deeper.  His movements are fluid under his barsooki, and the cords on his arms
+and neck stand out from his taut skin.  
+~
+41064 0 0 0 102236160 0 0 0 100 E
+14 15 5 8d10+0 6d6+6
+400 8000
+8 8 1
+BareHandAttack: 11
+E
+#9702
+man scout~
+a wary scout~
+A cautious man keeps a sharp eye on the area.
+~
+This is test mob one.
+~
+188442 0 0 0 16 0 0 0 0 E
+5 15 10 1d1+500 1d5+5
+0 1
+8 8 0
+E
+T 9700
+#9703
+nomad warrior man dududdude~
+a nomadic warrior~
+A powerful man of the desert stands at the ready.
+~
+This is test mob number two.
+~
+58 0 0 0 16 0 0 0 -360 E
+20 5 10 1d1+1300 4d1+4
+0 350000
+8 8 1
+E
+#9710
+camel~
+the peaceful camel~
+A peaceful camel stands here chewing cud.
+~
+This camel is pretty relaxed, even for a camel.  It is sweating in the hot sun,
+and the aroma of camel sweat is pretty overpowering.  It is a true camel, with
+just the one hump.  
+~
+8 0 0 0 0 0 0 0 0 E
+10 10 3 10d20+0 10d4+10
+0 65000
+8 8 0
+BareHandAttack: 4
+E
+#9711
+scorpion~
+the small scorpion~
+A small scorpion covered in dust stands here.
+~
+This tiny scorpion is no longer than your hand, but its tail glistens with
+poison, and its claws look powerful!  Underneath its light cover of dust, it
+appears to have a red carapace with greenish stripes.  
+~
+12 0 0 0 34603008 0 0 0 0 E
+8 10 2 6d12+0 5d10+10
+0 34000
+8 8 0
+BareHandAttack: 1
+E
+#9720
+lizard gila~
+the poisonous lizard~
+The poisonous lizard rests here, waiting for a meal.
+~
+A large lizard with gold and brown markings across its back glares back at you.
+Poison dribbles from the corners of its mouth, causing the sand underneath the
+lizard to smoke and discolor.  
+~
+40 0 0 0 268435456 0 0 0 0 E
+12 10 1 5d20+0 8d10+10
+1 15000
+8 8 0
+BareHandAttack: 4
+E
+#9731
+archer guard man~
+the sunbrowned archer~
+A sunbrowned archer stands here, eyes shielded against the sun.
+~
+This nomad appears to be a little better fed and watered than his friends below.
+His eyes are jet black from peering off into the burning horizon of this desert.
+His hands keep a bow and arrow notched and ready for anyone who has made it to
+this hidden fortress in the sand.  
+~
+74 0 0 0 1572884 0 0 0 100 E
+16 14 3 10d20+10 8d8+20
+1000 65000
+8 8 1
+BareHandAttack: 6
+E
+#9736
+man Nahr Joon~
+Nahr Joon~
+Nahr Joon stands here, a look of impatience on his face.
+~
+Nahr Joon stands boldly before you, a look of impatience on his face.  The
+leader of this tribe of nomads, he stands a full 3 inches taller than his
+underlings.  His barsooki is a little tight around his belly, probably a result
+of too much mutton and not enough exercise.  
+~
+42 0 0 0 68681728 0 0 0 100 E
+17 10 2 4d100+100 10d6+7
+25000 758000
+8 8 1
+BareHandAttack: 5
+E
+#9737
+woman nomad hoveldweller~
+the nomad~
+A hunched over nomad stands here.
+~
+This ancient resident of the hovel appears to have been here since the desert
+was an ocean.  Wrinkles upon wrinkles line her blistered cancerous face, and
+dark splotches of melanomas spring from her forehead and nose.  
+~
+42 0 0 0 1048576 0 0 0 100 E
+12 17 8 3d20+200 4d12+3
+2 75650
+8 8 2
+E
+#9739
+nomad~
+the tattered nomad~
+A tattered nomad blistered from the sun stands here.
+~
+This woman has somehow managed to survive the harsh conditions of the Nahr Joon,
+but it looks like it was a close race.  She staggers almost blind, hunched over
+with the weight of the heat and sun beating down upon her relentlessly.  
+~
+44 0 0 0 33554436 0 0 0 100 E
+10 15 2 1d1+200 5d9+5
+30 25000
+8 8 2
+BareHandAttack: 13
+E
+#9743
+priest nomad~
+the temple priest~
+A temple priest stands here.
+~
+The high priest of Nahr Joon looks a lot like an uncle who comes to the family
+reunion just to handle the barbeque chores, but only if your family looks like a
+sunbrowned, blistered nomad with dark onyx skin.  
+~
+131118 0 0 0 361758724 0 0 0 400 E
+23 -50 0 30d20+2000 10d100+50
+125000 750000
+8 8 1
+E
+$

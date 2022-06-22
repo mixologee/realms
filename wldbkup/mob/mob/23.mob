@@ -1,0 +1,17 @@
+#2300
+cat eithne~
+Eithne~
+A tuxedo cat with a crinkled nose is curled in a ball dozing.
+~
+This small cat is mostly black, with a white face, white mittens on her front
+paws, and white legs.  A black spot slightly off center under her nose gives her
+the appearance of a Charlie Chaplin mustache.  Her long black tail has a kink in
+the end.  
+~
+90 0 0 0 0 0 0 0 1000 E
+50 -30 10 1d1+100000 16d4+50
+1 1
+8 8 2
+E
+T 2300
+$

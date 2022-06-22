@@ -1,0 +1,185 @@
+#2300
+darkling assassin~
+a darkling assassin~
+A pale-skinned humanoid with scraggly thorned wings stalks about in the darkness.
+~
+It looks unfinished.
+~
+1048744 0 0 0 1574992 0 0 0 -250 E
+35 -10 5 7d7+1000 5d5+20
+350 122500
+8 8 1
+Clss: 7
+E
+#2301
+darkling priestess~
+a darkling priestess~
+A small, pale humanoid with scraggly thorned wings stands here wearing a scant priestess' dress.
+~
+It looks unfinished.
+~
+1050760 0 0 0 541008 0 0 0 -250 E
+35 9 9 7d7+1200 5d2+5
+350 122500
+8 8 2
+BareHandAttack: 13
+Clss: 6
+E
+#2302
+darkling elite~
+a darkling elite~
+A wiry-looking darkling stands here, practically attached to his broadsword.
+~
+It looks unfinished.
+~
+1048744 0 0 0 1575248 64 0 0 -250 E
+35 -10 4 7d7+1300 7d5+25
+350 122500
+8 8 1
+BareHandAttack: 13
+Att1: 30
+Att2: 30
+Att3: 30
+Clss: 8
+E
+#2303
+darkling warmage~
+a darkling warmage~
+A ghostly humanoid emerges from the shadows, enshrouded in flames.
+~
+It looks unfinished.
+~
+1050792 0 0 0 2128 512 0 0 -250 E
+35 9 9 7d7+1000 2d5+5
+350 122500
+8 8 1
+BareHandAttack: 13
+Clss: 5
+E
+#2304
+Thistlewrought darkling priestess~
+Thistlewrought the high priestess~
+A beautiful darkling priestess rests before the altar, deep in thought.
+~
+It looks unfinished.
+~
+2184 0 0 0 526712 0 0 0 -250 E
+39 7 9 7d7+2200 3d6+6
+390 152100
+8 8 2
+Clss: 17
+E
+#2305
+Briarborn darkling assassin~
+Briarborn the darkling assassin~
+A darkling with sharp thorns jutting out at every angle crouches here, ready to strike.
+~
+It looks unfinished.
+~
+1050792 0 0 0 1573224 0 0 0 -250 E
+39 -30 5 7d7+2500 6d6+30
+390 152100
+8 8 1
+BareHandAttack: 13
+Att1: 30
+Att2: 30
+Clss: 13
+E
+#2306
+Ashlit darkling commander~
+Ashlit the darkling commander~
+A broad-shouldered, lithe darkling stands here decked out in darkling armor.
+~
+It looks unfinished.
+~
+1048744 0 0 0 16779640 16 0 0 -250 E
+39 -30 0 7d7+1500 6d6+30
+390 152100
+8 8 1
+BareHandAttack: 13
+Att1: 30
+Att2: 30
+Att3: 30
+Clss: 10
+E
+#2307
+Oakkin darkling sorcerer~
+Oakkin the master sorcerer~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+1048616 0 0 0 526456 516 0 0 -250 E
+39 7 9 7d7+1100 6d6+6
+390 152100
+8 8 2
+BareHandAttack: 13
+Clss: 19
+E
+#2308
+darkling matriarch queen~
+Terre the darkling matriarch~
+A lovely nymph rests with her delicate legs up on the throne.
+~
+It looks unfinished.
+~
+2184 0 0 0 549200 0 0 0 -250 E
+40 -20 7 8d8+2000 7d6+40
+400 160000
+8 8 2
+BareHandAttack: 13
+Att1: 35
+Att2: 35
+Att3: 35
+Clss: 14
+E
+#2309
+darkling bodyguard~
+a darkling bodyguard~
+A savage-looking darkling creeps around the throne, ready to rip anyone who comes within range to shreds.
+~
+It looks unfinished.
+~
+40 0 0 0 9988464 0 0 0 -250 E
+38 -30 -12 7d7+1300 6d6+20
+380 144400
+8 8 1
+BareHandAttack: 8
+Att1: 35
+Att2: 35
+Att3: 35
+Clss: 10
+E
+#2310
+homunculus~
+a homunculus~
+A small, semitransparent humanoid made of plant matter stands here, gazing at you curiously.
+~
+It looks unfinished.
+~
+134988168 0 0 0 10051704 36 0 0 100 E
+30 0 -5 6d6+3000 10d4+10
+0 90000
+8 8 0
+BareHandAttack: 13
+Att1: 35
+Att2: 35
+Att3: 35
+E
+#2311
+leech nightmare~
+the nightmare leech~
+A massive mottled brown creature spans the space between the east and west walls.
+~
+It looks unfinished.
+~
+253962 2 0 0 0 0 0 0 0 E
+40 -80 0 8d8+9000 4d4+6
+10000 160000
+8 8 0
+Att1: 10
+Att2: 10
+Att3: 10
+Clss: 2
+E
+$

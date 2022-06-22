@@ -1,0 +1,85 @@
+#13500
+skeleton skeletal bone wolf~
+a skeletal dire wolf~
+Fires burn in the empty shell of this wolf's head where its eyes used to be during life.
+~
+It looks unfinished.
+~
+40968 0 0 0 132096 0 0 0 -100 E
+15 0 2 100d100+0 10d6+10
+0 22500
+8 8 0
+BareHandAttack: 4
+Att1: 8
+Clss: 1
+E
+#13501
+Synthia~
+a clone of Synthia~
+A beautiful woman with dark hair and skin stands here in a white robe, waiting expectantly.
+~
+It looks unfinished.
+~
+43064 0 0 0 336 65 0 0 -850 E
+50 -70 9 100d300+500 6d6+90
+100000 250000
+8 8 2
+BareHandAttack: 8
+Clss: 13
+E
+#13502
+Synthia~
+a clone of Synthia~
+A beautiful woman stands here in a white robe, waiting expectantly.
+~
+It looks unfinished.
+~
+41016 0 0 0 336 65 0 0 -850 E
+50 4 10 100d250+500 4d4+8
+100000 250000
+8 8 2
+BareHandAttack: 8
+Clss: 19
+E
+#13503
+Synthia~
+a clone of Synthia~
+A beautiful woman with dark hair and skin stands here in a white robe, waiting expectantly.
+~
+It looks unfinished.
+~
+8250 0 0 0 336 64 0 0 -850 E
+50 4 9 100d250+500 4d4+8
+100000 250000
+8 8 2
+BareHandAttack: 13
+Clss: 17
+E
+#13504
+Synthia~
+a clone of Synthia~
+A beautiful woman with dark hair and skin stands here in a white robe, waiting expectantly.
+~
+It looks unfinished.
+~
+10296 0 0 0 336 64 0 0 -850 E
+50 4 -20 100d350+500 8d8+8
+100000 250000
+8 8 2
+BareHandAttack: 13
+Clss: 10
+E
+#13505
+Synthia~
+what is left of Synthia~
+Synthia drifts through the air, trailing mist and moaning in agony.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 -900 E
+50 20 -20 100d100+500 0d0+0
+0 250000
+8 8 2
+Clss: 1
+E
+$

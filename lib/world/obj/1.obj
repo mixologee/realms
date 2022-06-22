@@ -1,0 +1,104 @@
+#100
+note paper message~
+a short note~
+A flimsy paper is lying here.~
+~
+16 q 0 0 0 a 0 0 0 0 0 0 0
+1 0 0 0
+1 100 0 0
+T 499
+#101
+quill pen~
+a small feather~
+A small white feather is lying here in the dirt.~
+~
+21 q 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1 100 0 0
+#111
+pandora box~
+pandora's box~
+A small glowing chest.~
+~
+1 uB 0 0 0 ap 0 0 0 defghilmnoxyzA d 0 0
+0 0 0 0
+0 0 0 41
+A
+18 100
+A
+19 100
+A
+13 25
+A
+12 25
+#126
+stone fire elemental~
+a fiery red stone~
+A small res stone is lying here.~
+~
+41 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+A
+1 5
+#127
+stone earth elemental~
+a small brown stone~
+A small brown stone is lying here.~
+~
+42 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+A
+1 5
+#128
+stone air elemental~
+a wispy gray stone~
+A small gray stone is lying here.~
+~
+43 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+A
+1 5
+#129
+stone water elemental~
+a clear blue stone~
+A small red stone is lying here~
+~
+44 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+A
+1 5
+#130
+stone death elemental~
+a black onyx stone~
+A small black stone is lying here~
+~
+45 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+A
+1 5
+#149
+bow odoyle~
+Great Bow of O'Doyle~
+A huge bow with the words "O'Doyle Rules!!" etched into it rests here.~
+~
+25 r 0 0 0 akn 0 0 0 0 0 0 0
+0 10 10 5
+10 2000000 0 1
+A
+18 50
+A
+19 50
+#150
+arrow odoyle~
+Great Arrow of O'Doyle~
+O'Doyle's Great Arrow is lying here.~
+~
+29 r 0 0 0 ao 0 0 0 0 0 0 0
+0 30 50 0
+1 1000000 0 32
+$~

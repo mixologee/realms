@@ -1,0 +1,21 @@
+#30000
+Stepping into the Inferno~
+You are in an unfinished room.
+~
+300 0 0 0 0 0
+D2
+~
+~
+0 0 30001
+S
+#30001
+The Gates of Hell~
+This unfinished room was created by Anubis.
+~
+300 0 0 0 0 0
+D0
+~
+~
+0 0 30000
+S
+$~

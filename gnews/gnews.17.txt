@@ -1,0 +1,34 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C17&c]. Type NEWS 17 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+Server Move / Vacation
+
+I moved the server today from my house to my company co-lo. We are now on
+a T3 so I don't think lag will ever be a problem for a while. The new IP
+is 209.195.205.206. The DNS should be updated and resolve realmsofkuvia.com
+by Saturday 8/9.
+
+I will be on vacation from Friday 8/8 until Sat 8/16. I will be on a boat
+until Thurs 8/14. After that, I may be able to pop in for a bit here and
+there but don't expect me back completely until 8/17. 
+
+&YEdit by Slurk: &wI will be watching the game for downtime etc.  If you
+                 are trying to get on and think its crashed, please 
+                 contact me via email at psionic98@gmail.com&n 

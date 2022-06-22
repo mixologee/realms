@@ -1,0 +1,227 @@
+#3300
+lurker~
+a menacing lurker~
+&d!
+~
+It looks unfinished.
+~
+1048744 0 0 0 1073760336 0 0 0 -958 E
+35 -30 -8 6d6+6000 16d6+25
+0 122500
+8 8 0
+BareHandAttack: 4
+Att1: 50
+Att2: 100
+Clss: 14
+E
+#3301
+Necromancer~
+the corporeal spirit of a Necromancer~
+A ragged, hollow-eyed human being begins to utter incantations and walk slowly towards you.
+~
+It looks unfinished.
+~
+237608 0 0 0 16472 5 0 0 -1000 E
+30 10 9 6d6+2500 5d5+20
+164 90000
+8 8 1
+Clss: 18
+E
+#3302
+Strider~
+the Strider~
+A strange man dressed all in black and enshrouded in mist walks the halls of the labyrinth.
+~
+It looks unfinished.
+~
+1048616 0 0 0 1654856 0 0 0 -850 E
+33 -30 6 6d6+2750 5d5+30
+673 108900
+8 8 1
+BareHandAttack: 13
+Clss: 13
+E
+#3303
+mist crimson~
+a crimson mist, shackled in ethereal chains~
+&rA deep maroon mist drifts through the passage, surrounded by ethereal shackles.
+~
+It looks unfinished.
+~
+40 0 0 0 64 0 0 0 -1000 E
+34 9 -11 6d6+3000 5d5+5
+0 115600
+8 8 0
+Clss: 15
+E
+#3304
+darkness~
+the Darkness~
+&d!
+~
+It looks unfinished.
+~
+1048617 0 0 0 88 512 0 0 -1000 E
+32 -30 -11 6d6+6503 50d1+1
+0 102400
+8 8 0
+Clss: 9
+E
+#3305
+basilisk~
+the basilisk~
+A horrible serpent rears its ugly head in your direction - avert your eyes!
+~
+It looks unfinished.
+~
+1048616 0 0 0 88 0 0 0 -980 E
+38 -20 -12 6d6+6666 12d6+20
+0 144400
+8 8 2
+BareHandAttack: 4
+Att1: 50
+Clss: 21
+E
+#3306
+ooze~
+an evil ooze~
+A strange, gelatinous substance undulates rapidly across the floor towards you.
+~
+It looks unfinished.
+~
+56 0 0 0 0 0 0 0 -750 E
+31 10 -8 6d6+1000 5d5+5
+0 96100
+8 8 0
+Clss: 21
+E
+#3307
+roc~
+a roc with broken wings~
+A massive bird sits hunched in the tunnel, nursing its wounds.
+~
+It looks unfinished.
+~
+42 0 0 0 18688 0 0 0 -1000 E
+37 -28 5 6d6+6000 6d6+38
+0 136900
+8 8 0
+BareHandAttack: 3
+Clss: 12
+E
+#3308
+eye~
+an evil eye~
+A bizarre, pussy eye with wings flies through the air.
+~
+It looks unfinished.
+~
+1048616 0 0 0 1073807360 68 0 0 -1000 E
+34 -30 11 6d6+3000 7d6+10
+0 115600
+8 8 0
+Clss: 19
+E
+#3309
+traipsr~
+the Traipsr~
+&d!
+~
+It looks unfinished.
+~
+1048616 0 0 0 1589336 4 0 0 -1000 E
+38 -44 -12 8d8+8000 8d8+64
+0 144400
+8 8 0
+BareHandAttack: 6
+Att1: 64
+Att2: 64
+Att3: 64
+Clss: 20
+E
+#3310
+chimera~
+the chimera~
+A strange, hairy beast with three bestial heads tromps through the passages, spitting fire this way and that.
+~
+It looks unfinished.
+~
+40 0 0 0 16777304 0 0 0 -1000 E
+37 -20 -6 6d6+5555 40d3+40
+0 136900
+8 8 0
+BareHandAttack: 4
+Att1: 100
+Att2: 100
+Clss: 24
+E
+#3311
+manticore~
+the manticore~
+A lionlike being with a human face turns and grins eerily at you.
+~
+It looks unfinished.
+~
+1048616 0 0 0 344 0 0 0 -1000 E
+37 -30 -6 6d6+6730 50d2+40
+0 136900
+8 8 0
+BareHandAttack: 8
+Att1: 75
+E
+#3312
+sphinx~
+the Sphinx~
+A woman with the body of a massive lion crouches in the tunnel, watching you carefully.
+~
+It looks unfinished.
+~
+10 0 0 0 368 4 0 0 -800 E
+36 8 0 6d6+4000 6d6+6
+10000 129600
+8 8 2
+BareHandAttack: 8
+Clss: 16
+E
+#3313
+Hextor~
+Hextor the fallen priest~
+The animated corpse of a once great priest walks the halls, fire glowing in his skull.
+~
+It looks unfinished.
+~
+1220648 0 0 0 16793856 0 0 0 -1000 E
+42 -30 9 6d6+10000 7d7+20
+0 176400
+8 8 1
+BareHandAttack: 13
+Clss: 11
+E
+#3314
+zombie~
+the animated corpse of a criminal~
+A creature barely recognizable as having once been human lurches towards you.
+~
+It looks unfinished.
+~
+41000 0 0 0 0 0 0 0 -800 E
+30 -30 10 6d6+1000 6d6+50
+300 90000
+8 8 0
+BareHandAttack: 8
+Clss: 1
+E
+#3315
+strangler~
+a strangler beast~
+&d!
+~
+It looks unfinished.
+~
+40 0 0 0 606288 0 0 0 -900 E
+35 -10 10 6d6+4000 7d8+30
+0 122500
+8 8 0
+BareHandAttack: 2
+E
+$

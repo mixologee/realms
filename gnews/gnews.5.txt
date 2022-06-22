@@ -1,0 +1,67 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+                   ::::    ::: :::::::::: :::       :::  :::::::: 
+                  :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+                 :+:+:+  +:+ +:+        +:+       +:+ +:+         
+                +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+               +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+              #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+             ###    #### ##########   ###   ###    ########   
+                                          
+-------------------------------------------------------------------
+News file [&C5&c]. Type NEWS 5 to re-read this article at a later date.
+-------------------------------------------------------------------&n
+
+As you see from the normal news, CrystalGates have been put in.
+There are currently only 2 destinations/codes available.  However,
+implementors have access to a command called crystalgate, which 
+shows the current gates, their codes, wether they are disabled or
+not, if they dump you into the wilderness or not, and what the
+minimum level is to goto that destination.
+
+That being said.  Any ideas you have for placement of a crystalgate
+will require you to submit the following to Slurk. 
+
+For the actual zone this is to be placed in, tell me what the 
+room number is that you want it placed, and also make your own
+item with the item_type CRYGATE.  DO NOT set any of the values
+on this object other than take away the TAKE flag and you can 
+freely add HUM/GLOW etc.  You should also set its weight to like
+10k so its not mistakinly taken somehow or another.
+
+For that destination I will need the following information to add
+it into our destination listing.
+
+Gate Name - otherwise city/destination name
+Symbol 1
+Symbol 2
+Symbol 3
+Min_level - minimum level able to go to this destination via gate
+Disabled - yes/no to disable it for now
+Wilderness - yes/no to dump to wilderness (until its in, its no)
+X position in wilderness
+Y position in wilderness
+
+Once you submit this information to me via mudmail it will be
+put in and will be online on the next possible reboot.
+
+For all gates added, other than main cities or set locations
+that Blunt or I decide to be a gate, come up with a fun/cool
+way for the mortals to figure out how to get this gates code.
+It could be in the form of a quest, pay someone to tell them,
+random mob chatter, etc.
+
+Even though eventually someone will just sit at these gates and
+type in combo after combo to figure out where they go, for now
+we can make it at least somewhat fun for those that arent that
+bored!
+
+Enjoy
+
+-S

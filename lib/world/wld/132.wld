@@ -1,0 +1,4289 @@
+#13200
+A Spit of Land Jutting into the Ocean~
+This zone should be on an island off the mainland, far west of the main city. 
+It is accessible by perhaps some mode of flight (not dragons I despise callable
+dragons as transport) or a portal, either a portal found in a single city or a
+crystal gate. This is the first room. There should also be a permanent storm
+around this island, one that prevents hit point and mana regeneration in outdoor
+rooms, and even reverses the process.
+~
+132 65536 24579 0 0 44
+D0
+~
+~
+0 0 13207
+D1
+~
+~
+0 0 13204
+D3
+~
+~
+0 0 13201
+S
+#13201
+A Spit of Land Jutting into the Ocean~
+This unfinished room was created by Accarid.
+~
+132 65536 1 0 0 44
+D1
+~
+~
+0 0 13200
+D3
+~
+~
+0 0 13202
+S
+#13202
+A Spit of Land Jutting into the Ocean~
+This unfinished room was created by Accarid.
+~
+132 65536 1 0 0 44
+D1
+~
+~
+0 0 13201
+D3
+~
+~
+0 0 13203
+S
+#13203
+A Spit of Land Jutting into the Ocean~
+This unfinished room was created by Accarid.
+~
+132 65536 1 0 0 44
+D1
+~
+~
+0 0 13202
+S
+#13204
+A Spit of Land Jutting into the Ocean~
+This unfinished room was created by Accarid.
+~
+132 65536 1 0 0 44
+D1
+~
+~
+0 0 13205
+D3
+~
+~
+0 0 13200
+S
+#13205
+A Spit of Land Jutting into the Ocean~
+This unfinished room was created by Accarid.
+~
+132 65536 1 0 0 44
+D1
+~
+~
+0 0 13206
+D3
+~
+~
+0 0 13204
+S
+#13206
+A Spit of Land Jutting into the Ocean~
+This unfinished room was created by Accarid.
+~
+132 65536 1 0 0 44
+D3
+~
+~
+0 0 13205
+S
+#13207
+A Steeply Sloped Path to the Obelisk~
+All through this zone, lemures will spawn randomly upon entry to a room. They
+produce no sound as they do this, and they proc hp/mana drain.
+~
+132 65536 24705 0 0 58
+D0
+~
+~
+0 0 13208
+D2
+~
+~
+0 0 13200
+S
+#13208
+A Steeply Sloped Path to the Obelisk~
+This unfinished room was created by Accarid.
+~
+132 65536 24705 0 0 58
+D0
+~
+~
+0 0 13209
+D2
+~
+~
+0 0 13207
+S
+#13209
+A Steeply Sloped Path to the Obelisk~
+This unfinished room was created by Accarid.
+~
+132 65536 24705 0 0 58
+D0
+~
+~
+0 0 13210
+D2
+~
+~
+0 0 13208
+S
+#13210
+At the Base of the Glass Obelisk~
+This unfinished room was created by Accarid.
+~
+132 67174400 24705 0 0 58
+D0
+~
+~
+0 0 13481
+D2
+~
+~
+0 0 13209
+D5
+~
+~
+0 0 13211
+S
+#13211
+Below the Obelisk~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 84
+D4
+~
+~
+0 0 13210
+D5
+~
+~
+0 0 13212
+S
+#13212
+A Hall Lined with Statues~
+There are thirteen statues in this hall, and between each pair there is a pair
+of halls that branch off and lead to a ring of rooms around this main hall,
+which follows parallel on the left and right side and connects on the south
+side. Branching off of those are the doors to the home of Krux XIII (far south,
+middle wall), the torture chambers (east of home), the soldiers quarters (west
+of home), and the four doors to the prisons (2west/2east). This zone is
+completely anti-room shields (they just collapse
+~
+132 65544 24576 0 0 84
+D0
+~
+~
+0 0 13213
+D2
+~
+~
+0 0 13236
+D4
+~
+~
+0 0 13211
+S
+#13213
+A Hall Lined With Statues~
+I have an idea: the mobiles in the prisons will attempt to escape when you open
+their cell, and make a run for the exit. Soldier mobiles will attack you and
+the mobile on sight. If the mobile manages to get out of the prison, it will
+wreak havoc in the cities. This might not be possible or practical, but it's a
+thought, allowing mobiles to escape into the cities.
+~
+132 65545 24576 0 0 84
+D0
+~
+~
+0 0 13216
+D1
+~
+~
+0 0 13215
+D2
+~
+~
+0 0 13212
+D3
+~
+~
+0 0 13214
+S
+#13214
+A Statue of Krux I~
+This unfinished room was created by Accarid.
+~
+132 65545 24576 0 0 84
+D1
+~
+~
+0 0 13213
+S
+#13215
+A Statue of Krux II~
+This unfinished room was created by Accarid.
+~
+132 65545 24576 0 0 84
+D3
+~
+~
+0 0 13213
+S
+#13216
+A Hall Lined With Statues~
+The whole zone will be anti-teleport, anti-recall, anti-roomshield.
+~
+132 65545 24576 0 0 84
+D0
+~
+~
+0 0 13219
+D1
+~
+~
+0 0 13218
+D2
+~
+~
+0 0 13213
+D3
+~
+~
+0 0 13217
+S
+#13217
+A Statue of Krux III~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D1
+~
+~
+0 0 13216
+S
+#13218
+A Statue of Krux IV~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D3
+~
+~
+0 0 13216
+S
+#13219
+A Hall Lined With Statues~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13222
+D1
+~
+~
+0 0 13221
+D2
+~
+~
+0 0 13216
+D3
+~
+~
+0 0 13220
+S
+#13220
+A Statue of Krux V~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D1
+~
+~
+0 0 13219
+S
+#13221
+A Statue of Krux VI~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D3
+~
+~
+0 0 13219
+S
+#13222
+A Hall Lined With Statues~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13225
+D1
+~
+~
+0 0 13224
+D2
+~
+~
+0 0 13219
+D3
+~
+~
+0 0 13223
+S
+#13223
+A Statue of Krux VII~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D1
+~
+~
+0 0 13222
+S
+#13224
+A Statue of Krux VIII~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D3
+~
+~
+0 0 13222
+S
+#13225
+A Hall Lined With Statues~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13228
+D1
+~
+~
+0 0 13227
+D2
+~
+~
+0 0 13222
+D3
+~
+~
+0 0 13226
+S
+#13226
+A Statue of Krux IX~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D1
+~
+~
+0 0 13225
+S
+#13227
+A Statue of Krux X~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D3
+~
+~
+0 0 13225
+S
+#13228
+A Hall Lined With Statues~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13231
+D1
+~
+~
+0 0 13230
+D2
+~
+~
+0 0 13225
+D3
+~
+~
+0 0 13229
+S
+#13229
+A Statue of Krux XI~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D1
+~
+~
+0 0 13228
+S
+#13230
+A Statue of Krux XII~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D3
+~
+~
+0 0 13228
+S
+#13231
+A Hall Lined With Statues~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D1
+~
+~
+0 0 13233
+D2
+~
+~
+0 0 13228
+D3
+~
+~
+0 0 13232
+S
+#13232
+A Statue of Krux XIII~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D1
+~
+~
+0 0 13231
+S
+#13233
+A Large Block of Unworked Marble~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D3
+~
+~
+0 0 13231
+S
+#13234
+A Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D1
+~
+~
+0 0 13239
+D3
+~
+~
+0 0 13236
+S
+#13235
+A Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D1
+~
+~
+0 0 13236
+D3
+~
+~
+0 0 13237
+S
+#13236
+A Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13212
+D1
+~
+~
+0 0 13234
+D2
+~
+~
+0 0 13241
+D3
+~
+~
+0 0 13235
+S
+#13237
+A Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D1
+~
+~
+0 0 13235
+D3
+~
+~
+0 0 13238
+S
+#13238
+A Corner in a Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13248
+D1
+~
+~
+0 0 13237
+S
+#13239
+A Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D1
+~
+~
+0 0 13240
+D3
+~
+~
+0 0 13234
+S
+#13240
+A Corner in a Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13257
+D3
+~
+~
+0 0 13239
+S
+#13241
+A Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13236
+D2
+~
+~
+0 0 13242
+S
+#13242
+A Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13241
+D2
+~
+~
+0 0 13243
+S
+#13243
+Before an Ominous Iron Door~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13242
+D2
+~
+door~
+2 0 13244
+S
+#13244
+The Cloister of Krux~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+door~
+2 0 13243
+D1
+~
+~
+0 0 13245
+D2
+~
+~
+0 0 13247
+D3
+~
+~
+0 0 13246
+S
+#13245
+The Necessities~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D3
+~
+~
+0 0 13244
+S
+#13246
+The Facilities~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13244
+S
+#13247
+The Throne Room~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13244
+S
+#13248
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13249
+D2
+~
+~
+0 0 13238
+D3
+~
+~
+0 0 13267
+S
+#13249
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13250
+D2
+~
+~
+0 0 13248
+S
+#13250
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13251
+D2
+~
+~
+0 0 13249
+D3
+~
+~
+0 0 13304
+S
+#13251
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13252
+D2
+~
+~
+0 0 13250
+S
+#13252
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13253
+D2
+~
+~
+0 0 13251
+S
+#13253
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13254
+D2
+~
+~
+0 0 13252
+S
+#13254
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13255
+D2
+~
+~
+0 0 13253
+S
+#13255
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13256
+D2
+~
+~
+0 0 13254
+D3
+~
+~
+0 0 13303
+S
+#13256
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D2
+~
+~
+0 0 13255
+S
+#13257
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13258
+D1
+~
+~
+0 0 13266
+D2
+~
+~
+0 0 13240
+S
+#13258
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13259
+D2
+~
+~
+0 0 13257
+S
+#13259
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13260
+D1
+~
+~
+0 0 13305
+D2
+~
+~
+0 0 13258
+S
+#13260
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13261
+D2
+~
+~
+0 0 13259
+S
+#13261
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13262
+D2
+~
+~
+0 0 13260
+S
+#13262
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13263
+D2
+~
+~
+0 0 13261
+S
+#13263
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13264
+D1
+~
+~
+0 0 13306
+D2
+~
+~
+0 0 13262
+S
+#13264
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13265
+D2
+~
+~
+0 0 13263
+S
+#13265
+A Long, Dark Hall~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D2
+~
+~
+0 0 13264
+S
+#13266
+The Entrance to the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D1
+~
+~
+0 0 13268
+D3
+~
+~
+0 0 13257
+S
+#13267
+The Torture Chambers~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D1
+~
+~
+0 0 13248
+D3
+~
+~
+0 0 13299
+S
+#13268
+The Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13270
+D1
+~
+~
+0 0 13271
+D2
+~
+~
+0 0 13269
+D3
+~
+~
+0 0 13266
+S
+#13269
+The Facilities~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13268
+S
+#13270
+The Facilities~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D2
+~
+~
+0 0 13268
+S
+#13271
+The Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13277
+D1
+~
+~
+0 0 13272
+D2
+~
+~
+0 0 13279
+D3
+~
+~
+0 0 13268
+S
+#13272
+The Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13281
+D1
+~
+~
+0 0 13273
+D2
+~
+~
+0 0 13283
+D3
+~
+~
+0 0 13271
+S
+#13273
+The Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13285
+D1
+~
+~
+0 0 13274
+D2
+~
+~
+0 0 13289
+D3
+~
+~
+0 0 13272
+S
+#13274
+The Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13291
+D1
+~
+~
+0 0 13275
+D2
+~
+~
+0 0 13293
+D3
+~
+~
+0 0 13273
+S
+#13275
+The Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13295
+D1
+~
+~
+0 0 13276
+D2
+~
+~
+0 0 13297
+D3
+~
+~
+0 0 13274
+S
+#13276
+The Far End of the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D3
+~
+~
+0 0 13275
+S
+#13277
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13278
+D2
+~
+~
+0 0 13271
+S
+#13278
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D2
+~
+~
+0 0 13277
+S
+#13279
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13271
+D2
+~
+~
+0 0 13280
+S
+#13280
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13279
+S
+#13281
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13282
+D2
+~
+~
+0 0 13272
+S
+#13282
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D2
+~
+~
+0 0 13281
+S
+#13283
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13272
+D2
+~
+~
+0 0 13284
+S
+#13284
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13283
+S
+#13285
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13288
+D2
+~
+~
+0 0 13273
+S
+#13286
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65536 0 0 0 0
+D0
+~
+~
+0 0 13287
+D2
+~
+~
+0 0 13285
+S
+#13287
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65536 0 0 0 0
+D2
+~
+~
+0 0 13286
+S
+#13288
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D2
+~
+~
+0 0 13285
+S
+#13289
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13273
+D2
+~
+~
+0 0 13290
+S
+#13290
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13289
+S
+#13291
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13292
+D2
+~
+~
+0 0 13274
+S
+#13292
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D2
+~
+~
+0 0 13291
+S
+#13293
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13274
+D2
+~
+~
+0 0 13294
+S
+#13294
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13293
+S
+#13295
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13296
+D2
+~
+~
+0 0 13275
+S
+#13296
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D2
+~
+~
+0 0 13295
+S
+#13297
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13275
+D2
+~
+~
+0 0 13298
+S
+#13298
+A Chamber in the Barracks~
+This unfinished room was created by Accarid.
+~
+132 65544 24576 0 0 0
+D0
+~
+~
+0 0 13297
+S
+#13299
+The Execution Chamber~
+This unfinished room was created by Accarid.
+~
+132 131072 0 0 0 0
+D0
+~
+~
+0 0 13300
+D1
+~
+~
+0 0 13267
+D2
+~
+~
+0 0 13302
+D3
+~
+~
+0 0 13301
+S
+#13300
+The Brimstone Pit~
+This unfinished room was created by Accarid.
+~
+132 131072 0 0 0 0
+D2
+~
+~
+0 0 13299
+S
+#13301
+The Water Trial~
+This unfinished room was created by Accarid.
+~
+132 131072 0 0 0 0
+D1
+~
+~
+0 0 13299
+S
+#13302
+The Crush of Despair~
+This unfinished room was created by Accarid.
+~
+132 131072 0 0 0 0
+D0
+~
+~
+0 0 13299
+S
+#13303
+At the Top of a Flight of Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 65548 24576 0 0 0
+D1
+~
+~
+0 0 13255
+D5
+~
+~
+0 0 13310
+S
+#13304
+At the Top of a Flight of Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 65548 24576 0 0 0
+D1
+~
+~
+0 0 13250
+D5
+~
+~
+0 0 13309
+S
+#13305
+At the Top of a Flight of Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 65548 24576 0 0 0
+D3
+~
+~
+0 0 13259
+D5
+~
+~
+0 0 13308
+S
+#13306
+At the Top of a Flight of Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 65548 24576 0 0 0
+D3
+~
+~
+0 0 13263
+D5
+~
+~
+0 0 13307
+S
+#13307
+Descending Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D4
+~
+~
+0 0 13306
+D5
+~
+~
+0 0 13311
+S
+#13308
+Descending Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D4
+~
+~
+0 0 13305
+D5
+~
+~
+0 0 13313
+S
+#13309
+Descending Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D4
+~
+~
+0 0 13304
+D5
+~
+~
+0 0 13317
+S
+#13310
+Descending Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D4
+~
+~
+0 0 13303
+D5
+~
+~
+0 0 13315
+S
+#13311
+Descending Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D4
+~
+~
+0 0 13307
+D5
+~
+~
+0 0 13312
+S
+#13312
+At the Base of A Flight of Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D3
+~
+~
+0 0 13345
+D4
+~
+~
+0 0 13311
+S
+#13313
+Descending Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D4
+~
+~
+0 0 13308
+D5
+~
+~
+0 0 13314
+S
+#13314
+At the Base of A Flight of Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+~
+0 0 13331
+D4
+~
+~
+0 0 13313
+S
+#13315
+Descending Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D4
+~
+~
+0 0 13310
+D5
+~
+~
+0 0 13316
+S
+#13316
+At the Base of A Flight of Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13335
+D4
+~
+~
+0 0 13315
+S
+#13317
+Descending Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D4
+~
+~
+0 0 13309
+D5
+~
+~
+0 0 13318
+S
+#13318
+At the Base of A Flight of Stone Steps~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13319
+D1
+~
+~
+0 0 13321
+D2
+~
+~
+0 0 13323
+D3
+~
+~
+0 0 13325
+D4
+~
+~
+0 0 13317
+S
+#13319
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13327
+D1
+~
+~
+0 0 13320
+D2
+~
+~
+0 0 13318
+D3
+~
+~
+0 0 13326
+S
+#13320
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+~
+0 0 13321
+D3
+~
+~
+0 0 13319
+S
+#13321
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13320
+D2
+~
+~
+0 0 13322
+D3
+~
+~
+0 0 13318
+S
+#13322
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13321
+D3
+~
+~
+0 0 13323
+S
+#13323
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13318
+D1
+~
+~
+0 0 13322
+D3
+~
+~
+0 0 13324
+S
+#13324
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13325
+D1
+~
+~
+0 0 13323
+S
+#13325
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13326
+D1
+~
+~
+0 0 13318
+D2
+~
+~
+0 0 13324
+S
+#13326
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13319
+D2
+~
+~
+0 0 13325
+S
+#13327
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13328
+D2
+~
+~
+0 0 13319
+D3
+~
+~
+0 0 13330
+S
+#13328
+At the Top of the Second Stairway~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13329
+D1
+~
+~
+0 0 13341
+D2
+~
+~
+0 0 13340
+D3
+~
+~
+0 0 13327
+D5
+~
+hatch~
+2 13201 13347
+S
+#13329
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13342
+D2
+~
+~
+0 0 13328
+S
+#13330
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13327
+D3
+~
+~
+0 0 13331
+S
+#13331
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13314
+D1
+~
+~
+0 0 13330
+D3
+~
+~
+0 0 13332
+S
+#13332
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13331
+D2
+~
+~
+0 0 13333
+D3
+~
+cell~
+2 13208 13353
+S
+#13333
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13332
+D2
+~
+~
+0 0 13334
+S
+#13334
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13333
+D2
+~
+~
+0 0 13335
+S
+#13335
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13334
+D1
+~
+~
+0 0 13336
+D2
+~
+cell~
+2 13208 13352
+D3
+~
+~
+0 0 13316
+S
+#13336
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13337
+D3
+~
+~
+0 0 13335
+S
+#13337
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13338
+D3
+~
+~
+0 0 13336
+S
+#13338
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13339
+D1
+~
+cell~
+2 13208 13351
+D3
+~
+~
+0 0 13337
+S
+#13339
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13340
+D2
+~
+~
+0 0 13338
+S
+#13340
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13328
+D2
+~
+~
+0 0 13339
+S
+#13341
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13343
+D3
+~
+~
+0 0 13328
+S
+#13342
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13346
+D2
+~
+~
+0 0 13329
+D3
+~
+cage~
+2 13208 13348
+S
+#13343
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13344
+D1
+~
+cell~
+2 13208 13350
+D3
+~
+~
+0 0 13341
+S
+#13344
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13345
+D2
+~
+~
+0 0 13343
+D3
+~
+cell~
+2 13208 13349
+S
+#13345
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13312
+D2
+~
+~
+0 0 13344
+D3
+~
+~
+0 0 13346
+S
+#13346
+The First Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13345
+D3
+~
+~
+0 0 13342
+S
+#13347
+At the Bottom of the Second Stairway~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13354
+D1
+~
+~
+0 0 13356
+D2
+~
+~
+0 0 13358
+D3
+~
+~
+0 0 13360
+D4
+~
+hatch~
+2 13201 13328
+S
+#13348
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+cell~
+2 13208 13342
+S
+#13349
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131072 0 0 0 0
+D1
+~
+cell~
+2 13208 13344
+S
+#13350
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131072 0 0 0 0
+D3
+~
+cell~
+2 13208 13343
+S
+#13351
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131072 0 0 0 0
+D3
+~
+cell~
+2 13208 13338
+S
+#13352
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131072 0 0 0 0
+D0
+~
+cell~
+2 13208 13335
+S
+#13353
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+cell~
+2 13208 13332
+S
+#13354
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13355
+D2
+~
+~
+0 0 13347
+D3
+~
+~
+0 0 13361
+S
+#13355
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+cell~
+2 13211 13396
+D1
+~
+~
+0 0 13369
+D2
+~
+~
+0 0 13356
+D3
+~
+~
+0 0 13354
+S
+#13356
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13355
+D2
+~
+~
+0 0 13357
+D3
+~
+~
+0 0 13347
+S
+#13357
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13356
+D1
+~
+~
+0 0 13367
+D2
+~
+~
+0 0 13366
+D3
+~
+~
+0 0 13358
+S
+#13358
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13347
+D1
+~
+~
+0 0 13357
+D3
+~
+~
+0 0 13359
+S
+#13359
+At the Top of the Third Stairway~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13360
+D1
+~
+~
+0 0 13358
+D2
+~
+~
+0 0 13364
+D3
+~
+~
+0 0 13365
+D5
+~
+hatch~
+2 13210 13391
+S
+#13360
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13361
+D1
+~
+~
+0 0 13347
+D2
+~
+~
+0 0 13359
+S
+#13361
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13362
+D1
+~
+~
+0 0 13354
+D2
+~
+~
+0 0 13360
+D3
+~
+~
+0 0 13363
+S
+#13362
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13374
+D2
+~
+~
+0 0 13361
+S
+#13363
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13361
+D3
+~
+~
+0 0 13370
+S
+#13364
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13359
+D2
+~
+~
+0 0 13387
+S
+#13365
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13359
+D3
+~
+~
+0 0 13386
+S
+#13366
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13357
+D2
+~
+~
+0 0 13385
+S
+#13367
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13368
+D3
+~
+~
+0 0 13357
+S
+#13368
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+~
+0 0 13382
+D3
+~
+~
+0 0 13367
+S
+#13369
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13375
+D1
+~
+~
+0 0 13381
+D3
+~
+~
+0 0 13355
+S
+#13370
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13371
+D1
+~
+~
+0 0 13363
+S
+#13371
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13372
+D2
+~
+~
+0 0 13370
+S
+#13372
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+cell~
+2 13211 13392
+D1
+~
+~
+0 0 13373
+D2
+~
+~
+0 0 13371
+S
+#13373
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13374
+D3
+~
+~
+0 0 13372
+S
+#13374
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+~
+0 0 13362
+D3
+~
+~
+0 0 13373
+S
+#13375
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13376
+D2
+~
+~
+0 0 13369
+S
+#13376
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13377
+D2
+~
+~
+0 0 13375
+S
+#13377
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13378
+D3
+~
+~
+0 0 13376
+S
+#13378
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+~
+0 0 13379
+D3
+~
+~
+0 0 13377
+S
+#13379
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13378
+D2
+~
+~
+0 0 13380
+S
+#13380
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13379
+D2
+~
+cell~
+2 13211 13393
+D3
+~
+~
+0 0 13381
+S
+#13381
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13380
+D3
+~
+~
+0 0 13369
+S
+#13382
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13368
+D2
+~
+~
+0 0 13383
+S
+#13383
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13382
+D1
+~
+cell~
+2 13211 13394
+D3
+~
+~
+0 0 13384
+S
+#13384
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13383
+D3
+~
+~
+0 0 13385
+S
+#13385
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13366
+D1
+~
+~
+0 0 13384
+S
+#13386
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13365
+D2
+~
+~
+0 0 13390
+S
+#13387
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13364
+D2
+~
+cell~
+2 13211 13397
+D3
+~
+~
+0 0 13388
+S
+#13388
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13387
+D3
+~
+~
+0 0 13389
+S
+#13389
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13390
+D1
+~
+~
+0 0 13388
+S
+#13390
+The Second Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13386
+D2
+~
+~
+0 0 13389
+D3
+~
+cell~
+2 13211 13395
+S
+#13391
+At the Bottom of the Third Stairway~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13398
+D1
+~
+~
+0 0 13402
+D2
+~
+~
+0 0 13400
+D3
+~
+~
+0 0 13404
+D4
+~
+hatch~
+2 13310 13359
+S
+#13392
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+cell~
+2 13211 13372
+S
+#13393
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+cell~
+2 13211 13380
+S
+#13394
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D3
+~
+cell~
+2 13211 13383
+S
+#13395
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+cell~
+2 13211 13390
+S
+#13396
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131072 0 0 0 0
+D2
+~
+cell~
+2 13211 13355
+S
+#13397
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+cell~
+2 13211 13387
+S
+#13398
+The Third Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13399
+D2
+~
+~
+0 0 13391
+S
+#13399
+The Third Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+cell~
+2 13212 13486
+D2
+~
+~
+0 0 13398
+D3
+~
+~
+0 0 13487
+S
+#13400
+The Third Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13391
+D2
+~
+~
+0 0 13401
+D3
+~
+~
+0 0 13489
+S
+#13401
+The Third Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13400
+D1
+~
+~
+0 0 13488
+S
+#13402
+The Third Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+cell~
+2 13212 13492
+D1
+~
+~
+0 0 13403
+D2
+~
+~
+0 0 13493
+D3
+~
+~
+0 0 13391
+S
+#13403
+At the Top of the Fourth Stairway~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D3
+~
+~
+0 0 13402
+D5
+~
+hatch~
+2 13219 13406
+S
+#13404
+The Third Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13490
+D1
+~
+~
+0 0 13391
+D3
+~
+~
+0 0 13405
+S
+#13405
+The Third Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13404
+D2
+~
+~
+0 0 13491
+S
+#13406
+At the Base of the Fourth Stairway~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13407
+D1
+~
+~
+0 0 13413
+D2
+~
+~
+0 0 13410
+D3
+~
+~
+0 0 13416
+D4
+~
+hatch~
+2 13219 13403
+S
+#13407
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13408
+D2
+~
+~
+0 0 13406
+S
+#13408
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13409
+D2
+~
+~
+0 0 13407
+S
+#13409
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13444
+D2
+~
+~
+0 0 13408
+D3
+~
+~
+0 0 13458
+S
+#13410
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13406
+D2
+~
+~
+0 0 13411
+S
+#13411
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13410
+D2
+~
+~
+0 0 13412
+S
+#13412
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13411
+D1
+~
+~
+0 0 13450
+D3
+~
+~
+0 0 13455
+S
+#13413
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13414
+D3
+~
+~
+0 0 13406
+S
+#13414
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13415
+D3
+~
+~
+0 0 13413
+S
+#13415
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13448
+D2
+~
+~
+0 0 13452
+D3
+~
+~
+0 0 13414
+S
+#13416
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13406
+D3
+~
+~
+0 0 13417
+S
+#13417
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13416
+D3
+~
+~
+0 0 13418
+S
+#13418
+At the Top of the Fifth Stairway~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13456
+D1
+~
+~
+0 0 13417
+D2
+~
+~
+0 0 13453
+D5
+~
+hatch~
+2 13222 13419
+S
+#13419
+At the Bottom of the Fifth Stairway~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13420
+D1
+~
+~
+0 0 13426
+D2
+~
+~
+0 0 13429
+D3
+~
+~
+0 0 13423
+D4
+~
+hatch~
+2 13222 13418
+S
+#13420
+The Fifth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13421
+D2
+~
+~
+0 0 13419
+S
+#13421
+The Fifth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13422
+D1
+~
+cell~
+2 13214 13475
+D2
+~
+~
+0 0 13420
+S
+#13422
+The Fifth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+~
+0 0 13421
+S
+#13423
+The Fifth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13419
+D2
+~
+cell~
+2 13214 13474
+D3
+~
+~
+0 0 13424
+S
+#13424
+The Fifth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13423
+D3
+~
+cell~
+2 13214 13425
+S
+#13425
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+cell~
+2 13214 13424
+S
+#13426
+The Fifth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13427
+D3
+~
+~
+0 0 13419
+S
+#13427
+The Fifth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13428
+D2
+~
+cell~
+2 13214 13476
+D3
+~
+~
+0 0 13426
+S
+#13428
+The Fifth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D3
+~
+~
+0 0 13427
+S
+#13429
+The Fifth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13419
+D2
+~
+~
+0 0 13430
+S
+#13430
+The Fifth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13429
+D2
+~
+~
+0 0 13431
+S
+#13431
+At the Top of the Sixth Stairway~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13430
+D5
+~
+hatch~
+2 13223 13432
+S
+#13432
+At the Bottom of the Sixth Stairway~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13437
+D1
+~
+~
+0 0 13435
+D2
+~
+~
+0 0 13439
+D3
+~
+~
+0 0 13433
+D4
+~
+hatch~
+2 13223 13431
+S
+#13433
+The Sixth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13432
+D3
+~
+~
+0 0 13434
+S
+#13434
+The Sixth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+cell~
+2 13215 13479
+D1
+~
+~
+0 0 13433
+S
+#13435
+The Sixth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+cell~
+2 13215 13480
+D1
+~
+~
+0 0 13436
+D3
+~
+~
+0 0 13432
+S
+#13436
+At the Top of the Sixth Staircase~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D3
+~
+~
+0 0 13435
+D5
+~
+hatch~
+2 13224 13441
+S
+#13437
+The Sixth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131072 0 0 0 0
+D0
+~
+~
+0 0 13438
+D2
+~
+~
+0 0 13432
+S
+#13438
+The Sixth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131072 0 0 0 0
+D2
+~
+~
+0 0 13437
+D3
+~
+cell~
+2 13215 13477
+S
+#13439
+The Sixth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13432
+D2
+~
+~
+0 0 13440
+S
+#13440
+The Sixth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13439
+D1
+~
+cell~
+2 13215 13478
+S
+#13441
+At the Bottom of the Sixth Staircase~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13466
+D1
+~
+~
+0 0 13469
+D2
+~
+~
+0 0 13468
+D3
+~
+~
+0 0 13467
+D4
+~
+hatch~
+2 13224 13436
+D5
+~
+hatch~
+2 13225 13442
+S
+#13442
+On a Steep Stairway~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13462
+D1
+~
+~
+0 0 13465
+D2
+~
+~
+0 0 13463
+D3
+~
+cell~
+2 13217 13464
+D4
+~
+hatch~
+2 13225 13441
+D5
+~
+hatch~
+2 13226 13443
+S
+#13443
+At the Bottom of a Steep Stairway~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+cell~
+2 13218 13461
+D4
+~
+hatch~
+2 13226 13442
+S
+#13444
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13445
+D3
+~
+~
+0 0 13409
+S
+#13445
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13447
+D3
+~
+~
+0 0 13444
+S
+#13446
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131072 0 0 0 0
+D0
+~
+~
+0 0 13445
+S
+#13447
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+~
+0 0 13449
+D3
+~
+~
+0 0 13445
+S
+#13448
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13449
+D2
+~
+~
+0 0 13415
+S
+#13449
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13447
+D2
+~
+~
+0 0 13448
+S
+#13450
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13451
+D3
+~
+~
+0 0 13412
+S
+#13451
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13452
+D3
+~
+~
+0 0 13450
+S
+#13452
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13415
+D2
+~
+~
+0 0 13451
+S
+#13453
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13418
+D2
+~
+~
+0 0 13454
+S
+#13454
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13453
+D1
+~
+~
+0 0 13455
+S
+#13455
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13412
+D3
+~
+~
+0 0 13454
+S
+#13456
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13457
+D2
+~
+~
+0 0 13418
+S
+#13457
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13459
+D2
+~
+~
+0 0 13456
+S
+#13458
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+~
+0 0 13409
+D3
+~
+~
+0 0 13459
+S
+#13459
+The Fourth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+cell~
+2 0 13460
+D1
+~
+~
+0 0 13458
+D2
+~
+~
+0 0 13457
+S
+#13460
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+cell~
+2 0 13459
+S
+#13461
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131208 24576 0 0 0
+D2
+~
+cell~
+2 13218 13443
+S
+#13462
+The Eighth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+cell~
+2 13217 13442
+S
+#13463
+The Eighth Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+undefined~
+0 0 13442
+S
+#13464
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+cell~
+2 13217 13442
+S
+#13465
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D3
+~
+cell~
+2 13217 13442
+S
+#13466
+The Seventh Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+cell~
+2 13216 13470
+D2
+~
+~
+0 0 13441
+S
+#13467
+The Seventh Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13473
+D1
+~
+~
+0 0 13441
+S
+#13468
+The Seventh Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+~
+0 0 13441
+D3
+~
+cell~
+2 13216 13472
+S
+#13469
+The Seventh Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+cell~
+2 13216 13471
+D3
+~
+~
+0 0 13441
+S
+#13470
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D3
+~
+cell~
+2 13216 13466
+S
+#13471
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+cell~
+2 13216 13469
+S
+#13472
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D1
+~
+cell~
+2 13216 13468
+S
+#13473
+The Seventh Circle of Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+~
+0 0 13467
+S
+#13474
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+cell~
+2 13214 13423
+S
+#13475
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D3
+~
+cell~
+2 13214 13421
+S
+#13476
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D0
+~
+cell~
+2 13214 13427
+S
+#13477
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131072 0 0 0 0
+D1
+~
+cell~
+2 13215 13438
+S
+#13478
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D3
+~
+cell~
+2 13215 13440
+S
+#13479
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+cell~
+2 13215 13434
+S
+#13480
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+cell~
+2 13215 13435
+S
+#13481
+Below the Obelisk~
+This unfinished room was created by Accarid.
+~
+132 65536 1 0 0 0
+D0
+~
+~
+0 0 13482
+D2
+~
+~
+0 0 13210
+S
+#13482
+A Steeply Sloped Path to the Obelisk~
+This unfinished room was created by Accarid.
+~
+132 65536 1 0 0 0
+D2
+~
+~
+0 0 13481
+D3
+~
+~
+0 0 13483
+S
+#13483
+A Steeply Sloped Path to the Obelisk~
+This unfinished room was created by Accarid.
+~
+132 65536 1 0 0 0
+D0
+~
+~
+0 0 13484
+D1
+~
+~
+0 0 13482
+S
+#13484
+A Rocky Path~
+This unfinished room was created by Accarid.
+~
+132 65536 1 0 0 0
+D0
+~
+~
+0 0 13485
+D2
+~
+~
+0 0 13483
+S
+#13485
+A Rocky Path~
+This unfinished room was created by Accarid.
+~
+132 65536 1 0 0 0
+D0
+~
+~
+0 0 4537294
+D2
+~
+~
+0 0 13484
+S
+#13486
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D3
+~
+cell~
+2 13212 13399
+S
+#13487
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 0 0 0 0 0
+D1
+~
+~
+0 0 13399
+S
+#13488
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 0 0 0 0 0
+D3
+~
+~
+0 0 13401
+S
+#13489
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 0 0 0 0 0
+D1
+~
+~
+0 0 13400
+S
+#13490
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 0 0 0 0 0
+D2
+~
+~
+0 0 13404
+S
+#13491
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13405
+S
+#13492
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 131080 24576 0 0 0
+D2
+~
+cell~
+2 13212 13402
+S
+#13493
+A Cell in Cocytus~
+This unfinished room was created by Accarid.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13402
+S
+$~

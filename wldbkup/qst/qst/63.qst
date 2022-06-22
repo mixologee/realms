@@ -1,0 +1,48 @@
+#6300
+find crystal gate~
+Find the crystal gate in Taris'Vaal.~
+Welcome to the Kuvia questing system. This inital quest is to help get you
+acclimated to the questing system.
+~
+Congratulations! You have completed the crystal gate quest!
+~
+You have abandoned the quest.
+~
+1 6515 0 6302 -1 -1 -1
+100 0 1 43 -1 1936160098 1
+10000 100 -1
+S
+#6301
+curing the guards 1~
+Curing the guards~
+   The guards seem to be getting sick more then normal. Some of the local
+healers have been successful with treatment but they are unsure of why it
+continues. Someone has suggested that the alley cats might have something to do
+with it. Try killing ten cats and lets see if that helps.
+~
+The Taris'Vaal questmaster tells you, 'Thank you, with the cats gone the town is
+much cleaner but the sickness continues.'  
+~
+You have abandoned the quest.
+~
+3 6515 0 6322 -1 6302 -1
+100 0 1 43 -1 1 10
+200 25 -1
+S
+#6302
+curing the guards 2~
+Curing the guards.~
+Now that the cats didn't seem to help any I ask you to try the dogs. Killing 15
+of the brown dogs walking around town should be enough to see if they might be
+the cause of this sickness.
+~
+The Taris'Vaal questmaster tells you, 'The guards seem to be doing better I
+think the dogs might have been the cause, thank you again.'  
+~
+You have abandoned the quest.
+~
+3 6515 0 6321 6301 -1 -1
+100 0 1 43 -1 1 15
+100 100 -1
+S
+$~

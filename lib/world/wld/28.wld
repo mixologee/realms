@@ -1,0 +1,19 @@
+#2800
+A Mine Shaft~
+Mine - 3
+   
+                  o <--You are here
+                   \
+                    o    o-o-o-o-o o-o-o-o-o-o-o-o
+                     \   |       | |     |   |   |
+                      1  o o-o-o o-o o-o-o o o-o o
+                         |     |     |     |     |
+                         o-o-o-o o-o-1-o-o-o-o-o-o
+                            \           \   \     \
+                           o o-o-o   o-o-o o-o-o o o
+                            \     \     \         \ \
+                             o-o-o-o-o-o-o-o-o-o-o-o-o
+~
+28 0 0 0 0 0
+S
+$~

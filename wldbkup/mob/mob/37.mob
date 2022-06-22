@@ -1,0 +1,34 @@
+#3712
+crow bird~
+a crow~
+a crow is here perched on the gate.
+~
+This large crow scavenges the area with its eyes, looking for the next tasty
+meal to come along.  
+~
+10 0 0 0 0 0 0 0 -700 E
+3 17 10 4d4+12 2d3+4
+2 12
+8 8 0
+BareHandAttack: 8
+E
+#3739
+hand bone boney skeletal skeleton dead~
+a skeletal hand~
+This skeletal hand is obviously hell bent on making someone's life miserable as it scuttles towards you out of the muck.
+~
+This hand sports a tarnished gold ring set with an emerald darkened by the
+malignant aura of hate surrounding this undead hand. The bones, which would
+have already been torn apart by decay on an ordinary hand, are held together
+with a viscous black mist and what remains of the ligaments. This hand seeks
+revenge for its master's unpleasant burial, and uncertain of who is to blame
+will lie in wait here for the guilty to return. It scuttles rapidly towards you
+at the tremor of your footsteps, and leaps to attack!
+~
+40 0 0 0 67174400 0 0 0 -500 E
+5 -20 -3 10d5+50 1d10+5
+0 5000
+6 6 0
+BareHandAttack: 8
+E
+$

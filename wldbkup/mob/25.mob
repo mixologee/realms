@@ -1,0 +1,107 @@
+#2500
+Naayr demon receptionist~
+Naayr the demonic receptionist~
+Naayr, the demonic receptionist, drums her claws on the desk impatiently.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 7 E
+0 20 10 1d1+0 1d1+0
+100 0
+8 8 2
+BareHandAttack: 8
+E
+#2501
+woman relative~
+a concerned relative~
+A concerned relative looks nervously around the room.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+15 0
+6 8 2
+BareHandAttack: 13
+E
+#2502
+gift girl glendora demon~
+Glendora, the demonic gift shop girl~
+Glendora, the demonic gift shop girl, leans against the counter reading a scroll.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+BareHandAttack: 8
+E
+#2503
+Larkedo janitor demon~
+Larkedo the demonic janitor~
+Larkedo, the demonic janitor, mutters irritably to his broom.
+~
+It looks unfinished.
+~
+44 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#2504
+rat~
+a frightened rat~
+A frightened rat's whiskers twitch in terror.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+BareHandAttack: 4
+E
+#2505
+lunatic patient man~
+a lunatic of Kalrayi~
+A man stands here, smirking at the wall.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 600 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+BareHandAttack: 10
+E
+#2506
+woman lunatic patient~
+a lunatic of Kalrayi~
+A woman wanders the halls, looking lost.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 600 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+BareHandAttack: 8
+E
+#2507
+Lyack man patient~
+Lyack~
+Lyack mumbles numbers under his breath as he counts his jars.
+~
+Lyack is a middle aged man, his brown hair starting to show signs of grey.  His
+eyes are blue, and they are full of fear.  His long, pale green gown, the outfit
+of every patient, is covered in vinegary splotches.  He is pointing at jars all
+around the room and counting anxiously.  
+~
+10 0 0 0 0 0 0 0 600 E
+0 20 10 1d1+0 1d1+0
+5 0
+8 8 1
+BareHandAttack: 4
+E
+$

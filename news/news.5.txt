@@ -1,0 +1,21 @@
+                        Realms of Kuvia
+             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+-------------------------------------------------------------------
+News file [5]. Type NEWS 5 to re-read this article at a later date.
+-------------------------------------------------------------------
+
+The world is 100% original zones and eq. Autoquests are in. Type
+help autoquest. Added skills regen, meleeheal, evasion, cloaked move, 
+entangle, advanced backstab, advanced kick, dodge, parry, advanced 
+dodge, hurricane, whirlwind, starfire, fourth attack, fifth attack, 
+advanced meditate, hellstorm, rat swarm, hammer of divinity, drain 
+life, shockstorm, blizzard, meteor storm, and advanced heal, 
+tripwire, protection from good, protection from evil, and advanced
+trip.

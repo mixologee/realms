@@ -1,0 +1,757 @@
+autorun starting game Wed Sep 10 20:26:04 EDT 2008
+running bin/circle -q 4000
+Sep 10 20:26:04 :: Loading configuration.
+Sep 10 20:26:04 :: &CRealms of Kuvia v1.0&n
+Sep 10 20:26:04 :: OasisOLC 2.0.6
+Sep 10 20:26:04 :: DG Scripts 1.0.14
+Sep 10 20:26:04 :: ASCII Player Files 3.0.1
+Sep 10 20:26:04 :: Using lib as data directory.
+Sep 10 20:26:04 :: Running game on port 4000.
+Sep 10 20:26:04 :: Finding player limit.
+Sep 10 20:26:04 ::    Setting player limit to 300 using rlimit.
+Sep 10 20:26:04 :: Opening mother connection.
+Sep 10 20:26:04 :: Binding to all IP interfaces on this host.
+Sep 10 20:26:04 :: Boot db -- BEGIN.
+Sep 10 20:26:04 :: Resetting the game time:
+Sep 10 20:26:04 ::    Current Gametime: 19H 28D 11M 530Y.
+Sep 10 20:26:04 :: Reading news, credits, help, ihelp, bground, info & motds.
+Sep 10 20:26:04 :: SYSERR: reading text/help/help: No such file or directory
+Sep 10 20:26:04 :: SYSERR: reading text/help/ihelp: No such file or directory
+Sep 10 20:26:04 :: Loading spell definitions.
+Sep 10 20:26:04 :: Loading zone table.
+Sep 10 20:26:04 ::    57 zones, 3192 bytes.
+Sep 10 20:26:04 :: Loading triggers and generating index.
+Sep 10 20:26:04 :: Loading rooms.
+Sep 10 20:26:04 ::    3912 rooms, 625920 bytes.
+Sep 10 20:26:04 :: Renumbering rooms.
+Sep 10 20:26:04 :: Checking start rooms.
+Sep 10 20:26:04 :: Loading mobs and generating index.
+Sep 10 20:26:04 ::    438 mobs, 8760 bytes in index, 245280 bytes in prototypes.
+Sep 10 20:26:04 :: Loading objs and generating index.
+Sep 10 20:26:04 ::    636 objs, 12720 bytes in index, 114480 bytes in prototypes.
+Sep 10 20:26:04 :: Renumbering zone table.
+Sep 10 20:26:04 :: SYSERR: zone file: Invalid vnum 1501, cmd disabled
+Sep 10 20:26:04 :: SYSERR: ...offending cmd: 'E' cmd in zone #15, line 8
+Sep 10 20:26:04 :: SYSERR: zone file: Invalid vnum 1501, cmd disabled
+Sep 10 20:26:04 :: SYSERR: ...offending cmd: 'E' cmd in zone #15, line 13
+Sep 10 20:26:04 :: SYSERR: zone file: Invalid vnum 1501, cmd disabled
+Sep 10 20:26:04 :: SYSERR: ...offending cmd: 'E' cmd in zone #16, line 8
+Sep 10 20:26:04 :: SYSERR: zone file: Invalid vnum 1501, cmd disabled
+Sep 10 20:26:04 :: SYSERR: ...offending cmd: 'E' cmd in zone #16, line 13
+Sep 10 20:26:04 :: SYSERR: zone file: Invalid vnum 1501, cmd disabled
+Sep 10 20:26:04 :: SYSERR: ...offending cmd: 'E' cmd in zone #16, line 18
+Sep 10 20:26:04 :: SYSERR: zone file: Invalid vnum 1501, cmd disabled
+Sep 10 20:26:04 :: SYSERR: ...offending cmd: 'E' cmd in zone #16, line 23
+Sep 10 20:26:04 :: SYSERR: zone file: Invalid vnum 1501, cmd disabled
+Sep 10 20:26:04 :: SYSERR: ...offending cmd: 'E' cmd in zone #18, line 8
+Sep 10 20:26:04 :: SYSERR: zone file: Invalid vnum 1501, cmd disabled
+Sep 10 20:26:04 :: SYSERR: ...offending cmd: 'E' cmd in zone #18, line 13
+Sep 10 20:26:04 :: SYSERR: zone file: Invalid vnum 1501, cmd disabled
+Sep 10 20:26:04 :: SYSERR: ...offending cmd: 'E' cmd in zone #18, line 18
+Sep 10 20:26:04 :: SYSERR: zone file: Invalid vnum 1501, cmd disabled
+Sep 10 20:26:04 :: SYSERR: ...offending cmd: 'E' cmd in zone #18, line 23
+Sep 10 20:26:04 :: SYSERR: zone file: Invalid vnum 1501, cmd disabled
+Sep 10 20:26:04 :: SYSERR: ...offending cmd: 'E' cmd in zone #18, line 28
+Sep 10 20:26:04 :: Loading shops.
+Sep 10 20:26:04 :: SYSERR: Shop #7231 has invalid format '%d' in message #0.
+Sep 10 20:26:04 :: Loading disabled commands.
+Sep 10 20:26:04 :: Loading bank.
+Sep 10 20:26:04 :: Building Wilderness
+Sep 10 20:26:05 :: map image loaded top world = 3909 top wild = 0, chars count = 4000000
+Sep 10 20:26:08 :: 0Ü¿ÐkÃ¿å
+Sep 10 20:26:08 :: 0Ü¿ÐkÃ¿å
+Sep 10 20:26:08 :: 0Ü¿ÐkÃ¿å
+Sep 10 20:26:08 :: 0Ü¿ÐkÃ¿å
+Sep 10 20:26:08 :: 0Ü¿ÐkÃ¿å
+Sep 10 20:26:08 :: 0Ü¿ÐkÃ¿å
+Sep 10 20:26:08 :: 0Ü¿ÐkÃ¿å
+Sep 10 20:26:08 :: 0Ü¿ÐkÃ¿å
+Sep 10 20:26:08 :: 0Ü¿ÐkÃ¿å
+Sep 10 20:26:08 :: 0Ü¿ÐkÃ¿å
+Sep 10 20:26:08 :: 0Ü¿ÐkÃ¿å
+Sep 10 20:26:08 :: 0Ü¿ÐkÃ¿å
+Sep 10 20:26:08 :: Map Interpreted
+Sep 10 20:26:10 :: linked rooms
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+Sep 10 20:26:10 :: zones linked
+SURVEY DATA:  Survey objects... 9 loaded into memory.
+Sep 10 20:26:24 :: Loading quests.
+Sep 10 20:26:24 ::    3 entries, 288 bytes.
+Sep 10 20:26:24 :: Loading clans.
+Sep 10 20:26:24 :: Loading help entries.
+Sep 10 20:26:24 ::    1061 entries, 21220 bytes.
+Sep 10 20:26:24 :: Generating player index.
+Sep 10 20:26:24 :: Loading fight messages.
+Sep 10 20:26:24 :: Loading social messages.
+Sep 10 20:26:24 :: Social table contains 175 socials.
+Sep 10 20:26:24 :: Building command list.
+Sep 10 20:26:24 :: Command info rebuilt, 562 total commands.
+Sep 10 20:26:24 :: Loading news and gnews files
+Sep 10 20:26:24 :: Opening mobile, object and help files.
+Sep 10 20:26:24 :: Opening God News file index.
+Sep 10 20:26:24 :: Assigning function pointers:
+Sep 10 20:26:24 ::    Mobiles.
+Sep 10 20:26:24 ::    Shopkeepers.
+Sep 10 20:26:24 ::    Objects.
+Sep 10 20:26:24 ::    Rooms.
+Sep 10 20:26:24 ::    Questmasters.
+Sep 10 20:26:24 :: Assigning spell and skill levels.
+Sep 10 20:26:24 :: Sorting command list and spells.
+Sep 10 20:26:24 :: Booting mail system.
+Sep 10 20:26:24 :: Reading banned site and invalid-name list.
+Sep 10 20:26:24 :: Booting houses.
+Sep 10 20:26:24 :: Cleaning up last log.
+Sep 10 20:26:24 :: Resetting #0: Limbo - Internal (rooms 0-99).
+Sep 10 20:26:24 :: Resetting #1: The House of Tolerance (rooms 100-150).
+Sep 10 20:26:24 :: Resetting #2: Nemopsi's Gardens (rooms 151-299).
+Sep 10 20:26:24 :: Resetting #4: The Taris'Vaal Caverns (rooms 400-699).
+Sep 10 20:26:24 :: Resetting #8: The Black Lake (rooms 800-899).
+Sep 10 20:26:24 :: Resetting #9: Untitled Neass Project (rooms 900-999).
+Sep 10 20:26:24 :: Resetting #10: The Gardens of D'Arythnia (rooms 1000-1099).
+Sep 10 20:26:24 :: Resetting #11: The Ethereal Mist (rooms 1100-1199).
+Sep 10 20:26:24 :: Resetting #15: North West on the Pirate Farm (rooms 1500-1599).
+Sep 10 20:26:24 :: Resetting #16: North East on the Pirate Farm (rooms 1600-1699).
+Sep 10 20:26:24 :: Resetting #17: South West on the Pirate Farm (rooms 1700-1799).
+Sep 10 20:26:24 :: Resetting #18: South East on the Pirate Farm (rooms 1800-1899).
+Sep 10 20:26:24 :: Resetting #19: Pirate Bunkhouse & Mess Hall (rooms 1900-1999).
+Sep 10 20:26:24 :: Resetting #20: The Illicit Network (rooms 2000-2099).
+Sep 10 20:26:24 :: Resetting #21: Pirate School of Hardknocks (rooms 2100-2199).
+Sep 10 20:26:24 :: Resetting #22: Victoria (rooms 2200-2299).
+Sep 10 20:26:24 :: SYSERR: rand_number() should be called with lowest, then highest. (-6, -3), not (-3, -6).
+Sep 10 20:26:24 :: Resetting #23: The Office of Saralise (rooms 2300-2399).
+Sep 10 20:26:24 :: Resetting #24: Taris'Vaal Community Park (rooms 2400-2499).
+Sep 10 20:26:24 :: Resetting #25: The Asylum of Kalrayi's Lunatics (rooms 2500-2599).
+Sep 10 20:26:24 :: Resetting #26: Mine 1 (rooms 2600-2699).
+Sep 10 20:26:24 :: Resetting #27: Mine 2 (rooms 2700-2799).
+Sep 10 20:26:24 :: Resetting #28: Mine 3 (rooms 2800-2899).
+Sep 10 20:26:24 :: Resetting #29: Mine 4 (rooms 2900-2999).
+Sep 10 20:26:24 :: Resetting #30: Mine 5 (rooms 3000-3099).
+Sep 10 20:26:24 :: Resetting #31: Silverwood Forest (rooms 3100-3199).
+Sep 10 20:26:24 :: Resetting #32: The Underworld (rooms 3200-3299).
+Sep 10 20:26:24 :: Resetting #33: Mushroom Castle (rooms 3300-3599).
+Sep 10 20:26:24 :: Resetting #36: The Office of Anubis (rooms 3600-3699).
+Sep 10 20:26:24 :: Resetting #37: The Taris'Vaal Cemetery (rooms 3700-3799).
+Sep 10 20:26:24 :: Resetting #38: Maggic's Unfinished Zone (rooms 3800-3899).
+Sep 10 20:26:24 :: Resetting #40: Untitled Starfallen Revamp Project (rooms 4000-4099).
+Sep 10 20:26:24 :: Resetting #41: The Reosian Isles (rooms 4100-4599).
+Sep 10 20:26:24 :: Resetting #46: The Forest of Darkmoor (rooms 4600-4799).
+Sep 10 20:26:24 :: Resetting #58: The Beginning (rooms 5800-5899).
+Sep 10 20:26:24 :: Resetting #59: Mini-Zones!! (rooms 5900-5999).
+Sep 10 20:26:25 :: Resetting #60: The God's Relaxation Facility (rooms 6000-6099).
+Sep 10 20:26:25 :: Resetting #61: The Tropical City (rooms 6100-6199).
+Sep 10 20:26:25 :: Resetting #63: The City of Taris'Vaal (rooms 6300-6899).
+Sep 10 20:26:25 :: Resetting #69: The Ancient Sewers of Tek (rooms 6900-6999).
+Sep 10 20:26:25 :: Resetting #70: The Lower Sewers of Tek (rooms 7000-7099).
+Sep 10 20:26:25 :: Resetting #71: The City Sewers (rooms 7100-7199).
+Sep 10 20:26:25 :: Resetting #72: The City (rooms 7200-7299).
+Sep 10 20:26:25 :: Resetting #73: The Projects (rooms 7300-7399).
+Sep 10 20:26:25 :: Resetting #80: House of Skye (rooms 8000-8099).
+Sep 10 20:26:25 :: Resetting #97: Desert of Narh Joon (rooms 9700-9799).
+Sep 10 20:26:25 :: SYSERR: Char is already equipped: the sunbrowned archer, a bone arrow
+Sep 10 20:26:25 :: Resetting #100: Hidden Pirate Hoarde (rooms 10000-10099).
+Sep 10 20:26:25 :: Resetting #110: Burial Chamber of the Great Pirate Kings (rooms 11000-11099).
+Sep 10 20:26:25 :: Resetting #111: Tomb of King Bearlifax (rooms 11100-11199).
+Sep 10 20:26:25 :: Resetting #112: Burial Chamber Part 3 (rooms 11200-11299).
+Sep 10 20:26:25 :: Resetting #113: Burial Chamber Part 4 (rooms 11300-11399).
+Sep 10 20:26:25 :: Resetting #114: Burial Chamber Part 5 (rooms 11400-11499).
+Sep 10 20:26:25 :: Resetting #115: Burial Chamber Part 6 (rooms 11500-11599).
+Sep 10 20:26:25 :: Resetting #183: New Zone (rooms 18300-18749).
+Sep 10 20:26:25 :: Resetting #198: New Zone (rooms 19800-19899).
+Sep 10 20:26:30 :: SCRIPT ERR: Trigger VNum 19802 has looped 100 times!!!
+Sep 10 20:26:30 :: Resetting #199: Castle Cannibis / Casle Sativa (rooms 19900-19999).
+Sep 10 20:26:30 :: Resetting #200: Castle Smoke / Castle Blaze (rooms 20000-20099).
+Sep 10 20:26:30 :: Resetting #100000: New Zone (rooms 1000000-1000100).
+Sep 10 20:26:30 :: Boot db -- DONE.
+Sep 10 20:26:30 :: Signal trapping.
+Sep 10 20:26:30 :: Entering game loop.
+Sep 10 20:26:30 :: No connections.  Going to sleep.
+Sep 10 22:47:54 :: New connection.  Waking up.
+Sep 10 22:47:58 :: Slurk [c-68-46-100-82.hsd1.pa.comcast.net] has connected.
+Sep 10 22:48:00 :: Slurk had no variable file
+Sep 10 22:48:00 :: Slurk un-renting and entering game.
+Sep 10 22:48:00 :: Slurk (level 43) has 0 objects (max 30).
+Sep 10 22:48:17 :: Slurk has quit the game.
+Sep 10 22:48:17 :: Losing player: Slurk.
+Sep 10 22:48:17 :: No connections.  Going to sleep.
+Sep 11 01:31:37 :: New connection.  Waking up.
+Sep 11 01:31:46 :: Samehdi [host-72-174-208-39.ljn-co.client.bresnan] has connected.
+Sep 11 01:31:51 :: Samehdi had no variable file
+Sep 11 01:31:51 :: Samehdi un-renting and entering game.
+Sep 11 01:31:51 :: Samehdi (level 42) has 0 objects (max 30).
+Sep 11 01:32:16 :: OLC: Samehdi starts editing zone 8 allowed zone -1
+Sep 11 01:35:00 :: GenOLC: add_room: Updated existing room #842.
+Sep 11 01:35:00 :: OLC: Samehdi edits room 842.
+Sep 11 01:35:00 :: GenOLC: save_rooms: Saving rooms in zone #8 (800-899).
+Sep 11 01:35:00 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 01:35:42 :: OLC: Samehdi starts editing zone 8 allowed zone -1
+Sep 11 01:36:14 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 01:38:09 :: GenOLC: add_room: Updated existing room #830.
+Sep 11 01:38:09 :: OLC: Samehdi edits room 830.
+Sep 11 01:38:09 :: GenOLC: save_rooms: Saving rooms in zone #8 (800-899).
+Sep 11 01:38:09 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 01:38:32 :: OLC: Samehdi starts editing zone 8 allowed zone -1
+Sep 11 01:40:58 :: GenOLC: add_room: Updated existing room #822.
+Sep 11 01:40:58 :: OLC: Samehdi edits room 822.
+Sep 11 01:40:58 :: GenOLC: save_rooms: Saving rooms in zone #8 (800-899).
+Sep 11 01:40:58 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 01:41:14 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 01:41:22 :: OLC: Samehdi starts editing zone 8 allowed zone -1
+Sep 11 01:43:48 :: GenOLC: add_room: Updated existing room #828.
+Sep 11 01:43:48 :: OLC: Samehdi edits room 828.
+Sep 11 01:43:48 :: GenOLC: save_rooms: Saving rooms in zone #8 (800-899).
+Sep 11 01:43:48 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 01:44:11 :: OLC: Samehdi starts editing zone 8 allowed zone -1
+Sep 11 01:46:14 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 01:47:15 :: GenOLC: add_room: Updated existing room #829.
+Sep 11 01:47:15 :: OLC: Samehdi edits room 829.
+Sep 11 01:47:15 :: GenOLC: save_rooms: Saving rooms in zone #8 (800-899).
+Sep 11 01:47:15 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 01:47:54 :: OLC: Samehdi starts editing zone 8 allowed zone -1
+Sep 11 01:50:59 :: GenOLC: add_room: Updated existing room #841.
+Sep 11 01:50:59 :: OLC: Samehdi edits room 841.
+Sep 11 01:50:59 :: GenOLC: save_rooms: Saving rooms in zone #8 (800-899).
+Sep 11 01:50:59 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 01:51:14 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 01:51:31 :: OLC: Samehdi starts editing zone 8 allowed zone -1
+Sep 11 01:54:03 :: GenOLC: add_room: Updated existing room #823.
+Sep 11 01:54:03 :: OLC: Samehdi edits room 823.
+Sep 11 01:54:03 :: GenOLC: save_rooms: Saving rooms in zone #8 (800-899).
+Sep 11 01:54:03 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 01:54:14 :: OLC: Samehdi starts editing zone 8 allowed zone -1
+Sep 11 01:56:09 :: GenOLC: add_room: Updated existing room #844.
+Sep 11 01:56:09 :: OLC: Samehdi edits room 844.
+Sep 11 01:56:09 :: GenOLC: save_rooms: Saving rooms in zone #8 (800-899).
+Sep 11 01:56:09 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 01:56:14 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 01:57:21 :: OLC: Samehdi starts editing zone 8 allowed zone -1
+Sep 11 01:59:04 :: GenOLC: add_room: Updated existing room #824.
+Sep 11 01:59:04 :: OLC: Samehdi edits room 824.
+Sep 11 01:59:04 :: GenOLC: save_rooms: Saving rooms in zone #8 (800-899).
+Sep 11 01:59:04 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 01:59:09 :: OLC: Samehdi starts editing zone 8 allowed zone -1
+Sep 11 02:01:14 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 02:02:36 :: GenOLC: add_room: Updated existing room #825.
+Sep 11 02:02:36 :: OLC: Samehdi edits room 825.
+Sep 11 02:02:36 :: GenOLC: save_rooms: Saving rooms in zone #8 (800-899).
+Sep 11 02:02:36 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 02:02:43 :: OLC: Samehdi starts editing zone 8 allowed zone -1
+Sep 11 02:05:50 :: GenOLC: add_room: Updated existing room #826.
+Sep 11 02:05:50 :: OLC: Samehdi edits room 826.
+Sep 11 02:05:50 :: GenOLC: save_rooms: Saving rooms in zone #8 (800-899).
+Sep 11 02:05:50 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 02:06:12 :: OLC: Samehdi starts editing zone 8 allowed zone -1
+Sep 11 02:06:14 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 02:09:35 :: GenOLC: add_room: Updated existing room #827.
+Sep 11 02:09:35 :: OLC: Samehdi edits room 827.
+Sep 11 02:09:35 :: GenOLC: save_rooms: Saving rooms in zone #8 (800-899).
+Sep 11 02:09:35 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 02:11:14 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 02:12:09 :: OLC: Samehdi starts editing zone 8 allowed zone -1
+Sep 11 02:16:14 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 02:20:53 :: GenOLC: add_mobile: Added mobile 899 at index #41.
+Sep 11 02:20:53 :: OLC: Samehdi edits mob 899
+Sep 11 02:20:53 :: GenOLC: 'world/mob/8.mob' saved, 1386 bytes written.
+Sep 11 02:20:53 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 02:20:58 :: OLC: Samehdi starts editing zone 8 - allowed zone All
+Sep 11 02:21:14 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 02:23:15 :: OLC: Samehdi edits zone info for room 806.
+Sep 11 02:23:15 :: OLC: Samehdi stops editing zone 8 allowed zone -1
+Sep 11 02:23:31 :: Samehdi has quit the game.
+Sep 11 02:23:32 :: Losing player: Samehdi.
+Sep 11 02:23:32 :: No connections.  Going to sleep.
+Sep 11 05:39:57 :: New connection.  Waking up.
+Sep 11 05:40:05 :: Accarid [pool-71-244-78-70.atc.east.verizon.net] has connected.
+Sep 11 05:40:07 :: Accarid had no variable file
+Sep 11 05:40:07 :: Accarid retrieving crash-saved items and entering game.
+Sep 11 05:40:07 :: Accarid (level 42) has 22 objects (max 30).
+Sep 11 05:40:16 :: Accarid has quit the game.
+Sep 11 05:40:16 :: Losing player: Accarid.
+Sep 11 05:40:16 :: No connections.  Going to sleep.
+Sep 11 06:04:32 :: New connection.  Waking up.
+Sep 11 06:04:36 :: Anubis [host81-154-222-171.range81-154.btcentral] has connected.
+Sep 11 06:04:37 :: Anubis had no variable file
+Sep 11 06:04:37 :: Anubis retrieving crash-saved items and entering game.
+Sep 11 06:04:37 :: Anubis (level 43) has 0 objects (max 30).
+Sep 11 06:06:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 06:11:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 06:16:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 06:21:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 06:23:56 :: SYSERR: Couldn't find 4 extractions as counted.
+Sep 11 06:26:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 06:31:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 06:36:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 06:41:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 06:46:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 06:51:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 06:56:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 07:01:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 07:06:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 07:11:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 07:12:55 :: SYSERR: Char is already equipped: the sunbrowned archer, a bone arrow
+Sep 11 07:16:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 07:21:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 07:26:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 07:31:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 07:36:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 07:41:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 07:46:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 11 07:51:18 :: Bluntmaster [vancouver.hq.brandywinecomputer.net] has connected.
+Sep 11 07:51:19 :: Bluntmaster had no variable file
+Sep 11 07:51:19 :: Bluntmaster retrieving crash-saved items and entering game.
+Sep 11 07:51:19 :: Bluntmaster (level 43) has 17 objects (max 30).
+Sep 11 07:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 07:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 08:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 08:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 08:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 08:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 08:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 08:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 08:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 08:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 08:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 08:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 08:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 08:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 09:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 09:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 09:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 09:14:55 :: SYSERR: Char is already equipped: the sunbrowned archer, a bone arrow
+Sep 11 09:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 09:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 09:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 09:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 09:32:55 :: SYSERR: Couldn't find 4 extractions as counted.
+Sep 11 09:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 09:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 09:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 09:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 09:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 10:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 10:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 10:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 10:16:15 :: SYSERR: Char is already equipped: the sunbrowned archer, a bone arrow
+Sep 11 10:16:50 :: Slurk [242254.dhcp.chop.edu] has connected.
+Sep 11 10:16:50 :: Slurk had no variable file
+Sep 11 10:16:50 :: Slurk un-renting and entering game.
+Sep 11 10:16:50 :: Slurk (level 43) has 0 objects (max 30).
+Sep 11 10:16:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 10:21:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 10:26:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 10:31:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 10:36:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 10:41:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 10:46:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 10:51:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 10:56:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 11:01:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 11:06:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 11:11:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 11:12:36 :: WARNING: EOF on socket read (connection broken by peer)
+Sep 11 11:12:36 :: Closing link to: Bluntmaster.
+Sep 11 11:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 11:18:55 :: SYSERR: Char is already equipped: the sunbrowned archer, a bone arrow
+Sep 11 11:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 11:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 11:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 11:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 11:39:21 :: Bluntmaster [vancouver.hq.brandywinecomputer.net] has reconnected.
+Sep 11 11:41:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 11:46:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 11:51:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 11:56:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 12:01:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 12:06:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 12:11:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 12:16:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 12:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 11 12:21:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 12:26:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 12:31:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 12:36:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 12:41:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 12:46:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 12:51:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 12:56:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 13:01:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 13:06:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 13:11:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 13:16:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 13:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 11 13:21:35 :: SYSERR: Char is already equipped: the sunbrowned archer, a bone arrow
+Sep 11 13:21:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 13:26:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 13:31:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 13:36:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 13:41:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 13:46:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 13:51:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 13:56:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 14:01:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 14:06:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 14:11:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 14:16:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 14:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 11 14:21:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 14:26:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 14:31:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 14:36:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 14:41:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 14:46:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 14:51:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 14:56:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 15:01:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 15:05:32 :: Accarid [pool-71-244-78-70.atc.east.verizon.net] has connected.
+Sep 11 15:05:34 :: Accarid had no variable file
+Sep 11 15:05:34 :: Accarid un-renting and entering game.
+Sep 11 15:05:34 :: Accarid (level 42) has 22 objects (max 30).
+Sep 11 15:06:56 :: nusage: 4   sockets connected, 4   sockets playing
+Sep 11 15:11:56 :: nusage: 4   sockets connected, 4   sockets playing
+Sep 11 15:16:56 :: nusage: 4   sockets connected, 4   sockets playing
+Sep 11 15:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 11 15:21:56 :: nusage: 4   sockets connected, 4   sockets playing
+Sep 11 15:23:55 :: SYSERR: Char is already equipped: the sunbrowned archer, a bone arrow
+Sep 11 15:26:56 :: nusage: 4   sockets connected, 4   sockets playing
+Sep 11 15:29:44 :: WARNING: EOF on socket read (connection broken by peer)
+Sep 11 15:29:44 :: Closing link to: Bluntmaster.
+Sep 11 15:31:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 15:36:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 15:41:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 15:46:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 15:51:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 15:56:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 16:01:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 16:06:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 16:11:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 16:16:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 16:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 11 16:21:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 16:25:15 :: SYSERR: Char is already equipped: the sunbrowned archer, a bone arrow
+Sep 11 16:26:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 16:31:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 16:36:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 16:37:25 :: OLC: Slurk starts editing the game configuration.
+Sep 11 16:37:29 :: OLC: Slurk stops editing the game configuration
+Sep 11 16:37:44 :: OLC: Slurk starts editing clans.
+Sep 11 16:37:44 :: OLC: Slurk saves the clans.
+Sep 11 16:38:08 :: OLC: Slurk stops editing zone 0 allowed zone -1
+Sep 11 16:41:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 16:46:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 16:51:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 16:56:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 17:01:05 :: Accarid has quit the game.
+Sep 11 17:01:05 :: Losing player: Accarid.
+Sep 11 17:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 17:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 17:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 17:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 17:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 11 17:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 17:26:35 :: SYSERR: Char is already equipped: the sunbrowned archer, a bone arrow
+Sep 11 17:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 17:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 17:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 17:39:17 :: Nadddre [74-44-68-157.dsl1.clkvl.tn.frontiernet.n] has connected.
+Sep 11 17:39:19 :: Nadddre had no variable file
+Sep 11 17:39:19 :: Nadddre un-renting and entering game.
+Sep 11 17:39:19 :: Nadddre (level 18) has 96 objects (max 30).
+Sep 11 17:41:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 17:46:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 17:51:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 17:56:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 18:01:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 18:06:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 18:11:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 18:16:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 18:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 11 18:21:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 18:26:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 18:27:55 :: SYSERR: Char is already equipped: the sunbrowned archer, a bone arrow
+Sep 11 18:31:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 18:36:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 18:41:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 18:46:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 18:51:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 18:53:47 :: WARNING: EOF on socket read (connection broken by peer)
+Sep 11 18:53:47 :: Closing link to: Nadddre.
+Sep 11 18:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 19:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 19:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 19:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 19:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 19:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 11 19:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 19:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 19:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 19:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 19:41:56 :: Nadddre force-rented and extracted (idle).
+Sep 11 19:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 19:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 19:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 19:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 19:58:50 :: Accarid [pool-71-244-78-70.atc.east.verizon.net] has connected.
+Sep 11 19:58:52 :: Accarid had no variable file
+Sep 11 19:58:52 :: Accarid un-renting and entering game.
+Sep 11 19:58:52 :: Accarid (level 42) has 22 objects (max 30).
+Sep 11 20:00:18 :: Accarid has quit the game.
+Sep 11 20:00:18 :: Losing player: Accarid.
+Sep 11 20:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 20:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 20:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 20:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 20:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 20:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 20:31:12 :: Nadddre [74-44-68-157.dsl1.clkvl.tn.frontiernet.n] has connected.
+Sep 11 20:31:14 :: Nadddre had no variable file
+Sep 11 20:31:14 :: Nadddre un-renting and entering game.
+Sep 11 20:31:14 :: Nadddre (level 18) has 96 objects (max 30).
+Sep 11 20:31:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 20:36:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 11 20:40:11 :: WARNING: EOF on socket read (connection broken by peer)
+Sep 11 20:40:11 :: Closing link to: Nadddre.
+Sep 11 20:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 20:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 20:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 20:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 21:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 21:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 21:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 21:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 21:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 21:22:55 :: SYSERR: Couldn't find 4 extractions as counted.
+Sep 11 21:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 21:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 21:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 21:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 21:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 21:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 21:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 22:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 22:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 22:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 22:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 22:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 22:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 22:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 22:34:25 :: Nadddre force-rented and extracted (idle).
+Sep 11 22:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 22:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 22:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 22:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 22:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 23:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 23:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 23:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 23:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 23:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 23:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 23:26:56 :: SYSERR: Couldn't find 4 extractions as counted.
+Sep 11 23:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 23:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 23:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 23:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 23:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 11 23:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 00:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 00:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 00:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 00:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 00:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 00:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 00:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 00:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 00:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 00:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 00:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 00:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 01:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 01:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 01:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 01:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 01:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 01:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 01:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 01:31:56 :: SYSERR: Couldn't find 4 extractions as counted.
+Sep 12 01:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 01:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 01:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 01:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 01:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 02:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 02:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 02:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 02:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 02:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 02:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 02:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 02:33:55 :: SYSERR: Couldn't find 4 extractions as counted.
+Sep 12 02:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 02:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 02:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 02:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 02:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 03:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 03:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 03:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 03:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 03:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 03:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 03:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 03:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 03:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 03:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 03:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 03:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 04:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 04:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 04:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 04:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 04:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 04:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 04:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 04:35:56 :: SYSERR: Couldn't find 4 extractions as counted.
+Sep 12 04:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 04:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 04:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 04:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 04:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 05:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 05:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 05:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 05:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 05:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 05:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 05:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 05:35:49 :: Accarid [pool-71-244-78-70.atc.east.verizon.net] has connected.
+Sep 12 05:35:51 :: Accarid had no variable file
+Sep 12 05:35:51 :: Accarid un-renting and entering game.
+Sep 12 05:35:51 :: Accarid (level 42) has 22 objects (max 30).
+Sep 12 05:36:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 05:39:58 :: Accarid has quit the game.
+Sep 12 05:39:58 :: Losing player: Accarid.
+Sep 12 05:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 05:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 05:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 05:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 06:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 06:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 06:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 06:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 06:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 12 06:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 06:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 06:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 06:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 06:38:14 :: SYSERR: no valid target to act()!
+Sep 12 06:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 06:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 06:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 06:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 07:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 07:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 07:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 07:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 07:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 12 07:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 07:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 07:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 07:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 07:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 07:45:28 :: Bluntmaster [vancouver.hq.brandywinecomputer.net] has reconnected.
+Sep 12 07:46:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 07:51:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 07:56:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 08:01:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 08:06:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 08:11:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 08:16:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 08:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 12 08:21:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 08:26:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 08:31:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 08:36:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 08:41:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 08:46:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 08:51:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 08:56:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 09:01:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 09:06:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 09:11:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 09:16:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 09:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 12 09:21:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 09:26:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 09:31:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 09:36:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 09:41:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 09:46:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 09:51:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 09:56:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 10:01:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 10:06:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 10:11:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 10:16:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 10:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 12 10:21:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 10:26:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 10:31:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 10:36:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 10:41:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 10:46:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 10:51:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 10:56:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 11:01:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 11:06:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 11:11:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 11:16:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 11:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 12 11:21:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 11:26:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 11:30:31 :: WARNING: EOF on socket read (connection broken by peer)
+Sep 12 11:30:31 :: Closing link to: Bluntmaster.
+Sep 12 11:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 11:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 11:41:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 11:46:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 11:51:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 11:56:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 12:01:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 12:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 12:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 12:16:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 12:19:26 :: SYSERR: Couldn't find 2 extractions as counted.
+Sep 12 12:21:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 12:26:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 12:31:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 12:36:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 12:37:10 :: WARNING: EOF on socket read (connection broken by peer)
+Sep 12 12:37:10 :: Closing link to: Slurk.
+Sep 12 12:41:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 12 12:46:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 12 12:51:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 12 12:56:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 12 13:01:56 :: nusage: 1   sockets connected, 1   sockets playing
+Sep 12 13:04:46 :: Bluntmaster [vancouver.hq.brandywinecomputer.net] has reconnected.
+Sep 12 13:06:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 13:11:56 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 12 13:13:21 :: Slurk [242254.dhcp.chop.edu] has reconnected.
+Sep 12 13:16:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 13:21:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 13:26:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 13:31:56 :: nusage: 3   sockets connected, 3   sockets playing
+Sep 12 13:36:56 :: nusage: 3   sockets connected, 3   sockets playing

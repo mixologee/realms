@@ -1,0 +1,110 @@
+Name: Erion
+Pass: ErpM69ZjA.Dn2
+Titl: the Minister
+Sex : 1
+Clas: 1
+Levl: 10
+Id  : 319
+Brth: 1243515331
+Plyd: 4073
+Last: 1243519404
+Host: 94.21.48.236
+Hite: 172
+Wate: 167
+Alin: -83
+Act : gh 0 0 0
+Aff : 0 0 0 0
+Pref: aehjo 0 0 0
+Room: 6305
+Hung: 23
+Thir: 20
+Hit : 152/137
+Mana: 133/108
+Move: 156/158
+Str : 14/0
+Int : 14
+Wis : 16
+Dex : 14
+Con : 14
+Cha : 16
+Ac  : 100
+Gold: 47353
+Exp : 191941
+Hrol: 5
+Drol: 4
+Page: 0
+Mkls: 96
+Deth: 1
+Clan: 100
+Wcl : 1
+Qcnt: 1
+Qcur: 6300
+Dyng: -1
+ScrW: 0
+Page: 0
+News: 15
+Gnew: 0
+Etho: 2
+Sec : 1
+Skil:
+1 95
+3 95
+4 100
+12 100
+13 95
+15 100
+16 100
+18 100
+19 100
+20 100
+21 100
+33 100
+40 95
+42 100
+43 60
+47 100
+50 100
+52 100
+154 10
+155 15
+156 10
+0 0
+Prof:
+0 0
+Wood:
+0 0
+Scal:
+0 0
+Skin:
+0 0
+Alis: 10
+sac
+sac corpse
+0
+kc
+kill cust
+0
+cf
+create food
+0
+cw
+cast create water
+0
+cc
+cast cure critic
+0
+dal
+cast detect align
+0
+dm
+cast detect magic
+0
+dinv
+cast detect invis
+0
+sc
+sac corpse
+0
+gac
+get all corpse
+0

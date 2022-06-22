@@ -1,0 +1,71 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C20&c]. Type NEWS 20 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+New Commands
+------------------------------------------------------------------------
+
+bind   <obj> <char name>
+unbind <obj>
+
+
+Bind will bind an object to a player specified making it unuseable for
+any other player in the game to use it.  This applies to containers as
+well.  If a bag is binded to player 1, and player 2 finds said bag and
+tries to get something from it, or put something in it, it will not allow
+it to happen.  However, since binding will only happen via god or using 
+the trigger obind command, there shouldn't be much bound equipment 
+floating around.  This command is logged, so don't abuse it.
+
+
+Unbind just clears who the object is binded to.
+
+I am still working on adding in an auto un-bind when a player is CPKED
+so that you can take and use equipment that may have been binded to them.
+This will probably work based on level though, as if we bind newbie eq
+to a newbie, they shouldn't be having it stolen and sacrificed etc by any
+ass that wants to just be a jerk.
+
+I will be adding in more areas where things will be auto bound/unbound.
+
+There is currently no trigger to unbind equipment at this time, so to get
+something unbound, it must be done by a greater god or higher.
+
+Any suggestions for where this may be necessary to have done, please let
+me know and we can probably figure it out.
+
+
+Side Note for Coders:  GET_OBJ_BOUND_ID(object)  will return the ID# of
+                       the player it is bound to
+
+
+Other things being worked on:
+------------------------------------------------------------------------
+
+Deity and Ethos
+
+This is just the framework for the possibility of having Deity/Ethos 
+system implemented here.  Nothing to do with it is currently working, 
+although there are functions under the set command to set up the deity
+and ethos of a character, they do nothing in-game thus far, and possibly
+never will.  I just wanted you to know that it's in the beginning phases.
+
+-Slurk
+
+

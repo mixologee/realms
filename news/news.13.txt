@@ -1,0 +1,22 @@
+&R                        Realms of Kuvia
+&c             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+------------------------------------------------------------------------
+News file [&C13&c]. Type NEWS 13 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+RANGED COMBAT
+
+Ranged combat has been fixed. We have also made the change that if you
+are carrying more than 1 of the items you are shooting, it will automatically 
+grab another out of your inventory and equip it in the held position. If
+you run out, it will let you know. 
+
+-B
+

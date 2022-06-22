@@ -1,0 +1,28 @@
+#1
+BluntMaster~
+The House of Tolerance~
+100 150 5 2 d 0 0 0 0 100
+D 0 112 2 3 	(On a Small Rooftop)
+D 0 111 0 3 	(Landing of a Narrow Stairway)
+M 0 101 10 109 	(a party kid)
+M 0 102 10 109 	(a party kid)
+M 0 102 10 109 	(a party kid)
+M 0 101 10 103 	(a party kid)
+M 0 102 10 103 	(a party kid)
+M 0 101 10 101 	(a party kid)
+M 0 102 10 101 	(a party kid)
+M 0 101 10 105 	(a party kid)
+M 0 102 10 105 	(a party kid)
+M 0 101 10 114 	(a party kid)
+M 0 102 10 114 	(a party kid)
+M 0 101 10 113 	(a party kid)
+M 0 102 10 113 	(a party kid)
+M 0 101 10 108 	(a party kid)
+M 0 102 10 108 	(a party kid)
+M 0 101 10 115 	(a party kid)
+M 0 102 10 115 	(a party kid)
+D 0 126 2 1 	(A Trashy Alley)
+D 0 122 0 1 	(A Rickety Chainlink Fence)
+M 0 100 1 110 	(Jenna)
+S
+$

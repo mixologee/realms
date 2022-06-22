@@ -1,0 +1,28 @@
+#BUILDING
+Vnum          3
+Type          0
+Vnum_room     2196938
+Size          1
+Owner_Id      1
+Owner_Type    1
+Enter_Type    1
+Defense       34 34
+Health        5001 5001
+Keywords      hut~
+Description   a hut~
+End
+
+#ROOMS
+#0
+The Inside~
+You are in the lone room of the hut.
+~
+fghipqtvwxzABE 0 0 0
+D2
+~
+door~
+a 0 0
+S
+$
+
+#END

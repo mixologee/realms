@@ -1,0 +1,32 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C36&c]. Type NEWS 35 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+Game downtime.
+
+Sorry about the downtime all.  Apparently the new Help System had gone
+and got corrupted and I couldn't figure it out.  All is now well.  I 
+think we were down for about a week until I got help from Blunt on his
+honeymoon.. so much props to him for taking time to point me where the
+problem was.
+
+Please let me know if you have any problems now that we are back up at
+slurk@reamsofkuvia.com
+
+-Slurk

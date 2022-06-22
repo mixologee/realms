@@ -1,0 +1,555 @@
+#5925
+banana food~
+a yummy banana~
+A tasty looking banana is lying here.~
+~
+19 0 0 0 0 ao 0 0 0 0 0 0 0
+2 0 0 0
+1 1 0 0
+#5926
+loin cloth~
+a skimpy loin cloth~
+A small piece of fabric is lying here.~
+~
+11 0 0 0 0 af 0 0 0 0 0 0 0
+0 0 0 0
+0 1 0 13
+A
+13 13
+A
+2 2
+#5927
+bead necklace~
+a thick bead necklace~
+A bracelet is lying here.~
+~
+11 op 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+2 30 0 14
+A
+12 18
+#5928
+bead bracelet~
+a thick bead bracelet~
+A nice bracelet is lying here.~
+~
+11 mn 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+2 30 0 14
+A
+13 18
+#5929
+native spear~
+an old spear~
+A spear is lying here.~
+~
+5 mn 0 0 0 an 0 0 0 0 0 0 0
+0 4 4 14
+1 0 0 8
+A
+18 3
+A
+19 3
+#5930
+bone necklace~
+a bone necklace~
+A necklace made of bone is lying here.~
+~
+11 0 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+2 1 0 15
+A
+18 3
+A
+19 3
+#5931
+bone ring~
+a ring of bone~
+A dull ring is lying here.~
+~
+11 0 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+2 20 0 17
+A
+13 10
+A
+13 3
+#5932
+shrunken head~
+a shrunken head~
+Someone lost their head.~
+~
+12 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 20 0 20
+A
+18 3
+A
+19 4
+#5933
+headhunter mask~
+a headhunter's mask~
+A scary mask is lying here.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+10 0 0 0
+2 100 0 21
+A
+13 15
+A
+18 4
+#5934
+bone machete~
+a bone machete~
+A brutal machete has been left here.~
+~
+5 mn 0 0 0 an 0 0 0 0 0 0 0
+0 7 2 3
+3 20 0 16
+A
+13 20
+#5935
+voodoo doll~
+a voodoo doll~
+A twisted little doll is lying here.~
+~
+12 op 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 100 0 18
+A
+12 20
+A
+12 20
+#5936
+gnarled staff~
+a twisted and gnarled staff~
+A twisted and gnarled staff is lying here.~
+~
+5 op 0 0 0 an 0 0 0 0 0 0 0
+0 5 5 0
+2 50 0 21
+A
+13 20
+A
+12 25
+#5937
+tribal ring~
+a tribal ring~
+A ring with tribal markings has been left here.~
+~
+12 0 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+1 420 0 23
+A
+12 20
+A
+13 20
+#5938
+tribal bracelet~
+a tribal bracelet~
+A bracelet with tribal markings has been left here.~
+~
+12 0 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+2 40 0 22
+A
+13 15
+A
+19 5
+#5939
+tribal necklace~
+a tribal necklace~
+A necklace with tribal markings has been left here.~
+~
+11 0 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+1 20 0 22
+A
+12 20
+A
+19 3
+#5940
+tribal spear~
+a tribal spear~
+A spear with tribal markings has been left here.~
+~
+5 mn 0 0 0 an 0 0 0 0 0 0 0
+0 4 6 14
+2 20 0 24
+A
+18 5
+A
+19 5
+#5941
+tribal mask~
+a tribal mask~
+A mask with tribal markings has been left here.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+5 0 0 0
+2 1000 0 23
+A
+12 20
+A
+13 20
+#5942
+shrunken head sack~
+a shrunken head sack~
+A sack for harvesting heads is lying here.~
+~
+15 0 0 0 0 ao 0 0 0 0 0 0 0
+120 1 -1 0
+2 25 0 15
+#5943
+red powder~
+some strange red powder~
+Some strange red powder is lying here.~
+~
+10 0 0 0 0 a 0 0 0 0 0 0 0
+20 28 -1 -1
+1 150 0 0
+#5944
+magic yellow powder~
+some magic yellow powder~
+Some magic yellow powder is lying here.~
+~
+10 0 0 0 0 a 0 0 0 0 0 0 0
+30 43 -1 -1
+1 0 0 0
+#5950
+cuff link~
+a shiny cuff link~
+An expensive cuff link has been left behind.~
+~
+11 0 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+2 100 0 5
+A
+13 5
+#5951
+bellboy hat~
+a bellboy hat~
+A silly little hat is lying here.~
+~
+11 0 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+1 10 0 0
+A
+3 2
+A
+13 2
+#5952
+white gloves~
+a pair of white gloves~
+A nice pair of gloves are lying here.~
+~
+11 0 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0
+1 20 0 0
+A
+2 2
+A
+14 50
+#5953
+goosefeather quill~
+a goosefeather quill~
+A quill has been left here.~
+~
+21 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+A
+3 3
+#5954
+black pants~
+a pair of black pants~
+Someone lost their pants.~
+~
+11 m 0 0 0 af 0 0 0 0 0 0 0
+0 0 0 0
+2 35 0 10
+A
+13 20
+A
+19 2
+#5955
+marked cards~
+a marked deck of cards~
+A deck of cards are lying on the ground.~
+~
+12 m 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 50 0 10
+A
+18 2
+A
+19 3
+#5956
+longsleeve shirt~
+a long sleeve shirt~
+A shirt is lying here.~
+~
+11 0 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 5
+A
+13 15
+A
+19 3
+#5957
+dice~
+a pair of dice~
+Some nice dice are on the ground.~
+~
+13 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#5958
+martini local~
+a fancy martini~
+Someone lost their drink.~
+~
+17 0 0 0 0 ao 0 0 0 0 0 0 0
+5 5 8 0
+10 0 0 0
+#5959
+casino chips~
+some casino chips~
+Some casino chips are lying here.~
+~
+12 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+2 20 0 5
+A
+12 15
+A
+17 -10
+#5960
+shiny baton~
+a shiny red baton~
+A shiny red baton is lying here.~
+~
+5 km 0 0 0 aln 0 0 0 0 0 0 0
+0 4 4 5
+4 100 0 10
+A
+18 5
+#5961
+shiny shield~
+a shiny red shield~
+A shiny red shield has been left here.~
+~
+9 0 0 0 0 aj 0 0 0 0 0 0 0
+5 0 0 0
+3 100 0 15
+A
+17 -10
+A
+13 10
+#5962
+shiny sleeves~
+a pair of shiny red sleeves~
+Some shiny red sleeves are lying here.~
+~
+9 m 0 0 0 ai 0 0 0 0 0 0 0
+5 0 0 0
+2 10 0 15
+A
+17 -5
+A
+13 10
+#5963
+shiny gloves~
+a pair of shiny red gloves~
+Some tuff metal gloves are lying here.~
+~
+9 m 0 0 0 ah 0 0 0 0 0 0 0
+5 0 0 0
+2 10 0 15
+A
+17 -10
+A
+13 10
+#5964
+shiny boots~
+some shiny red boots~
+Some shiny boots are here.~
+~
+9 0 0 0 0 ag 0 0 0 0 0 0 0
+5 0 0 0
+3 50 0 15
+A
+17 -5
+A
+13 10
+#5965
+shiny helmet~
+a shiny red helmet~
+A kick ass looking red helmet is lying here.~
+~
+9 m 0 0 0 ae 0 0 0 0 0 0 0
+5 0 0 0
+1 20 0 10
+A
+17 -5
+A
+13 10
+#5966
+velvet pouch~
+a pouch of soft velvet~
+An expensive looking pouch is lying here.~
+~
+15 f 0 0 0 al 0 0 0 0 0 0 0
+35 0 -1 0
+1 100 0 0
+#5967
+hotel key~
+a shiny hotel key~
+A shiny key is lying here.~
+~
+18 cf 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 0 0 0
+#5975
+bat wings~
+a pair of bat wings~
+A small pair of bat wings, are lying here.~
+~
+11 0 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+1 69 0 0
+A
+3 3
+A
+5 2
+#5976
+bat fangs~
+a pair of bat fangs~
+A pair of sharp little fangs are lying here.~
+~
+11 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+1 69 0 0
+A
+4 3
+A
+5 2
+#5977
+vine bracelet~
+a thick vine bracelet~
+A thick vine is lying here.~
+~
+11 0 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+2 0 0 0
+A
+12 10
+A
+12 10
+#5978
+twisted vine bracelet~
+a twisted vine bracelet~
+A twisted vine bracelet is lying here.~
+~
+11 0 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+2 0 0 0
+A
+13 10
+A
+13 10
+#5979
+plant fang necklace~
+a necklace of plant fangs~
+An odd fang necklace is lying here.~
+~
+11 0 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+2 0 0 5
+A
+18 2
+A
+19 3
+#5980
+bat wing pouch~
+a bat wing pouch~
+A pouch made from bat wings, is lying here.~
+~
+15 agr 0 0 0 al 0 0 0 0 0 0 0
+200 1 -1 0
+2 400000 0 15
+A
+5 2
+#5981
+lsd dagger~
+an LSD dagger~
+The dagger of LSD is lying here.~
+~
+5 nr 0 0 0 an 0 0 0 0 0 0 0
+0 5 5 11
+2 2000000 0 20
+A
+18 6
+A
+19 6
+#5982
+LSD gloves~
+a pair of LSD gloves~
+A strange pair of gloves are lying here.~
+~
+9 r 0 0 0 ah 0 0 0 0 0 0 0
+10 0 0 0
+2 100000 0 10
+A
+18 4
+A
+19 4
+#5983
+LSD belt~
+an LSD belt~
+An LSD belt is lying here, getting dirty.~
+~
+9 r 0 0 0 al 0 0 0 0 0 0 0
+10 0 0 0
+1 100000 0 15
+A
+12 40
+#5984
+water orb~
+a translucent orb of water~
+An orb of water is lying here.~
+~
+1 g 0 0 0 ao 0 0 0 0 0 0 0
+0 0 -1 0
+3 420 0 15
+A
+12 15
+A
+3 2
+#5985
+water crown~
+a crown of water~
+A crown of water is lying here, drying up.~
+~
+9 op 0 0 0 ae 0 0 0 0 0 0 0
+10 0 0 0
+3 0 0 10
+A
+12 15
+A
+4 2
+#5986
+water staff~
+a staff of water~
+A watery staff is lying here, drying up.~
+~
+5 gnop 0 0 0 an 0 0 0 0 0 0 0
+0 3 4 10
+2 0 0 15
+A
+12 40
+A
+3 3
+A
+17 -5
+$~

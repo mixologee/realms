@@ -1,0 +1,829 @@
+#6300
+fountain~
+an intricately carved marble fountain~
+An intricately carved marble fountain stands here, pouring out a clean, cool liquid.~
+~
+23 0 0 0 0 0 0 0 0 0 0 0 0
+10000 10000 11 0
+10005 0 0 0
+#6301
+sword longsword steel~
+a steel longsword~
+A well-crafted sword is here, waiting for someone to claim it.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+3 3 4 3
+6 150 0 5
+A
+19 2
+#6302
+armor suit~
+highly polished armor, embossed with the seal of Taris'Vaal~
+A gleaming suit of armor lies on the ground.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+-5 0 0 0
+10 0 0 5
+A
+18 2
+#6303
+helmet steel~
+a steel helmet~
+A round, steel helmet is lying here.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+-5 0 0 0
+0 0 0 5
+A
+18 1
+A
+19 1
+#6304
+tray serving platter~
+a serving tray~
+A small, circular platter lies here, dripping ale onto the ground.~
+~
+11 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+2 0 0 1
+A
+4 3
+A
+5 3
+#6305
+sword blade~
+a rusty, chipped sword~
+A rusty, overused sword is lying here.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+3 5 4 3
+4 0 0 1
+A
+19 1
+#6306
+bracelet copper hoop~
+a tarnished copper bracelet~
+A tarnished hoop of copper lies unobtrusively on the ground.~
+~
+11 0 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+3 0 0 1
+A
+18 1
+#6307
+bag pack sack rucksack~
+a well-worn rucksack~
+A worn leather bag lies here, crumpled and stained.~
+~
+15 r 0 0 0 ak 0 0 0 0 0 0 0
+23 1 -1 0
+0 0 0 1
+A
+13 10
+A
+1 2
+#6308
+dagger blade rusty~
+a rusty, dull dagger~
+A worn out dagger lies on the ground, collecting dust.~
+~
+5 mn 0 0 0 an 0 0 0 0 0 0 0
+4 4 4 11
+0 150 0 1
+A
+19 2
+#6309
+orb light~
+a gleaming orb of light~
+A small spark of light illuminates the area.~
+~
+1 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 -1 0
+3 0 0 1
+A
+2 3
+A
+3 3
+A
+4 3
+#6310
+boots leather~
+worn leather boots~
+A pair of worn out leather boots have been abandoned here.~
+~
+9 0 0 0 0 ag 0 0 0 0 0 0 0
+10 0 0 0
+3 0 0 0
+A
+13 15
+A
+17 -10
+#6311
+bell cat collar~
+a small cat's bell~
+A small bell, tied to a collar, lies here.~
+~
+11 0 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+A
+12 5
+A
+13 5
+#6312
+pastry almond cake food~
+an almond pastry~
+A small cake with almond paste looks both tempting and fattening.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+1 0 0 0
+2 20 0 0
+#6313
+bone chine cup tea~
+a bone china tea cup~
+Aromatic steam rises from this delicate china tea cup.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+5 2 11 0
+5 15 0 0
+#6314
+bed wood~
+a fluffy four-poster bed~
+THIS BED NEEDS TO BE ILLUSIONARY~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+100 0 -1 0
+0 0 0 0
+E
+bed wood covers quilts~
+This large, comfortable bed is made out of some sort of dark wood, possibly even
+mahogany.  Its four post reach almost to the ceiling of the room.  Colorful
+homemade quilts are heaped haphazardly on the bed, along with tasseled pillows.
+A small bulge reveals something half hidden under the largest pillow.  
+~
+#6315
+dragon stone emerald~
+a small stone statue of a dragon~
+An emerald gemstone sparkles from the eye of this small statuette.~
+~
+8 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+50 2500 0 0
+E
+dragon stone emerald~
+A small stone carving of a dragon has been set with emeralds for eyes, which
+sparkle in the light.  Despite its stone medium, the attention to detail makes
+this statue seem almost lifelike.  
+~
+A
+13 15
+A
+12 15
+#6316
+bottle wine~
+a bottle of Taris'Vaal wine~
+A bottle of Taris'Vaal's finest lies on the ground.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+30 30 2 0
+35 55 0 0
+#6317
+flask wine~
+a flask of Taris'Vaal Wine~
+A flask of Taris'Vaals finest lies on the ground.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+15 15 2 0
+20 30 0 0
+#6318
+wineskin skin leather wine~
+a leather wineskin~
+A small, leather wineskin has been left here.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+30 0 0 0
+3 45 0 0
+#6319
+keg wood ale~
+a keg of spiced ale~
+A large keg of beer has been propped up on the ground.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+100 100 3 0
+105 250 0 0
+#6320
+mug stan special beer~
+a large pewter mug of 'Stan's Special'~
+A large grey mug full of a bizzare concoction bubbles over and drips on the ground.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+2 2 8 0
+3 1000 0 0
+#6321
+ring~
+hitpointregenring~
+An unfinished object is lying here.~
+~
+37 t 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+#6338
+collar leather brown~
+a brown leather collar~
+A tarnished copper nameplate gleams from this thick leather strap.~
+~
+11 0 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+E
+collar leather brown nameplate~
+&bLucy, Always a good dog
+12/6/2000 - 6/1/2008
+
+~
+A
+19 3
+A
+17 -20
+#6481
+shield righteousness~
+the Towershield of Righteousness~
+A tower shield of gleaming silver emblazoned with runes shines from the ground.~
+~
+9 krstu 0 0 0 aj 0 0 0 cdefghlnotxEF ac 0 0
+-127 0 0 0
+10 1000 0 0
+A
+20 -127
+A
+21 -127
+A
+22 -127
+A
+23 -127
+A
+24 -127
+A
+17 -127
+#6482
+Aura de Excessus~
+Aura de Excessus~
+A deathly chill fills the air, burning your skin.~
+The Aura of Release is a legendary artifact that supposedly defends the wearer
+from evil curses, and possibly death itself.
+~
+36 rstv 0 0 0 aq 0 0 0 hiryD ac 0 0
+0 0 0 0
+0 1000000 0 0
+A
+20 -127
+A
+21 -127
+A
+22 -127
+A
+23 -127
+A
+24 -127
+A
+17 -127
+#6483
+extradimensional gloryhole hole~
+an extradimensional Gloryhole~
+"It was a pun!"~
+"The... larch."
+~
+15 rstv 0 0 0 abcdefghijklmnop 0 0 0 0 0 0 0
+10000 0 -1 0
+0 1000000 0 0
+A
+12 127
+A
+13 127
+#6484
+arrow~
+the Arrow of Holy Redemption~
+This is a very sharp-looking arrow. Don't touch it.~
+The one thing that cannot be avoided or corrupted is Death, which often times
+comes in the form of sweet divine retribution.
+~
+29 rstvB 0 0 0 ao 0 0 0 0 0 0 0
+0 2147483647 999999 0
+1 1000000 0 0
+A
+18 127
+A
+19 127
+#6485
+security hood Accarid's~
+Accarid's black security hood (it makes him feel more 'secretive')~
+This hood once belonged to Accarid, but it seemed he has moved on and outgrown it.~
+The cloak is simply a cloth hood that creates a shadow over the wearer's eyes- Accarid wears it to protect his not-so-secret identity.
+~
+11 rstv 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0
+2 1000000 0 0
+A
+12 127
+A
+13 127
+A
+17 -127
+A
+24 -127
+#6486
+symbol change lurker cloak skin~
+a lurker skin cloak, emblazoned with the symbol of Change~
+A shadow-woven cloak darts away from the light.~
+The trick to making this cloak wasn't so much subduing a lurker but getting the
+shadowy shreds of its hide to stay in place long enough to be woven into cloth.
+The symbol of change consists of four scythes rotating clockwise, forming a
+cross intersecting another cross of wheat, ripe for reaping. Four moons lie
+between one blade's tip and the next one's beginning, going from full at the top
+to new at the bottom and back, a never ending cycle of repeated and predictable
+change.
+~
+11 rstv 0 0 0 ac 0 0 0 t 0 0 0
+0 0 0 0
+1 1000000 0 0
+A
+12 127
+A
+13 127
+#6487
+chainmail shirt secret~
+the secret chainmail shirt of foiled murder attempts~
+This chainmail shirt has foiled many a murder attempt, only to be left on the ground. So sad.~
+The rings seem alive, and made of mist that constantly moves and seems to disappear when you look directly at it.
+~
+9 rstv 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0
+10 1000000 0 0
+A
+17 -127
+A
+20 -127
+A
+21 -127
+A
+22 -127
+A
+23 -127
+A
+24 -127
+#6488
+fez black skulls~
+a black and red-tasseled fez decorated with little skulls~
+A black fez sits here, gathering dust.~
+It's a fez- what else is there to explain?
+~
+11 rstv 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+1 1000000 0 0
+A
+12 127
+A
+13 127
+#6489
+demon fangs pants silk dress~
+Some soft silken dress pants, embroidered with dangling demon fangs~
+A pair of silk pants lie here, its demon fang embroidery shivering quietly with energy.~
+These pants are made of the finest silk dyed black- only the demon fangs hanging off of the edges of the fabric indicate a rough lifestyle of the wearer.
+~
+11 rstv 0 0 0 af 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+A
+12 127
+A
+13 127
+A
+19 127
+A
+17 -127
+#6490
+combat boots horsemeat shiny stomping~
+a pair of shiny combat boots, made for stomping~
+A pair of boots are sitting here, made of the hardest material known to man.~
+These boots are made of dried and polished horsemeat, the hardest material known
+to man. More flexible than rubber, but harder than diamond (but just as hard as
+a sailor's teeth), it is the ultimate boot-building material. The faintly red
+black boots are laced with dragon whisker strings that go up the calf a good
+ways before tying off in a neat knot.
+~
+11 rstvB 0 0 0 ag 0 0 0 s 0 0 0
+0 0 0 0
+10 1000000 0 0
+A
+18 127
+A
+19 127
+A
+12 127
+A
+13 127
+#6491
+llama wool sweater black quiver~
+a black, cozy-looking llama wool sweater with a small quiver on the back~
+Who would ever dream of dropping such a precious sweater!~
+This is the awesomeness that is llama wool. It dares you to stick a weapon in it- it may never come out.
+
+~
+9 girstvB 0 0 0 ai 0 0 0 0 0 0 0
+0 0 0 0
+4 1000000 0 0
+A
+12 127
+A
+13 127
+A
+17 -127
+A
+8 127
+#6492
+shield barrier ice shards~
+a whirling sphere of ice shards~
+A cloud of glistening ice shards whirl about in the air.~
+The shards of ice that make up this shield are of a magical nature, forever
+frozen and sharp.
+~
+9 hrstv 0 0 0 aj 0 0 0 ipxyD c 0 0
+-1000 0 0 0
+0 0 0 0
+A
+12 127
+A
+13 127
+A
+20 -127
+A
+24 -127
+A
+23 -127
+A
+22 -127
+#6493
+golden brass claws~
+a pair of golden claws~
+Undefined~
+Accarid was immediately recognized upon birth that he was destined for horrible
+greatness when they saw his golden clawed hands. They gleam with a wicked
+glint, and the gears move seamlessly over one another to produce moment in ways
+that hands could not.
+~
+11 hrstvB 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0
+0 1000000 0 0
+A
+18 127
+A
+19 127
+A
+12 127
+A
+13 127
+A
+24 -127
+A
+8 127
+#6494
+greater ring winter's wrath~
+the Greater Ring of Winter's Wrath~
+A frosty coating of ice surrounds this silver ring, and a single rune pulses with white light upon it.~
+Legends tell of ancient magic that allowed a master mage to become surrounded in
+a shield of ice that both protects and deals damage to any agressor- this is one
+ring that grants the wearer such an ability. The silver band is set with an
+arcane symbol of ice that glows brilliant white.
+~
+11 arstvB 0 0 0 ab 0 0 0 mn 0 0 0
+0 0 0 0
+2 1000000 0 0
+A
+12 127
+A
+13 127
+A
+19 127
+A
+18 127
+A
+11 7
+#6495
+raven black wings pair~
+a pair of black raven wings~
+Undefined~
+Each feather is like a small multi-edged razor, made of the same black metal as
+Requiem's blade. They make no sound as Accarid moves, silent as the moonlight
+in the dead of night.
+~
+9 hrstvB 0 0 0 ak 0 0 0 ghzD 0 0 0
+0 0 0 0
+0 1000000 0 0
+A
+17 -127
+A
+12 127
+A
+13 127
+A
+21 -127
+A
+8 127
+#6496
+silk snake viper black cord~
+an animated cord of silk in the form of a Viper~
+This silk cord rears its head to strike!~
+Winding its way around the wearer, this silk cord hisses silently at you- its
+mildly frightening.
+~
+11 rstvB 0 0 0 al 0 0 0 xy 0 0 0
+0 0 0 0
+2 1000000 0 0
+A
+18 127
+A
+19 127
+A
+24 -127
+A
+20 -127
+A
+23 -127
+A
+22 -127
+#6497
+mist bracelet power moon~
+the Power of the Moon~
+This mist swirls calmly in a circle, pulsating with undulating blue light.~
+~
+0 agrtvB 0 0 0 am 0 0 0 C 0 0 0
+0 0 0 0
+0 1000000 0 0
+A
+12 127
+A
+13 127
+A
+17 -100
+A
+8 127
+#6498
+mist bracelet power sun~
+the Power of the Sun~
+A ring of mist darts quickly about, radiating a light bright as the sun.~
+This mist has been used to capture the power of sunlight by a Master Mage.
+~
+11 arstvB 0 0 0 am 0 0 0 h 0 0 0
+0 0 0 0
+0 1000000 0 0
+A
+12 127
+A
+13 127
+A
+17 -127
+#6499
+one ring gold~
+the One Ring~
+The One Ring rolls about wildy searching for its master.~
+One ring to rule them all, one ring to find them, one ring to bring them all, and in the darkness bind them.
+~
+11 grstv 0 0 0 ab 0 0 0 ct 0 0 0
+0 0 0 0
+100 1000000 0 0
+A
+12 127
+A
+13 127
+#6501
+Sputnik Traveller's Companion~
+Sputnik, the Traveller's Companion~
+A drifting flour sack with purple tassels and a golden smile seems happy to see you.~
+Sputnik has always been the guardian of travellers, regardless of alignment and intent. A little piece of its soul has come to reside in a flour sack body, with two long purple tassels and a bright yellow smile on either side.
+~
+1 agirstv 0 0 0 ap 0 0 0 cdefhns 0 0 0
+0 0 0 0
+0 1000000 0 0
+A
+20 -127
+A
+21 -127
+A
+22 -127
+A
+23 -127
+A
+24 -127
+A
+17 -100
+#6502
+Accarid's heart black blood bandaged~
+Accarid's black heart, held together with bloody bandages~
+This heart beats reluctantly where it lies in the dust.~
+Tha-thump, tha-thump, tha-thump, the reluctant heart marches on.
+~
+11 rstvB 0 0 0 ao 0 0 0 B 0 0 0
+0 0 0 0
+100 0 0 0
+A
+12 127
+A
+13 127
+#6503
+Requiem Blade Vorpal Black~
+Requiem, Accarid's Vorpal Blade~
+This blade is thrust vertically into the ground, waiting patiently for its master.~
+"Beware the Jabberwock, my son!
+  The jaws that bite, the claws that catch!
+Beware the Jubjub bird, and shun
+  The frumious Bandersnatch!"
+He took his vorpal sword in hand:
+  Long time the manxome foe he sought --
+So rested he by the Tumtum tree,
+  And stood awhile in thought.
+And, as in uffish thought he stood,
+  The Jabberwock, with eyes of flame,
+Came whiffling through the tulgey wood,
+  And burbled as it came!
+One, two! One, two! And through and through
+  The vorpal blade went snicker-snack!
+He left it dead, and with its head
+  He went galumphing back.
+"And, has thou slain the Jabberwock?
+  Come to my arms, my beamish boy!
+O frabjous day! Callooh! Callay!'
+  He chortled in his joy.
+~
+5 rstvB 0 0 0 an 0 0 0 0 0 0 0
+50 50 50 11
+8 1000000 0 0
+A
+8 127
+A
+18 127
+A
+19 127
+A
+14 127
+#6504
+stringless bow inevitability~
+the Stringless Bow of Inevitability~
+This stringless bow lies dejectedly upon the ground, dust staining its black and white bands.~
+This composite longbow would make any mortal archer shit his or herself with glee at being able to hand such a fine work of artistry. Simple, yet awesome, its black and white bands are each etched with a rune of power that ensure that the arrow will always hit the target- no matter what.
+~
+25 agistvB 0 0 0 an 0 0 0 stxC 0 0 0
+0 0 0 0
+1 1000000 0 0
+A
+18 127
+A
+19 127
+A
+12 127
+A
+13 127
+A
+8 127
+A
+17 -100
+#6505
+goblet red berry juice~
+a goblet of red berry juice~
+An enticing goblet of red fruit juice emits an inviting smell.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+4 4 8 0
+9 15 0 0
+#6506
+goblet orange juice~
+a goblet of orange juice~
+An enticing goblet of orange juice emits an inviting smell.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+3 3 8 0
+8 10 0 0
+#6507
+goblet blueberry juice~
+a goblet of blueberry juice~
+An enticing goblet of blueberry juice emits an inviting smell.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+4 4 8 0
+9 15 0 0
+#6508
+goblet juice multicolored local~
+a goblet of multicolored liquid~
+A goblet of swirling multicolored liquid emits an inviting smell.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+5 5 8 0
+10 25 0 0
+#6509
+hold tree trunk~
+a hole in the trunk~
+THIS OBJECT SHOULD BE ILLUSIONARY~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+20 0 -1 0
+0 0 0 0
+#6510
+nest~
+a nest~
+THIS OBJECT SHOULD BE ILLUSIONARY, AND HAVE A SCRIPT ATTATCHED SO WHEN PLAYERS GET HAIR NEST, THEY SEE SOMETHING ALONG THE LINES OF, YOU CAREFULLY PULL A THREAD OF SILKEN HUMAN HAIR OUT OF THE WOVEN MASS OF TWIGS~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+10 0 -1 0
+5 0 0 0
+E
+nest~
+Something metallic shimmers from within this crumpled mass of twigs and grass.
+The nest has been inexpertly woven together, and barely holds its shape.  No
+bird appears to inhabit the nest anymore, and its flimsiness belies its effort
+to safely shelter
+~
+#6511
+hair gold silken strands~
+silken strands of human hair~
+Several strands of human hair reflect the light, shimmering like they are made of gold.~
+~
+11 g 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0
+5 120 0 0
+E
+hair gold silken strands~
+Several strands of human hair have been braided together to form a thin plait.
+The hairs shimmer and reflect light, and have a curious weight, almost as if
+they weren't hair at all, but spun from solid gold.  
+~
+A
+13 10
+A
+12 10
+#6897
+eyeball~
+a horrid looking eyeball covered in puss~
+An unfinished object is lying here.~
+~
+11 B 0 0 0 ae 0 0 0 cdef 0 0 0
+0 0 0 0
+0 0 0 43
+A
+18 10
+A
+18 10
+A
+18 10
+A
+19 10
+A
+19 10
+A
+19 10
+#6898
+dagger~
+a proccing dagger~
+An unfinished object is lying here.~
+~
+5 fB 0 0 0 an 0 0 0 0 0 0 0
+5 5 5 11
+0 0 0 0
+#6899
+crystalgate crystal crygate transport node arch archway~
+a crystalline archway~
+&WA large crystalline archway is here, glowing with runic symbols.&n~
+~
+7 abqs 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0
+1000000 0 0 0
+E
+moon~
+This symbol looks like a crescent moon.  Its glow pulses with the rhythm of the
+archway.  It seems to reference the open sky above.
+~
+E
+star~
+This symbol looks like a five-pointed star.  Its glow pulses with the rythym of
+the archway.  The only meaning you can figure for this symbol would be the
+heavens above.
+~
+E
+circle~
+This symbol looks like a perfectly round circle.  Its glow pulses with the
+rhythm of the archway.  You have no idea what the symbol may stand for.
+~
+E
+symbol~
+The symbols are all set in groups of three, no two sets alike.  Looking closer
+you can make out a circle, star, and moon symbol amongst the others.
+~
+E
+node~
+Looking closer you can make out a few nodes on the archway.  Each node has a set
+of runic symbols that glow and pulse in tune with the archway.
+~
+E
+crystal~
+This gate is made up of a crystal unknown in origin.  It is cool to the touch,
+even though it seems to be radiating heat from its pulsing nodes.
+~
+$~

@@ -1,0 +1,2273 @@
+#7200
+Denny and North Street~
+North street heads east along the city walls. Heading west leads into a trash
+littered alley. Going south is Denny street. Nothing to do here, but lots of
+places to go.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7393
+D1
+~
+~
+0 0 7201
+D2
+~
+~
+0 0 7210
+D3
+~
+~
+0 0 127
+S
+#7201
+W. North Street~
+The stone wall that protects the west and north parts of The City, follows
+north street on its east west path. The street intersects with broad street
+a few blocks east of here and past that, you can make out the north gate.
+~
+72 0 0 0 0 21
+D1
+~
+~
+0 0 7202
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7200
+S
+#7202
+W. North Street~
+The stone wall that protects the west and north parts of The City, follows
+north street on its east west path. The street intersects with broad street
+just up ahead,past that, you can make out the north gate.
+~
+72 0 0 0 0 21
+D1
+~
+~
+0 0 7203
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7201
+S
+#7203
+Broad and North Street~
+Broad and North street come together here. To your north, the city's 
+housing projects begin. Heading south will take you deeper into
+The City. Off to the east a bit, you can see the north gate.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7396
+D1
+~
+~
+0 0 7204
+D2
+~
+~
+0 0 7213
+D3
+~
+~
+0 0 7202
+S
+#7204
+E. North Street~
+This part of north street sees alot of traffic, due to its proximity to
+Broad street and the north gate. The city wall to the north, provides good
+protection as it follows the street east an west.
+~
+72 0 0 0 0 21
+D1
+~
+~
+0 0 7205
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7203
+S
+#7205
+E. North Street~
+This part of north street sees alot of traffic, due to its proximity to the
+north gate and Broad street. The city wall to the north, provides decent
+protection as it follows the street east an west.
+~
+72 0 0 0 0 21
+D1
+~
+~
+0 0 7206
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7204
+S
+#7206
+Hunting Ave. and North Street~
+The north gate is a wreck. The wood is decaying and the metal is
+so rusted, that the locks no longer even work. Which is probably a
+good thing, since the key was lost years ago.
+~
+72 0 0 0 0 21
+D0
+~
+gate~
+1 0 -1
+D1
+~
+~
+0 0 7207
+D2
+~
+~
+0 0 7216
+D3
+~
+~
+0 0 7205
+S
+#7207
+E. North Street~
+North street continues east to west, past the pirates mansion. The north
+gate to the city is located just west of here. looking to the east, you
+can see the rushing waters of the river, just down the street.
+~
+72 0 0 0 0 23
+D1
+~
+~
+0 0 7208
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7206
+S
+#7208
+E. North Street~
+North street continues east to west, past the pirates mansion. The north
+gate to the city is a short walk west of here. Further to the east, you
+can hear the rushing waters of the river.
+~
+72 0 0 0 0 23
+D1
+~
+~
+0 0 7209
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7207
+S
+#7209
+Front and North Street~
+This little street corner doesn't see a whole lot of action. The pirate
+mansion is just south west of here, to the east the river flows quickly
+downstream, on its way to the south lake. It provides a great place to
+relax or play, and is also a good natural defense system for this part
+of The City.
+~
+72 524288 0 0 0 23
+D2
+~
+~
+0 0 7219
+D3
+~
+~
+0 0 7208
+S
+#7210
+N. Denny Street~
+As you walk down the street you, can see many of the shops southeast of
+here on Market street. Further south on Denny leads towards Broad street
+and The City fountain. Just west of here you can see a warm and inviting
+house, shimmering with a pale blue glow.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7200
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7220
+S
+#7211
+Ket's Weapon Emporium~
+Rare and brutal weapons line the walls of this little shop. It was
+just recently opened by Ket, but already it's making quite a stir
+on the island, due to Ket's high standards of quality.
+~
+72 8 0 0 0 24
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7221
+D3
+~
+~
+0 0 -1
+S
+#7212
+Ratsmit's Armory~
+This armory is known for quality work at an affordable price. Ratsmit
+has been in buisiness since the early days of The City and his skill
+is legendary.
+~
+72 268435468 0 0 0 24
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7222
+D3
+~
+~
+0 0 -1
+S
+#7213
+N. Broad Street~
+The street here is well kept and clean. You notice alot of people walking
+around, headed for busy Market street just south of here. There always
+seems to be something interesting goin on in this town.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7203
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7223
+D3
+~
+~
+0 0 -1
+S
+#7214
+Future Site of the EQ Storage Facility.~
+This building is not currently in use and as a result,
+is quite empty.
+~
+72 0 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7224
+D3
+~
+~
+0 0 -1
+S
+#7215
+General Store~
+This shop has been in The City since the begining. Jen's father Gene jr., 
+inherited the store from his father, Gene Sr., and now she is the proud 
+owner of the shop. The shelves are stocked with everything a brave adventurer
+needs to survive in the wild world of The Game.
+~
+72 8 0 0 0 24
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7225
+D3
+~
+~
+0 0 -1
+S
+#7216
+N. Hunting Avenue~
+This busy street, can get pretty rowdy when the pirates throw the nightly
+parties. The guards keep violence down to a minimum though, so things don't 
+get too out of hand. Just south you can see the entrance to the pirates
+exuberant mansion.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7206
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7226
+D3
+~
+~
+0 0 -1
+S
+#7217
+A Game Room In The Mansion~
+A large pool table sits in the center of the room. A large makeshift bar
+made by the pirates, is attached to the north wall. All through out the
+room there a round tables arranged for playing a quick game of poker.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7218
+D2
+~
+~
+0 0 7227
+D3
+~
+~
+0 0 -1
+S
+#7218
+A Bedroom In The Mansion~
+The room is lined wall to wall with matress's. The pirates usually crash
+here after their long drunken parties. Stale smoke and the smell of old
+beer permeates the air, and beer bottle are strewn about.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7217
+S
+#7219
+N. Front Street~
+The river roars alongside the street on its journey to the south lake,
+creating a light mist throughout the area. Boulders and large rocks
+in the water, form some great rapids to sit by and relax.
+~
+72 524288 0 0 0 23
+D0
+~
+~
+0 0 7209
+D2
+~
+~
+0 0 7229
+D3
+~
+~
+0 0 -1
+S
+#7220
+Denny and Market Street~
+Market Street and all its splendific glory spans out before you to the east.  
+Most shops in The City are located on this street, and as a result it can get
+quite crowded around here.  
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7210
+D1
+~
+~
+0 0 7221
+D2
+~
+~
+0 0 7230
+S
+#7221
+W. Market Street~
+The hustle and bustle of Market street is at times, overwhelming.  There are so
+many people walking around and window shopping, it's sometimes hard just getting
+into the shop you're trying to find.  
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7211
+D1
+~
+~
+0 0 7222
+D2
+~
+~
+0 0 7231
+D3
+~
+~
+0 0 7220
+S
+#7222
+W. Market Street~
+Market street continues to the east and west. Glancing to your north, you
+can see the store front of Ratsmit's armory. If your a little bit less
+economicly endowed, you could try the donation shop just south of here.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7212
+D1
+~
+~
+0 0 7223
+D2
+~
+~
+0 0 7232
+D3
+~
+~
+0 0 7221
+S
+#7223
+Broad and Market Street~
+This intersection, and the whole street for that matter, gets very busy on
+the weekends. This busy shopping district is filled with people from all
+over the island. Perhaps this is just the place to find that special item
+you've been searching for.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7213
+D1
+~
+~
+0 0 7224
+D2
+~
+~
+0 0 7233
+D3
+~
+~
+0 0 7222
+S
+#7224
+E. Market Street~
+Market street continues east to west. People from all over the island come
+here to do their shopping, and have a day of fun. Just south of here you
+can see The City bank, while to the west you notice the busy intersection
+of Broad and Market streets.
+~
+72 0 0 0 0 1
+D0
+~
+~
+0 0 7214
+D1
+~
+~
+0 0 7225
+D2
+~
+~
+0 0 7234
+D3
+~
+~
+0 0 7223
+S
+#7225
+E. Market Street~
+People hurry by, going from shop to shop on this busy little street. Each
+store stocks differant and unique items, and finding that perfect item is
+half the fun of bustling Market street. Just north you can see Jen Ral's
+general store, to the south you notice a post office.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7215
+D1
+~
+~
+0 0 7226
+D2
+~
+~
+0 0 7235
+D3
+~
+~
+0 0 7224
+S
+#7226
+Hunting Ave. and Market Street~
+Your standing before the massive front door, of the pirates mansion. When
+they took over the island, this governors mansion was taken by the pirate
+overlord. The structure remains intact on the outside and just as beautiful
+as the day the governor had the mansion built.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7216
+D1
+~
+door~
+1 0 7227
+D2
+~
+~
+0 0 7236
+D3
+~
+~
+0 0 7225
+S
+#7227
+Pirate Mansion~
+The hard wood floor of the mansion is scuffed and marked from years of
+being used as a party house. Two large barrels of rum sit like guards
+positioned one on each side of the mansion's entrance. Looking up at the
+high ceiling you notice a huge crystal chandelier.
+~
+72 0 0 0 0 0
+D0
+~
+~
+0 0 7217
+D1
+~
+~
+0 0 7228
+D2
+~
+~
+0 0 7237
+D3
+~
+door~
+1 0 7226
+S
+#7228
+The Pirates Throne Room~
+Huge royal tapestries hang from the walls. The royal emblems have been
+covered up by crudely made emblems bearing a large skull and crossbones.
+Large oak tables in the room hold exotic foods and beverages from all over
+the world. Along the eastern wall and dead center sits the pirates throne.
+This solid gold masterpiece was the overlords first addition to the mansion.
+
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7227
+S
+#7229
+N. Front Street~
+The street follows the river as it runs along the east side of town. This
+part of town is usally pretty quiet, except for the loud parties that
+tend to occur in the pirate mansion to your west.
+~
+72 524288 0 0 0 23
+D0
+~
+~
+0 0 7219
+D2
+~
+~
+0 0 7239
+D3
+~
+~
+0 0 -1
+S
+#7230
+N. Denny Street~
+As you walk down the street, you can hear gurgling of The City fountain to
+the south. Heading north will take you towards Market street and its
+speciality shops.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7220
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7240
+S
+#7231
+Ardnas's Magical Area~
+This tiny cottage is the residence and shop of Ardnas. Her powerful potions
+are packed onto every inch of counter and shelf space. A large wooden bin
+holds thousands of scroll, in no particular order. What little space is
+left over, makes a thin trail to the payment counter, where Ardnas awaits.
+~
+72 8 0 0 0 24
+D0
+~
+~
+0 0 7221
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7232
+Donation Room~
+This rather bland room, carries a strong magical presence. The
+creators designed it to send out a magical beacon to all unwanted
+and unused equipment across the island. When a piece of gear is
+undesired, the room summons it to itself, and offers it to the next
+person it is meant to be with.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 7222
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7233
+N. Broad Street~
+Broad street gets more active the closer you get to center city. The air
+itself has a feeling of high energy. The City's center is known for being
+the main stage of almost all island festivals, most lasting all night long
+and well into the late morning hours.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7223
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7243
+D3
+~
+~
+0 0 -1
+S
+#7234
+Bank~
+Although not much of a looker, this bank is pretty secure. A huge vault
+door rests directly behind the marble counter and the shady looking bank
+manager, who also just happens to be the banks number one teller.
+~
+72 8 16 0 0 0
+D0
+~
+~
+0 0 7224
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7235
+Post Office~
+In the center of the room is a large desk. A blue drake sits behind it
+waiting for the next bit of mail it will have to deliver. He's not mean
+or aggresive but this is a post office, and he is a postal worker. So don't
+go pissing him off. On the desk you see a sign.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 7225
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+E
+sign~
+&gTo send a letter to someone, simply type <mail soanso>. This will
+bring up the text editor so you can type out your message. To check if you
+have gotten any mail type <check>. to get your mail type <receive>.
+Thanks,
+The Management
+P.S. Don't feed the drake!!&n
+~
+S
+#7236
+N. Hunting Avenue~
+This busy street, can get pretty rowdy when the pirates throw the nightly
+parties. The guards keep violence down to a minimum though, so things don't
+get too out of control. Just north you can see the entrance to the pirates
+extravagant mansion.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7226
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7246
+D3
+~
+~
+0 0 -1
+S
+#7237
+Pirate Mansion~
+This room defies logic. There are about thirty large display cases, lined
+up against the wall. In each display sits a single human, some male, some
+female. Each person has a musical instrument in the display case with them
+and not much else. Suddenly you realize, these must be some of the
+kidnapped musicians from around the world. You had heard about pirates
+trading music with other pirates, but you never realized it had gotten this
+far out of control!
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 7227
+D1
+~
+~
+0 0 7238
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7238
+A Bedroom In The Mansion~
+The walls of the bedroom are adorned with various pieces of fine artwork
+from all over the world. The Overlord is a collector and any artwork seized
+on a raid comes here, for his personal inspection. The bed is itself is
+huge, the hand carved wooden frame supports a mattress of royal quality.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7237
+S
+#7239
+N. Front Street~
+The river roars alongside the street on its journey to the south lake,
+creating a light mist throughout the area. Boulders and large rocks
+in the water, form some great rapids to sit by and relax.
+~
+72 524288 0 0 0 23
+D0
+~
+~
+0 0 7229
+D2
+~
+~
+0 0 7249
+D3
+~
+~
+0 0 -1
+S
+#7240
+Denny and Lafayette Street~
+This intersection is home to The City fountain. It was given to the people
+of this world, to remind them that the Gods love them. It has stood in this
+place, even before The City itself was built.
+~
+72 16 0 0 0 21
+D0
+~
+~
+0 0 7230
+D1
+~
+~
+0 0 7241
+D2
+~
+~
+0 0 7250
+D3
+~
+~
+0 0 7283
+S
+#7241
+W. Lafayette Street~
+The patrons of the Puff Puff Pub sometimes spill out onto the street at
+night when things get too hectic inside. This area sees alot of traffic
+since it's so close to the fountain and center city. While not exactly
+dirty, the street is littered with beer bottles and broken mugs, from
+the night before.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7242
+D2
+~
+~
+0 0 7251
+D3
+~
+~
+0 0 7240
+S
+#7242
+W. Lafayette Street~
+Lafayette street gets more active the closer you get to center city. The air
+itself has a feeling of high energy. The City's center is known for being
+the main stage of almost all island festivals, most lasting all night long
+and well into the late morning hours.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7243
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7241
+S
+#7243
+Broad and Lafayette Street(CENTER CITY)~
+This is the heart of The City. This area is often used as a place for the
+locals to gather and trade gossip. There is always something interesting
+going on, and the intersection is a haven for talented performers and street
+musicians.
+&GA sign has been posted here.&n
+~
+72 4 0 0 0 21
+D0
+~
+~
+0 0 7233
+D1
+~
+~
+0 0 7244
+D2
+~
+~
+0 0 7253
+D3
+~
+~
+0 0 7242
+D5
+~
+~
+0 0 7192
+E
+sign~
+Guilds are located on the east side of the city.  The shops are on market
+street, just north of here.  Please read all the help files when you get a
+chance.  
+~
+S
+#7244
+E. Lafayette Street~
+Lafayette street gets more active the closer you get to center city. The air
+itself has a feeling of high energy. The City's center is known for being
+the main stage of almost all island festivals, most lasting all night long
+and well into the late morning hours.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7245
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7243
+S
+#7245
+E. Lafayette Street~
+East Lafayette continues east an west from here. The street is well kept
+and clean. This street sees alot of traffic and is one the the two main
+streets in The City. Off to the west a bit, center city comes into view.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7246
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7244
+S
+#7246
+Hunting Ave. and Lafayette Street~
+Hunting Ave and Lafayette converge here and allow access to many key
+locations in The City. To the southeast is the large stone building that is
+home to the four guilds. Heading north one can find market street and its's
+specialty shops. The entrance to the pirate mansion is also just north
+a bit.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7236
+D1
+~
+~
+0 0 7247
+D2
+~
+~
+0 0 7256
+D3
+~
+~
+0 0 7245
+S
+#7247
+E. Lafayette Street~
+The street gets busier the closer you get to the center of town, west of
+here. The loud rapids of the river, a bit east, are merely a low constant
+rumble here. The large building south of here is home to the 4 guilds of
+the land.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7248
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7246
+S
+#7248
+E. Lafayette Street~
+East Lafayette connects to Front street just east of here, and continues
+all the way to the other side of the city, to the west. The buildings are
+well kept and trouble rarely rears its head around here.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7249
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7247
+S
+#7249
+Front and Lafayette Street~
+All of lafayette street spans to the west. It is one of the two main roads
+in The City, connecting with Broad at the center of it all. Further south on
+front street leads to some of the guilds. To your east, you can see the
+rapids of the river, as it heads south to the lake.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 7239
+D2
+~
+~
+0 0 7259
+D3
+~
+~
+0 0 7248
+S
+#7250
+S. Denny Street~
+This pleasant part of the street is home to the Puff Puff Pub and the
+Danklin Mint Commemorative store. It's a great place to grab a bite to eat
+or find the perfect gift for that special someone.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7240
+D1
+~
+~
+0 0 7251
+D2
+~
+~
+0 0 7260
+D3
+~
+~
+0 0 7287
+S
+#7251
+The Puff Puff Pub~
+The Puff Puff Pub is a popular hangout of locals and out of towners
+alike. It has a cozy home-like atmosphere, and is a great place to have a 
+good meal or drink. There are a few small tables in the center of the room,
+and a large bar that spans the east wall. The pungeant smell of smoke drifts
+through the room gently. 
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 7241
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7261
+D3
+~
+~
+0 0 7250
+S
+#7252
+The Back Room of The Pretty Princess~
+Candles softly light the small room and provide a sensual ambience to 
+it. A large wooden frame bed takes up most of the space. Large swaths of
+satin and silk are draped over the bed's tall posts, making the bed itself
+a room within the room.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+door~
+1 0 7262
+D3
+~
+~
+0 0 -1
+S
+#7253
+S. Broad Street~
+Broad street gets more active the closer you get to center city. The air
+itself has a feeling of high energy. The City's center is known for being
+the main stage of almost all island festivals, most lasting all night long
+and well into the late morning hours.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7243
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7263
+D3
+~
+~
+0 0 -1
+S
+#7254
+Jail Cell~
+The cell isn't very large. It has one small bar covered window, to let some
+sunlight in. There is a small cot along the west wall and a filthy hole in
+the ground, positioned near the south wall.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+cell~
+2 -1 7255
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7255
+Jail House~
+This part of the jail serves as sheriff Kabinoff's office. His oak desk
+sits against the north wall. It's covered with stacks of old crime reports
+and a big box of assorted donuts, which seems to be surrounded by crumbs.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7265
+D3
+~
+cell~
+2 7249 7254
+S
+#7256
+S. Hunting Ave.~
+If it wasn't for all the burnt shrubbery and the charred street, this spot
+would be great. Unfortunatly, young mages must learn somewhere, and
+sometimes magic missiles from the guild to the east, go astray.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7246
+D1
+~
+~
+0 0 7257
+D2
+~
+~
+0 0 7266
+D3
+~
+~
+0 0 -1
+S
+#7257
+Mage Guild~
+The small room is illuminated by two large blue flames hovering in
+mid air along the west well. A thick rug lays on the floor in the
+middle of the room making the whole place seem more comfy. On the north
+wall there is a large target used by the younger mages to practice
+their magic missile accuracy.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7256
+S
+#7258
+Thief Guild~
+Low light levels and lots of shadows, make this the perfect place to practice
+one's thief abilities. The north wall is covered with locks and bolts from
+all over the world, to help strengthen lock picking skills.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7259
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7259
+S. Front Street~
+South Front street's view of the river is wonderful. Large boulders in the 
+water, make for some rather majestic rapids, to the east. Occasionally 
+a light mist sprays the area. Off to the east you can see the thieve's
+guild. Better watch your gold.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 7249
+D2
+~
+~
+0 0 7269
+D3
+~
+~
+0 0 7258
+S
+#7260
+S. Denny Street~
+This area doesn't see a whole lot of traffic. Most people in the area are
+passersby, simply on their way from one place to the next. Just south of
+here you can see the waterfront park on South street. To the north a bit
+you can see the fountain.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7250
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7270
+S
+#7261
+The Back Room of The Puff Puff Pub~
+This room provides extra seating for patrons fo the pub. The place gets
+very busy on certain nights. A large fireplace in the southwest corner,
+crackles and pops for the weary travelers having a drink or playing darts.
+You can see a raggedy looking doorway in the east wall.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 7251
+D1
+~
+~
+0 0 7262
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7262
+The Front Office of The Pretty Princess~
+The room is sparsly decorated and rather dirty. The managers desk in front 
+of the east wall, is covered with paperwork and a plate of old chicken wing
+bones. Doesn't look like much real work gets done around here.
+~
+72 8 0 0 0 0
+D0
+~
+door~
+1 0 7252
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7261
+S
+#7263
+S. Broad Street~
+This wide street heads north towards the center of The City. The Buildings
+are well kept and the street is trash free. Just south of here you can see
+south street and the river along it's side.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7253
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7273
+D3
+~
+~
+0 0 -1
+S
+#7264
+Jail Cell~
+The cell isn't very large. It has one small bar covered window, to let some
+sunlight in. There is a small cot along the west wall and a filthy hole in
+the ground, positioned near the south wall.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+cell~
+2 7249 7265
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 7299
+S
+#7265
+Jail House~
+This is The City jail. Most criminals go here when they commit a crime.
+This applies mostly to thieves and troublemakers, more severe crimes, like
+murder and rape, are handled personally by the pirate overlord. He's a big
+fan of double castration.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 7255
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7275
+D3
+~
+cell~
+2 7249 7264
+S
+#7266
+S. Hunting Ave.~
+This part of Hunting Ave. feels calm and tranquill. The clerical guild to
+the east seems to emit a strong holy aura. This combined with the view of
+the river to the south, makes for some great scenery.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7256
+D1
+~
+~
+0 0 7267
+D2
+~
+~
+0 0 7276
+D3
+~
+~
+0 0 -1
+S
+#7267
+Cleric Guild~
+The room glows a soft pale blue, and a low comfortable humming noise appears
+to emanate from all around you. All your stress and worries melt away, as the
+light from hundreds of small candles, brings peace to your troubled soul, and
+tired body.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7266
+S
+#7268
+Warrior Guild~
+Swords and old armor adorn the walls of this guild. There is a large circle
+drawn on the floor for sparring and training with the other warriors of The
+City. In each corner of the room, there is a statue of a gargoyle. These
+statue's breathe fire providing needed light and increasing the temperature
+drastically to help train one's mental strength.
+~
+72 8 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7269
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7269
+S. Front Street~
+Front street spans north to south from here, following the river to the 
+east. To the west you can hear the sounds of combat, coming from the 
+warriors guild, along with the strong scent of sweat.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 7259
+D2
+~
+~
+0 0 7279
+D3
+~
+~
+0 0 7268
+S
+#7270
+Denny and South Street~
+Walking along the river, on this beautiful street really puts things into
+perspective. The world seems ok for at least this one spot in time. Maybe now
+is the time to take advantage of a bench, and relax. 
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 7260
+D1
+~
+~
+0 0 7271
+D3
+~
+~
+0 0 7295
+S
+#7271
+W. South Street~
+Strolling down the street, your eyes are constantly being drawn back to the
+river. It seems to be a major part of peoples lives in The City. Couples walk
+along it, children skip stones across its surface, and it's a great place
+to soak in some sun and do a little fishing.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7272
+D3
+~
+~
+0 0 7270
+S
+#7272
+W. South Street~
+Walking along the river, on this beautiful street really puts things into
+perspective. The world seems ok for at least this one spot in time. Maybe now
+is the time to take advantage of a bench, and relax.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7273
+D3
+~
+~
+0 0 7271
+S
+#7273
+Broad and South Street~
+South street is considered the most scenic place to walk in all of
+The City. The river is always faithfully at its side, making its way
+towards the lake. Benches are set up every few blocks, for people to sit
+and relax.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 7263
+D1
+~
+~
+0 0 7274
+D3
+~
+~
+0 0 7272
+S
+#7274
+E. South Street~
+Walking along the river, on this beautiful street really puts things into
+perspective. The world seems ok for at least this one spot in time. Maybe now
+is the time to take advantage of a bench, and relax.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7275
+D3
+~
+~
+0 0 7273
+S
+#7275
+E. South Street~
+Strolling down the street, your eyes are constantly being drawn back to the
+river. It seems to be a major part of peoples lives in The City. Couples walk
+along it, children skip stones across its surface, and it's a great place
+to soak in some sun and do a little fishing.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 7265
+D1
+~
+~
+0 0 7276
+D3
+~
+~
+0 0 7274
+S
+#7276
+Hunting Ave. and South Street~
+South street is considered the most scenic place to walk in all of
+The City. The river is always faithfully at its side, making its way
+towards the lake. Benches are set up every few blocks, for people to sit
+and relax.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 7266
+D1
+~
+~
+0 0 7277
+D3
+~
+~
+0 0 7275
+S
+#7277
+E. South Street~
+Strolling down the street, your eyes are constantly being drawn back to the
+river. It seems to be a major part of peoples lives in The City. Couples walk
+along it, children skip stones across its surface, and it's a great place
+to soak in some sun and do a little fishing.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7278
+D3
+~
+~
+0 0 7276
+S
+#7278
+E. South Street~
+Walking along the river, on this beautiful street really puts things into
+perspective. The world seems ok for at least this one spot in time. Maybe now
+is the time to take advantage of a bench, and relax.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7279
+D3
+~
+~
+0 0 7277
+S
+#7279
+Front and South Street~
+This corner is know for being a great lookout point over the
+river. Across the water you can see the plains spreading out to meet
+the horizon. The river runs alongside South street making for a
+great place to stroll about or relax.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 7269
+D3
+~
+~
+0 0 7278
+S
+#7280
+Pike and Lafayette Street~
+This street corner gets pretty rowdy. Criminals and vagrents prowl
+the area looking for victims. Muggings are quite common and the guards
+seem unable to control the situation. Watch your coin pouch around here,
+you never know who's watching.
+~
+72 0 0 0 0 21
+D1
+~
+~
+0 0 7281
+D2
+~
+~
+0 0 7284
+S
+#7281
+W. Lafayette Street~
+The street is littered with garbage and smells of refuse. This part of
+Lafayette is not very well taken care of. Shady figures move in and out
+of shadows, ducking behind the old abandoned shops. Perhaps you should
+keep an eye on your gold.
+~
+72 0 0 0 0 21
+D1
+~
+~
+0 0 7282
+D3
+~
+~
+0 0 7280
+S
+#7282
+Fairhill Ave. and Lafayette Street~
+This whole block to the west look dangerous. Noone seems to care about
+this part of The City anymore. Most of the shops are closed down and in
+serious need of repair. The few people who don't seem like criminals, look
+tired and worn down, from living in squallor for so long.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 100
+D1
+~
+~
+0 0 7283
+D2
+~
+~
+0 0 7286
+D3
+~
+~
+0 0 7281
+S
+#7283
+W. Lafayette Street~
+The street looks a little bit shady to the west. The Buildings look run
+down and the citizens look quite a bit like criminals. An out of place row
+home to the north looks the the only safe place around. If you look at it
+just the right way, it gives off a soft pale blue glow.
+~
+72 0 0 0 0 21
+D1
+~
+~
+0 0 7240
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7282
+S
+#7284
+Pike Street~
+Pike street continues north and south. This part of town isn't
+exactly the best, nor is it very safe. The pirates try to maintain
+some sense of control, but as soon as they leave, trouble starts right
+back up again. The ground is littered with trash, and broken bottles.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7280
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7288
+S
+#7285
+&CCasa De Chu&n~
+
+&RCasa De&n
+&CCCCCCC   HH  HH   UU  UU
+CCCCCC   HH  HH   UU  UU
+CCC      HHHHHH   UU  UU
+CCC      HHHHHH   UU  UU
+CCCCCC   HH  HH   UUUUUU
+CCCCCC   HH  HH   UUUUUU&n
+~
+72 2568 0 0 0 23
+D1
+~
+~
+0 0 7286
+D3
+~
+~
+0 0 -1
+S
+#7286
+Fairhill Avenue~
+Fairhill Ave. started to fall apart shortly after Pike street. Once Pike
+started to decay, all the shops simply moved away to differant parts of
+The City. Broken glass litters the ground, near what was, the abandoned
+shop's, old store front.
+~
+72 8192 0 0 0 21
+D0
+~
+~
+0 0 7282
+D1
+~
+~
+0 0 7297
+D2
+~
+~
+0 0 7290
+D3
+~
+~
+0 0 7285
+S
+#7287
+The Danklin Mint~
+This store sells many rare and collectable items, many of which can be found
+nowhere else in the world. Often collectibles are available for one year
+after they were created.
+~
+72 8 0 0 0 24
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7250
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#7288
+Pike Street~
+Pike street continues north and south. This part of town isn't
+exactly the best, nor is it very safe. The pirates try to maintain
+some sense of control, but as soon as they leave, trouble starts right
+back up again. The ground is littered with trash, and broken bottles.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7284
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7296
+S
+#7289
+Century One Home Realtors~
+The building is bland, inside and out. The walls are bare and there is no
+furniture at all.
+~
+72 8 0 0 0 24
+D1
+~
+~
+0 0 7290
+D3
+~
+~
+0 0 -1
+S
+#7290
+Fairhill Avenue~
+The street looks alot nicer to the south. Century One Reality is
+to the west, and to the east you see the only shop to have survived the
+corrosion of this part of The City. To the south across South street, The
+river can be seen heading towards the lake south of The City.
+~
+72 0 0 0 0 21
+D0
+~
+~
+0 0 7286
+D1
+~
+~
+0 0 7291
+D2
+~
+~
+0 0 7294
+D3
+~
+~
+0 0 7289
+S
+#7291
+Sandy's Pets~
+The shop has a warm an cozy feel to it, a much need relief from the
+mean streets that it calls home. There are all kinds of toys and pet food
+on the shelves. At the small counter near the north wall, you see a sign.
+~
+72 8 0 0 0 24
+D0
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 7290
+E
+sign~
+&gWe have a great selection of pets to choose from. To see it, simply
+type <list>. We reserve the right to refuse sale to anyone who doesn't
+seem responsible enough to own a pet.
+Thanks,
+The Management.&n
+~
+S
+#7292
+Pet Shop Holding Chamber~
+This room must be 1 vnum higher than the actual petshop.
+~
+72 1024 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D3
+~
+undefined~
+0 0 -1
+S
+#7293
+W. South Street~
+South street is considered the most scenic place to walk in all of
+The City. The river is always faithfully at its side, making its way
+towards the lake. Benches are set up every few blocks, for people to sit
+and relax.
+~
+72 524288 0 0 0 21
+D1
+~
+~
+0 0 7294
+D3
+~
+~
+0 0 7296
+S
+#7294
+Fairhill Ave. and South Street~
+Beefed up security measures make this the safest spot on Fairhill ave.
+The pirates have always kept up with keeping South street safe for the
+citizens of The City. Just don't wander much further north on Fairhill,
+the change in attitudes and living conditions, is a drastic one.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 7290
+D1
+~
+~
+0 0 7295
+D3
+~
+~
+0 0 7293
+S
+#7295
+W. South Street~
+The view of the river is breathtaking. Alot of people spend their time
+walking along the path, or picnicing near the water edge, and the reasons
+are quite obvious. The whole street feels peacefull and in touch with
+nature, as it continues along the river to the east and west.
+~
+72 524288 0 0 0 21
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 7270
+D3
+~
+~
+0 0 7294
+S
+#7296
+West Gate at Pike and South Street~
+The west gate is rather unimpressive. The pirates own the whole
+island, so security is never really an issue. As a result the gate
+is hardly ever locked, and doesn't seem too secure.
+~
+72 0 0 0 0 0
+D0
+~
+~
+0 0 7288
+D1
+~
+~
+0 0 7293
+D3
+~
+~
+0 0 3327638
+S
+#7297
+The Training Facility~
+There is a doctor on site here as well as an assortment of different
+pieces of training equipment. You can really get buff here with all
+of the gear. The doctor can take care of any problems you may have.
+TYPE META for list of upgrades.
+~
+72 8 0 0 0 0
+D3
+~
+~
+0 0 7286
+S
+#7298
+You're Frozen, Dick...~
+Whatever you did, you're stuck here now. Nice job dumbass...
+~
+72 131081 0 0 0 0
+S
+#7299
+Inside A Nasty Latrine~
+This shaft has got to be one of the most vile places you've ever been in. The
+smell is making you gag, and being covered in human feces isn't helping the
+situation at all. Swarms of flies and other insects are swarming the room and
+you in the process, maybe this little adventure was a bad call.
+~
+72 9 0 0 0 0
+D4
+~
+~
+0 0 7264
+D5
+~
+~
+0 0 7183
+S
+$~

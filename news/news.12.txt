@@ -1,0 +1,21 @@
+&R                        Realms of Kuvia
+&c             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+-------------------------------------------------------------------------
+News file [&C12&c]. Type NEWS 12 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+The new wilderness map (4,000,000 rooms worth) is in and working. I'm 
+guessing there are some areas that will look a little goofy until we finish 
+ironing out all the missing characters. If you notice a room that isn't right,
+please use the bug command to let us know the room name so we can fix it ASAP.
+There are also a few other things its not reading quite right yet with the 
+RGB values of the image. However, for the most part it is in and is working. 
+We will be adding the zone entrances as we go along and we will post the map 
+on the website shortly.

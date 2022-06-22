@@ -1,0 +1,1173 @@
+#2300
+Saralise's All Night Dance Party~
+
+&W_________________________________________________________
+                         &W|
+   &Mo                     &W|            .&C'&W      &Mo
+                    &W \   &W|   /
+         &B *       &C`&W.  &C.&Wd88b&C.   .&C'&W              &M*&B)
+   &Go                 &Wd888888b
+         &W--     &W-&C-&W  (88888888)  --    &W--     &G   *       &Y o
+                     &WY888888Y
+                 &W.'   &C`&WY88Y&C'&W   &C`&W.
+&G(&B*   &Yo             &W  /       \                &Bo
+              .&C'&W        &W !        `&C.&W
+
+~
+23 134672 0 0 0 0
+D5
+~
+trapdoor~
+1 0 2301
+E
+wall poster~
+
+
+
+&WThe walls are literally covered with hundreds of band posters, from the more
+mainstream bands like R.E.M., U2 and the Cranberries, to the extremely obscure                                   
+bands like Hefner, Art Brut, The Rondelles, The Arcade Fire and the New
+Pornographers.  A large mural on one wall seems to be glorifying a group of
+bands who referred to themselves as The Elephant 6 Collective.  And in the most
+honored position on the wall, is a framed portrait of Mother Mabell, surrounded
+by her family.   
+
+~
+E
+sign~
+&WIt reads, &B"Look upon my works, ye &RMighty&B, and &RDespair&B!"
+~
+S
+#2301
+The Lobby of Saralise's Office~
+The white-washed walls reflect the ultra-violet light, making the room
+incredibly bright.  Out of tune elevator music is piped in from unseen speakers.
+Raggedy magazines from 1973 are displayed in a vain attempt to engage those
+waiting.  A glass window is set in one wall, behind which, a bored clerk can be
+seen smoking and ignoring the waiting room completely.  
+~
+23 8216 0 0 0 0
+D2
+~
+~
+0 0 6452
+D4
+~
+trapdoor~
+1 0 2300
+S
+T 2301
+#2302
+Entering the Encampment~
+Fresh wheel tracks along the smooth surface of the soil indicate that a wagon
+has passed through recently.  The nearest trees and bushes all sport bent and
+broken branches, and some sort of sweet smell lingers in the air.  To the north,
+not far ahead, the glow of a campfire beckons invitingly.  
+~
+23 65541 0 0 0 3
+D0
+~
+~
+0 0 2303
+S
+#2303
+A Trail Leading to the Gyptian Encampment~
+The trail widens a bit, providing a clearer view of the encampment.  The
+campfire can be clearly seen now through gaps in the forest, and several flashes
+of color show that this particular tribe of gyptians really enjoys decorating
+their wagons.  
+~
+23 65537 0 0 0 3
+D1
+~
+~
+0 0 2304
+D2
+~
+~
+0 0 2302
+S
+#2304
+A Trail Leading to the Gyptian Encampment~
+Several decades worth of leaves carpet the ground, ferns and bushes provide
+colorful cushions, and the tall, powerful trees tower overhead.  The many
+creatures that inhabit the forest create rustling sounds from the underbrush.  
+~
+23 65537 0 0 0 3
+D0
+~
+~
+0 0 2305
+D3
+~
+~
+0 0 2303
+S
+#2305
+A Clearing Before the Campfire~
+The path widens into a well-trod circle of wagons.  Directly to the north is an
+inviting campfire.  To the east and west, merrily painted wagons, or gyptian
+vurdons, are tethered for the night.  It looks as if camp is being set up, and
+the smell of food cooking fills the air.  
+~
+23 65537 0 0 0 3
+D1
+~
+~
+0 0 2306
+D2
+~
+~
+0 0 2304
+S
+#2306
+A Path Between the Wagons~
+Several decades worth of leaves carpet the ground, ferns and bushes provide
+colorful cushions, and the tall, powerful trees tower overhead.  An extremely
+rank smell emanates from the wagon to the south.  
+~
+23 65537 0 0 0 3
+D1
+~
+~
+0 0 2307
+D2
+~
+~
+0 0 2311
+D3
+~
+~
+0 0 2305
+S
+#2307
+A Path Between the Wagons~
+This unfinished room was created by Saralise.  Several decades worth of leaves
+carpet the ground, ferns and bushes provide colorful cushions, and the tall,
+powerful trees tower overhead.  A light breeze wafts through the area, stirring
+up bits of dirt and foliage as it goes.  
+~
+23 65537 0 0 0 3
+D0
+~
+~
+0 0 2310
+D1
+~
+~
+0 0 2308
+D3
+~
+~
+0 0 2306
+S
+#2308
+A Path Between the Wagons~
+Several decades worth of leaves carpet the ground, ferns and bushes provide
+colorful cushions, and the tall, powerful trees tower overhead.  The air is
+redolent with the smell of incense and fish.  
+~
+23 65537 0 0 0 3
+D0
+~
+~
+0 0 2309
+D3
+~
+~
+0 0 2307
+S
+#2309
+A Path Between the Wagons~
+A Path Between the Wagons Several decades worth of leaves carpet the ground,
+ferns and bushes provide colorful cushions, and the tall, powerful trees tower
+overhead.  The sound of music filters in from somewhere nearby.  
+~
+23 65537 0 0 0 3
+D0
+~
+~
+0 0 2312
+D2
+~
+~
+0 0 2308
+S
+#2310
+A Gaily Painted Gyptian Vurdon~
+This wagon belongs to the newlyweds.  The focal point of the room is the large
+bed that looks as if no one has left it for days.  Special charms for luck,
+wealth, and virility are hung about it.  On a table nearby are several known
+aphrodisiacs, such as oysters and asparagus.  
+~
+23 65548 0 0 0 0
+D2
+~
+~
+0 0 2307
+S
+#2311
+A Gaily Painted Gyptian Vurdon~
+A strongly rank smell emanates from somewhere within this wagon.  Piles of
+clothes and trash are mixed together on the floor.  Flies circle over the table,
+where plates of half-eaten food look as though they have been out for days.  
+~
+23 65548 0 0 0 0
+D0
+~
+~
+0 0 2306
+S
+#2312
+A Path Between the Wagons~
+Several decades worth of leaves carpet the ground, ferns and bushes provide
+colorful cushions, and the tall, powerful trees tower overhead.  A circle has
+been traced in the dirt here, and several marbles lay abandoned by the side of
+the path.  
+north
+~
+23 65537 0 0 0 3
+D0
+~
+~
+0 0 2313
+D2
+~
+~
+0 0 2309
+S
+#2313
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D2
+~
+~
+0 0 2312
+D3
+~
+~
+0 0 2314
+S
+#2314
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2315
+D1
+~
+~
+0 0 2313
+S
+#2315
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D2
+~
+~
+0 0 2314
+D3
+~
+~
+0 0 2316
+S
+#2316
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2317
+D1
+~
+~
+0 0 2315
+S
+#2317
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2318
+D2
+~
+~
+0 0 2316
+S
+#2318
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2319
+D3
+~
+~
+0 0 2317
+S
+#2319
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2320
+D2
+~
+~
+0 0 2318
+S
+#2320
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2321
+D3
+~
+~
+0 0 2319
+S
+#2321
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D2
+~
+~
+0 0 2320
+D3
+~
+~
+0 0 2322
+S
+#2322
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2323
+D1
+~
+~
+0 0 2321
+S
+#2323
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D2
+~
+~
+0 0 2322
+D3
+~
+~
+0 0 2324
+S
+#2324
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2325
+D1
+~
+~
+0 0 2323
+S
+#2325
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2326
+D2
+~
+~
+0 0 2324
+S
+#2326
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2327
+D3
+~
+~
+0 0 2325
+S
+#2327
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2328
+D2
+~
+~
+0 0 2326
+S
+#2328
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2329
+D3
+~
+~
+0 0 2327
+S
+#2329
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D2
+~
+~
+0 0 2328
+D3
+~
+~
+0 0 2330
+S
+#2330
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2331
+D1
+~
+~
+0 0 2329
+S
+#2331
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D2
+~
+~
+0 0 2330
+D3
+~
+~
+0 0 2332
+S
+#2332
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2331
+D3
+~
+~
+0 0 2333
+S
+#2333
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2332
+D3
+~
+~
+0 0 2334
+S
+#2334
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2333
+D3
+~
+~
+0 0 2335
+S
+#2335
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2334
+D3
+~
+~
+0 0 2336
+S
+#2336
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2335
+D3
+~
+~
+0 0 2337
+S
+#2337
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2336
+D3
+~
+~
+0 0 2338
+S
+#2338
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2337
+D3
+~
+~
+0 0 2339
+S
+#2339
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2338
+D3
+~
+~
+0 0 2340
+S
+#2340
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2339
+D3
+~
+~
+0 0 2341
+S
+#2341
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2340
+D3
+~
+~
+0 0 2342
+S
+#2342
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2341
+D3
+~
+~
+0 0 2343
+S
+#2343
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2342
+D3
+~
+~
+0 0 2344
+S
+#2344
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2343
+D2
+~
+~
+0 0 2345
+S
+#2345
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2344
+D2
+~
+~
+0 0 2346
+S
+#2346
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2345
+D2
+~
+~
+0 0 2347
+S
+#2347
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2346
+D2
+~
+~
+0 0 2348
+S
+#2348
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2347
+D2
+~
+~
+0 0 2349
+S
+#2349
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2348
+D2
+~
+~
+0 0 2350
+S
+#2350
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2349
+D2
+~
+~
+0 0 2351
+S
+#2351
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2350
+D2
+~
+~
+0 0 2352
+S
+#2352
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2351
+D2
+~
+~
+0 0 2353
+S
+#2353
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2352
+D2
+~
+~
+0 0 2354
+S
+#2354
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2353
+D2
+~
+~
+0 0 2355
+S
+#2355
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2354
+D2
+~
+~
+0 0 2356
+S
+#2356
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2355
+D2
+~
+~
+0 0 2357
+S
+#2357
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2356
+D2
+~
+~
+0 0 2358
+S
+#2358
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2357
+D2
+~
+~
+0 0 2359
+S
+#2359
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2358
+D2
+~
+~
+0 0 2360
+S
+#2360
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2359
+D2
+~
+~
+0 0 2361
+S
+#2361
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2360
+D2
+~
+~
+0 0 2362
+S
+#2362
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2361
+D2
+~
+~
+0 0 2363
+S
+#2363
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2362
+D2
+~
+~
+0 0 2364
+S
+#2364
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2363
+D2
+~
+~
+0 0 2365
+S
+#2365
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2364
+D2
+~
+~
+0 0 2366
+S
+#2366
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2365
+D2
+~
+~
+0 0 2367
+S
+#2367
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2366
+D2
+~
+~
+0 0 2368
+S
+#2368
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2367
+D1
+~
+~
+0 0 2369
+S
+#2369
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2370
+D3
+~
+~
+0 0 2368
+S
+#2370
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2371
+D3
+~
+~
+0 0 2369
+S
+#2371
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D2
+~
+~
+0 0 2372
+D3
+~
+~
+0 0 2370
+S
+#2372
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2371
+D2
+~
+~
+0 0 2373
+S
+#2373
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2372
+D1
+~
+~
+0 0 2374
+S
+#2374
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D2
+~
+~
+0 0 2375
+D3
+~
+~
+0 0 2373
+S
+#2375
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2374
+D1
+~
+~
+0 0 2376
+S
+#2376
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D2
+~
+~
+0 0 2377
+D3
+~
+~
+0 0 2375
+S
+#2377
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2376
+D1
+~
+~
+0 0 2378
+S
+#2378
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D2
+~
+~
+0 0 2379
+D3
+~
+~
+0 0 2377
+S
+#2379
+New BuildWalk Room~
+This unfinished room was created by Saralise.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2378
+S
+$~

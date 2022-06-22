@@ -1,0 +1,244 @@
+#14300
+fountain glass~
+a spectacular glass fountain~
+A fascinating fountain of glass blown in the shape of a moonflower sprouts from the center of the square.~
+~
+23 0 0 0 0 a 0 0 0 0 0 0 0
+-1 1000000000 2 0
+1000000005 0 0 0
+#14301
+telescope~
+a colossal black telescope~
+A massive machine with many gears and lenses stands pointed to the sky before you.~
+~
+6 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+99999 2000000 0 0
+E
+telescope~
+Gazing through the final refracting lense of the machine, you see an enlarged
+image of the sky above you. During day and night, out here in the desert, the
+cosmos may swim before your eyes in all its glory untainted by city lights or
+weather.
+~
+#14302
+aura tranquility~
+an aura of tranquility~
+A shimmering white aura hovers in a sphere of air before you.~
+~
+9 cdquDE d 0 0 aq 0 0 0 0 0 0 0
+-5 0 0 0
+0 0 0 0
+A
+12 12
+A
+13 6
+A
+18 1
+A
+24 -2
+#14303
+crystalgate portal~
+a crystal gate framed in glass~
+&WA portal framed in sculpted glass stands here atop a dais.~
+~
+35 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0
+1000000 0 0 0
+#14304
+scepter Astari~
+the star scepter of Astari~
+A peculiar, heavy-looking scepter lies on the ground at your feet.~
+~
+5 aikmo 0 0 0 an 0 0 0 0 0 0 0
+3 8 7 5
+20 10000 0 30
+A
+13 30
+A
+19 5
+#14305
+girdle belt platinum~
+Argo's platinum chain girdle~
+A broad chain belt shines silver in the light.~
+~
+9 kE 0 0 0 al 0 0 0 0 0 0 0
+-7 0 0 0
+20 10000 0 25
+A
+24 -2
+A
+6 3
+A
+19 3
+#14306
+boots wings~
+a pair of golden-winged white boots~
+A pair of white leather boots sports a pair of fluttering wings before your eyes.~
+~
+9 k 0 0 0 ag 0 0 0 E 0 0 0
+-7 0 0 0
+5 1000 0 1
+A
+24 -2
+A
+11 5
+#14307
+halo ring golden~
+a magical golden halo ring~
+A shimmering halo of gold metal gyrates in the air before you.~
+~
+11 gkr d 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+0 1000 0 0
+A
+13 20
+A
+12 20
+A
+6 3
+#14308
+star~
+a blessed star~
+A shiny white star hovers about the area.~
+~
+12 ku d 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+0 10000 0 20
+A
+12 40
+#14309
+robe silk~
+a pure white priest's robe~
+A pure white robe lies in folds on the ground.~
+~
+9 k 0 0 0 ad 0 0 0 0 0 0 0
+-3 0 0 0
+7 1000 0 10
+A
+13 15
+A
+24 -2
+A
+4 2
+#14310
+claymore~
+a shining blue claymore~
+A claymore shines with a blue sheen in the light.~
+~
+5 aikw e 0 0 an 0 0 0 0 0 0 0
+7 7 7 3
+15 1000 0 20
+A
+13 20
+A
+17 -5
+#14311
+plates shin legs platinum~
+a pair of platinum shin plates~
+A pair of platinum leg plates shines in the light.~
+~
+9 kw 0 0 0 af 0 0 0 0 0 0 0
+-4 0 0 0
+28 1000 0 0
+A
+17 -5
+A
+14 30
+#14312
+armguards griffon~
+a pair of white leather armguards, trimmed with griffon feathers~
+A pair of white leather armguards lies on the ground here.~
+~
+9 kw 0 0 0 ai 0 0 0 0 0 0 0
+-4 0 0 0
+14 1000 0 19
+A
+12 20
+A
+18 2
+#14313
+scale armor platinum~
+a shirt of platinum scales~
+A platinum scale shirt lies in an awkward pile on the ground.~
+~
+9 kw 0 0 0 ad 0 0 0 0 0 0 0
+-5 0 0 0
+50 1000 0 19
+A
+18 2
+A
+19 2
+#14314
+boots~
+a pair of pointed platinum boots~
+A sharp-looking pair of boots sits here, looking for its owner.~
+~
+9 kw 0 0 0 ag 0 0 0 0 0 0 0
+-4 0 0 0
+14 1000 0 19
+A
+19 3
+#14315
+moonstone soulgem~
+a moonstone soulgem~
+A particularly large moonstone resonates with an inner light on the ground.~
+~
+12 kops 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+30 10000 0 25
+A
+12 30
+A
+18 3
+#14316
+coat laboratorycoat~
+a crisp white laboratory coat~
+A crisp white laboratory coat lies here, gathering fuzzies.~
+~
+11 0 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0
+7 100 0 0
+A
+3 3
+A
+17 -5
+#14317
+wrench~
+a heavy steel wrench~
+A heavy steel wrench lies here, shining menacingly.~
+~
+5 0 0 0 0 anr 0 0 0 0 0 0 0
+3 10 3 11
+15 100 0 10
+A
+2 3
+A
+19 3
+#14318
+cog~
+a heavy glass cog~
+A broad, thick glass cog lies on its side at your feet.~
+~
+34 u 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0
+20 0 0 10
+A
+18 2
+A
+19 2
+#14319
+spectacles glasses~
+a pair of thick-lensed spectacles~
+A pair of thick-lensed spectacles glimmers in the light.~
+~
+11 0 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0
+3 100 0 0
+A
+3 3
+A
+6 -3
+A
+4 3
+$~

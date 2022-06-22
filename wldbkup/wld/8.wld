@@ -1,0 +1,831 @@
+#800
+Black Lake~
+An almost silvery sheen glows across the quiet, calm surface of the dark water
+spread before your eyes.  The shore seems to be pebbles and coarser pieces of
+broken rock with reeds and cattails approaching the shore in places.  You notice
+that the shore grasses seem to move in the absence of any wind.
+~
+8 0 0 0 0 0
+D1
+~
+~
+0 0 801
+D3
+~
+~
+0 0 -1
+S
+#801
+A gravel strand near the lakeshore.~
+Sharp gravel lies in a long, low mound here.  The area is bordered by tall marsh
+grasses that conceal the near shore from view.  The damp scent of the lakeshore
+is strong here, along with a musky smell that brings animals to mind.
+~
+8 0 1 0 0 22
+D0
+~
+~
+0 0 802
+D1
+~
+~
+0 0 804
+D2
+~
+~
+0 0 803
+D3
+~
+~
+0 0 800
+S
+#802
+A small clearing beaten down amongst the reeds~
+This place is a smashed down nest of reeds that some large animal has left.  It
+offers some privacy with screening from the surrounding wall of reeds and
+grasses.
+~
+8 0 0 0 0 22
+D2
+~
+~
+0 0 801
+S
+#803
+A faint trail through the long grass.~
+There is a faint trail through the tall grasses and reeds here.  The muddy trail
+is quite narrow and the faint marks of hooves can be seen impressed into the
+soft mud.  The grasses press inwards concealing the trail ahead and making
+passage difficult.
+~
+8 0 1 0 0 55
+D0
+~
+~
+0 0 801
+D2
+~
+~
+0 0 806
+S
+#804
+At the edge of the dark waters.~
+The rocky strand of gravel meets the calm, dark water of the lake here.  The
+still surface is eerie in it's stillness.  The coarse gravel is dry all the way
+to the water proving that no ripple or wave has hit the shoreline recently.
+~
+8 0 1 0 0 22
+D1
+~
+~
+0 0 805
+D3
+~
+~
+0 0 801
+S
+#805
+A dark and quiet place, with a shining silver ceiling.~
+The ceiling is shining and silver and you realize with a start you are under the
+surface of the lake, although you have no trouble breathing as normal.  The
+gravel is sharp underfoot and you see small bits of flotsam and detritus
+floating about.
+~
+8 524288 1 0 0 66
+D0
+~
+~
+0 0 836
+D1
+~
+~
+0 0 820
+D2
+~
+~
+0 0 838
+D3
+~
+~
+0 0 804
+S
+#806
+A muddy trail along the shoreline.~
+The trail is slightly wider here and the grasses are easier to force through.  
+There are quite clear impressions of paws and hooves of several sorts in the mud
+of the trail.
+~
+8 0 1 0 0 55
+D0
+~
+~
+0 0 803
+D2
+~
+~
+0 0 807
+S
+#807
+The muddy trail~
+Muddy grass lines the trail here, with splashes evident from where something
+moved through in a real hurry. The mud is too churned up to hold any real
+impressions and even seems to have been almost smoothed over.
+~
+8 0 1 0 0 55
+D0
+~
+~
+0 0 806
+D3
+~
+~
+0 0 808
+S
+#808
+The turning path~
+The path curves around an immense stone here. The flank of the stone where the
+path passes adjacent to it is worn smooth with the passage of animals over the
+years. The grasses are shorter here and you can see a little further, although
+the lakeshore remains hidden behind walls of distant tall grasses.
+~
+8 0 1 0 0 55
+D1
+~
+~
+0 0 807
+D3
+~
+~
+0 0 809
+S
+#809
+The beginning of the forest~
+Scattered trees now close in around the grassy trail. Curiously, you note that
+there are no songbirds or insects. The trees are small twisty little scrub oaks
+at first with a few pines here and there.
+~
+8 0 1 0 0 55
+D1
+~
+~
+0 0 808
+D3
+~
+~
+0 0 810
+S
+#810
+The shadowed way~
+The path here is in shadow, even though you can see no trees overhanging the
+area. There is no grass here, only beaten earth, and also no twigs or debris.
+You note that all the trees in the area are dead on the side facing the trail.
+It is spooky.
+~
+8 0 1 0 0 55
+D1
+~
+~
+0 0 809
+D3
+~
+~
+0 0 811
+S
+#811
+The greening forest~
+The forest seems particularly green and vibrant here. The trees are almost all
+pine here. The undergrowth seems to be mosses and ferns of various sorts. The
+green of the ferns and the softness of the mosses brings a sense of peace and
+quiet.
+~
+8 0 1 0 0 55
+D1
+~
+~
+0 0 810
+D3
+~
+~
+0 0 812
+S
+#812
+The rock face~
+The path curves around a large boulder here. Around man height in the face of
+the rock you see what appears to be a relief image of a screaming human face. 
+Looking the rock over more carefully you see what appear to be hands bulging the
+immobile surface of the stone.
+~
+8 0 1 0 0 55
+D1
+~
+~
+0 0 811
+D2
+~
+~
+0 0 813
+S
+#813
+A joining of the paths~
+A smaller beaten earth path joins the broader grassy path here. A small sign is
+attached to a tree here, but has weathered to the point of illegibility.
+~
+8 0 1 0 0 55
+D0
+~
+~
+0 0 812
+D1
+~
+~
+0 0 818
+D3
+~
+~
+0 0 814
+S
+#814
+The road less traveled~
+The path here is grassy and broad. There doesn't seem to be enough traffic to
+clear the grass and you see smaller bushes and encroaching plants along the
+edges. It seems clear that this path is less busy than it used to be.
+~
+8 0 1 0 0 55
+D1
+~
+~
+0 0 813
+D2
+~
+~
+0 0 815
+S
+#815
+The encroaching trees~
+The path here is almost swallowed into the forest entirely. Small scrub oaks
+and saplings abound on the trail and it seems likely that this path hasn't been
+used or maintained in some years. You can barely work out where it used to run
+as you force your way through the recent growth.
+~
+8 0 1 0 0 55
+D0
+~
+~
+0 0 814
+D2
+~
+~
+0 0 816
+S
+#816
+The small clearing~
+You enter a small area that had been cleared in the past. You can see some
+stumps scattered here and there among the new, fresh growth. Off to the west
+you see the remains of a crude wooden structure, collapsed and long abandoned.
+~
+8 0 1 0 0 45
+D0
+~
+~
+0 0 815
+D3
+~
+~
+0 0 817
+S
+#817
+The remains of a log cabin~
+A log cabin lies here rotted and collapsed into a pile of rotten lumber. It
+looks as though someone cleared the area and began building the cabin, but never
+finished it. Clearly, the effort was abandoned before the stumps could be
+cleared and it seems as though the structure had never been even roofed over.
+~
+8 0 1 0 0 13
+D1
+~
+~
+0 0 816
+S
+#818
+The beaten path~
+This path clearly sees quite a bit of traffic, the grass is cleared and the
+earth is beaten here. There are only faint indications in the dry ground, but
+hoof marks seem to dominate overall.
+~
+8 0 1 0 0 55
+D0
+~
+~
+0 0 819
+D3
+~
+~
+0 0 813
+S
+#819
+The end of the line~
+The trail ends here, at a rocky outcrop. You can see a depression worn into an
+area of dirty grey stone, and you realize that it is rock salt. This is a salt
+lick for all the creatures of the forest nearby apparently.
+~
+8 0 1 0 0 55
+D2
+~
+~
+0 0 818
+S
+#820
+Beneath the lake in the shallows~
+The eerie silver surface highlights the slowly swirling grasses.  You can feel
+the currents swirl on your skin but curiously can still move about freely.  The
+grasses float over knee hign here in the shallows and you can see them stretch
+along the shoreline to either side.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 832
+D1
+~
+~
+0 0 821
+D2
+~
+~
+0 0 834
+D3
+~
+~
+0 0 805
+S
+#821
+an open area similar to a pasture~
+This area seems strangely similar to a open area in a wooded forest, the way the
+light dims in the distance and the bottom of lake curves upwards mimics the play
+of light in a meadow bounded by forest.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 840
+D1
+~
+~
+0 0 822
+D2
+~
+~
+0 0 842
+D3
+~
+~
+0 0 820
+S
+#822
+The gravel dunes~
+This area is comprised mostly of mounds and interspersed hollows made of coarse
+gravel. There is only scattered grasses and plant life of other, more leafy
+sorts seems to predominate.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 828
+D1
+~
+~
+0 0 823
+D2
+~
+~
+0 0 830
+D3
+~
+~
+0 0 821
+S
+#823
+The gravel pit~
+This passage appears to have been brutally forced through the coarse black
+gravel shore and deep into the area where a beach might ordinary be found. 
+Clearly, it is only an entryway to the deep, dark pit that looms below.
+~
+8 0 0 0 0 0
+D1
+~
+~
+0 0 844
+D3
+~
+~
+0 0 822
+D5
+~
+~
+0 0 824
+S
+#824
+Entering the gloom of the pit~
+The light slowly fades as you descend into the depths of the dark water. The
+walls appear to have been forcibly dug out of the bottom mud.
+~
+8 0 0 0 0 0
+D4
+~
+~
+0 0 823
+D5
+~
+~
+0 0 825
+S
+#825
+Deep in the dark water~
+You can no longer see the light of the surface as you descend deeper into the
+dark waters. Although the water seems clear the narrowness of the pit and the
+slight twists and turns have finally occluded the faint light shining through
+the small and now distant opening above.
+~
+8 256 0 0 0 0
+D4
+~
+~
+0 0 824
+D5
+~
+~
+0 0 826
+S
+#826
+The bottom depths of the dark waters~
+The bottom of the pit is hard rock and the walls are gravel and mud packed
+together hard by the passage of a large creature. This area is open above and
+opens into a darker more sinister area to the west.
+~
+8 1073742080 0 0 0 0
+D3
+~
+~
+0 0 827
+D4
+~
+~
+0 0 825
+S
+#827
+The dark den~
+This area was clearly hollowed out by a large animal. There is a comfortable
+scooped out area in the mud and all the stones have been shoved to the walls. 
+You see small greyish rocks here and there, and with some suprise realize they
+are the regurgitated skeletons of various animals.
+~
+8 256 128 0 0 0
+D1
+~
+~
+0 0 826
+S
+#828
+The strand~
+This place is entirely formed of coarse gravel and leafy water vegetation. 
+Here and there through the leafy plants you can glimpse an old snag of a fallen
+tree or a broken shelf of the dark shale that is common to the region.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 829
+D1
+~
+~
+0 0 840
+D2
+~
+~
+0 0 822
+S
+#829
+The bonepile~
+This area is dominated by a huge pile of mixed up jagged sheets and rods of
+broken shale and fallen rotting trees. Upon closer examination you can clearly
+see many white bones under the massive pile of debris. It seems clear that
+there was a large landslide into the water, and that this event claimed many
+lives.
+~
+8 0 0 0 0 0
+D1
+~
+~
+0 0 841
+D2
+~
+~
+0 0 828
+S
+#830
+The dark pool~
+Incredibly, you see what appears to be a pond at the lying at the bottom of the
+lake. Upon approaching you notice that the liquid is in fact black and viscous,
+oil or tar of some kind.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 822
+D1
+~
+~
+0 0 842
+D2
+~
+~
+0 0 831
+S
+#831
+The grassy knoll~
+Although underwater and under the silvery sky that the surface of the lake
+provides, this area looks exactly like a small hill covered in grass. The
+waterplants are short and even like a lawn and fairly still where the taller
+grasses elsewhere in the lake showed motion.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 830
+D1
+~
+~
+0 0 843
+S
+#832
+A dimly lit expanse of grass and reeds~
+This area seems dim and the light from above is not as bright.  The grass and
+reeds grow tall and shade the area from the light of the silver sky.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 836
+D2
+~
+~
+0 0 820
+D3
+~
+~
+0 0 840
+S
+#833
+A small cove at the lakeshore~
+The shore indents into a small cove here and the silver sky opens up and
+brightens.  The area is floored in coarse pebbles and sandy loam with smaller
+water weeds growing here and there.  Smaller fish and some insects scuttle from
+place to place with determination and caution.
+~
+8 0 0 0 0 0
+D1
+~
+~
+0 0 837
+D2
+~
+~
+0 0 832
+D3
+~
+~
+0 0 841
+S
+#834
+On a shelf covered in mossy stones~
+A large rocky shelf covers this area and it is clear of most grasses and reeds
+being floored in a jumbled mass of mossy stones. The silvery light plays on the
+rocks and makes for shadows and dark crevices among them where anything might
+lurk.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 820
+D1
+~
+~
+0 0 838
+D2
+~
+~
+0 0 835
+D3
+~
+~
+0 0 842
+S
+#835
+A large shoulder of rock jutting into the lake~
+There is a massive rock jutting into the lake from the shore here, its lower
+reaches cloaked in shadows. The marine grass covers the tumbled stone and silt
+at the base of the massive stone and moves against the current, as though there
+were creatures moving through it.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 834
+D1
+~
+~
+0 0 839
+D3
+~
+~
+0 0 843
+S
+#836
+A mass of shale, broken and shattered~
+A large mass of shale has been broken up and scattered about this area of the
+lake bed. The ragged slabs and shards cover the area and make for many small
+nooks and crannies. You see small eyes in some of the dark nooks watching you
+with caution.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 837
+D2
+~
+~
+0 0 805
+D3
+~
+~
+0 0 832
+S
+#837
+The remains of the beaver dam~
+There is a large mass of mud and twigs here, obviously the work of beavers
+sometime long past. It is clearly abandoned and no longer reaches the surface,
+although several species of marsh grass have taken root in the top reaches. 
+The base of the slumped down dam rests in the mud.
+~
+8 0 0 0 0 0
+D2
+~
+~
+0 0 836
+D3
+~
+~
+0 0 833
+S
+#838
+A sandy area of shoreline covered in short marsh plants~
+This area is clear of the taller reeds and grasses that obscure much of the
+lakeshore. The silvery light from the surface shines down upon shorter grasses
+and marine plants that seem to sway of their own accord.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 805
+D2
+~
+~
+0 0 839
+D3
+~
+~
+0 0 834
+S
+#839
+A smaller sandy area covered in marsh plants~
+The marsh plants in this area seem to move and sway independent of any current.
+The area is open the silvery sky above and ends at very large stone to the west.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 838
+D3
+~
+~
+0 0 835
+S
+#840
+A meadow of seagrass~
+The lakebed opens up into a meadow of seagrass and taller waterplants. The
+vegetation is gently moving as though stirred by a breeze but the water is still
+and calm.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 841
+D1
+~
+~
+0 0 832
+D2
+~
+~
+0 0 821
+D3
+~
+~
+0 0 828
+S
+#841
+The black strand~
+This area is comprised of a single huge shelf of black shale. There is not a
+crack upon it's surface and not a single plant of any kind clings to it. It
+gives a faintly eerie feeling as you realize that you have a hard time actually
+focusing on it as an object. You seem to looking instead into a deep black
+void.
+~
+8 0 0 0 0 0
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 840
+D3
+~
+~
+0 0 829
+S
+#842
+An area of seagrass and rocky shale~
+You are in a vaguely bowl shaped area with rising shelves of rocky shale and
+patches of water grasses waving amongst them. The hollow area seems like it
+would be a nice quiet meeting area or a good place for a rondevous.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 821
+D1
+~
+~
+0 0 834
+D2
+~
+~
+0 0 843
+D3
+~
+~
+0 0 830
+S
+#843
+A quiet pool up against the rock~
+This pool lies up against the rocky projection to the east and the shore is
+comprised of uneven broken shelves of rock. There are numerous broken and
+tumbled pieces of flat black stone lying scattered about area.
+~
+8 0 0 0 0 0
+D0
+~
+~
+0 0 842
+D1
+~
+~
+0 0 835
+D3
+~
+~
+0 0 831
+S
+#844
+The mud room~
+This area is a flat brown muddy mess, there are clear marks that something very
+large uses the area to turn around in. The light from above is strong here, the
+silvery ceiling close and bright seemingly.
+~
+8 0 0 0 0 0
+D3
+~
+~
+0 0 823
+S
+$~

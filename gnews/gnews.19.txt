@@ -1,0 +1,35 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C19&c]. Type NEWS 19 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+Downtime - continued
+
+So I get home from vacation to find my server has been locked up for quite
+some time it seems. The problem was small when I finally figured it out,
+but from first glance it looked like everything was gone. 2 of the hard
+drives from the RAID 5 array we have the game sitting on were missing. For
+anyone who knows anything about RAID 5, you can imagine how worried I was.
+For those who don't know, RAID 5 allows for 1 drive to die and be replaced,
+but 2 dead drives = loss of all data. Anywho...the problem was simply that 
+the drives had been overheating. I added a fan for now, and will probably
+add a second one that sits right next to the drives. The server is back at my
+house for the time being until such time I feel it is stable enough to
+have off-site again. Sorry for any inconvenience.
+
+-B

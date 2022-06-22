@@ -1,0 +1,23 @@
+&R                        Realms of Kuvia
+&c             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+-------------------------------------------------------------------------
+News file [&C15&c]. Type NEWS 15to re-read this article at a later date.
+-------------------------------------------------------------------------&n
+
+&RSystem Downtime&n
+
+We had some issuses with our new Help System that caused us to lose 
+approximately a week worth of uptime.  We aplogize for any problems this
+may have caused.
+
+Please let us know if you see any problems in-game now that we are back
+online.
+
+-Admin

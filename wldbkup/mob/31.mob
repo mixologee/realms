@@ -1,0 +1,248 @@
+#3100
+tree~
+an ancient tree~
+Rising high above the forest is an old and withering silverwood tree.
+~
+Standing at nearly one-hundred feet tall, this old silverwood tree has
+definitely seen better days.  The leaves are a rusty color and the silver veins
+within it's bark are tarnished with age.  Upon close inspection, you see a pair
+of eyes on the tree, and what looks like a mouth.  
+~
+237595 0 0 0 16 0 0 0 0 E
+31 -30 -3 1d1+16000 30d5+50
+0 1500000
+8 8 0
+BareHandAttack: 10
+E
+#3101
+fisherman pirate man~
+an old, retired pirate~
+An old man sits with his knees dangling over the bridge, fishing.
+~
+His beard is long and grey, and his face is wrinkled with age.
+The only enjoyment this pirate gets out of life now is fishing.
+~
+14 0 0 0 16 0 0 0 -200 E
+23 -30 -2 1d1+2000 15d6+33
+238 330500
+6 6 1
+E
+#3102
+wolf~
+a wolf~
+A large wolf lurks through the forest, hunting for food.
+~
+This wolf is enormous, and it looks hungry!
+~
+2152 0 0 0 524368 0 0 0 0 E
+23 -15 -1 1d1+1850 14d5+35
+0 325000
+8 8 0
+BareHandAttack: 4
+E
+#3103
+deer buck~
+a large buck~
+A large thirty-point buck walks through the forest, foraging for berries.
+~
+Have you ever seen a rack like this?  This thing must be really old and really sneaky.
+~
+72 0 0 0 524368 0 0 0 200 E
+22 -10 1 1d1+1690 14d4+38
+0 295600
+8 8 1
+BareHandAttack: 9
+E
+#3104
+doe deer~
+a doe~
+A doe walks nearby, searching for something to eat.
+~
+This deer looks quite defenseless.  How could you think of killing such an innocent creature?
+~
+72 0 0 0 524368 0 0 0 350 E
+22 -5 2 1d1+1575 13d4+35
+0 275600
+8 8 2
+BareHandAttack: 4
+E
+#3105
+pirate wench~
+the pirate wench~
+A pirate wench is here selling newly aquired loot.
+~
+She's a homely looking pirate.  Old and wrinkled and grey, and missing half of her
+teeth.
+~
+26 0 0 0 80 0 0 0 -300 E
+25 -10 0 1d1+14590 5d5+35
+1000000 1
+8 8 2
+BareHandAttack: 13
+E
+#3106
+squirrel~
+a squirrel~
+A little squirrel runs around, trying to find some nuts.
+~
+Isn't it cute?  It has a big, fluffy tail and it's running all around the forest
+searching for some acorns to eat.
+~
+76 0 0 0 80 0 0 0 0 E
+20 0 6 1d1+1540 13d4+25
+0 205000
+8 8 0
+BareHandAttack: 4
+E
+#3107
+hunter man huntsman~
+a hunter~
+A tall man with a large knife and a bow walks round, looking for prey.
+~
+This hunter is decked out in dead leaves and brown clothing.  The knife in his hand is huge,
+and the bow looks like it could shoot an arrow a mile.  As he walks nearby, you smell an awful
+odor, and realize that he's so pathetic that he is using deer urine to cover his own scent.
+~
+1050696 0 0 0 1572944 0 0 0 -200 E
+25 -25 -2 1d1+2800 12d7+50
+369 420000
+8 8 1
+BareHandAttack: 14
+E
+#3108
+pirate~
+a wandering pirate~
+A pirate wanders through the forest as if he were lost.
+~
+Arrr.
+~
+72 0 0 0 80 0 0 0 100 E
+24 -23 -2 1d1+2250 12d6+36
+1560 375890
+8 8 1
+BareHandAttack: 13
+E
+#3109
+fish piranha~
+a piranha~
+A vicious looking piranha swims toward you ready to attack!
+~
+The only thing you notice when you see this giant piranha is its gigantic fangs!
+~
+65578 0 0 0 1048656 0 0 0 0 E
+24 -22 0 1d1+1700 11d6+47
+0 380750
+8 8 0
+BareHandAttack: 4
+E
+#3110
+griffon~
+a majestic griffon~
+A large winged beast with the body of a lion and the head of an eagle is sitting on the branch.
+~
+Beautiful feathered wings protrude from the back of this lion's body, and a proud eagle's
+head stares back at you with fiery eyes.  This creature is not vicious, but friendly.  But
+only if you are nice to it.
+~
+2075 0 0 0 80 0 0 0 1000 E
+30 -25 -4 1d1+12800 21d6+50
+1035 1500000
+8 8 1
+BareHandAttack: 8
+E
+#3111
+ranger man~
+a wandering ranger~
+An old man wearing a dark green cloak passes by.
+~
+Old and grey hair cover the head of this ranger.  He wears a very long, dark green cloak
+that is dirty and torn with age.  He carries a small leather satchel over his shoulder
+which looks to be full of delicious foods from the forest.
+
+~
+89 0 0 0 532688 0 0 0 1000 E
+31 -30 -7 1d1+15600 25d6+50
+151310 1500000
+8 8 1
+BareHandAttack: 13
+E
+#3112
+george w bush~
+George W. Bush~
+George W. Bush is here, breaking more promises.
+~
+It looks unfinished.
+~
+9 0 0 0 0 0 0 0 0 E
+1 20 10 30d1000+30000 1d1+0
+0 0
+1 1 1
+E
+#3113
+john kerry~
+John Kerry~
+John Kerry stands here, being a liberal douchebag.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 10 1d1+1500 1d1+0
+0 0
+8 8 1
+E
+#3114
+ralph nader~
+Ralph Nader~
+Ralph Nader stands here, smoking a joint.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 10 1d1+1500 1d1+0
+0 0
+8 8 1
+E
+#3115
+spirit tree silverwood~
+the spirit of a silverwood tree~
+A wispy spirit of glinting silver flashes in and out of existance in the shape of a tree.
+~
+You can see right through this silvery, ethereal spirit.  Shaped like a great silverwood tree,
+it is but a fraction of the size of the living trees around it.
+~
+65625 0 0 0 589908 0 0 0 100 E
+23 -25 2 1d1+2050 10d4+45
+0 345000
+8 8 0
+BareHandAttack: 10
+E
+#3116
+plant vine~
+a living plant~
+A large plant reaches out with tentacle-like vines and tries to grab your legs!
+~
+Though it looks like a normal plant, it follows your movements and reaches out
+trying to grab ahold of your legs as you walk past!
+~
+67642 0 0 0 1048656 0 0 0 -300 E
+26 -30 0 1d1+15070 20d5+50
+0 520005
+8 8 0
+BareHandAttack: 2
+E
+#3117
+bobcat~
+Bobcat, the bobcat~
+A small cat-like animal with a nub for a tail walks around and screaches at you!
+~
+Covered in tannish-colored fur with brownish-black spots, this bobcat growls at you as
+you walk by.  It wears a green t-shirt that says "Bobcat" on the back and on the chest
+reads "OU."
+~
+10 0 0 0 532560 0 0 0 0 E
+50 -30 -10 30d50+30000 30d100+50
+0 1500000
+8 8 1
+BareHandAttack: 8
+E
+$

@@ -1,0 +1,50 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+------------------------------------------------------------------------
+News file [&C30&c]. Type NEWS 30 to re-read this article at a later date.
+------------------------------------------------------------------------&n
+
+Hey all. Its been a while so here is where we stand these days. Lots of
+new zones have been added or are being worked on. I know there are some
+revamps going on and the likes so nice work and thanks. Recently I added
+clans back into the game. I have also fixed a few of the bugs that have
+a bit of a plague. Camping in the wilderness no longer crashes the game.
+Trying to kill a mob thats not in the room no longer crashes the game. I
+also fixed the meta doctor so people can train str, wis, etc. up to 20 and
+it is now saving through resets. I know there is more but its really early
+in the morning so brain not so functional. I have cleaned out a large majority 
+of the bug file so please continue to use that because its the only way I can
+keep track of all the little things that need to be fixed. I will try to
+get to the idea file once i have cleaned up the bugs. I wanna welcome all
+the new faces and rewelcome some of the old. Its good to see so many people
+still workin around here. Oh, I also added about 34 crystal gates to the 
+wilderness map, spread randomly throughout the land. Most of them are near
+zones so people can get around until a better mode of transport is done
+being created (vehicels in the works). Thanks.
+
+-B
+
+PS - realmsofkuvia.com email addresses are available. Email me your real
+name and god name to bluntmaster@realmsofkuvia.com and I will set it up
+for you. The forums are also back up at http://www.realmsofkuvia.com/forums.
+I would like to get a website together in the near future. If anyone has
+web design skills let me know. We can either host it on the server here or
+on our gmail setup. I think hosting it here would be best because we can
+get some game data interaction with it easier I think. Online players and
+what not. Any input would be welcome on this.
+http://www.realmsofkuvia.com/who.html is an example of what I mean. That
+is compliments of Slurk. I would love to see more stuff like this going up.

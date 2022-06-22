@@ -1,0 +1,53 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+                   ::::    ::: :::::::::: :::       :::  :::::::: 
+                  :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+                 :+:+:+  +:+ +:+        +:+       +:+ +:+         
+                +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+               +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+              #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+             ###    #### ##########   ###   ###    ########   
+                                          
+-------------------------------------------------------------------
+News file [&C7&c]. Type NEWS 7 to re-read this article at a later date.
+-------------------------------------------------------------------&n
+
+&YNew Commands:&n
+
+New godchannel is in, commands are:
+imp <txt> = Implementor channel
+grgod <txt> = Greater God channel
+god <txt> = Normal god Channel
+imm <txt> = Immortal channel - can also be our normal channel
+wiznet <txt> = still works as immortal channel
+
+All of the above also take arguments of # and *
+
+imm * <txt> = Name:: <-- text (its like an emote, pretty lame though
+imm #<40-43> <txt> = Name[#]:: text
+
+---------
+
+Beginnings of Preceptor Flags are in, implementors can do a
+set character preceptor on/off
+
+This sets a PRECEPTOR flag onto the char seen on who and look
+
+This will be our version of a player helper, or avatar
+
+Currently they do have their own channel, works as above with all 
+the same arguments.
+
+preceptor <txt>, or can be prec <txt>
+
+More to come on preceptors
+
+Enjoy
+
+-S

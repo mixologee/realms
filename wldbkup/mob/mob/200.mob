@@ -1,0 +1,83 @@
+#20000
+guard castle~
+a castle guard~
+A well armored man is here guarding the castle.
+~
+A very strong, well built man wearing shining armor is here guarding the castle.
+~
+22600 0 0 0 80 0 0 0 0 E
+15 0 5 30d10+2000 3d5+15
+50 100000
+8 8 1
+Clss: 1
+E
+#20001
+maid~
+a young maid~
+A young maid is walking around, cleaning the castle.
+~
+A young woman in a short skirt and tight top is cleaning up here.  She has
+blonde hair and a large chest.  Her legs seem to climb right up to her neck.  
+~
+49224 0 0 0 16 0 0 0 0 E
+20 -5 5 20d10+1200 5d5+10
+10 120000
+8 8 2
+Clss: 1
+E
+#20002
+servant~
+a castle servant~
+A servant of the castle is doing his daily rounds.
+~
+A well dressed man of average height and build.  He has dark hair and hazel
+eyes.  He seems to be in a bit of a hurry as he goes about his business.  
+~
+20552 0 0 0 8208 0 0 0 0 E
+10 0 0 10d50+1200 10d2+10
+5 75000
+8 8 1
+Clss: 1
+E
+#20050
+guard castle~
+a castle guard~
+A well armored man is here guarding the castle.
+~
+A very strong, well built man wearing shining armor is here guarding the castle.
+~
+6216 0 0 0 80 0 0 0 0 E
+15 0 5 30d10+1500 3d5+15
+50 100000
+8 8 2
+Clss: 1
+E
+#20051
+maid~
+a young maid~
+A young maid is walking around, cleaning the castle.
+~
+A young woman in a short skirt and tight top is cleaning up here.  She has
+blonde hair and a large chest.  Her legs seem to climb right up to her neck.
+~
+32840 0 0 0 16 0 0 0 0 E
+20 -5 5 20d10+1200 5d5+10
+10 120000
+8 8 2
+Clss: 1
+E
+#20052
+servant~
+a castle servant~
+A servant of the castle is doing his daily rounds.
+~
+A well dressed man of average height and build.  He has dark hair and hazel
+eyes.  He seems to be in a bit of a hurry as he goes about his business.
+~
+4168 0 0 0 8208 0 0 0 0 E
+10 0 0 10d50+1200 10d2+10
+5 75000
+8 8 1
+Clss: 1
+E
+$

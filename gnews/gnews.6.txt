@@ -1,0 +1,70 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+                   ::::    ::: :::::::::: :::       :::  :::::::: 
+                  :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+                 :+:+:+  +:+ +:+        +:+       +:+ +:+         
+                +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+               +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+              #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+             ###    #### ##########   ###   ###    ########   
+                                          
+-------------------------------------------------------------------
+News file [&C6&c]. Type NEWS 6 to re-read this article at a later date.
+-------------------------------------------------------------------&n
+
+&YImprovements to CrystalGate system.&n
+
+Now that we ohave the system in place, I've been tweaking with it
+off and on.  Here is a list of a few of the things these gates
+now do.  I may have expressed some of this in the last gnews, but
+its always good to keep track.
+
+Bad Combos:  On performing a bad combination the character now
+             takes some random damage, which is based on the 
+             level of the character.
+
+Good Combo:  On a good combination the character now is taken to
+             a "holding pen" where all characters using the gate
+             will now go while waiting out their travel time.  
+             Traveltime is now just a random number between 10-25
+             which will later be more accurate when we have the
+             wilderness in place to guage proper distance from
+             gate to gate.  While characters are in this holding
+             pen they cannot do anything basically, no looking, 
+             communication, resting.. anything!  Upon exiting
+             the gate they take a minimal amnt of damage, about 
+             10, and it knocks them to their ass.
+
+             While in the gate they will recieve random messages
+             so they know they arent just sitting there.  I do,
+             however, need help making up these messages.  So
+             please send me some ideas, currently it says 
+             CrystalGate Message Position 1 through 4 :p
+
+Press command:  There is now a lagtime between presses, this is
+                random, roughly 3-7 seconds between presses.
+
+
+&YNew Commands&n
+
+--          This command now works, it clears your current 
+            input queue.
+
+symbols     This command shows any builder or above the current
+            symbols we are using for gates.  Later down the line
+            they can suggest extra symbols along with travel
+            points.
+
+
+I think thats enough for now, this was all brought to you by
+your half-assed coder Slurk!
+
+Enjoy
+
+-S

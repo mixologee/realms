@@ -1,0 +1,240 @@
+#3700
+cat sam~
+the gravedigger's cat~
+The gravedigger's cat Sam meows for attention.
+~
+The gravedigger's cat resembles not so much a cat as a skeleton with patchy
+black fur. He begs for attention with an asthmatic meow, shedding hairs on your
+shoes as he twines around your legs.
+~
+134217736 32 0 0 0 0 0 0 300 E
+2 14 8 1d1+20 1d2+2
+0 200
+8 8 1
+BareHandAttack: 8
+Clss: 2
+E
+#3701
+maggot worm grub~
+a giant maggot~
+A giant maggot undulates toward you on its dozen stubby legs.
+~
+This maggot has grown well beyond its natural size after feasting on an
+alchemist's corpse. Its moist body and stubby appendages thrash violently as it
+emerges from its hiding place in the ground, seeking the flesh of the first
+thing it meets.
+~
+62 0 0 0 2112 0 0 0 -50 E
+2 0 10 5d2+20 1d2+2
+20 400
+8 8 0
+BareHandAttack: 4
+Clss: 2
+E
+#3702
+squirrel~
+a red squirrel~
+A red squirrel bounds across your path.
+~
+This squirrel's vivid red fur contrasts starkly with the general grayness of the
+graveyard. It stops for a moment to examine you with a beady black eye, and
+then continues on its way.
+~
+402653256 0 0 0 0 0 0 0 50 E
+1 5 9 0d0+10 1d2+4
+0 50
+8 8 0
+Clss: 2
+E
+#3703
+Clydesdale gravedigger caretaker old man~
+Clydesdale the gravedigger~
+Wizened old Clydesdale the gravedigger mutters to himself.
+~
+The gravedigger sports a shock of untidy white hair and a pair of dingy, faded
+overalls. It is he who cares for the cemetery grounds, and it is said that he
+never leaves. He keeps a shovel about his person at all times.
+~
+8 0 0 0 0 0 0 0 100 E
+3 -15 8 25d3+100 1d2+4
+30 400
+8 8 1
+Clss: 6
+E
+#3704
+emaciated corpse dead zombie~
+an emaciated corpse~
+An emaciated corpse lies here.
+~
+This rotted corpse has been animated by its vengeful spirit, and seeks
+retribution for the wrongs done to it.
+~
+2074 0 0 0 0 0 0 0 0 E
+4 0 7 4d4+100 4d4+10
+50 1600
+8 8 0
+BareHandAttack: 14
+Clss: 1
+E
+#3705
+blue spirit light orb~
+a spirit light~
+A blue orb of light flickers in midair.
+~
+This orb is the result of spirit activity in the area. It appears as a blue
+ball of light, and is generally harmless.
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 10 0d0+10 0d0+0
+0 50
+8 8 0
+Clss: 5
+E
+#3706
+speckled gray hen chicken~
+a speckled hen~
+A speckled hen putters about looking for food.
+~
+This fat gray hen is speckled with black spots.
+~
+268435464 0 0 0 0 0 0 0 100 E
+1 -2 9 0d0+10 1d2+5
+0 100
+8 8 2
+BareHandAttack: 8
+Clss: 2
+E
+#3707
+red hen chicken~
+a red hen~
+A red hen putters about looking for food.
+~
+This fat red hen has feathers on its feet. How strange!
+~
+268435464 0 0 0 0 0 0 0 100 E
+1 -2 9 0d0+10 1d2+5
+0 100
+8 8 2
+BareHandAttack: 8
+Clss: 2
+E
+#3708
+white hen chicken~
+a white hen~
+A white hen putters about looking for food.
+~
+This white hen has feathers on its feet, lending the impression that it is
+wearing white trousers. How strange!
+~
+268435464 0 0 0 0 0 0 0 100 E
+1 -2 9 0d0+10 1d2+5
+0 100
+8 8 2
+BareHandAttack: 8
+Clss: 2
+E
+#3709
+black rooster chicken~
+a proud black rooster~
+A proud rooster struts about pompously.
+~
+This rooster is black but for its iridescent green tail. He struts about as if
+he rules the place.
+~
+268435464 0 0 0 0 0 0 0 100 E
+1 -2 9 0d0+10 1d2+6
+0 100
+8 8 1
+BareHandAttack: 8
+Clss: 2
+E
+#3710
+speckled gray hen chicken~
+a speckled hen~
+A speckled hen shifts sleepily.
+~
+This fat gray hen is speckled with black spots. It sleeps a tad restlessly,
+sensing your presence.
+~
+536870922 0 0 0 0 0 0 0 100 E
+1 0 9 0d0+10 1d2+5
+0 100
+8 8 2
+BareHandAttack: 8
+Clss: 2
+E
+#3711
+red hen chicken~
+a red hen~
+A red hen sleeps contentedly.
+~
+This fat red hen sleeps with its head under one wing.
+~
+536870922 0 0 0 0 0 0 0 100 E
+1 0 9 0d0+10 1d2+5
+0 100
+8 8 2
+BareHandAttack: 8
+Clss: 2
+E
+#3712
+white hen chicken~
+a white hen~
+A white hen sleeps contentedly.
+~
+This white hen sleeps with its head under one wing.
+~
+536870922 0 0 0 0 0 0 0 100 E
+1 0 9 0d0+10 1d2+5
+0 100
+8 8 2
+BareHandAttack: 8
+Clss: 2
+E
+#3713
+black rooster chicken~
+a proud black rooster~
+A proud black rooster peers at you suspiciously.
+~
+This rooster is black but for an iridescent green tail. It peers at you, making
+sure you have no ill intent.
+~
+536870922 0 0 0 0 0 0 0 100 E
+1 0 9 0d0+10 1d2+6
+0 100
+8 8 1
+BareHandAttack: 8
+Clss: 2
+E
+#3714
+ghost gardener~
+the ghost of a gardener~
+The ghost of a gardener shakes its head sadly.
+~
+This gardener's ghost carries a spade and a flowerpot, marks of his former
+trade. He looks at the tree and shakes his head sadly--perhaps his tombstone is
+the one being engulfed.
+~
+10 0 0 0 0 0 0 0 100 E
+1 2 9 0d0+10 5d1+0
+0 100
+8 8 1
+Clss: 9
+E
+#3715
+blood giant tree~
+a blood tree~
+The tree slashes at you with its branches!
+~
+This tree has been imbued with a vengeful spirit after drinking the blood of the
+unjustly murdered. It attacks everything it sees, and then hangs the remains of
+its prey in its branches as a grisly trophy.
+~
+58 0 0 0 134217728 0 0 0 -300 E
+9 0 4 1d1+90 4d5+10
+90 3000
+8 8 0
+BareHandAttack: 3
+Clss: 21
+E
+$

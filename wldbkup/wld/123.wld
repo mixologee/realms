@@ -1,0 +1,563 @@
+#12300
+The Square Atop the Seventh Hill of Ygradi~
+There are seven hills in Ygradi, each of which has a square and different points
+of interest upon and surrounding it. Each one is connected by winding roads,
+each one connected to two adjacent ones and the central hill, this one.
+~
+123 1677721616 3 0 0 85
+D0
+~
+~
+0 0 12303
+D1
+~
+~
+0 0 12302
+D2
+~
+~
+0 0 12304
+D3
+~
+~
+0 0 12301
+S
+#12301
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12306
+D1
+~
+~
+0 0 12300
+D2
+~
+~
+0 0 12305
+D3
+~
+~
+0 0 12309
+S
+#12302
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12307
+D2
+~
+~
+0 0 12308
+D3
+~
+~
+0 0 12300
+S
+#12303
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12307
+D2
+~
+~
+0 0 12300
+D3
+~
+~
+0 0 12306
+S
+#12304
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12300
+D1
+~
+~
+0 0 12308
+D3
+~
+~
+0 0 12305
+S
+#12305
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12301
+D1
+~
+~
+0 0 12304
+S
+#12306
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12303
+D2
+~
+~
+0 0 12301
+S
+#12307
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D2
+~
+~
+0 0 12302
+D3
+~
+~
+0 0 12303
+S
+#12308
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12302
+D3
+~
+~
+0 0 12304
+S
+#12309
+A Westward Grassy Trail~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12301
+D3
+~
+~
+0 0 12310
+S
+#12310
+A Westward Grassy Trail~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12309
+D3
+~
+~
+0 0 12311
+S
+#12311
+The West Base of the Seventh Hill~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12310
+D3
+~
+~
+0 0 12312
+S
+#12312
+A Shady Lane~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12311
+D3
+~
+~
+0 0 12313
+S
+#12313
+A Shady Lane~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12312
+D3
+~
+~
+0 0 12314
+S
+#12314
+A Shady Lane~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12313
+D3
+~
+~
+0 0 12315
+S
+#12315
+A Shady Lane~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12314
+D3
+~
+~
+0 0 12316
+S
+#12316
+A Shady Lane~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12315
+D3
+~
+~
+0 0 12317
+S
+#12317
+A Shady Lane~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12316
+D3
+~
+~
+0 0 12318
+S
+#12318
+A Shady Lane~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12317
+D3
+~
+~
+0 0 12319
+S
+#12319
+A Shady Lane~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12318
+D3
+~
+~
+0 0 12320
+S
+#12320
+At the Base of the Sixth Hill of Ygradi~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12319
+D3
+~
+~
+0 0 12321
+S
+#12321
+A Ramp Forged of Living Trees~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12320
+D3
+~
+~
+0 0 12322
+S
+#12322
+A Broad Field Atop the Sixth Hill~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12321
+D3
+~
+~
+0 0 12323
+S
+#12323
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12329
+D1
+~
+~
+0 0 12322
+D2
+~
+~
+0 0 12328
+D3
+~
+~
+0 0 12324
+S
+#12324
+The Square Atop the Sixth Hill of Ygradi~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12326
+D1
+~
+~
+0 0 12323
+D2
+~
+~
+0 0 12327
+D3
+~
+~
+0 0 12325
+S
+#12325
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12330
+D1
+~
+~
+0 0 12324
+D2
+~
+~
+0 0 12331
+S
+#12326
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12332
+D1
+~
+~
+0 0 12329
+D2
+~
+~
+0 0 12324
+D3
+~
+~
+0 0 12330
+S
+#12327
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12324
+D1
+~
+~
+0 0 12328
+D3
+~
+~
+0 0 12331
+S
+#12328
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12323
+D3
+~
+~
+0 0 12327
+S
+#12329
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D2
+~
+~
+0 0 12323
+D3
+~
+~
+0 0 12326
+S
+#12330
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D1
+~
+~
+0 0 12326
+D2
+~
+~
+0 0 12325
+S
+#12331
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12325
+D1
+~
+~
+0 0 12327
+S
+#12332
+Between Two Short Stone Walls~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12333
+D2
+~
+~
+0 0 12326
+S
+#12333
+A Storyteller's Circle~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12334
+D2
+~
+~
+0 0 12332
+S
+#12334
+The Northern Base of the Sixth Hill~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D0
+~
+~
+0 0 12335
+D2
+~
+~
+0 0 12333
+S
+#12335
+New BuildWalk Room~
+This unfinished room was created by Accarid.
+~
+123 0 0 0 0 0
+D2
+~
+~
+0 0 12334
+S
+$~

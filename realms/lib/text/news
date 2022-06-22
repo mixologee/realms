@@ -1,0 +1,160 @@
+&WIn The News&G:&n
+&C>----------------------------------------------------------------------------<&n
+&GAfter suffering a major deletion, we have recently gotten back alot of code.
+&W1: &GWilderness map is back!!&n
+&W2: &GAppraise and skills are working fine again.&n
+&W3: &GPosses and crews are back in. Posse's are being touched up, more to come &C:)&G
+&W4: &GTweak gear is in!! Now eq with the same name may not have the same stats.
+&C3-24-2004&n
+&W5: &GReclass code is in, but is still being finshed. You can do it though. 
+   see help for details.&n
+&W6: &GPK works and is now in!! Anyone who has played a decent mud will 
+   understand the lpk npk cpk style. help pk will be in soon.&n
+&W7: &GThe City is back! no room descripts and still needs gear but it back 
+   in and has everything the stock city midgaard had.&n
+&W8: &GPets are available again. Check out the shop in The City.&n
+&W9: &GParty Zone is in and works, wanna relax from The Game? goto the party yo &C:)&n
+&W10: &GDeath is differant, when you die you gotta type blaze to come back
+    to life. This is temporary, we got something coming thats gonna surprise
+    even you jaded back in the day on telnet muddin mutha fuckers.
+&C3&W-&C25&W-&C2004&n
+&W11: &GMedidate is in. Right now it's anyclass, not sure if this is gonna change.
+&W12: &GDisarm is in.&n
+&W13: &GFISHING IS HERE!! bored? lazy? Grab yer pole, spark one up, and
+    head for the rivers, lakes, and oceans.&n
+&W14: &GThe Game Policy is up, it states the rules as they currently exist. 
+    They might change or expand later, who knows. I hope they won't have 
+    to be but i'm sure they will when we get a large playerbase.&n
+&W16: &GTweaked gained HP/MANA/MOVE for each class when leveling. Tweak takes 
+    into consideration CON for HP, INT for MANA, MOVES is randomly based on 
+    class, and pracs are affected by WIS.&n
+&C4&W-&C1&W-&C2004&n
+&W17: &GRanged combat is in!! warriors can now use ranged weapons like
+    crossbows and bows. help file coming soon.
+&W18: &GHelp files are being beautified. most are done, still have to do spells.
+&C4&W-&C9&W-&C2004&n
+&W19: &Gherb.servegame.com just upgraded from RH9 to Fedora Core 1!! This really
+    doesn't mean much to anyone but the coders, but the switch went fine. Linux roolz!&n
+&W20: &GThe City is complete!! Descriptions are all in and shops are stocked
+    with basic gear potions and whatnot. I Hope you guys like it &C:)&n
+&C4&W-&C15&W-&C04&n
+&W21: &GNo more stock zones!!&n
+&C5&W-&C5&W-&C2004&n
+&W21: &Gexp levels were drasticlly raised, this reflects a more old skool med
+    feel, pre-mlr era. Also alot of changes to the code, most of it is stable but
+    there are a few ruff spots still, so testers keep testing &C:P&n
+&C5&W-&C23&W-&C2004&n
+&W23: &GLotsa small little changes recently, involving exp(this has been the
+    biggest problem in the game), and posse's etc. The new death code is in as
+    many of you have probably noticed. It seems to be working as planned but
+    we still have some minor issues to fix with it. Help files for world builders
+    have been colored, which means the only help files left to be colored are
+    the god help files, which most players don't need. Things have been pretty
+    quiet here lately, but rest assured progress is being made. Official player
+    testing will hopefully begin in June as anticipated. Personally i can't wait,
+    i'm very excited.&C:)&n
+&C5&W-&C26&W-&C2004&n
+&W24: &GThe sex bug has been fixed so that it won't show everyone as yer sex.
+    When you level now you will receive some gold.&n
+
+&C6&W-&C10&W-&C2004&n
+&W25: &GSome pretty big changes have gone into effect. Where ya quit is
+    where you'll come back now, when ya relogin. The login menu is also gone now.
+    The City Housing Projects are in! Get your own home for only 100k. Additional
+    charges may apply, see a god for details.&n
+&C6&W-&C17&W-&C2004&n
+&W26: &GWe're pretty sure we finally got that nasty little eq bug. It had 
+    something to do with going to the void and then being discon'd. at anyrate 
+    it should be fixed now...at least we hope&C:P&n
+&W27: &Glotsa thing are being tweaked and finalized in preparation for open 
+    player testing. Soon like the mighty death star, this battlestation will be 
+    completely operational, and since there's no such thing as x-wings, we should 
+    be safe. We pretty sure we have most of the major bugs worked out. I wouldn't 
+    say stable yet but if things go well for more than a week, we'll be on solid
+    ground.&n
+&C6&W-&C24&W-&C2004&n
+&W28: &GSorry bout the game being down, a mean storm fucked our shit up.
+    Everything is cool now and were right back on track.
+&C7&W-&C2&W-&C2004&n
+&W29: &GWe've isolated the eq bug to what we beleive is now only a losing
+    link issue. If you want to quit, YOU MUST TYPE &RQUIT&G. Zapping, otherwise
+    known as losing link is not acceptable. If you zap you run the risk of
+    losing all your eq. This is not an idle threat like in other games. We hope
+    to have this fixed soon, but at least now its not just happening randomly.&n
+&W30: &GOK were, 90% sure it's fixed. After extensive deliberate crashing
+    of the whole server we tracked the eq bug down and eliminated it. well 
+    not me but bluntmaster, he rules. thankfully all this happened while we 
+    weren't officially open for player testing. &C:)&G Now that this is fixed 
+    we are officially opening The Game for early player testing. Start messin'
+    around and finding those bugs!&n
+&C7&W-&C16&W-&C2004&n
+&W31: &GPracticing trip now works. sorry bout that.&n
+&C7&W-&C18&W-&C2004&n
+&W32: &GNew mini-zone just opened up. Go visit the fabulous Lakeside 
+    hotel.&n
+&C7&W-&C29&W-&C2004&W
+&W33: &GAdded the docks on the western part of the island for travel to the 
+    tropical island of the great volcanoes, Mt. Cannibis and Mt. Sativa. What
+    awaits the weary travelers in the fierce jungles of the new island?
+&C8&W-&C12&W-&C2004
+&W34: &GAdded autosplit for gold from corpses.&n
+&C8&W-&C15&W-&C2004&n
+&W35: &GAdded leader command to change the posse's leader.&n
+&W36: &GAdded critical melee hits for warrior and critical backstab hits for thief.&n
+&C8&W-&C16&W-&C2004&n
+&W37: &GSpecial Thanks to &CSARA &Gfor the kick ass wilderness room descriptions!!&n
+&C8&W-&C27&W-&C2004&n
+&W38: &GEffective immediatly. There will be a fee of 10percent on the total gold of any
+    player keeping a key in their home at any time, no quitting no goin afk. People can't run 
+    zones when you hoarde the only way into them. Respect each other.&n
+&C10&W-&C7&W-&C2004&n
+&W39: &GAuction is now fixed and working fine. Stealing is now fixed and working fine. 
+    Meditate is now fixed and working fine. Also there is some ghetto crew code in now. Prices 
+    have not yet been determined.&n
+&C10&w-&C25&w-&C2004
+&W40: &G Silverwood Forest is &COPEN&G!  Go check it out.
+&C11-12-2004
+&W41: &GMarshall's Tomb is open, but not finished...all mobs and eq in, but no room ar hints. yet..&n
+&C07&W-&C30&W-&C2005
+&W42: &GAutoquests are in. Go see Jenna to begin your questing days!&n
+&W43: &GCastle Smoke and Castle Blaze are both open for attacking. Simple stand on the drawbridge,
+    solo or formed and tyep attack <castle> (either smoke or blaze). Clear the mobs and reap the rewards.&n
+&C05&W-&C06&W-&C2006
+&W44: &GWe're still alive and kicking asses once again. Because of this I figured 
+    we should update the news file a little. Lots of bugs being chased and what not. 
+    Stick around and have fun.&n
+&W45: &GFINALLY!!!! I FINALLY NIPPED THAT FUCKING EQ BUG THATS BEEN A PLAGUE TO MY LIFE. NO MORE WILL
+    YOUR EQ BE DELETED WHEN YOU GET LOGGED OUT FOR INACTIVE OR LL AND LOGGED OUT THAT WAY! I also fixed
+    scan so you can no longer scan through hidden exits.  &W5-9-2006&n
+&W46: &GI'm currently working on a map system to have here so its a little more ascii instead of text.
+    Some 60,000 lines in the patch file that needs to be hand patched. &C4.15.08&n
+&W47: &GAdded empty eq slots to show when looking at eq (personal eq only). Oh yea also added in the 
+    180,000 room wilderness map. about 178,000 of it is still ocean but more to come from all that.
+    Also changed how the docks work to get from island to island. Look at the sign on the dock for more
+    info.&C5.12.08&n
+&W48. &GAdded levels so max levels is 40. Also added new specialty classes. When you master as a 
+    warrior, you can special as Paladin, Knight or Ranger. If you master as thief, you can specialize as
+    a Rogue, Assassin, or Ninja. If you master as cleric you can specialize as a Monk, Druid or Priest. If
+    you master as a mage you can specialize as a Necromancer, Summoner or Sorcerer. There are no skills in
+    yet for these but they are on the way.&n
+&W49. &GAdded regen, meleeheal, evasion, cloaked move, entangle, advanced backstab, advanced kick,
+    dodge, parry, advanced dodge, hurricane, whirlwind, starfire, fourth attack, fifth attack, 
+    advanced meditate, hellstorm, rat swarm, hammer of divinity, drain life, shockstorm, blizzard, 
+    meteor storm, and advanced heal.&n
+&W50. &GAdded tripwire, protection from good, protection from evil, and advanced trip.&n
+&C2008-05-26&n
+&W51. &GModified wizhelp to display command levels. --Aenarion&n
+&W52. &GModified set to display options when "set" is typed. --Aenarion&n
+&W53. &GWe are now C++ fully supported. --Aenarion&n
+&W54. &GFor users of MM2K6 and KMuddy you will need to type IACGA to fix your prompt issue. --Aenarion&n
+&W55. &GAdded charge, retribution, refresh, mass refresh, plague and mass plague spells. 
+    Also added dying time. With this you will lay there dying for a brief amount of time in the
+    hopes that someone will come along and revive you either with a scroll of revival or the 
+    revival spell. If you don't have someone to revive you, you can type &Rkillme&G to speed the 
+    dying process along.&n
+&W56. &GOUR NEW FORUMS ARE AT HTTP://REALMSOFKUVIA.COM/FORUMS&n
+&W57. &GEQ will now start taking damage while fighting. You can use ore at the armorer or the blacksmith
+    to repair items. If an item get too damaged, it starts losing stats.&n
+&W58. &GYou can now go to the training facility and increase your stats instead of using the necromancer.&n
+&W59. &GYou can now create equipment, improve on smithable items, and mine for ore and gems in the mines.&n
+&W60. &GYou can now log in to realmsofkuvia.com 4000 instead of thegame.servegame.org 4000.&n

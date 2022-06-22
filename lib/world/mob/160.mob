@@ -1,0 +1,77 @@
+#16000
+Xandr man paladin~
+Xandr the frozen paladin~
+The king of the frozen north rests upon his icy marble throne.
+~
+Xandr's armor has faded from chromatic blue to ghostly gray as he has fallen
+from the grace of the Astarian Way. And yet, he does not seem dejected. He has
+embraced his new environment, and defends it with the ferocity with which he
+once defended his native city. His eyes are icy blue, and his skin is dark, but
+traversed by vein-like scars. He watches his empire from the top of his tower,
+ready to defend it from invasion from the civilized world.
+~
+2842 0 0 0 1589504 32 0 0 100 E
+40 -70 0 8d8+5555 6d6+15
+1630 160000
+8 8 1
+BareHandAttack: 13
+Att1: 30
+Att2: 30
+Att3: 30
+Clss: 11
+E
+#16001
+Csslia matriarch~
+Csslia the Tundra matriarch~
+A beautiful woman reclines with her feet up on her throne, her striped skin showing beneath her furs.
+~
+The matriarch of the Tundra tribe is beautiful beyond words, and stronger than
+her initial appearance would belie. Csslia is well-muscled and lithe, still
+very young. She has grown in the cold, and does not mind it at all- her furs
+are purely decorative, and she doesn't hesitate to leave herself open to the
+air. Her skin is covered in a tiger-stripe-like design, which stands out
+against her pure ivory skin. As she minds your presence she drums her fingers
+on her chakram, eager to put them to use.
+~
+1048858 0 0 0 8448 4 0 0 0 E
+40 -30 0 12d8+4444 5d6+25
+3260 160000
+8 8 2
+BareHandAttack: 13
+Att1: 25
+Clss: 12
+E
+#16002
+Bailong lung dragon~
+Bailong, the benevolent white lung~
+A colossal Lung dragon with scales as white as fresh snow stands here proudly.
+~
+It looks unfinished.
+~
+1116426 0 0 0 8316 5 0 0 975 E
+50 -80 -20 10d10+10000 20d5+100
+10000 250000
+8 8 1
+BareHandAttack: 8
+Att1: 100
+Att2: 100
+Clss: 21
+E
+#16003
+Yu sentient wall~
+Yu the sentient wall~
+A rather agile-looking wall stands here, blocking your escape.
+~
+It looks unfinished.
+~
+-2147483638 7 0 0 256 0 0 0 300 E
+40 -20 -14 40d40+400 6d6+40
+74689 160000
+8 8 0
+BareHandAttack: 6
+Att1: 30
+Att2: 30
+Att3: 30
+Clss: 21
+E
+$

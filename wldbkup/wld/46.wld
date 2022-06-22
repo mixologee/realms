@@ -1,0 +1,3011 @@
+#4600
+The Green Gate to the Forest~
+In all your travel in this region, you have never stumbled across this hidden
+grove before. Could this be the dark forest surrounding the Lake of Darkmoor?
+It is very likely, judging from the eerie waiting calm of the dark forest and
+tingling sensation in the air that comes from the presence of ancient and
+powerful magic. The forest is thick and impassable on all sides except for
+here, between two massive oak trees- why has the forest decided to let you
+enter, and perhaps never return?
+~
+46 1073741829 0 0 0 0
+D0
+~
+~
+0 0 4601
+D2
+~
+~
+0 0 3057022
+S
+#4601
+Within a Ring of Gigantic Trees~
+You are standing in a small patch of lush green grass in a ring of gigantic
+trees that almost block out the light all day long, except at noon. Towering
+sequoias, massive oaks, spreading maples, and thick pines rise up hundreds of
+feet overhead, sheltering smaller trees and shrubs beneath their bowing
+branches. Their leaves are seemingly darker than other trees of the same type,
+absorbing the light that does make it through. The trees shake and whisper at
+your presence- are they moving to form a path?
+~
+46 65604 1 0 0 2
+D0
+~
+~
+0 0 4604
+D1
+~
+~
+0 0 4600
+D2
+~
+~
+0 0 4602
+D3
+~
+~
+0 0 4603
+S
+#4602
+In the Dark Forest~
+The thick undergrowth and divots in the ground impede your movements, forcing
+you to scale the sides of trees at times to bypass it. The air has a green
+scent to it, one of pine sap and dead leaves and freshwater springs. Looking
+ahead, there seems to be no end to this dense forest- it hadn't looked so vast
+from the outside! A raven caws from its nest overhead, warning you to stay back
+or suffer the fate of a pesky bird trying to peck out your eyes.
+~
+46 65537 1 0 0 3
+D0
+~
+~
+0 0 4601
+D3
+~
+~
+0 0 4606
+D4
+~
+~
+0 0 4605
+S
+#4603
+In a Dense Thicket~
+You push your way into the undergrowth, and are suddenly surrounded on all sides
+by sharp thorned briars. There is no light, and water gushes up out of the
+ground around your ankles. The smell of decay fills your nostrils, probably
+coming from the heaps of decaying leaf matter trapped here by the dense vines
+and branches around this hole in the thicket. Which way did you come from? A
+thorned branch runs across your face painfully as you turn about, trying to gain
+your bearings.
+~
+46 65537 1 0 0 3
+D0
+~
+~
+0 0 4681
+D1
+~
+~
+0 0 4601
+D2
+~
+~
+0 0 4687
+D3
+~
+undefined~
+0 0 4686
+S
+#4604
+In the Dark Forest~
+The thick undergrowth and divots in the ground impede your movements, forcing
+you to scale the sides of trees at times to bypass it. The air has a green
+scent to it, one of pine sap and dead leaves and freshwater springs. A pool of
+green algae-filled water fills the hollow of a willow tree draped with swamp
+moss- something stirs beneath its surface, and a glistening reptilian eye peers
+up at you.
+~
+46 65537 1 0 0 3
+D0
+~
+~
+0 0 4631
+D2
+~
+~
+0 0 4601
+S
+#4605
+The Top of a Pine Tree~
+This pine tree is shorter than the ones around it due to some rule of nature
+that allowed the others to grow faster and block out the light. It still
+thrives, and is the perfect place for a bird's nest far away from the realm of
+hawks and inclement weather. One such nest rests in the crook of a twisted
+branch a few meters down from the top of the tree. This part of the tree is
+much lighter than near the forest floor, but the light is still dim at best.
+~
+46 65600 1 0 0 20
+D5
+~
+~
+0 0 4602
+S
+#4606
+A Curving Path Around a Thick Pine~
+This path is narrow, as it skirts between a thorny thicket and a massive pine
+tree's trunk. The forest floor is a carpet of pine needles, only broken by the
+rise and fall of thick roots and pits between them. A squirrel leaps from one
+tree to another, showering you with small sticks and pine cones. The thorns and
+rough bark scratch you on both sides as you inch between the two barriers.
+~
+46 65537 1 0 0 3
+D1
+~
+~
+0 0 4602
+D2
+~
+~
+0 0 4607
+S
+#4607
+In the Shadows of a Pine Tree~
+The long branches of this ancient pine reach far overhead towards the horizon,
+making a patch of shelter from the elements. The pine needles are extremely
+dense here, coming up to your knees in parts, leaving no room for shrubs to
+grow. A dense wall of briars blocks what used to be a path to the west. Some
+of the branches on the pine tree form a kind of natural stepladder up the tree.
+~
+46 65545 0 0 0 3
+D0
+~
+~
+0 0 4606
+D2
+~
+~
+0 0 4608
+D4
+~
+~
+0 0 4618
+S
+#4608
+Standing Over a Rabbit Warren~
+A mound in the ground surrounded by freshly turned sand represents the mass of
+the rabbit warren beneath the sandy soil. The ground occasionally shivers as a
+rabbit goes barreling through one of its underground tunnels. The ground is
+covered in charred wood around a burnt out tree trunk, the signs of a recent
+fire that ushered in a new generation of hardwood trees that rise up around the
+rabbit warren.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4607
+D3
+~
+~
+0 0 4609
+S
+#4609
+Within the Dark Forest~
+The trees are dense and the foliage denser as you move deeper into the forest.
+A maple tree with shiny golden leaves is here, with a trunk wide enough for
+three medium-sized wagons to rest side by side between its widest points. 
+~
+46 65537 0 0 0 3
+D1
+~
+~
+0 0 4608
+D2
+~
+~
+0 0 4610
+D4
+~
+~
+0 0 4620
+S
+#4610
+A Familiar Crossing in the Woods~
+This crossing seems quite familiar- have you been here before? You can see
+daylight through the trees, but as you advance the trees shuffle together,
+blocking it out. Every path looks the same, every tree looks familiar...
+~
+46 65541 0 0 0 3
+D0
+~
+~
+0 0 4609
+D1
+~
+~
+0 0 4601
+D3
+~
+~
+0 0 4607
+S
+#4611
+A Hole in the Nest~
+The nest opens up here, in a ring of broken silk leading down a tree trunk. A
+slight breeze floats up through the hole, aerating the nest. This might be the
+only way out of the spider lair.
+~
+46 131073 128 0 0 3
+D2
+~
+~
+0 0 4625
+D5
+~
+~
+0 0 4615
+S
+#4612
+A Hole in the Nest~
+The nest opens up here, in a ring of broken silk leading down a tree trunk. A
+slight breeze floats up through the hole, aerating the nest. This might be the
+only way out of the spider lair.
+~
+46 131073 128 0 0 3
+D0
+~
+~
+0 0 4629
+D5
+~
+~
+0 0 4610
+S
+#4613
+A Hole in the Nest~
+The nest opens up here, in a ring of broken silk leading down a tree trunk. A
+slight breeze floats up through the hole, aerating the nest. This might be the
+only way out of the spider lair.
+~
+46 131073 128 0 0 3
+D3
+~
+~
+0 0 4630
+D5
+~
+~
+0 0 4610
+S
+#4614
+A Hole in the Nest~
+The silken floor becomes drawn out into a tunnel, ending below you at a red
+tapestry illuminated by flickering lamplight. What human being could live in a
+place like this?
+~
+46 131073 128 0 0 3
+D1
+~
+~
+0 0 4627
+D5
+~
+~
+0 0 4636
+S
+#4615
+On a Wide, Flat Branch~
+The branch is wide and curved, like a slide turned so that it is almost parallel
+to the ground. Small shoots branch off the sides, piercing the thin end of the
+web. Ahead to the north, the web opens up completely in a ring of thick silk.
+~
+46 131073 0 0 0 3
+D0
+~
+~
+0 0 4616
+D4
+~
+~
+0 0 4611
+D5
+~
+~
+0 0 4610
+S
+#4616
+On a Wide, Flat Branch~
+The web comes to the end just to the south in a ring of thick white silk. The
+branch you stand on curves to the side and is blocked by briars, so the only
+ways to go are into the spider lair and down to the dark forest floor. A thin
+tree to the right of the branch provides ample footholds for descending after a
+short jump.
+~
+46 65540 1 0 0 3
+D2
+~
+~
+0 0 4615
+D5
+~
+~
+0 0 4617
+S
+#4617
+A Shady Clearing~
+The trees groan uneasily, swaying of their own accord. Shadows flit from tree
+to tree, and disappear up the trunks. The canopy is netted with webs of some
+sort, so thick that what little sunlight there might be cannot shine through
+even a glimmer. All around, ancient deciduous trees stand vigil, and the
+conifers stand tall and wide over them.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4634
+D1
+~
+~
+0 0 4692
+D2
+~
+~
+0 0 4610
+D4
+~
+~
+0 0 4616
+S
+#4618
+Climbing an Ancient Pine Tree~
+This point on the tree is above the thick underbrush, so the forest floor is no
+longer visible. Only the massive branches of other giants are even close to
+reaching where you stand now. Within short jumping distance to the north, a
+thick patch of branches forms a platform onto which you could probably jump.
+~
+46 65540 1 0 0 0
+D0
+~
+~
+0 0 4605
+D4
+~
+~
+0 0 4619
+D5
+~
+~
+0 0 4607
+S
+#4619
+Overlooking the Clearing from the Top of a Pine~
+The view is breathtaking- few trees pass this one in height, and the rest form
+an almost level plain of waving treetops. Ravens swoop up and down between the
+trees in the light, cawing as they search for food and nest material. 
+Something large strikes a tree with a resounding thud, making it shiver and
+sending up a cloud of birds. Beyond that, a sort of gap in the trees is barely
+visible- could it be the legendary lake of Darkmoor?
+~
+46 65536 1 0 0 3
+D5
+~
+~
+0 0 4618
+S
+#4620
+Climbing the Golden Maple~
+The bark of this tree is grooved and rough, but solid enough to climb with ease
+where there are no branches. Still, the possibility of falling is great and
+ever-present as the ground becomes further and further away.
+~
+46 65541 128 0 0 3
+D4
+~
+~
+0 0 4621
+D5
+~
+~
+0 0 4609
+S
+#4621
+High in the Golden Maple~
+Webs stretch between the branches arching overhead, forming a thick meshy white
+ceiling almost the whole way out to the leafy ends of the branches. A hole
+exists in the bottom of the web, and it seems to have been placed there on
+purpose.
+~
+46 65541 128 0 0 3
+D4
+~
+~
+0 0 4622
+D5
+~
+~
+0 0 4620
+S
+#4622
+A Spider's Nest~
+Your light shines on a spiderweb of epic proportions, a network of threads woven
+into a palace of silk. Tunnels line the ceiling of the cavern, all out of
+reach- except for one in the floor, which is designed so as to be one-way only,
+and that way is into the nest. The nest pulses and shivers with the activity of
+spiders all around you...
+~
+46 131073 128 0 0 3
+D1
+~
+~
+0 0 4623
+D2
+~
+~
+0 0 4629
+D3
+~
+~
+0 0 4627
+S
+#4623
+A Spider's Nest~
+Your light shines on a spiderweb of epic proportions, a network of threads woven
+into a palace of silk. Tunnels line the ceiling of the cavern, all out of
+reach. The walls are far from you here, except on the east side.
+~
+46 131073 128 0 0 3
+D0
+~
+~
+0 0 4624
+D2
+~
+~
+0 0 4630
+D3
+~
+~
+0 0 4622
+S
+#4624
+A Spider's Nest~
+Your light shines on a spiderweb of epic proportions, a network of threads woven
+into a palace of silk. Tunnels line the ceiling of the cavern, all out of
+reach. This portion of the web has formed a tunnel between several trees,
+making it a tight fit to pass by.
+~
+46 131073 128 0 0 3
+D2
+~
+~
+0 0 4623
+D3
+~
+~
+0 0 4625
+S
+#4625
+A Spider's Nest~
+Your light shines on a spiderweb of epic proportions, a network of threads woven
+into a palace of silk. Tunnels line the ceiling of the cavern, all out of
+reach. The walls are far from you here, and you grope about blindly in the
+darkness, running into thin sheets of fallen webs.
+~
+46 131073 128 0 0 3
+D0
+~
+~
+0 0 4611
+D1
+~
+~
+0 0 4624
+D2
+~
+~
+0 0 4622
+D3
+~
+~
+0 0 4626
+S
+#4626
+A Spider's Nest~
+Your light shines on a spiderweb of epic proportions, a network of threads woven
+into a palace of silk. Tunnels line the ceiling of the cavern, all out of
+reach. This portion of the web has formed a tunnel, and you stand in the corner
+of it. The cramped passage continues east and south from this point in the web.
+~
+46 131073 128 0 0 3
+D1
+~
+~
+0 0 4625
+D2
+~
+~
+0 0 4627
+S
+#4627
+A Spider's Nest~
+Your light shines on a spiderweb of epic proportions, a network of threads woven
+into a palace of silk. Tunnels line the ceiling of the cavern, all out of
+reach. Two silk-swathed trees protrude from the web to the west, and a breeze
+blows in from that direction.
+~
+46 131073 128 0 0 3
+D0
+~
+~
+0 0 4626
+D1
+~
+~
+0 0 4622
+D2
+~
+~
+0 0 4628
+D3
+~
+~
+0 0 4614
+S
+#4628
+A Spider's Nest~
+Your light shines on a spiderweb of epic proportions, a network of threads woven
+into a palace of silk. Tunnels line the ceiling of the cavern, all out of
+reach. The web forms a tunnel here, and you stand in the corner of it. The
+cramped passage continues to teh north and east of here.
+~
+46 131073 128 0 0 3
+D0
+~
+~
+0 0 4627
+D1
+~
+~
+0 0 4629
+S
+#4629
+A Spider's Nest~
+Your light shines on a spiderweb of epic proportions, a network of threads woven
+into a palace of silk. Tunnels line the ceiling of the cavern, all out of
+reach. No walls are visible in range of your light smothered by dangling webs,
+and you can only hope to wander and find a way out.
+~
+46 131073 128 0 0 3
+D0
+~
+~
+0 0 4622
+D1
+~
+~
+0 0 4630
+D2
+~
+~
+0 0 4612
+D3
+~
+~
+0 0 4628
+S
+#4630
+A Spider's Nest~
+Your light shines on a spiderweb of epic proportions, a network of threads woven
+into a palace of silk. Tunnels line the ceiling of the cavern, all out of
+reach. The nest ends abruptly in a silky barrier to the south, which continues
+east and west.
+~
+46 131073 128 0 0 3
+D0
+~
+~
+0 0 4623
+D1
+~
+~
+0 0 4613
+D3
+~
+~
+0 0 4629
+S
+#4631
+At the Edge of a Vast Swamp~
+A vast, misty swamp is laid out before you. Scraggly swamp trees rise up at
+strange angles like the sorry masts of sunken ships from the depths. A poignant
+odor fills the air, one of decay and growth. The water is dark and swirls of
+its own accord, in no breeze or current. The chitter of insects is occasionally
+interjected by a raven cawing overhead- otherwise, it is silent.
+~
+46 65541 1 0 0 51
+D1
+~
+~
+0 0 4638
+D2
+~
+~
+0 0 4604
+D3
+~
+~
+0 0 4637
+S
+#4632
+In the Tulgey Wood~
+The trees here possess the same strange feeling of awareness as the other trees,
+but their manner is markedly different- they sway gently and calmly, their
+twisted branches dancing in the air, and give off an aura of peace. They seem
+much older than the rest of the forest- they probably grew up in a time when
+there was nothing to fear of the outside world that made the rest of the forest
+harsh.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4715
+D1
+~
+~
+0 0 4690
+D3
+~
+~
+0 0 4716
+S
+#4633
+In the Tulgey Wood~
+The trees here possess the same strange feeling of awareness as the other trees,
+but their manner is markedly different- they sway gently and calmly, their
+twisted branches dancing in the air, and give off an aura of peace. They seem
+much older than the rest of the forest- they probably grew up in a time when
+there was nothing to fear of the outside world that made the rest of the forest
+harsh.
+~
+46 65536 1 0 0 3
+D2
+~
+~
+0 0 4690
+D3
+~
+~
+0 0 4715
+S
+#4634
+Walking Among Ancients~
+Sunlight shines in patches upon the ground through the canopy, granting
+previously unseen color to the woods. It doesn't seem quite so malicious, in
+color- but you must not let down your guard. You are not safe yet.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4635
+D2
+~
+~
+0 0 4617
+S
+#4635
+Walking Among Ancients~
+The path is lined with ancient trees standing vigil over their birthplace. The
+ground slowly emerges from the dense foliage, becoming a defined path.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4696
+D2
+~
+~
+0 0 4634
+S
+#4636
+Araknarok's Hovel~
+This tent is perfectly normal in every way, except for its location. Beyond the
+pale light the hanging lanterns cast outside the doorflap spiders scuttle and
+stir, while inside papers gently stir in the breeze upon every surface. A
+stove, a table, a cot, a carpet, and several bookshelves are all the furnishings
+of the tent, and many strange and fascinating objects line the walls.
+~
+46 1073872933 0 0 0 81
+D4
+~
+~
+0 0 4614
+S
+#4637
+In the Swamp~
+The ground is riddled with deep ponds surrounded by dense brush, making travel
+just short of difficult. At the base of a patch of brown grass rests a venus
+flytrap, its red mouth open and ready for unsuspecting prey to land on its sweet
+tongue. A maddening humming suddenly fills the air, and passes away in the same
+instant. Something big- perhaps a few somethings- is hovering around in the
+shadows.
+~
+46 65537 1 0 0 51
+D0
+~
+~
+0 0 4640
+D1
+~
+~
+0 0 4631
+S
+#4638
+In the Swamp~
+You force your way through a thick patch of watergrass only to fall into a deep
+pool. Clambering out, you sink into the mud. A raven cackles merrily overhead,
+delighting in your misery. Something swoops down over your head, its wings
+beating so fast the air hums with its presence- then is gone.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4639
+D3
+~
+~
+0 0 4631
+S
+#4639
+In the Swamp~
+You edge around a particularly wide pool, scratching your legs on the swamp
+briars. Something leaps into the water and swims away before you can tell what
+it is, leaving just a swirling impression in the water. A cloud of midges
+hovers over the pool, making a collective whine that rattles your brain. A tree
+has been uprooted and capsized to the north, its roots protruding from the mud
+like many skeletal hands, preventing passage.
+~
+46 65536 129 0 0 51
+D1
+~
+~
+0 0 4641
+D2
+~
+~
+0 0 4638
+S
+#4640
+In the Swamp~
+The swamp broadens into a flat expanse of muddy pools, surrounded by a grove of
+bone white, leafless trees. The ground bubbles and sputters suspiciously under
+your feet, urging you to tread carefully on this unstable turf. Trees are
+scattered across the open expanse just thick enough to blot out the light, and
+close enough for you to jump between their relatively stable trunks.
+~
+46 65536 1 0 0 51
+D2
+~
+~
+0 0 4637
+D3
+~
+~
+0 0 4660
+S
+#4641
+In the Swamp~
+The forest looms over the swamp to the south, eerily shrouded in the glowing
+mist of the swamp. Swamp moss hangs down from the branches above you, shivering
+whenever something flies over. All is quiet, except for a the faraway drone of
+wings.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4643
+D2
+~
+~
+0 0 4642
+D3
+~
+~
+0 0 4639
+S
+#4642
+In the Swamp~
+The forest looms over the swamp to the south, eerily shrouded in the glowing
+mist of the swamp. Swamp moss hangs down from the branches above you, shivering
+whenever something flies over. All is quiet, except for a the faraway drone of
+wings. A curved patch of water can be seen glimmering in the fog to the east.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4641
+D1
+~
+~
+0 0 4646
+S
+#4643
+In the Swamp~
+The forest looms over the swamp to the south, eerily shrouded in the glowing
+mist of the swamp. Swamp moss hangs down from the branches above you, shivering
+whenever something flies over. All is quiet, except for a the faraway drone of
+wings.
+~
+46 65536 1 0 0 51
+D1
+~
+~
+0 0 4644
+D2
+~
+~
+0 0 4641
+S
+#4644
+In the Swamp~
+You narrowly avoid falling into a pool of black goo covered in leaves, and trip
+into briars. It is difficult to see through the glowing mist, but you can make
+out the outlines of trees, and large winged creatures drifting ominously through
+the mist. The forest is just a clifflike shadow in the fog now, as you drive
+deeper into the swamp.
+~
+46 65536 1 0 0 51
+D1
+~
+~
+0 0 4647
+D2
+~
+~
+0 0 4645
+D3
+~
+~
+0 0 4643
+S
+#4645
+In the Swamp~
+You stand atop an earthen mound at the head of a murky pool that curves south
+and west from here. It seems to have been made by some large creature dragging
+itself, and pushing the earth ahead of it to form this mound. You can see
+farther from here, since the mist is thinner at the height of the mound. 
+Unfortunately, nothing of interest is in sight before fog swallows your view
+again.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4644
+D2
+~
+~
+0 0 4646
+S
+#4646
+In the Swamp~
+You are on a curved swathe of water in the swamp, just north of the treeline. 
+It seems to have been made a long time ago, as it is filled in with decaying
+leaves and such things, and by a very large creature dragging itself north. 
+The older trees are bowed slightly away from the pool, and the newer growth
+sprawls out over the pool. The pool continues north and west from here.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4645
+D3
+~
+~
+0 0 4642
+S
+#4647
+In the Swamp~
+Every direction you turn, the swamp looks the same- mist and scraggly trees as
+far as the eye can see. There is no sun or moon to guide you, and if not for
+the slight difference in light, there would be no way to tell the difference
+between night and day. You stand beneath a dead willow tree, draped with vines.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4648
+D3
+~
+~
+0 0 4644
+S
+#4648
+In the Swamp~
+A banked canoe rots on the shore of a murky bog, long abandoned by the ones who
+brought it into the swamp. In this thick foliage and shallow water, it's no
+wonder they left it behind- but the dangers of walking in the water are greater,
+perhaps, than struggling through in a canoe. The treeline is just a shadow in
+the fog now, far away to the south.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4649
+D2
+~
+~
+0 0 4647
+S
+#4649
+A Caiman Nest in the Swamp~
+This caiman nest is not modest by any standards. It is so massive that it forms
+its own island of heaped rot, completely dry on top and difficult to move
+around. The only way to pass it by is to move over it, and disturb the mother
+caiman.
+~
+46 65540 1 0 0 51
+D0
+~
+~
+0 0 4653
+D1
+~
+~
+0 0 4650
+D2
+~
+~
+0 0 4648
+D3
+~
+~
+0 0 4651
+S
+#4650
+In the Swamp~
+The overflow from a large mound to the west spills into the swamp all around it,
+making an almost solid patch of ground here. You are able to scramble out of
+the water from time to time as you cross it, a luxury not possible in other
+parts of the swamp.
+~
+46 65536 1 0 0 51
+D3
+~
+~
+0 0 4649
+S
+#4651
+In the Swamp~
+The overflow from a large mound to the east spills into the swamp all around it,
+making an almost solid patch of ground here. You are able to scramble out of
+the water from time to time as you cross it, a luxury not possible in other
+parts of the swamp.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4652
+D1
+~
+~
+0 0 4649
+S
+#4652
+In the Swamp~
+This part of the swamp is particularly dense in dead trees, each of which is
+crowned with dark green vines. The vines seem to writhe and squirm, slithering
+down the trees and hanging in your face, raking their sharp thorns across your
+skin.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4654
+D1
+~
+~
+0 0 4653
+D2
+~
+~
+0 0 4651
+S
+#4653
+In the Swamp~
+The overflow from a large mound to the south spills into the swamp all around
+it, making an almost solid patch of ground here. You are able to scramble out
+of the water from time to time as you cross it, a luxury not possible in other
+parts of the swamp.
+~
+46 65536 1 0 0 51
+D2
+~
+~
+0 0 4649
+D3
+~
+~
+0 0 4652
+S
+#4654
+In the Swamp~
+A large log rises from the muck and detritus, forming a path over the dense
+brush to the east. It is soft to the touch, and you sink into it with any
+amount of pressure. A shelf of fungus lines either side of the log, just
+centimeters over the water.
+~
+46 65536 1 0 0 51
+D1
+~
+~
+0 0 4655
+D2
+~
+~
+0 0 4652
+S
+#4655
+Scaling a Log~
+The log has fallen in two over the brush, arching up to meet in the middle from
+the west and east. Briars and dead branches stick up between them, and it is a
+challenge to scale the gap between the two safely.
+~
+46 65536 1 0 0 51
+D1
+~
+~
+0 0 4656
+D3
+~
+~
+0 0 4654
+D4
+~
+~
+0 0 4678
+S
+#4656
+In the Swamp~
+A large log rises from the muck and detritus, forming a path over the dense
+brush to the west. It is soft to the touch, and you sink into it with any
+amount of pressure. A shelf of fungus lines either side of the log, just
+centimeters over the water.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4657
+D3
+~
+~
+0 0 4655
+S
+#4657
+In the Swamp~
+The swamp branches out in three separate stretches from here, leading north,
+east, and south. To the north and south there is nothing but dense fog, but to
+the east a looming shadow and a small light can be seen through the haze.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4658
+D1
+~
+~
+0 0 4659
+D2
+~
+~
+0 0 4656
+S
+#4658
+In the Swamp~
+The trees begin to thin, and the water begins to grow deeper as you head further
+north and east. Strange blue lights dance silently in the fog around you...
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4654
+D1
+~
+~
+0 0 4691
+D2
+~
+~
+0 0 4657
+S
+#4659
+Outside a Stilted Shack~
+A broad shack rises from the muck on stilts, with its door broken off at the
+hinges and lying in the mud nearby; turtles startle and splash away as you
+approach. The wood is rotten, and full of holes, practically held together by
+wasp nests, and all of it is draped in moss. Small plants grow from the roof,
+and mushrooms burst from the windowsills. It creaks menacingly, threatening to
+collapse at any moment. Could it be that someone actually lives here?
+~
+46 65536 1 0 0 51
+D1
+~
+~
+0 0 4671
+D3
+~
+~
+0 0 4657
+S
+#4660
+In the Swamp~
+If I have to write one more flippin' swamp room description...
+~
+46 65536 1 0 0 51
+D1
+~
+~
+0 0 4640
+D3
+~
+~
+0 0 4661
+S
+#4661
+In the Swamp~
+The sky opens up above you, startling compared to the rest of the darkness in
+the swamp. The trees seem to lean away to escape the light, and the murky water
+clears in its cleansing presence. The air is cool and, well it's still smelly,
+but it's refreshing nonetheless.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4664
+D1
+~
+~
+0 0 4660
+D3
+~
+~
+0 0 4662
+S
+#4662
+In the Swamp~
+Look! The fog is parting to reveal... More fog. Great, just another misty
+illusion. You drag your sorry self onward into the swamp.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4663
+D1
+~
+~
+0 0 4661
+S
+#4663
+In the Swamp~
+This is a SwamP. There is -nothing- here but mist, and trees, and stuff that
+wants to eat you.
+~
+46 65536 1 0 0 51
+D1
+~
+~
+0 0 4664
+D2
+~
+~
+0 0 4662
+S
+#4664
+In the Swamp~
+Look out behind you, it's a dead tree!
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4665
+D2
+~
+~
+0 0 4661
+D3
+~
+~
+0 0 4663
+S
+#4665
+In the Swamp~
+A metal sign rises from the murky depths, a haunted memory of a time long
+forgotten. It reads... Nothing, since its paint has long since peeled and its
+smooth face long since rusted. It probably didn't even start here, and just
+ended up at the bottom of this god-foresaken swamp somehow.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4666
+D2
+~
+~
+0 0 4664
+D3
+~
+~
+0 0 4670
+S
+#4666
+In the Swamp~
+This unfinished room was created by Accarid.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4667
+D2
+~
+~
+0 0 4665
+S
+#4667
+In the Swamp~
+A large log rises from the muck and detritus, forming a path over the dense
+brush to the east. It is soft to the touch, and you sink into it with any
+amount of pressure. A shelf of fungus lines either side of the log, just
+centimeters over the water.
+~
+46 65536 1 0 0 51
+D1
+~
+~
+0 0 4655
+D2
+~
+~
+0 0 4666
+D3
+~
+~
+0 0 4668
+S
+#4668
+In the Swamp~
+A large granite boulder sits soundly in the muck, unmoved by the filth
+surrounding it. A briar bush has attempted to master it, but only managed to
+cover a small portion of its face, not even close to the top. It is tall, and
+dry, and covered in lichen.
+~
+46 65536 1 0 0 51
+D1
+~
+~
+0 0 4667
+D2
+~
+~
+0 0 4669
+S
+#4669
+In the Swamp~
+You see a descriptive room description. You also see a room to the north, the
+east, and the south.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4668
+D1
+~
+~
+0 0 4667
+D2
+~
+~
+0 0 4670
+S
+#4670
+In the Swamp~
+A large cloud of midges drifts over an open pool under the cover of the dead
+trees all around, their whining irritating to hear. A louder, faraway drone can
+be heard, which is more ominous than irritating. Keep moving.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4669
+D1
+~
+~
+0 0 4665
+S
+#4671
+Inside the Shack~
+The inside of the shack isn't so delapidated as the outside would betray it to
+be. It has a dry porch surrounded by a mesh wire screen, and a real door on the
+inside, which stands open to reveal a rather stately carpet. An oil lamp
+flickers in one window, a sort of beacon for wayward travelers like yourself.
+~
+46 4 0 0 0 0
+D0
+~
+~
+0 0 4674
+D1
+~
+~
+0 0 4672
+D2
+~
+~
+0 0 4673
+D3
+~
+~
+0 0 4659
+S
+#4672
+A Living Area in the Shack~
+A large red carpet takes up the entire floor, rolled up at the corners to fit in
+the tiny room. A plethora of small tables are crowded onto it as well, against
+every window, each decorated with various keepsakes. A sink can be seen through
+the doorway to the north, and a staircase spirals up to the second story to the
+south.
+~
+46 0 0 0 0 0
+D0
+~
+~
+0 0 4675
+D2
+~
+~
+0 0 4676
+D3
+~
+~
+0 0 4671
+S
+#4673
+Inside the Shack~
+The inside of the shack isn't so delapidated as the outside would betray it to
+be. This end of the porch wraps around the house slightly, giving a panoramic
+view of the swamp - not that breathtaking, though, due to the mist. Massive
+creatures drone by, unaware of your presence due to some magic on the house.
+~
+46 0 0 0 0 0
+D0
+~
+~
+0 0 4671
+S
+#4674
+Inside the Shack~
+The inside of the shack isn't so delapidated as the outside would betray it to
+be. This end of the porch wraps around the house slightly, giving a panoramic
+view of the swamp - not that breathtaking, though, due to the mist. Massive
+creatures drone by, unaware of your presence due to some magic on the house.
+~
+46 0 0 0 0 0
+D1
+~
+~
+0 0 4675
+D2
+~
+~
+0 0 4671
+S
+#4675
+A Ramshackle Kitchen~
+This kitchen has a sink, a counter, some cupboards, and a clay oven - that's it.
+Dishes clutter the counters, and food supplies are piled in every corner. It's
+a true claustrophobic nightmare.
+~
+46 0 0 0 0 0
+D2
+~
+~
+0 0 4672
+D3
+~
+~
+0 0 4674
+S
+#4676
+At the Base of the Shack's Stairway~
+At the top of the rickety staircase, a dim yellow light can be seen. Perhaps
+you shall finally know who makes a life for him or herself in this swamp!
+~
+46 0 0 0 0 0
+D0
+~
+~
+0 0 4672
+D4
+~
+~
+0 0 4677
+S
+#4677
+Madame Zeroni's Bedroom~
+A simple cot occupies a quarter of the room. The windows are covered by bars on
+the outside, to prevent any of the swamp's unfriendly guests from happening
+inside. The oil lamp is covered by a cloth to prevent the light from shining
+too much into the swamp and attracting attention. A toilet stands in another
+corner of the room, conspicuously clean.
+~
+46 0 0 0 0 0
+D5
+~
+~
+0 0 4676
+S
+#4678
+Walking Along a Fallen Willow~
+The willow's trunk is thin and springy, not exactly ideal for walking on. It
+shivers in protest, shaking its thin arms angrily. You can almost see over the
+fog from this high vantage point, but not quite.
+~
+46 65540 1 0 0 51
+D0
+~
+~
+0 0 4679
+D5
+~
+~
+0 0 4655
+S
+#4679
+Walking Along a Fallen Willow~
+The willow's trunk is thin and springy, not exactly ideal for walking on. It
+shivers in protest, shaking its thin arms angrily. You can almost see over the
+fog from this high vantage point, but not quite.
+~
+46 65540 1 0 0 51
+D0
+~
+~
+0 0 4680
+D2
+~
+~
+0 0 4678
+S
+#4680
+Walking Along a Fallen Willow~
+The willow's trunk is thin and springy, not exactly ideal for walking on. It
+shivers in protest, shaking its thin arms angrily. You can almost see over the
+fog from this high vantage point, but not quite.
+~
+46 65536 1 0 0 51
+D2
+~
+~
+0 0 4679
+D5
+~
+~
+0 0 4682
+S
+#4681
+Lost in a Thicket~
+You push your way into the undergrowth, and are suddenly surrounded on all sides
+by sharp thorned briars. There is no light, and water gushes up out of the
+ground around your ankles. The smell of decay fills your nostrils, probably
+coming from the heaps of decaying leaf matter trapped here by the dense vines
+and branches around this hole in the thicket. Which way did you come from? A
+thorned branch runs across your face painfully as you turn about, trying to gain
+your bearings.
+~
+46 65537 1 0 0 3
+S
+#4682
+In the Brush at the Edge of a Lake~
+You are surrounded by tall, dark green grass at the edge of a small lake. The
+fog is particularly dense here, and not much can be seen of where you are going.
+~
+46 65536 1 0 0 51
+D1
+~
+~
+0 0 4683
+D4
+~
+~
+0 0 4680
+S
+#4683
+On a Small Lake~
+You wade through the cold, clear water, slightly afraid of what might lurk
+beneath its surface. You duck down almost completely underwater as something
+flies overhead, and then continue.
+~
+46 65536 1 0 0 65
+D1
+~
+~
+0 0 4684
+D3
+~
+~
+0 0 4682
+S
+#4684
+On a Small Lake~
+Trees arch over the lake above your head, dangling their arms and caressing the
+mirrorlike surface. Fallen eaves coat the lake in places, particularly at the
+edge where wind has blown them together. The lake continues to curve to the
+west and south.
+~
+46 131072 1 0 0 65
+D2
+~
+~
+0 0 4685
+D3
+~
+~
+0 0 4683
+S
+#4685
+A Patch of Open Water~
+A broad, stagnant pool spreads under the open sky, its body brimming with
+festering foliage that reeks to the high heavens. Dense foliage surrounds the
+marshy lake on all sides, except for where the lake continues to the north. A
+mound of some hard, bony material protrudes from the pool, sending out almost
+imperceptible ripples.
+~
+46 1073872896 1 0 0 65
+D0
+~
+~
+0 0 4684
+S
+#4686
+Lost in a Thicket~
+Every way you turn, thorned vines rake across your skin and bar your path. 
+There is no friendly ray of light to guide you out of the thicket, and you are
+helpless to wander about its interior.
+~
+46 65541 1 0 0 3
+D1
+~
+~
+0 0 4603
+D2
+~
+~
+0 0 4603
+D3
+~
+~
+0 0 4690
+S
+#4687
+Lost in a Thicket~
+Every way you turn, thorned vines rake across your skin and bar your path. 
+There is no friendly ray of light to guide you out of the thicket, and you are
+helpless to wander about its interior.
+~
+46 65537 1 0 0 3
+D3
+~
+~
+0 0 4689
+S
+#4688
+On a Forested Moor~
+The forested moor spreads as far as the eye can see, covered in thick mist. 
+Blue lights dance silently in the fog, just far enough away that you cannot
+determine their source. A stone outcropping rises over the fog far to the
+northeast. The moor writhes beneath your feet...
+~
+46 65536 1 0 0 51
+D1
+~
+~
+0 0 4732
+D3
+~
+~
+0 0 4691
+S
+#4689
+At the Edge of the Thicket~
+The thicket lies to the north, and a tall, collapsed marble structure to the
+south. A tall willow leans over the path from east to west, draping its long
+branches across the ground, barely touching the leaf litter.
+~
+46 65536 1 0 0 3
+D1
+~
+~
+0 0 4687
+D2
+~
+~
+0 0 4731
+S
+#4690
+In the Tulgey Wood~
+The forest is thinner here, and the trees stranger. Perhaps they have been
+twisted from their original form by the intense magic that has gathered in this
+place. To the east and south, thick briars prevent movement in that direction,
+and to the northwest a broad field can be seen.
+~
+46 65537 1 0 0 3
+D0
+~
+~
+0 0 4633
+D1
+~
+~
+0 0 4686
+D3
+~
+~
+0 0 4632
+S
+#4691
+A Patch of Unstable Earth~
+There should be a key that the oracle has, which it will give to you if you can
+find it a certain toadstool it enjoys eating- this loads in the rabbit hole, and
+when you pick it up you are ambushed by a being comprised of broken armor, a
+blocker mob. They ice that, and continue you here; possession of the key in
+question will break the barrier for a few seconds.
+~
+46 65540 129 0 0 51
+D1
+~
+~
+0 0 4688
+D3
+~
+~
+0 0 4658
+S
+#4692
+Walking Among Ancients~
+Ancient trees stand on all sides, half as tall as the sky and wide as six wagons
+side by side. Black briars and other thorned foliage pushes its way up through
+the thick layer of leaves on the ground, climbing up the bases of the ancients
+as if in a desperate attempt to reach the sky, and the light of day. The trees
+thin to the west, and a definite path forms.
+~
+46 65536 1 0 0 3
+D1
+~
+~
+0 0 4693
+D3
+~
+~
+0 0 4617
+S
+#4693
+Walking Among Ancients~
+Ancient trees stand on all sides, half as tall as the sky and wide as six wagons
+side by side. Black briars and other thorned foliage pushes its way up through
+the thick layer of leaves on the ground, climbing up the bases of the ancients
+as if in a desperate attempt to reach the sky, and the light of day.
+~
+46 65536 1 0 0 3
+D2
+~
+~
+0 0 4694
+D3
+~
+~
+0 0 4692
+S
+#4694
+Walking Among Ancients~
+Ancient trees stand on all sides, half as tall as the sky and wide as six wagons
+side by side. Black briars and other thorned foliage pushes its way up through
+the thick layer of leaves on the ground, climbing up the bases of the ancients
+as if in a desperate attempt to reach the sky, and the light of day.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4693
+D1
+~
+~
+0 0 4695
+D4
+~
+~
+0 0 4699
+S
+#4695
+Walking Among Ancients~
+Ancient trees stand on all sides, half as tall as the sky and wide as six wagons
+side by side. Black briars and other thorned foliage pushes its way up through
+the thick layer of leaves on the ground, climbing up the bases of the ancients
+as if in a desperate attempt to reach the sky, and the light of day.
+~
+46 65536 1 0 0 3
+D1
+~
+~
+0 0 4610
+D3
+~
+~
+0 0 4694
+D4
+~
+~
+0 0 -1
+S
+#4696
+Walking Among Ancients~
+The path is lined with ancient trees standing vigil over their birthplace. The
+ground slowly emerges from the dense foliage, becoming a defined path.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4697
+D2
+~
+~
+0 0 4635
+S
+#4697
+Walking Among Ancients~
+The path is lined with ancient trees standing vigil over their birthplace. The
+ground slowly emerges from the dense foliage, becoming a defined path.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4698
+D2
+~
+~
+0 0 4696
+S
+#4698
+Standing Over a Rabbit Hole~
+The path ends at a rabbit hole bathed in yellow sunlight. Toadstools have
+sprouted up in the freshly turned earth, and a sweet nectar smell fills the air.
+Alas, there is nowhere else to go... But down?
+~
+46 65536 1 0 0 3
+D2
+~
+~
+0 0 4697
+E
+hole~
+This room should load a red and white mushroom, which when eaten makes the one
+eating it "smaller", so that that person will fit through the rabbit hole. 
+This state should last an hour or two. If they grow larger while inside the
+rabbit hole, they will die. If they exit the rabbit hole, they will grow larger
+again.
+~
+S
+#4699
+Climbing An Ancient Oak~
+The bark of this ancient oak tree is thick and rippled with age, soft but not
+yielding. Its branches spread far above you, crowned at the top with a
+cloudbank of white silk. The tree grows slightly thinner and more difficult to
+climb as you ascend - and to fall would mean certain death.
+~
+46 65537 129 0 0 3
+D4
+~
+~
+0 0 4700
+D5
+~
+~
+0 0 4694
+S
+#4700
+Climbing An Ancient Oak~
+The bark of this ancient oak tree is thick and rippled with age, soft but not
+yielding. Its branches spread far above you, crowned at the top with a
+cloudbank of white silk. The tree grows slightly thinner and more difficult to
+climb as you ascend - and to fall would mean certain death.
+~
+46 65537 129 0 0 3
+D4
+~
+~
+0 0 4701
+D5
+~
+~
+0 0 4699
+S
+#4701
+High in An Ancient Oak~
+Where the branches begin, you are suddenly surrounded by thick spider webs. A
+massive spider nest covers the treetops as far as you can see, and beyond the
+circular entrance over your head the rest is darkness.
+~
+46 65537 129 0 0 3
+D4
+~
+~
+0 0 4702
+D5
+~
+~
+0 0 4700
+S
+#4702
+In the Queen's Nest~
+This nest is distinctly unlike the others in the forest. Its walls are smooth,
+not riddled with tunnels, and all is quiet. The web does not tremor with
+movement, the air does not stir with bodies moving in the darkness. 
+Occasionally, the smoothness of the walls and ceiling is interrupted by an
+elongated lump fastened to the wall with silk. The air seems to whisper from
+far off in the web..
+~
+46 131073 128 0 0 3
+D0
+~
+~
+0 0 4704
+D1
+~
+~
+0 0 4705
+D2
+~
+~
+0 0 4706
+D3
+~
+~
+0 0 4703
+S
+#4703
+The Spider Queen's Chamber~
+Ghostly banners of red silk hang from the vaulted ceiling of the long hall, each
+emblazoned with the symbol of the Darkmoor spider clan. The walls are lined
+with alcoves, each covered in a semitransparent sheet of silk beneath which each
+of the past Darkmoor queens can be seen, resting peacefully in deathly repose.
+A dais of bowed tree branches stands at the far west end, upon which several
+dark forms hulk.
+~
+46 131085 0 0 0 3
+D1
+~
+~
+0 0 4702
+D3
+~
+wall~
+1 0 4761
+S
+#4704
+In the Queen's Nest~
+This nest is distinctly unlike the others in the forest. Its walls are smooth,
+not riddled with tunnels, and all is quiet. The web does not tremor with
+movement, the air does not stir with bodies moving in the darkness. 
+Occasionally, the smoothness of the walls and ceiling is interrupted by an
+elongated lump fastened to the wall with silk. The air seems to whisper from
+far off in the web..
+~
+46 131073 128 0 0 3
+D1
+~
+~
+0 0 4708
+D2
+~
+~
+0 0 4702
+D3
+~
+~
+0 0 4711
+S
+#4705
+In the Queen's Nest~
+This nest is distinctly unlike the others in the forest. Its walls are smooth,
+not riddled with tunnels, and all is quiet. The web does not tremor with
+movement, the air does not stir with bodies moving in the darkness. 
+Occasionally, the smoothness of the walls and ceiling is interrupted by an
+elongated lump fastened to the wall with silk. The air seems to whisper from
+far off in the web..
+~
+46 131073 128 0 0 3
+D2
+~
+~
+0 0 4713
+D3
+~
+~
+0 0 4702
+S
+#4706
+In the Queen's Nest~
+The nest ends in a domed chamber at the south wall, filled with empty egg
+casings and broken sacks of silk. A branch briefly surfaces in the wall, and is
+swallowed up again as it goes higher in the wall. The only way out of the
+chamber is north.
+~
+46 131073 128 0 0 3
+D0
+~
+~
+0 0 4702
+S
+#4707
+Hatchling Spawn Point.~
+This unfinished room was created by Accarid.
+~
+46 0 0 0 0 0
+D1
+~
+~
+0 0 4704
+D2
+~
+~
+0 0 4705
+D3
+~
+~
+0 0 4706
+D5
+~
+~
+0 0 4702
+S
+#4708
+In the Queen's Nest~
+This nest is distinctly unlike the others in the forest. Its walls are smooth,
+not riddled with tunnels, and all is quiet. The web does not tremor with
+movement, the air does not stir with bodies moving in the darkness. 
+Occasionally, the smoothness of the walls and ceiling is interrupted by an
+elongated lump fastened to the wall with silk. The air seems to whisper from
+far off in the web..
+~
+46 131073 0 0 0 3
+D0
+~
+~
+0 0 4709
+D3
+~
+~
+0 0 4704
+S
+#4709
+A Narrow Chamber in the Queen's Nest~
+This passage is narrower by far than other areas of the nest, and appears newer
+judging from the brightness of the silk and the tightness of it across its tree
+branch frame. It continues west from here, where the passage grows even
+tighter.
+~
+46 131073 0 0 0 3
+D2
+~
+~
+0 0 4708
+D3
+~
+~
+0 0 4710
+S
+#4710
+A Narrow Chamber in the Queen's Nest~
+This passage is narrower by far than other areas of the nest, and appears newer
+judging from the brightness of the silk and the tightness of it across its tree
+branch frame. This part of the passage is the most cramped, and you must edge
+along sideways to get through. The chamber extends west and east, and a
+separate passage extends north along a limb.
+~
+46 131329 0 0 0 3
+D0
+~
+~
+0 0 4759
+D1
+~
+~
+0 0 4709
+D3
+~
+~
+0 0 4712
+S
+#4711
+In the Queen's Nest~
+This nest is distinctly unlike the others in the forest. Its walls are smooth,
+not riddled with tunnels, and all is quiet. The web does not tremor with
+movement, the air does not stir with bodies moving in the darkness. 
+Occasionally, the smoothness of the walls and ceiling is interrupted by an
+elongated lump fastened to the wall with silk. The air seems to whisper from
+far off in the web..
+~
+46 131073 0 0 0 3
+D0
+~
+~
+0 0 4712
+D1
+~
+~
+0 0 4704
+S
+#4712
+A Narrow Chamber in the Queen's Nest~
+This passage is narrower by far than other areas of the nest, and appears newer
+judging from the brightness of the silk and the tightness of it across its tree
+branch frame. It continues east from here, where the passage grows even
+tighter.
+~
+46 131073 0 0 0 3
+D1
+~
+~
+0 0 4710
+D2
+~
+~
+0 0 4711
+S
+#4713
+In the Queen's Nest~
+This nest is distinctly unlike the others in the forest. Its walls are smooth,
+not riddled with tunnels, and all is quiet. The web does not tremor with
+movement, the air does not stir with bodies moving in the darkness. 
+Occasionally, the smoothness of the walls and ceiling is interrupted by an
+elongated lump fastened to the wall with silk. The air seems to whisper from
+far off in the web..
+~
+46 131329 128 0 0 3
+D0
+~
+~
+0 0 4705
+D1
+~
+~
+0 0 4714
+S
+#4714
+Over a Hole in the Nest~
+A small hole has formed in the nest from spiders forcing their way through it to
+the forest below, to hunt at night. It's a short drop to a broad branch and
+then down to the forest floor.
+~
+46 131336 128 0 0 3
+D3
+~
+~
+0 0 4713
+D5
+~
+~
+0 0 4610
+S
+#4715
+A Clearing in the Tulgey Wood~
+A few rays of stray sunshine cast their light on the dark purple leaves of the
+tumtum tree. A feeling of peace washes over you as you take in the aroma of its
+bark and the calm setting- a small patch of sky far ahead, lost in branches, a
+dome of green grass around the tree, and somewhere to the west a bubbling brook
+can be heard. All around the clearing, the forest casts a long shadow that
+seems to want to force out the light in the way it shifts and darts about.
+~
+46 65536 24577 0 0 3
+D0
+~
+~
+0 0 4723
+D1
+~
+~
+0 0 4633
+D2
+~
+~
+0 0 4632
+D3
+~
+~
+0 0 4718
+D5
+~
+~
+0 0 -1
+E
+clearing~
+This room has a proc that will be triggered by a player resting, THEN eating the
+tumtum fruit, which triggers a vision in which the spirit of a dryad bestows
+upon that person a vorpal blade (see object), and after a short amount of time,
+they wake, and a Jabberwock loads in the room, which attacks everyone in the
+room. Unicorns should be aggro to the Jabberwock.
+~
+S
+#4716
+In the Tulgey Wood~
+The woods become spotted with massive boulders and green, thorned shrubs. A
+wall of stacked boulders blocks the path to the south, rising sheer and high. 
+Some of the boulders have fallen in such a way as to form a large cave in the
+wall.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4718
+D1
+~
+~
+0 0 4632
+D2
+~
+~
+0 0 4717
+S
+#4717
+In a Cave of Fallen Boulders~
+Dozens of massive boulders, deposited here by some ancient force, pile up to
+form a sort of cave. Sunlight peeks in through holes in the ceiling, dappling
+the stoney ground with yellow and gray. The cavern continues to the west,
+growing darker.
+~
+46 65540 1 0 0 36
+D0
+~
+~
+0 0 4716
+D3
+~
+~
+0 0 4719
+S
+#4718
+In the Tulgey Wood~
+The shadows shift beneath the trees, darting this way and that with lives
+detached from that of their tree parents. Their fallen leaves fill the gaps
+between the smooth granite boulders, forming a seemingly smooth plain, until you
+step and fall when the detritus cannot support your weight. The forest grows
+far denser to the west, preventing passage.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4722
+D1
+~
+~
+0 0 4715
+D2
+~
+~
+0 0 4716
+S
+#4719
+Deeper in the Cave of Fallen Boulders~
+The layer of boulders between you and the world above is quite thick, and no
+light penetrates from above. The passage slopes sharply, descending into the
+forest floor. It seems that the entire forest has grown up on a large patch of
+boulders, and here they protrude. There's no telling what kind of caverns could
+exist beneath its surface!
+~
+46 65544 0 0 0 36
+D1
+~
+~
+0 0 4717
+D2
+~
+~
+0 0 4720
+S
+#4720
+A Sloping Passage of Leaning Boulders~
+The walls meet at a point, two HugE boulders leaning against one another to hold
+up the rest above. Ancient paintings cover the walls, representing dryads and
+elves with spears driving a horrid bird with four legs deep into the cave and
+sealing the entrance with powerful magic.
+~
+46 65545 0 0 0 36
+D0
+~
+~
+0 0 4719
+D3
+~
+~
+0 0 4721
+S
+#4721
+Between Two Tall Boulders~
+The cave ends in a wall of stone, sheer and tall. Water has collected in the
+bottom of the cave here, forming a deep pool. Looking closer, you can see that
+beneath the surface of the pool countless corpses drift, mutilated and weighted
+with stones as though some intelligent creature were saving them for later.
+~
+46 131073 1 0 0 36
+D1
+~
+~
+0 0 4720
+S
+#4722
+In the Tulgey Wood~
+The trees here possess the same strange feeling of awareness as the other trees,
+but their manner is markedly different- they sway gently and calmly, their
+twisted branches dancing in the air, and give off an aura of peace. They seem
+much older than the rest of the forest- they probably grew up in a time when
+there was nothing to fear of the outside world that made the rest of the forest
+harsh.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4724
+D1
+~
+~
+0 0 4723
+D2
+~
+~
+0 0 4718
+S
+#4723
+In the Tulgey Wood~
+The trees here possess the same strange feeling of awareness as the other trees,
+but their manner is markedly different- they sway gently and calmly, their
+twisted branches dancing in the air, and give off an aura of peace. They seem
+much older than the rest of the forest- they probably grew up in a time when
+there was nothing to fear of the outside world that made the rest of the forest
+harsh.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4725
+D2
+~
+~
+0 0 4715
+D3
+~
+~
+0 0 4722
+S
+#4724
+In the Tulgey Wood~
+The trees in this part of the tulgey wood seem uneasy, shivering uncontrollably
+at times and leaning to the south, away from a swathe of devastation in the
+forest north of here. You can smell burnt ground and sulferous fumes on the
+wind, coming from the north.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4726
+D1
+~
+~
+0 0 4725
+D2
+~
+~
+0 0 4722
+S
+#4725
+In the Tulgey Wood~
+The trees here possess the same strange feeling of awareness as the other trees,
+but their manner is markedly different- they sway gently and calmly, their
+twisted branches dancing in the air, and give off an aura of peace. They seem
+much older than the rest of the forest- they probably grew up in a time when
+there was nothing to fear of the outside world that made the rest of the forest
+harsh.
+~
+46 65536 1 0 0 3
+D2
+~
+~
+0 0 4723
+D3
+~
+~
+0 0 4724
+S
+#4726
+A Burned Out, Blackened Forest~
+The trees here are like in the rest of the wood, just completely charred to the
+core and collapsing in death. The earth has been completely burnt away,
+revealing bare, burnt rock. Boulders loom all around you, and the rest of the
+burnt forest can be seen to the west.
+~
+46 65540 1 0 0 34
+D2
+~
+~
+0 0 4724
+D3
+~
+~
+0 0 4727
+S
+#4727
+A Burned Out, Blackened Clearing~
+The trees here are like in the rest of the wood, just completely charred to the
+core and collapsing in death. The earth has been completely burnt away,
+revealing bare, burnt rock. Beyond the blackened earth and looming boulders,
+you can see the healthy forest, shying away from the destruction.
+~
+46 65536 1 0 0 34
+D0
+~
+~
+0 0 4728
+D1
+~
+~
+0 0 4726
+D3
+~
+~
+0 0 4730
+S
+#4728
+A Burned Out, Blackened Clearing~
+The trees here are like in the rest of the wood, just completely charred to the
+core and collapsing in death. The earth has been completely burnt away,
+revealing bare, burnt rock. Beyond the blackened earth and looming boulders,
+you can see the healthy forest, shying away from the destruction.
+~
+46 65536 1 0 0 34
+D2
+~
+~
+0 0 4727
+D3
+~
+~
+0 0 4729
+S
+#4729
+A Circle of Charred Stones~
+A circle of stones rises from the hard ground, the symbols etched on their
+surfaces cracking and falling off. They have suffered from deep fractures and
+are badly scorched. The melted remains of chains hang from the middle of each
+stone - perhaps this magic circle was once meant to contain someone or
+something?
+~
+46 65536 1 0 0 34
+D1
+~
+~
+0 0 4728
+D2
+~
+~
+0 0 4730
+E
+circle~
+This room should teleport the one who activates the stones to a certain room in
+d2 of this zone, if they hold the head of the Bandersnatch and pray in this
+room.
+~
+S
+#4730
+A Burned Out, Blackened Clearing~
+The trees here are like in the rest of the wood, just completely charred to the
+core and collapsing in death. The earth has been completely burnt away,
+revealing bare, burnt rock. Beyond the blackened earth and looming boulders,
+you can see the healthy forest, shying away from the destruction.
+~
+46 65536 1 0 0 34
+D0
+~
+~
+0 0 4729
+D1
+~
+~
+0 0 4727
+S
+#4731
+Before a Crumbling Marble Structure~
+Arches and pillars and walls rise up from the ground, still in the position that
+they were intended to stand, but not at all in the proper condition. Vines
+cling to every crack as though with the intent to tear what is left of the
+building down. The roof and whatever was the second story have collapsed into
+the structure, filling the remaining foundation with rubble. It may have at one
+point been a domed building, maybe a temple, but it has been so long since its
+prime that it is impossible to tell.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4689
+D1
+~
+~
+0 0 4610
+S
+#4732
+On a Forested Moor~
+The forested moor spreads as far as the eye can see, covered in thick mist. 
+Blue lights dance silently in the fog, just far enough away that you cannot
+determine their source. A stone outcropping rises over the fog far to the
+northeast. The moor writhes beneath your feet...
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4733
+D1
+~
+~
+0 0 4733
+D3
+~
+~
+0 0 4688
+S
+#4733
+On a Forested Moor~
+The forested moor spreads as far as the eye can see, covered in thick mist. 
+Blue lights dance silently in the fog, just far enough away that you cannot
+determine their source. A stone outcropping rises over the fog far to the
+northeast. The moor writhes beneath your feet...
+~
+46 65536 129 0 0 51
+D0
+~
+~
+0 0 4734
+D1
+~
+~
+0 0 4734
+D2
+~
+~
+0 0 4732
+D3
+~
+~
+0 0 4732
+S
+#4734
+On a Forested Moor~
+The forested moor spreads as far as the eye can see, covered in thick mist. 
+Blue lights dance silently around you, just out of arm's reach. A stone
+outcropping rises over the fog far to the northeast, and a dead tree protrudes
+from the fog just to the north.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4735
+D2
+~
+~
+0 0 4733
+D3
+~
+~
+0 0 4733
+S
+#4735
+At the Base of a Dead Tree on the Moor~
+The base of the dead tree forms a patch of dry land. Its branches are long and
+scraggly and white with age, and blue orbs of light dance around it
+mysteriously. The moor extends in every direction, covered in a thick layer of
+fog.
+~
+46 65536 1 0 0 3
+D0
+~
+~
+0 0 4736
+D1
+~
+~
+0 0 4734
+D2
+~
+~
+0 0 4734
+D3
+~
+~
+0 0 4736
+S
+#4736
+On the Forested Moor~
+The forested moor spreads as far as the eye can see, covered in thick mist. 
+Blue lights dance silently around you, just out of arm's reach. A stone
+outcropping rises over the fog far to the northeast. 
+~
+46 65536 129 0 0 51
+D1
+~
+~
+0 0 4737
+D2
+~
+~
+0 0 4735
+S
+#4737
+On the Forested Moor~
+A stone outcropping rises from the moor to the east, tall and gloomy, enshrouded
+in fog. Blue spirit lights spiral and dance about its base, and the silhouette
+of spiked bones is outlined against the sky at its peak.
+~
+46 65536 129 0 0 51
+D0
+~
+~
+0 0 4736
+D1
+~
+~
+0 0 4738
+D2
+~
+~
+0 0 4736
+D3
+~
+~
+0 0 4736
+S
+#4738
+The Southwest Corner of a Rock Outcropping~
+The rock outcropping is largely square and fairly steep, impossible to climb
+with ease. It seems as though this cube of earth was pushed up by the arrival
+of something from the depths, or lifted so that something could be put beneath
+it.
+~
+46 65536 129 0 0 51
+D0
+~
+~
+0 0 4739
+D1
+~
+~
+0 0 4741
+D2
+~
+~
+0 0 4737
+D3
+~
+~
+0 0 4737
+S
+#4739
+The West Side of a Rock Outcropping~
+The rock outcropping is largely square and fairly steep, impossible to climb
+with ease. It seems as though this cube of earth was pushed up by the arrival
+of something from the depths, or lifted so that something could be put beneath
+it.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4740
+D2
+~
+~
+0 0 4738
+S
+#4740
+The Northwest Corner of a Rock Outcropping~
+The rock outcropping is largely square and fairly steep, impossible to climb
+with ease. It seems as though this cube of earth was pushed up by the arrival
+of something from the depths, or lifted so that something could be put beneath
+it.
+~
+46 65536 129 0 0 51
+D1
+~
+~
+0 0 4745
+D2
+~
+~
+0 0 4739
+S
+#4741
+The South Side of a Rock Outcropping~
+The rock outcropping is largely square and fairly steep, impossible to climb
+with ease. It seems as though this cube of earth was pushed up by the arrival
+of something from the depths, or lifted so that something could be put beneath
+it.
+~
+46 65536 1 0 0 51
+D1
+~
+~
+0 0 4742
+D2
+~
+~
+0 0 4736
+D3
+~
+~
+0 0 4738
+S
+#4742
+The Southeast Corner of a Rock Outcropping~
+The rock outcropping is largely square and fairly steep, impossible to climb
+with ease. It seems as though this cube of earth was pushed up by the arrival
+of something from the depths, or lifted so that something could be put beneath
+it.
+~
+46 65536 129 0 0 51
+D0
+~
+~
+0 0 4743
+D3
+~
+~
+0 0 4741
+S
+#4743
+The East Side of a Rock Outcropping~
+The rock outcropping is largely square and fairly steep, impossible to climb
+with ease. It seems as though this cube of earth was pushed up by the arrival
+of something from the depths, or lifted so that something could be put beneath
+it.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4744
+D1
+~
+~
+0 0 4750
+D2
+~
+~
+0 0 4742
+D3
+~
+~
+0 0 4751
+S
+#4744
+The Northeast Corner of a Rock Outcropping~
+The rock outcropping is largely square and fairly steep, impossible to climb
+with ease. It seems as though this cube of earth was pushed up by the arrival
+of something from the depths, or lifted so that something could be put beneath
+it.
+~
+46 65536 129 0 0 51
+D0
+~
+~
+0 0 4749
+D2
+~
+~
+0 0 4743
+D3
+~
+~
+0 0 4745
+S
+#4745
+The North Side of a Rock Outcropping~
+The rock outcropping is largely square and fairly steep, impossible to climb
+with ease. It seems as though this cube of earth was pushed up by the arrival
+of something from the depths, or lifted so that something could be put beneath
+it.
+~
+46 65536 1 0 0 51
+D1
+~
+~
+0 0 4744
+D3
+~
+~
+0 0 4740
+D4
+~
+~
+0 0 4746
+S
+#4746
+Atop the Rock Outcropping~
+Atop the rock outcropping, you have a grande view of the moor, and the swamp,
+and the forest, all at the same time. For the first time you can see over the
+dense mist over the place. A shimmering lake lies to the north - you're close
+to the center of the forest now.
+~
+46 65536 129 0 0 34
+D2
+~
+~
+0 0 4747
+D5
+~
+~
+0 0 4745
+S
+#4747
+At the Center of the Rock Outcropping~
+Judging from the immense bones that litter the area, a dragon came to rest here
+sometime long enough ago to have had its bones sink into the rock beneath it,
+with its ribs pointing to the sky. The moor stretches off into the distance,
+turning to forest, which seems to go on forever. It's a long drop to the foot
+of the bluff.
+~
+46 134283264 129 0 0 34
+D0
+~
+~
+0 0 4746
+D5
+~
+~
+0 0 4748
+E
+room~
+The serpent cannot reach here, or north of here.
+~
+S
+#4748
+In the Brush at the Base of the Bluff~
+All there is here is grass and stars. Great job, you just fell off a cliff.
+~
+46 65538 1 0 0 51
+D4
+~
+~
+0 0 4747
+S
+#4749
+On A Forested Moor~
+A stone outcropping rises from the moor to the south, tall and gloomy,
+enshrouded in fog. Blue spirit lights spiral and dance about its base, and the
+silhouette of spiked bones is outlined against the sky at its peak.
+~
+46 65536 129 0 0 51
+D2
+~
+~
+0 0 4744
+D3
+~
+~
+0 0 4752
+S
+#4750
+On the Forested Moor~
+This unfinished room was created by Accarid.
+~
+46 65536 129 0 0 51
+D1
+~
+~
+0 0 4755
+D3
+~
+~
+0 0 4743
+S
+#4751
+A Crystal Chamber~
+A chamber has formed in the rock, hidden by fallen stone and rubble outside - it
+is possible to see out of it, but not into it from the outside. Large, milky
+white crystals gleam from every surface, glowing and exuding a peaceful feeling.
+Nevertheless, there is some uneasiness about this place. The magic cast upon
+this stone foundation has an affect on this chamber as well as the interior of
+the bluff, and it seems impossible to gain your bearings to cast transportation
+spells.
+~
+46 1077936264 24584 0 0 40
+D1
+~
+~
+0 0 4743
+S
+#4752
+On a Forested Moor~
+A stone outcropping rises from the moor to the south, tall and gloomy,
+enshrouded in fog. Blue spirit lights spiral and dance about its base, and the
+silhouette of spiked bones is outlined against the sky at its peak.
+~
+46 65536 129 0 0 51
+D0
+~
+~
+0 0 4753
+D1
+~
+~
+0 0 4749
+S
+#4753
+On a Forested Moor~
+A stone outcropping rises from the moor to the east, tall and gloomy, enshrouded
+in fog. Blue spirit lights spiral and dance about its base, and the silhouette
+of spiked bones is outlined against the sky at its peak.
+~
+46 65536 129 0 0 51
+D2
+~
+~
+0 0 4752
+D3
+~
+~
+0 0 4754
+S
+#4754
+On a Forested Moor~
+A stone outcropping rises from the moor far to the east, tall and gloomy,
+enshrouded in fog. Blue spirit lights spiral and dance about its base, and the
+silhouette of spiked bones is outlined against the sky at its peak.
+~
+46 65536 129 0 0 51
+D1
+~
+~
+0 0 4753
+D2
+~
+~
+0 0 4737
+S
+#4755
+On the Forested Moor~
+The moor begins to turn to forest, the trees growing taller and the water
+shallower.
+~
+46 65536 1 0 0 51
+D0
+~
+~
+0 0 4756
+D3
+~
+~
+0 0 4750
+S
+#4756
+Walking Along the Edge of the Forest~
+You are still on the moor, next to the forest. The foliage is just too thick to
+push through into the forest, so another entrance must be found.
+~
+46 65536 129 0 0 51
+D0
+~
+~
+0 0 4757
+D2
+~
+~
+0 0 4755
+S
+#4757
+Walking Along the Edge of the Forest~
+The dense brush at the edge of the forest opens up, allowing you to move from
+the moor to the forest, and back.
+~
+46 65536 129 0 0 51
+D1
+~
+~
+0 0 4758
+D2
+~
+~
+0 0 4756
+S
+#4758
+Near the Center of Darkmoor~
+This is where the moor meets d2 of Darkmoor.
+~
+46 65536 1 0 0 3
+D1
+~
+~
+0 0 3854
+D3
+~
+~
+0 0 4757
+S
+#4759
+Out on a Limb~
+You're goin' out on a limb here...
+~
+46 131072 129 0 0 3
+D0
+~
+~
+0 0 4760
+D2
+~
+~
+0 0 4710
+S
+#4760
+On the Bowing Top of a Willow Tree~
+This unfinished room was created by Accarid.
+~
+46 65536 128 0 0 3
+D0
+~
+~
+0 0 3800
+D2
+~
+~
+0 0 4759
+S
+#4761
+A Hidden Hatchery~
+The room is full of unhatched spider eggs, a few of which are notably large and
+probably about to hatch. Powerful magic has been cast here by the spider queen
+to protect the next generation of spider hatchlings. It is not safe to stay
+here long.
+~
+46 131240 24704 0 0 3
+D1
+~
+wall~
+1 0 4703
+S
+$~

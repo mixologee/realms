@@ -1,0 +1,98 @@
+#12000
+demon tollwatcher watcher~
+the Tollwatcher demon~
+A crouching beast with massive tooth-lined jaws and many glistening eyes holds a roll of blazing tickets here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 -159 E
+12 10 2 10d10+120 5d5+10
+10000 14400
+8 8 1
+BareHandAttack: 8
+E
+#12001
+undead zombie shopper~
+an undead shopper~
+A throughly rotten shopper lurches towards you, moaning through a hole in its neck.
+~
+The "shoppers" of Emca are adventurers who failed to accomplish their task
+alive. They were taken to the Head Demon and transformed into members of an
+undead army, ironically enough gathered to defeat other adventurers who dare
+enter the gaping maw of Emca. They retain the features they had in life, and
+gain a few others, such as a really rotten disposition.
+~
+41000 0 0 0 149568 0 0 0 -125 E
+10 5 4 100d3+100 2d2+10
+175 10000
+8 8 0
+BareHandAttack: 13
+Att1: 4
+Clss: 1
+E
+#12002
+demon head klavaritus~
+the Head Demon Klavaritus~
+A demon swathed in a pillar of demonic flames sits behind a brimstone desk, his eyes blazing with retribution.
+~
+This is the master demon of Emca, a fearsome demon indeed for a one of a class
+only slightly higher than devils. He is completely enshrouded in black demonic
+flames. Each of his eight limbs are tipped with razor-sharp claws. His armor
+is etched all over with demonic runes, pulsing with hatred and desire to
+destroy. Klavaritus seems to delight in his fearsome appearance.
+~
+-2147483464 0 0 0 2128 64 0 0 -900 E
+25 -80 -5 100d20+250 10d4+20
+25126 62500
+8 8 0
+BareHandAttack: 3
+Att1: 3
+Att2: 3
+Att3: 3
+Clss: 18
+E
+#12003
+demon blood cleric~
+a blood demon cleric~
+A blood demon stands hunched over the stretching board, mutting to itself.
+~
+The demon's entire body is covered in a sheen of blood, oozing from countless
+wounds of whips and blades. It mutters incantations to itself, trying in vain
+to heal its wounds.
+~
+10 0 0 0 0 0 0 0 -450 E
+17 15 10 20d20+400 2d2+2
+0 28900
+8 8 0
+E
+#12004
+demon ice~
+an ice demon~
+Demonic eyes glow from two stationary ice crystals surrounded by a malevolent mist.
+~
+The ice demon is merely a construct of ice corrupted by evil. It glares angrily
+about itself, and lashes out at anything and everything in its reach with limbs
+of ice crystal mist.
+~
+10 0 0 0 0 0 0 0 -450 E
+17 15 8 20d20+400 2d2+2
+0 28900
+8 8 0
+Clss: 8
+E
+#12005
+demon shadow shriek~
+a shrieking shadow demon~
+A swirling patch of darkness suddenly forms a face and shrieks horribly at you!
+~
+The demon consists of a deep shadow, so thick it looks as though it could bleed
+darkness. As it swirls agonized faces float to the surface, and disappear again
+just as quickly as they arrived.
+~
+172058 0 0 0 64 1 0 0 -450 E
+17 15 6 20d20+400 2d2+2
+0 28900
+8 8 0
+Clss: 18
+E
+$

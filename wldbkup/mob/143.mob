@@ -1,0 +1,843 @@
+#14300
+man priest Astari~
+the High Priest of Astari~
+A herculean man stands before the altar in a moon-spangled robe.
+~
+It looks unfinished.
+~
+2314 0 0 0 8568 4 0 0 900 E
+39 7 10 7d7+500 3d3+6
+0 152100
+8 8 1
+BareHandAttack: 13
+Clss: 17
+E
+#14301
+monk commoner~
+a resident monk~
+A man in traditional Astarian garb walks briskly along the street.
+~
+It looks unfinished.
+~
+268437896 0 0 0 8296 0 0 0 555 E
+20 -5 9 7d7+400 4d3+15
+420 40000
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Att2: 13
+Att3: 13
+Clss: 15
+E
+#14302
+guardian golem moonstone~
+a moonstone guardian~
+A golem of translucent white stone stands guard over its designated household.
+~
+It looks unfinished.
+~
+41226 0 0 0 16787800 0 0 0 800 E
+25 -30 -9 12d12+700 8d5+25
+0 62500
+8 8 0
+BareHandAttack: 6
+Att1: 6
+Att2: 6
+Att3: 6
+Clss: 11
+E
+#14303
+Caspion~
+Caspion the Observer~
+A frail-looking man with glasses peers through the telescope intently.
+~
+It looks unfinished.
+~
+26 0 0 0 33554552 0 0 0 863 E
+24 0 9 7d7+425 4d2+5
+1256 57600
+8 8 1
+BareHandAttack: 13
+Clss: 12
+E
+#14304
+man astronomer scientist~
+an astronomer~
+A man rushes about the observatory, intent on his work.
+~
+It looks unfinished.
+~
+264 0 0 0 24 0 0 0 500 E
+22 13 9 7d7+222 3d3+3
+220 48400
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Att2: 13
+Clss: 7
+E
+#14305
+Jonn~
+Jonn~
+Jonn, a dark-haired man with lime-tinted glasses, plays the guitar with his band.
+~
+It looks unfinished.
+~
+8202 0 0 0 256 0 0 0 300 E
+21 13 10 7d7+300 3d3+3
+210 44100
+8 8 1
+BareHandAttack: 13
+Clss: 8
+E
+#14306
+Pahl~
+Pahl~
+Pahl stands here playing his bass - upside down, and backwards!
+~
+It looks unfinished.
+~
+8202 0 0 0 256 0 0 0 300 E
+21 13 10 7d7+300 3d3+3
+210 44100
+8 8 1
+BareHandAttack: 13
+Clss: 8
+E
+#14307
+Geog~
+Geog~
+Geog rouses the strings on his guitar, sending sweet notes to the sky.
+~
+It looks unfinished.
+~
+8202 0 0 0 256 0 0 0 300 E
+21 13 10 7d7+300 3d3+3
+210 44100
+8 8 1
+BareHandAttack: 13
+Clss: 8
+E
+#14308
+Gringo~
+Gringo~
+Gringo sits perched precariously on a rickety stool, playing the drums.
+~
+It looks unfinished.
+~
+8202 0 0 0 256 0 0 0 300 E
+21 13 -2 7d7+300 3d3+3
+210 44100
+8 8 1
+BareHandAttack: 13
+Clss: 8
+E
+#14309
+cityguard guard paladin~
+an Astarian cityguard~
+A paladin in shining blue armor tromps along the street, eyes peeled for wrongdoers.
+~
+It looks unfinished.
+~
+10504 0 0 0 10616 16 0 0 890 E
+23 -10 8 7d7+450 5d3+15
+2490 52900
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Att2: 13
+Att3: 13
+Clss: 11
+E
+#14310
+priestess~
+a priestess of the moon~
+A lovely priestess kneels on a mat, deep in meditation.
+~
+It looks unfinished.
+~
+10 0 0 0 88 0 0 0 800 E
+23 13 9 7d7+230 3d3+3
+230 52900
+8 8 2
+BareHandAttack: 13
+Clss: 6
+E
+#14311
+attendant~
+an attendant of the priestesses~
+A young girl walks through the temple, tending to the priestesses.
+~
+It looks unfinished.
+~
+264 0 0 0 344 0 0 0 500 E
+20 14 9 7d7+190 3d3+3
+144 40000
+8 8 2
+BareHandAttack: 13
+Clss: 6
+E
+#14312
+strongman man glassworker worker~
+a glassworking strongman~
+A beefy, nearly nude man sweats and toils in the glass factory.
+~
+It looks unfinished.
+~
+264 0 0 0 2376 0 0 0 400 E
+25 -10 8 7d7+290 6d4+20
+250 62500
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Att2: 13
+Att3: 13
+Clss: 8
+E
+#14313
+glassworker~
+a skilled glassworker~
+A wiry man carefully suspends a ball of liquid glass in the air, shaping it into something useful.
+~
+It looks unfinished.
+~
+2314 0 0 0 344 0 0 0 450 E
+27 11 9 7d7+280 4d4+4
+497 72900
+8 8 1
+BareHandAttack: 13
+Clss: 5
+E
+#14314
+monolith~
+a skeletal tomb monolith~
+A skeletal creature with sharp claws is entombed here in a granite monolith.
+~
+It looks unfinished.
+~
+237850 6 0 0 8448 0 0 0 100 E
+26 -16 -5 7d7+500 6d8+20
+0 67600
+8 8 0
+BareHandAttack: 8
+Att1: 8
+Att2: 8
+Att3: 8
+Clss: 9
+E
+#14315
+woman blacksmith smith~
+Marie Kondi the blacksmith~
+A well-endowed woman slaves over a fire and anvil wearing a charred apron.
+~
+It looks unfinished.
+~
+10 32 0 0 0 0 0 0 499 E
+20 14 -2 4d4+200 3d3+3
+200 40000
+8 8 2
+E
+#14316
+Argo Shalafi man minister~
+Argo Shalafi, the Astarian Prime Minister~
+A noble-looking man with long, platinum blonde hair ponders you from his perch on the throne.
+~
+It looks unfinished.
+~
+266 0 0 0 344 0 0 0 950 E
+35 -20 7 7d7+2000 5d5+20
+350 122500
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Att2: 13
+Att3: 13
+Clss: 11
+E
+#14317
+mob unfinished~
+Hashari minister 1~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14318
+mob unfinished~
+Hashari minister 2~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14319
+mob unfinished~
+Hashari minister 3~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14320
+mob unfinished~
+Hashari minister 4~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14321
+mob unfinished~
+Undeni minister 1~
+Undeni minister 1
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14322
+mob unfinished~
+Undeni minister 2~
+Undeni minister 2
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14323
+mob unfinished~
+Undeni minister 3~
+undefined~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14324
+mob unfinished~
+Undeni minister 4~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14325
+mob unfinished~
+Matari minister 1~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14326
+mob unfinished~
+Matari minister 2~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14327
+mob unfinished~
+Matari minister 3~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14328
+mob unfinished~
+Matari minister 4~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14329
+mob unfinished~
+Gruudi minister 1~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14330
+mob unfinished~
+Gruudi minister 2~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14331
+mob unfinished~
+Gruudi minister 3~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14332
+mob unfinished~
+Gruudi minister 4~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14333
+mob unfinished~
+Nuri minister 1~
+undefined~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14334
+mob unfinished~
+Nuri minister 2~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14335
+mob unfinished~
+Nuri minister 3~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14336
+mob unfinished~
+Nuri minister 4~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14337
+mob unfinished~
+Destani minister 1~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14338
+mob unfinished~
+Destani minister 2~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14339
+mob unfinished~
+Destani minister 3~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14340
+mob unfinished~
+Destani minister 4~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14341
+mob unfinished~
+Ardidi minister 1~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14342
+mob unfinished~
+Ardidi minister 2~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14343
+mob unfinished~
+Ardidi minister 3~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14344
+mob unfinished~
+Ardidi minister 4~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14345
+mob unfinished~
+Duaki minister 1~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14346
+mob unfinished~
+Duaki minister 2~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14347
+mob unfinished~
+Duaki minister 3~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14348
+mob unfinished~
+Duaki minister 4~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14349
+mob unfinished~
+Purti minister 1~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14350
+mob unfinished~
+Purti minister 2~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14351
+mob unfinished~
+Purti minister 3~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14352
+mob unfinished~
+Purti minister 4~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14353
+mob unfinished~
+Shalafi minister 1~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14354
+mob unfinished~
+Shalafi minister 2~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14355
+mob unfinished~
+Shalafi minister 3~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14356
+mob unfinished~
+Shalafi minister 4~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14357
+mob unfinished~
+Kondi minister 1~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14358
+mob unfinished~
+Kondi minister 2~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14359
+mob unfinished~
+Kondi minister 3~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14360
+mob unfinished~
+Kondi minister 4~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14361
+mob unfinished~
+Jinfi minister 1~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14362
+mob unfinished~
+Jinfi minister 2~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14363
+mob unfinished~
+Jinfi minister 3~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14364
+mob unfinished~
+Jinfi minister 4~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#14365
+mob unfinished~
+Hazori Jindi, the Vizier~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+$

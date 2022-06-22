@@ -1,0 +1,57 @@
+&R                        Realms of Kuvia 
+&c                          ::::::::   ::::::::  ::::::::: 
+                         :+:    :+: :+:    :+: :+:    :+: 
+                        +:+        +:+    +:+ +:+    +:+  
+                       :#:        +#+    +:+ +#+    +:+   
+                      +#+   +#+# +#+    +#+ +#+    +#+    
+                     #+#    #+# #+#    #+# #+#    #+#     
+                     ########   ########  #########       
+              ::::    ::: :::::::::: :::       :::  :::::::: 
+             :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+            :+:+:+  +:+ +:+        +:+       +:+ +:+         
+           +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++   
+          +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+    
+         #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+#     
+        ###    #### ##########   ###   ###    ########   
+                                          
+----------------------------------------------------------------------
+News file [&C14&c]. Type NEWS 14 to re-read this article at a later date.
+----------------------------------------------------------------------&n
+
+&YMob Classes&n
+
+Mob classes are in, currently there are no real benefits from a mob 
+being one class vs the next, however, in the coming future each class
+will have its own skills/spells (well same as players, but whatevev) 
+and even have some fake intelligence while not in combat.  So I have
+basically created fake/wannabe mob_intelligence file to hold all combat
+and noncombat related things that each class can do.  The list of mob
+classes is as follows:
+
+00) UNDEFINED  -> dont/cant use it	15) NINJA
+01) HUMANOID				16) DRUID
+02) UNDEAD				17) MONK
+03) ANIMAL				18) PRIEST
+04) GENERIC				19) NECROMANCER
+05) GIANT				20) SORCERER 
+06) MAGIC USER				21) SUMMONER
+07) CLERIC				22) ELEMENTAL
+08) THIEF				23) BLACK DRAGON
+09) WARRIOR				24) BLUE DRAGON
+10) RANGER				25) RED DRAGON
+11) KNIGHT				26) GREEN DRAGON
+12) PALADIN				27) GOLD DRAGON
+13) ROGUE				28) RANDOM DRAGON (rand breath)
+14) ASSASSIN
+
+At the moment, only UNDEAD has any non_combat stuff associated with it.
+Currently it will moan in agony randomly, but thats just for testing.
+I am still working on the combat side and will keep all posted as it
+comes along.
+
+NOTE:  All mobs default to HUMANOID, so if you dont want them to be that
+       it is option "R" in medit to change class.
+
+Enjoy
+
+-S

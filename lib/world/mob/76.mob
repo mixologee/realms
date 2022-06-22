@@ -1,0 +1,125 @@
+#7600
+guard minotaur~
+a mean-looking minotaur guard~
+A particularly mean-looking guard eyes potential intruders.
+~
+This particular guard looks stockier and stronger than most of the typical
+guards. He appears to have been entrusted with observation of the guests
+inhabiting the keep's halls. His sturdy build and stoic complexion indicate
+that he takes his responsibilities very seriously. Few would dare try to sneak
+past his watchful eye.
+~
+58 1 0 0 304 0 0 0 -350 E
+23 0 -7 15d15+850 3d3+15
+1100 150000
+8 8 1
+Clss: 8
+E
+T 7600
+#7601
+minotaur mahrahn~
+Mahrahn~
+Mahrahn, chief of the clan, stands here scowling.
+~
+Mahrahn is an impressive persona, even for a minotaur. He stands in a
+distinguished and regal manner. His eyes betray a latent fierceness and
+thoughtfulness, a rare combination in a minotaur. He hardly looks as old as he
+is rumored to be, but possesses wisdom well beyond his years. It is truly his
+leadership that has allowed the minotaurs to survive the many challenges fate
+has thrown them.
+~
+170 0 0 0 84 0 0 0 -500 E
+28 -15 -10 15d15+10000 4d4+15
+1300 150000
+8 8 1
+Clss: 7
+E
+#7602
+minotaur elite~
+a minotaur elite~
+A member of the minotaur elite guards the area.
+~
+This minotaur represents the elite class, a group composed of the most
+distinguished and well-served warriors. Their strength lies in their ability to
+lead their clansmen, in both battle and peace. Although old by minotaur
+standards, they are nonetheless accomplished fighters and dangerous opponents.
+The distinguished manner with which this guardian carries himself is indicative
+of the while class and its ability to fulfill its role.
+~
+58 2 0 0 80 0 0 0 -350 E
+25 0 -5 15d15+950 4d4+12
+900 150000
+8 8 1
+E
+#7603
+emissary man narh joon~
+an emissary from Narh Joon~
+An emissary from the desert bundles up against the cold.
+~
+This man is distinctive because of his dress. Long, flowing, and well-adorned
+robes cover his stout body while a fine white turban hides the top of his head.
+He speaks a tongue not common to the realm and prays to different gods. But not
+unlike many of the other emissaries here, he is not particularly happy with
+having to be in such a cold place. He looks extremely erudite, probably as a
+result of coming from a culture with a proud tradition of learning and
+education.
+~
+58 0 0 0 340 0 0 0 350 E
+25 -10 -5 15d15+950 4d4+20
+1500 150000
+8 8 1
+Clss: 5
+E
+#7604
+mercenary man kerrel~
+Kerrel~
+Kerrel is here, contemplating his next move.
+~
+Kerrel was hired by someone, although he's probably not even sure exactly who,
+to attract the attention and services of the mercenaries residing in this keep.
+He's cunning and an expert diplomat, which makes his services invaluable in this
+type of situation. He has a unique ability to disappear when trouble rears its
+ugly head and stay out of the way until the proverbial waters calm. He knows
+how to keep himself out of the way and frequently utilizes such knowledge,
+usually quite wisely.
+~
+42 0 0 0 336 0 0 0 -350 E
+25 -10 -5 15d15+950 4d4+20
+1000 150000
+8 8 0
+Clss: 13
+E
+#7605
+woman druid khyssa~
+Khyssa~
+Khyssa, druid of the south, tries to keep warm.
+~
+Khyssa is clearly out of her element in this terrifically cold place. She
+prefers the warm climes of the jungles surrounding Astari'Vaal. But strange
+beasts threaten her and her woods and she alone cannot stem the tide. She has
+come to retrieve the assistance of the minotaurs and reclaim her natural
+environs for their original inhabitants. Her beauty is masked by her rather
+frazzled appearance, not uncommon of druids.
+~
+10 0 0 0 336 0 0 0 350 E
+25 -10 -5 15d15+950 4d4+20
+1000 150000
+8 8 2
+Clss: 6
+E
+#7606
+man horace~
+Horace~
+Horace contemplates his surroundings.
+~
+Horace is a studious, contemplative man who almost seems to enjoy the nasty
+environs. They give this old man an opportunity to think on the life he has
+lived, the life he has ahead of him, and what it means to be a paladin. He
+constantly seeks new challenges, preferrably those that involve battling evil.
+~
+10 0 0 0 336 0 0 0 350 E
+25 -10 -5 15d15+950 4d4+20
+1000 150000
+8 8 1
+E
+$

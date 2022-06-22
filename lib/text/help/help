@@ -1,0 +1,20 @@
+&G------------------------------------------------------------------------------------------
+&WThis document will describe the help system and give you important
+commands to get you playing the game as quickly as possible. Anything
+highlighted in &GGREEN &Wis a help file. Help files are accessed using
+the help <X> command, where x equals what you want help on. For example,
+help help would give you help for the subject help.
+&G------------------------------------------------------------------------------------------
+&C/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+&G------------------------------------------------------------------------------------------
+&WThe following words are generalized help subjects. They will bring you
+to lists of commonly used, similar commands:
+
+&GMOVEMENT        &WHelp on getting around in The Game.
+&GCOMMUNICATION   &WHelp on how to communicate with others.
+&GOBJECTS         &WHelp on manipulating objects in your surroundings.
+&GINFORMATION     &WHelp obtaining importants stats and figures.
+&GCOMBAT          &WHelp defending yourself and initiating combat.
+&GOTHER           &WHelp on misc commands.
+&G------------------------------------------------------------------------------------------
+

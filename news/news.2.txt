@@ -1,0 +1,21 @@
+                        Realms of Kuvia
+             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+-------------------------------------------------------------------
+News file [2]. Type NEWS 2 to re-read this article at a later date.
+-------------------------------------------------------------------
+
+Wilderness map is in when you leave the city. This is not the final
+version of our wildernes map, but it is a good enough substitute for
+now. Appraise has been added for your convenience. Help appraise to
+learn more. Guilds are available to players who have enough cash and
+want to lead a select group of people (also known as clans in other
+muds). Equipment tweaking has also been added. Now the equipment that
+you get from mobs will tweak different stats each time. Keep running
+zones to get an uber tweak.

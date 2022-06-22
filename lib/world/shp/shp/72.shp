@@ -1,0 +1,228 @@
+CircleMUD v3.0 Shop File~
+#7200~
+7209
+7210
+7211
+7212
+7213
+7214
+7216
+7250
+7271
+7277
+-1
+1.25
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s I don't trade in such items.~
+%s Que?!~
+%s I can't afford that!~
+%s You are too poor!~
+%s Thanks. Your total comes to %d coins.~
+%s I'll give you %d coins for that.~
+0
+0
+7200
+0
+7215
+-1
+0
+28
+0
+0
+#7201~
+7230
+7246
+7253
+7254
+7255
+7256
+7257
+7258
+7259
+-1
+1.25
+0.75
+5
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s Too rich for my blood, friend.~
+%s You ain't got enough loot pal.~
+%s There ya go, enjoy.~
+%s Hehe thanks suck.. er ah, i mean pal!~
+0
+0
+7201
+0
+7211
+-1
+0
+28
+0
+0
+#7202~
+7215
+7217
+7218
+7219
+7220
+7221
+7222
+7223
+7224
+7225
+7226
+7227
+7228
+7229
+7231
+7232
+7233
+7234
+7235
+7236
+7237
+7238
+7239
+7240
+7241
+7242
+7243
+7244
+7245
+7247
+-1
+1.25
+0.75
+9
+11
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+7202
+0
+7212
+-1
+0
+28
+0
+0
+#7203~
+7207
+7208
+-1
+1.25
+1.00
+-1
+%s I don't trade in such items.~
+%s Ke?!~
+%s Ke?!~
+%s I'm not made of gold you know.~
+%s Nice try broke ass. Go seize a castle or something.~
+%s Here you are, enjoy your collector's item.~
+%s Thanks.~
+0
+0
+7203
+0
+7287
+-1
+0
+28
+0
+0
+#7204~
+7200
+7201
+7202
+7203
+7204
+7205
+7252
+7263
+7272
+-1
+1.25
+0.50
+10
+-1
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s Ke?!~
+%s I can't afford that!~
+%s You are too poor!~
+%s Your total is %d gold. Thanks and have a nice day.~
+%s I'll give you %d coins for that.~
+0
+0
+7204
+0
+7231
+-1
+0
+28
+0
+0
+#7215~
+115
+7216
+7214
+7213
+7212
+7211
+7271
+7210
+7209
+7277
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+-1
+0
+-1
+0
+28
+0
+0
+#7231~
+-1
+1.00
+1.00
+-1
+%s That'll be %d coins, thanks.~
+%s I don't trade in such items.~
+%s You don't seem to have that.~
+~
+%s You are too poor!~
+%s Sorry, I don't stock that item.~
+%s I can't afford that!~
+0
+0
+-1
+0
+-1
+0
+28
+0
+0
+$~

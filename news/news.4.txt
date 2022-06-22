@@ -1,0 +1,24 @@
+                        Realms of Kuvia
+             ::::    ::: :::::::::: :::       :::  ::::::::  
+            :+:+:   :+: :+:        :+:       :+: :+:    :+: 
+           :+:+:+  +:+ +:+        +:+       +:+ +:+        
+          +#+ +:+ +#+ +#++:++#   +#+  +:+  +#+ +#++:++#++ 
+         +#+  +#+#+# +#+        +#+ +#+#+ +#+        +#+ 
+        #+#   #+#+# #+#         #+#+# #+#+#  #+#    #+# 
+       ###    #### ##########   ###   ###    ########  
+                                          
+-------------------------------------------------------------------
+News file [4]. Type NEWS 4 to re-read this article at a later date.
+-------------------------------------------------------------------
+
+Medidate is in. Right now it's anyclass, not sure if this is gonna 
+change. Disarm is in. FISHING IS HERE!! bored? lazy? Grab yer pole
+and head for the rivers, lakes, and oceans. Realms of Kuvia Policy 
+is up, it states the rules as they currently exist. They might 
+change or expand later, who knows. I hope they won't have to be but
+I'm sure they will when we get a large playerbase. Tweaked gained 
+HP/MANA/MOVE for each class when leveling. Tweak takes into 
+consideration CON for HP, INT for MANA, MOVES is randomly based on 
+class, and pracs are affected by WIS. Ranged combat is in! Rangers
+can now use ranged weapons like crossbows and bows. Help files are 
+being beautified. Most are done, still have to do spells.

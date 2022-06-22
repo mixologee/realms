@@ -1,0 +1,4082 @@
+#15600
+A Well-Kept Mountain Trail~
+The narrow trail hugs the mountainside as it curves upwards. The constant roar
+from the nearby volcano leaves the mountain in a state of upheaval, resulting in
+numerous landslides. A massive stone wall has been constructed to the east,
+protecting the trail from any falling rocks that may damage its surface. A few
+cracks have appeared in the wall's surface, but overall it seems to be in good
+repair.
+~
+156 65600 0 0 0 0
+D0
+~
+~
+0 0 4203158
+D1
+~
+~
+0 0 4201159
+D3
+~
+~
+0 0 4201157
+D4
+~
+~
+0 0 15601
+S
+#15601
+A Well-Kept Mountain Trail~
+Far above, the peak of this enormous volcano is hidden behind a shroud of mist
+and smoke. Rockslides are a constant threat due to the volcanic action, but a
+large retaining wall to the east protects the trail from any falling boulders or
+debris. The path is wide and in good repair, save for a few ruts upon its
+surface. The trail continues southwards as it climbs the mountainside.
+~
+156 65600 0 0 0 44
+D2
+~
+~
+0 0 15602
+D5
+~
+~
+0 0 15600
+S
+#15602
+A Well-Kept Mountain Trail~
+A thick mist, pouring from a gaping hole in the retaining wall, shrouds the
+path. A recent landslide must have proved too much for the wall. Most of the
+debris has been cleared away from the path, and scaffolds have been erected
+surrounding the hole. Repairs seem well under way, as evidenced by new blocks
+of stone ready to be fitted. The trail continues north and south.
+~
+156 65540 0 0 0 44
+D0
+~
+~
+0 0 15601
+D2
+~
+~
+0 0 15603
+S
+#15603
+A Well-Kept Mountain Trail~
+Far above, the peak of this enormous volcano is hidden behind a shroud of mist
+and smoke. Rockslides are a constant threat due to the volcanic action, but a
+large retaining wall to the east protects the trail from any falling boulders or
+debris. The path is wide and in good repair, save for a few ruts upon its
+surface. The trail continues southwards as it climbs the mountainside.
+~
+156 65536 0 0 0 53
+D0
+~
+~
+0 0 15602
+D2
+~
+~
+0 0 15604
+S
+#15604
+A Narrow Mountain Trail (I)~
+The volcanic mountain thunders from above, seemingly ready to explode at any
+moment. The ground shakes with power, and the rocks seem to loosen underfoot.
+A thick mist cloaks the mountainside, making it impossible to see dangers that
+may fall from above. The path is already badly damaged from the impact of
+previous landslides. Boulders and and debris cover the trail, making it
+difficult to cross. The parts of the trail that remain are riddled with gaps
+that could send a person tumbling down the mountain. The little that remains of
+the path heads to the north and south.
+~
+156 65536 0 0 0 53
+D0
+~
+~
+0 0 15603
+D2
+~
+~
+0 0 15605
+S
+#15605
+A Narrow Mountain Trail (I)~
+The large mountain looming overhead produces a constant rumbling sound that
+fills the air with its fury. Several large boulders have toppled accross the
+trail, leaving it badly damaged. The thin trail hugs the mountain as it changes
+direction. Previous landslides have cleared away all the vegetation that might
+once have grown along the path, leaving it barren. A strange mist, cold and
+unwelcoming, shrouds the mountainside. The path continues to the north and
+east.
+~
+156 65536 0 0 0 53
+D0
+~
+~
+0 0 15604
+D1
+~
+~
+0 0 15606
+S
+#15606
+A Narrow Mountain Trail (I)~
+The thin trail hugs the mountain as it changes direction. The mountain appears
+to be a huge pile of black stones, many of which have toppled over the trail,
+damaging it badly. The air thins at this high altitude, turning cold and moist.
+The mountain walls seem to become more overbearing as the trail progresses. A
+thick gray mist covers the mountainside like a veil. Small pebbles and rocks
+slide down the side of the mountain as if anticipating an oncoming rockslide. 
+The path continues to the south and west.
+~
+156 65536 0 0 0 53
+D2
+~
+~
+0 0 15607
+D3
+~
+~
+0 0 15605
+S
+#15607
+A Mountain Pass (I)~
+Two immense mountains meet here to form a pass. The trail is wide and sturdy.
+The colossal mountains block the wind, making the area warm and secure. 
+Shadows loom all around, as the tall mountain peaks block out the light. 
+Despite the darkened skies, several small plants and shrubs line the trail. 
+Large black birds can be seen flying in circles above, searching for prey and
+squawking loudly at each other. The trail heads to the north and south.
+~
+156 65536 0 0 0 5
+D0
+~
+~
+0 0 15606
+D2
+~
+~
+0 0 15608
+S
+#15608
+Before a Giant Cave (I)~
+The mountain range closes in to the south and west to create an alcove. The
+stones in the mountainside are extremely smooth and glossy, a result that could
+not have occurred naturally. To the east, a giant cave stands carved out of the
+mountainside. The magnitude of the cave is awe-inspiring. The size of the cave
+warrants taking a moment to pause and speculate about what creatures might live
+within it. Thick tangles of vines and cobwebs hang over the mouth of the cave,
+making it difficult to see farther inside.
+~
+156 65540 0 0 0 83
+D0
+~
+~
+0 0 15607
+D1
+~
+~
+0 0 15626
+D3
+~
+foliage~
+0 0 15609
+S
+#15609
+The Hidden Path (I)~
+A small path lies hidden by a magical spell cast long ago. The spell seems to
+be fading in power, as the eastern wall fades in and out of existence. The
+trail is clean and well-kept. Patches of green and yellow grass line the dirt
+path. The sounds of a stream coursing down the mountainside can be heard in the
+distance. The pathway continues to the west, and the entrance to a large cavern
+can be seen to the east.
+~
+156 65536 0 0 0 55
+D1
+~
+~
+0 0 15608
+D3
+~
+~
+0 0 15610
+S
+#15610
+A Grassy Knoll (I)~
+Hidden within the mountain pass, this small knoll is covered with blue-green
+grass and smatterings of flowers. Several large trees can be found on the
+hillside, offering shade during the day from the warm sunlight. A small dirt
+path heading east and west traverses the hill and makes for a pleasant walking
+trail.
+~
+156 65536 0 0 0 64
+D1
+~
+~
+0 0 15609
+D3
+~
+~
+0 0 15611
+S
+#15611
+A Grassy Knoll (I)~
+The small knoll is covered with several varieties of grasses, which blend to
+form pleasant textures of blue, green, and yellow. Wildflowers complement the
+rich, grassy field by adding a bright mix of colors to the hillside. Several
+large oaks provide a shady place to rest. The sounds of a gurgling stream can
+be heard in the distance. A dirt path traversing the hill heads to the north
+and to the east.
+~
+156 65536 0 0 0 64
+D0
+~
+~
+0 0 15612
+D1
+~
+~
+0 0 15610
+S
+#15612
+A Grassy Knoll (I)~
+A wide assortment of wildflowers covers the hillside. The aroma from their
+blossoms fills the air with a sweet fragrance that is almost intoxicating. 
+Several small trees have been planted that are strange and unusual-looking. 
+The trees have bright, colorful leaves that seem to sparkle in the sunlight. 
+Honeyed syrup is tapped and flows freely from the tree trunks. A dirt path
+heading through the knoll travels to the south and west of here.
+~
+156 65536 0 0 0 64
+D2
+~
+~
+0 0 15611
+D3
+~
+~
+0 0 15613
+S
+#15613
+A Grassy Knoll (I)~
+The hillside is covered in a variety of colorful grasses that sway gently in the
+breeze. The grass is soft and warm, perfect for a leisurely stroll. Vibrantly
+colored flowers scattered about the field add to the brilliant texture of the
+landscape. Tall, picturesque trees offer a place to rest away from the heat of
+the sun. A small dirt trail heading through the knoll goes east and west.
+~
+156 65536 0 0 0 64
+D1
+~
+~
+0 0 15612
+D3
+~
+~
+0 0 15614
+S
+#15614
+A Grassy Knoll (I)~
+Several trees are scattered about the hillside. Bright, juicy fruits, nurtured
+by the rich soil and warm sun, hang from the branches of the trees. The leaves
+gently sway in the warm breeze that comes from the nearby mountain range. The
+bouquet from the wildflowers growing throughout the area adds a pleasant
+fragrance to the air, which is complemented by the soothing sounds of a stream
+running nearby. A dirt path, traversing the hillside, travels to the east and
+west.
+~
+156 65536 0 0 0 64
+D1
+~
+~
+0 0 15613
+D3
+~
+~
+0 0 15615
+S
+#15615
+A Grassy Knoll (I)~
+A pleasant fragrance fills the air from the blossoming wildflowers that cover
+the knoll. The colorful buds complement the blue, green, and yellow grasses
+that grow along the hillside to help create a rich and textured landscape. The
+area is completely quiet, save for the sound of running water coming from a
+creek or stream in the distance. Despite the picturesque view from the knoll,
+there is something indefinably unsettling about the environment. A dirt path
+continues through the knoll to the east and west.
+~
+156 65536 0 0 0 64
+D1
+~
+~
+0 0 15614
+D3
+~
+~
+0 0 15616
+S
+#15616
+A Grassy Knoll (I)~
+The soft green grasses are warm and pleasant to walk on. The dark soil is the
+perfect breeding ground for the colorful array of wildflowers growing on the
+knoll. Large, succulent fruits grow on the tall, shady trees. A warm breeze
+coming down from the mountain range creates soft whistling sounds as it passes
+through the leaves of the trees and through the blades of grass. In spite of
+its idyllic appearance, the knoll has an intangible quality that is somehow
+disturbing. The dirt path traversing the knoll heads east and west.
+~
+156 65536 0 0 0 64
+D1
+~
+~
+0 0 15615
+D3
+~
+~
+0 0 15617
+S
+#15617
+A Grassy Knoll (I)~
+The rolling hillside is covered in soft and colorful grasses. Several large
+trees offer shade and fruit for anyone wanting to partake of their pleasures. 
+The fertile soil nourishes a wide variety of wildflowers that grow throughout
+the field. Many of the flowers are in season, and their blossoms add a sweet
+aroma to the air. The hillside is eerily quiet. Despite the surrounding
+beauty, there is an overwhelming sense of sorrow coming from the creatures that
+live here. The dirt path heads north to the top of the hill and east along the
+grassy knoll.
+~
+156 65536 0 0 0 64
+D0
+~
+~
+0 0 15618
+D1
+~
+~
+0 0 15616
+S
+#15618
+Atop the Hillside (I)~
+The hillside provides a spectacular view overlooking the entire knoll. A large
+spring of crystal clear water feeds a creek running down the western side of the
+hill. Colorful fish glide through the clear water with a grace that is
+captivating. Tall green reeds sway along the edge of the spring. Blue-green
+grass and blossoming wildflowers cover the remainder of the hillside. Several
+large boulders encircling the pond provide an ideal resting spot. Despite its
+serene appearances, the hillside has an ominous quality that is elusive to the
+eye.
+~
+156 65536 0 0 0 64
+D2
+~
+~
+0 0 15617
+D3
+~
+~
+0 0 15619
+S
+#15619
+Along a Creek (I)~
+The water looks cool and refreshing as it gently flows over the various rocks
+and stones that line the creek. Schools of minnows and small fish can be seen
+swiftly swimming downstream. Large green reeds flourish along the bank of the
+creek. The water is shallow enough to walk through however, the wet stones look
+slippery and could be hazardous if traversed too quickly. The stream is being
+fed from the east and continues down towards the west.
+~
+156 65536 0 0 0 78
+D1
+~
+~
+0 0 15618
+D3
+~
+~
+0 0 15620
+S
+#15620
+On a Creek (I)~
+Tall green plants lining the edge of the creek sway in the breeze. The floor of
+the creek is lined with stones that glimmer through the water. The stones'
+luster is comparable to that of precious gems, and their beauty seems wasted
+sitting on the bottom of a remote creek. Despite their radiance, the stones are
+slippery and difficult to walk on. The water is deep and flows quickly in this
+part of the creek. Further movement east or west of here warrants caution.
+~
+156 65536 0 0 0 78
+D1
+~
+~
+0 0 15619
+D3
+~
+~
+0 0 15621
+S
+#15621
+On a Creek (I)~
+The waist-high water flows quickly in this part of the creek, creating a slight
+undertow. Tall green reeds lining the edge of the bank sway gently with the
+currents. The bed of the creek is lined with stones that reflect the light and
+water in a dazzling spectrum of colors. Eels and snakes slither through the
+water to cool themselves. Several large boulders have redirected the creek so
+that it parts to the north and south as it continues down the hillside.
+~
+156 65536 0 0 0 78
+D0
+~
+~
+0 0 15622
+D1
+~
+~
+0 0 15620
+D2
+~
+~
+0 0 15625
+S
+#15622
+On a Creek (I)~
+The waist-high water flows quickly in this part of the creek, creating a slight
+undertow. Willows and tall green reeds growing along the bank of the creek sway
+gently with the currents. The willows are in full bloom, sprouting fragrant
+white and yellow flowers. Several small fish feed on a thin layer of algae that
+has accumulated by the banks of the stream. The bed of the creek is lined with
+glimmering stones that radiate a dazzling spectrum of color and light from
+beneath the water. The stream continues to the north and south.
+~
+156 65536 0 0 0 78
+D0
+~
+~
+0 0 15623
+D2
+~
+~
+0 0 15621
+S
+#15623
+On a Creek (I)~
+The water moves rapidly in this part of the creek, creating a fierce undertow.
+The smooth stones lining the floor of the stream are slippery and difficult to
+walk over. The creek is infested with water snakes and eels that slither easily
+through the water in search of food. Several large branches have fallen into
+the water, blocking the flow. The branches are wet and covered in moss, making
+it difficult to climb over them. The moist environment seems to attract an
+interminable number of insects that fill the air with a pestering buzz.
+~
+156 65536 0 0 0 78
+D0
+~
+~
+0 0 15624
+D2
+~
+~
+0 0 15622
+S
+#15624
+A Large Dam (I)~
+A large dam blocks the creek. A pool of water gently sits in front of the
+obstruction, as it is unable to continue downstream. The dam was constructed by
+piling twigs and logs on top of one another, with mud from the creek cementing
+them together. Most likely used to protect a nest from predators, the structure
+is obviously not manmade. Despite its sloppy appearance, the dam is
+well-constructed and seems quite sturdy and impassable.
+~
+156 65536 0 0 0 78
+D2
+~
+~
+0 0 15623
+S
+#15625
+The Edge of a Cliff (I)~
+The water from the creek has eroded the hillside, causing it to cave in. The
+resulting effect is a cliff that drops hundreds of feet down. The water from
+the creek pours over the cliff to create a small waterfall, which gives rise to
+a bright rainbow reaching out across the sky. The creek heads to the north.
+~
+156 65536 0 0 0 78
+D0
+~
+~
+0 0 15621
+S
+#15626
+The Entrance to a Giant Cave (I)~
+The dark stone walls of the immense cavern are jagged and harsh, its ceiling
+lost in the shadows high above. The floor is an unforgiving collection of rocks
+and pebbles that lie unevenly on the ground. Thick tangles of vines and cobwebs
+hang over the mouth of the cave entrance. The vines block light from entering
+the chamber, casting shadows everywhere. The darkness of the cave suits the
+ambience. The cavern has a quality that is intangible, yet unmistakable: the
+area exudes evil. The cave goes deeper to the east and exits to the west.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15627
+D3
+~
+~
+0 0 15608
+S
+#15627
+A Giant Cave (I)~
+The cave is shrouded in darkness, as the only available light comes from the
+entrance to the west. The cave is naturally enormous, but the dark walls, along
+with extensive shadows, give the illusion that the cave is infinite in size and
+depth. The size of the cavern causes each sound to be amplified, sending
+booming echoes throughout. Strange, indistinguishable sounds come from
+somewhere hidden in the shadows, but the darkness and echoes make it impossible
+to trace them to an exact source. The cave continues to the east, while the
+safety of the entrance is to the west. To the south, there is a small crevice
+that is barely noticeable in the darkness.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15632
+D2
+~
+~
+0 0 15628
+D3
+~
+~
+0 0 15626
+S
+#15628
+A Small Grotto (I)~
+The crevice opens up to reveal a small grotto cut out from the mountainside. 
+The small oval cavern is dark and the air stale. Layers of spiderwebs and dust
+encapsulate every corner and each stone. Along the western wall of the grotto
+stands a old wooden ladder that is badly damaged and in dire need of repair. 
+In addition to being warped and uneven, the ladder is missing several rungs, and
+the safety of the device is questionable. The ladder appears to lead to another
+cavern above. A giant cave is to the north.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15627
+D4
+~
+~
+0 0 15629
+S
+#15629
+A Lookout Room (I)~
+The black stone walls are covered with various maps of the region. The maps
+have markings on them that appear to represent army movements and battle
+strategies. A thick oak table stands in the middle of the room, and on the
+center of the table sits a large, mystical orb. The orb flashes images of the
+mountainside below, clearly a defensive device to give soldiers warning of an
+impending attack. There are additional lookout rooms to either side of this
+one, and a small grotto beneath.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15630
+D3
+~
+~
+0 0 15631
+D5
+~
+~
+0 0 15628
+S
+#15630
+A Lookout Room (I)~
+Military maps and various papers outlining battle strategies are scattered
+throughout the room. Several large torches have been hung against the stone
+walls to provide the light necessary to read the maps. In the center of the
+room sits a large oak table. Upon the table rests a mystical orb that glows
+brightly. Images of the surrounding towns and villages quickly appear inside
+the orb. The device is clearly used to spy on nearby enemies and help prepare
+for upcoming battles.
+~
+156 131081 0 0 0 40
+D3
+~
+~
+0 0 15629
+S
+#15631
+A Lookout Room (I)~
+Torches blaze brightly as they hang from a series of slots drilled into the
+stone walls. The room is cluttered with various military maps and papers. 
+Against the wall lie old swords and shields that have rusted away in the dank
+cave over the years. A thick oak table is the primary focus of the room, and on
+the table sits a mystical orb. Inside the orb flash pictures of the wilderness
+surrounding the mountainside. The device is clearly used to provide warning
+against intruding armies and unwanted visitors.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15629
+S
+#15632
+A Giant Cave (I)~
+Little light is able to penetrate this deep into the cave. The dark stone walls
+of the cavern are lost in the blackness, creating an overwhelming sense of
+oblivion. The only reprieve from the darkness is the tiny glow of the red and
+white specks that seem to hover in the air to the north. Strange noises echo
+loudly across the vast expanse of the cavern. In the center of the cave lies a
+large skeleton. The beast is unrecognizable, but from the size of the bony
+claws, long snout, and sharp teeth, it does not appear to be a beast that would
+be preyed upon easily. A closer examination reveals that the cavern is littered
+with old bones and skeletons. One thing is painfully clear: this would not be a
+nice place to die.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15633
+D1
+~
+~
+0 0 15638
+D3
+~
+~
+0 0 15627
+S
+#15633
+A Small Chasm in the Cave (I)~
+Damp walls of gray rock are interlaced with sparkling red and white crystals
+that surround the chasm and create a kaleidoscopic effect throughout. The
+shimmering crystals produce a light that is penetrating. Shadows float through
+the cave, hiding dangerous creatures in their midst. A guttural snarling echoes
+through the chasm from unseen creatures hiding in the corners. The cave widens
+to the south, and the chasm continues to the east and west.
+~
+156 131080 0 0 0 40
+D1
+~
+~
+0 0 15634
+D2
+~
+~
+0 0 15632
+D3
+~
+~
+0 0 15636
+S
+#15634
+A Small Chasm in the Cave (I)~
+Gray walls of cold, damp rock line the chasm, creating a well-marked path for
+the weary traveler. All light cast is quickly engulfed by the impenetrable
+darkness. The chasm is rich in crystalline deposits that glimmer against the
+black air. Tiny specks of red and white can be seen through the shadows. Mud
+covers the tiny path that separates the two walls. The chasm continues to the
+east and west from here.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15635
+D3
+~
+~
+0 0 15633
+S
+#15635
+A Small Chasm in the Cave (I)~
+A dirt-covered path is bordered by damp walls of cold gray stone. Eyes appear
+to be everywhere, constantly glowing throughout the chasm. Torches hang from
+the walls, but the light seems to be engulfed immediately. Shadows dance
+through the chasm as if trying to hide a secret. Mud covers the tiny path that
+separates the two walls. The chasm appears to end here, as the only obvious
+exit is to the west.
+~
+156 131081 0 0 0 40
+D3
+~
+~
+0 0 15634
+S
+#15636
+A Small Chasm in the Cave (I)~
+The thick gray walls lining the pathway are cold, damp and covered with a thick
+slimy substance. Fiery red crystals interlaced throughout the rock radiate a
+dim red light which resembles dozens of sets of crimson eyes watching you. 
+Torches hang from the walls, but the light seems to be unable to penetrate the
+darkness. Mud covers the tiny path that separates the two walls. The chasm
+continues to the east and to the west from here.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15633
+D3
+~
+~
+0 0 15637
+S
+#15637
+A Small Chasm in the Cave (I)~
+Gray walls of cold, damp rock line the chasm, creating a well-marked path for
+the weary traveler. Torches hang from the walls, but the light seems to be
+engulfed immediately. Red and white crystals cut through the darkness like sets
+of eyes staring out from oblivion. Mud covers the tiny path that separates the
+two walls. The chasm appears to end here, as the only obvious exit is to the
+east.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15636
+S
+#15638
+A Turn in the Giant Cave (I)~
+The cave is surrounded by a darkness so complete it is suffocating. The floor
+is uneven and seems to shift with each step. The floor is composed of layers
+upon layers of bones and skeletons. The skeletons are of all shapes and sizes,
+ranging from small animals to giant beasts. In the center of the cavern sits a
+mountain of bones and skulls. The spectacle is clearly designed as a warning to
+intimidate intruders. The jagged stone walls curve to the north and west.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15639
+D3
+~
+~
+0 0 15632
+S
+#15639
+Before the Great Door (I)~
+The dark stone walls of the cave have been sanded down and smoothed into a
+perfect, crescent-shaped cavern. The height of the cave is immense, standing at
+least a hundred feet high and forty feet wide. Several torches adorn the walls,
+shedding some light into the otherwise dark cavern. Several powerful-looking
+glyphs have been drawn into the walls. They depict the use of fire and
+omnipotent wizards to bring death to pitiful victims. The floor is soaked with
+a large puddle of a viscous red liquid that could only be blood. No other signs
+of battle are apparent. The area seems to close in to the north and open up to
+the south.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15640
+D2
+~
+~
+0 0 15638
+S
+#15640
+The Great Door (I)~
+Built right into the wall of the mountain cavern looms a great iron door. The
+giant door is more than thirty feet high and ten feet wide. The frame of the
+door is ornately engraved with icons depicting power, prosperity, and faith. 
+Several large torches line the walls, casting light into the eerie cavern. The
+door appears to have withstood many an attack, as the iron has been marked with
+numerous scratches, burns, and dents. The floor of the cavern is stained red
+from all the blood that has been spilled here. Strangely, there do not appear
+to be any mechanical devices attached to this enormous door to help open and
+close it, only a small keyhole. The only other exit is a cavern to the south.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15641
+D2
+~
+~
+0 0 15639
+S
+#15641
+The Entrance to the Fire Giants' Keep (I)~
+The keep has been constructed inside the actual mountainside. The construction
+must have been a monumental undertaking, considering the size and breadth of the
+keep. The entryway is massive, standing almost a hundred feet tall and fifty
+feet wide. The black stone of the mountains must at one time have been smoothly
+cut and polished. Now the stone walls are dusty and have lost their luster. 
+Several candelabras line the walls, providing a generous amount of light to the
+room. The floor lies in ruins, as the once-lavish carpets have been reduced to
+threads, and the wooden planks beneath have been badly burned and warped. The
+keep is unusually warm, and the air smells heavy with smoke. The hallway
+continues to the north, while the doorway is to the south.
+~
+156 131080 0 0 0 0
+D0
+~
+~
+0 0 15642
+D2
+~
+~
+0 0 15640
+S
+#15642
+The Fire Giants' Keep (I)~
+The once-majestic keep has seen better days. Tapestries hanging on the wall are
+burnt and tattered. The magnificent carpets and flooring have become soiled and
+shredded. Golden candelabras have turned green and are covered with layers of
+ash and dust. The candelabras are empty, and if not for a strange glow
+originating from down the hallway, there would be no light at all. It is
+difficult to imagine how such a well-built and luxurious fortress could fall
+into such ruin. Clearly it would take an immense power to overthrow such a
+stronghold as this.
+~
+156 131080 0 0 0 0
+D0
+~
+~
+0 0 15643
+D2
+~
+~
+0 0 15641
+S
+#15643
+The Fire Giants' Keep (I)~
+The great keep lies in ruin. The decor appears to have suffered from a horrible
+fire, as the walls, floors, and all the luxurious ornamentation lie wasted. 
+Silver and gray ashes cover the floor and gently float in the air. The steam
+rising off the stone walls is indicative of the sweltering heat here. The
+candelabras hanging on the walls are empty, and if not for a strange glow
+emanating down the hallway, the room would be cast in darkness. Smaller
+hallways branch off to the east and west, while the main passage through the
+keep travels to the north and south.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15664
+D1
+~
+~
+0 0 15654
+D2
+~
+~
+0 0 15642
+D3
+~
+~
+0 0 15644
+S
+#15644
+A Guarded Hallway - West Wing (I)~
+The hallway appears to be well-guarded. The area seems to have seen battle
+already, as the walls are burnt and charred black. Several of the thick bricks
+lining the walls are chipped and damaged from the combat. The hard stone floor
+is stained with blood, and the entire area smells of decay. Strands of smoke
+still hang in the air, leaving the hallway clouded by a thick haze. The only
+light comes from small torches that have been fastened to the walls, but their
+light is insufficient to overcome the blackness that fills the passageway.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15643
+D3
+~
+~
+0 0 15645
+S
+#15645
+A Guarded Hallway - West Wing (I)~
+The hallway is well-guarded, and appears to have been the site of a number of
+fierce battles. The thick bricks lining the corridor have been damaged and
+badly burned. Bloodstains can be spotted along the floor, where victims were
+slaughtered. Little remains of these victims, as their corpses were most likely
+devoured by the vermin that can be seen scurrying about in the darkness. Smoke
+still lingers in the air, floating eerily throughout the area. The torches
+hanging on the walls seem to create more shadows than light. The hallway forks
+to the north, south and west.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15646
+D1
+~
+~
+0 0 15644
+D2
+~
+~
+0 0 15650
+S
+#15646
+A Guarded Hallway - West Wing (I)~
+The massive passageway is lined with thick stone bricks that have been scorched
+to a deep shade of black. Wisps of smoke linger throughout the hallway,
+clouding the room in a thick haze. Torches are fastened to the walls, but they
+burn dimly and are ineffective in lighting the corridor. Aside from the
+torches, the passageway lacks any signs of civility or hospitality. The hallway
+is not filled with decorative items or furniture, only by haunting shadows and
+the dark creatures that seem to hide in them.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15647
+D2
+~
+~
+0 0 15645
+S
+#15647
+A Guarded Hallway - West Wing (I)~
+The dimly lit passageway appears to be well-guarded. The thick stone walls have
+been charred from recent fire damage, leaving the corridor in a state of ill
+repair. The battles have left the corridor barren, and no attempts have been
+made to decorate the area or make it more hospitable. Shadows dance throughout
+the large passageway as several small torches fastened to the wall attempt to
+fight the darkness. Wisps of smoke linger in the air, further clouding the
+room. Outlines of strange creatures can be seen shifting about in the
+blackness, trying to remain hidden in the shadows. The hallway turns sharply,
+heading west and south.
+~
+156 131081 0 0 0 40
+D2
+~
+~
+0 0 15646
+D3
+~
+~
+0 0 15648
+S
+#15648
+A Guarded Hallway - West Wing (I)~
+The hallway is composed of thick stone bricks that look to have undergone severe
+damage recently. Many of the bricks are cracked or chipped, and the entire
+hallway lies in a smoldering ruin. Smoke sifts off the charred walls, filling
+the corridor with its vile smell. Several torches have been fastened to the
+walls to provide light, but are ineffective in penetrating the smoke and
+darkness that shroud the area.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15647
+D3
+~
+~
+0 0 15649
+S
+#15649
+The Guards' Barracks (I)~
+The large barracks has been converted into a debriefing room. Maps of battle
+strategies are plastered onto the thick stone walls. A series of torches
+encircle the room, each one casting a generous amount of light. The commanding
+officer can address the soldiers from a podium near the northern wall. Several
+war banners have been hung, depicting a coat of arms and the company's motto. 
+The southern wall is marked with a tally accounting the number of enemies
+slaughtered. The wall has countless markings, with each mark representing a
+different victim. The only doorway leads out into the hall.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15648
+S
+#15650
+A Stone Hallway (I)~
+The large hallway is lined with bricks that have been scorched and burned to a
+deep charcoal black. The stone corridor is remarkably plain, with almost no
+ornamentation or style. The passageway was clearly not designed to entertain
+guests, but rather made for a more functional use. The torches lining the wall
+provide a meager amount of light and leave the hallway cast in shadows. Vermin
+can be seen scampering into the corners, trying to remain concealed, while the
+shadows of larger creatures can be seen hidden in the darkness above. The
+unattractive stone floor is covered with dust and rocks, but is relatively easy
+to walk on.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15645
+D2
+~
+~
+0 0 15651
+S
+#15651
+A Stone Hallway (I)~
+The large hallway is lined with gray stone bricks that tower up beyond vision.
+Many of the bricks are discolored and appear scorched. Several torches are
+fastened to the wall, but they cast only a faint amount of light. The flames
+from the torches cast shadows throughout the room. Creatures appear to stir
+from above, moving silently through the darkness, while small vermin scurry
+about in the corners, trying to remain undetected. The hard stone floor is
+covered with rocks and dust, but is still relatively easy to walk on.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15650
+D3
+~
+~
+0 0 15652
+S
+#15652
+A Meager Waiting Room (I)~
+The gray stone walls are cracked and in need of painting, and the hard floor is
+covered in layers of dust and grime. Several filing cabinets sit in the corners
+of the room, bursting with various documents. The only other piece of furniture
+in the room is a large stone bench that sits along the southern wall. A few
+small torches are fastened to the wall and cast a sparse amount of light
+throughout the room. Stairs lead to an office above, and the hallway lies
+through the eastern doorway.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15651
+D4
+~
+~
+0 0 15653
+S
+#15653
+An Administrative Office (I)~
+The large office area is filled with stacks of parchments and documentation that
+leave little room to move about. The gray stone walls are left bare and are
+hardly visible behind the stacks of administrative work. Two stone chairs sit
+in front of a sturdy iron desk. Both the desk and the chairs are covered in
+parchments. All the papers are surrounded by a strange green aura, presumably
+from a spell that protects them from local fire hazards. A large white sphere
+hovers high in the air, providing ample light for the office. A stairwell
+descends to the waiting room.
+~
+156 131080 0 0 0 40
+D5
+~
+~
+0 0 15652
+S
+#15654
+A Guarded Hallway - East Wing (I)~
+The area has been ravaged by recent battles, and the entire corridor is
+blackened by fire damage. The walls are riddled with cracks and fractures
+received during the combat. Droplets of water trickle down from the stone roof,
+mixing with the layers of ash and cinder on the ground and leaving the floor wet
+and slippery. Several torches have been hung along the decrepit stone walls,
+but they do little to brighten the gloomy corridor.
+~
+156 131080 0 0 0 40
+D1
+~
+~
+0 0 15655
+D3
+~
+~
+0 0 15643
+S
+#15655
+A Guarded Hallway - East Wing (I)~
+The hallway appears to have seen battle, as the brick walls are scorched and
+decayed. Water drips from the moist stone ceiling of the mountain in which the
+hallway was built. The wet ground is freshly stained with blood and ashes. 
+The passageway is dark, as the flickers of the torches are insufficient to
+overcome the dreariness of the area. Shadows dance about the room in a dizzying
+display, as if guided by a powerful force. The room appears to be a focal
+point, as the hallway branches off in several directions.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15656
+D2
+~
+~
+0 0 15660
+D3
+~
+~
+0 0 15654
+S
+#15656
+A Guarded Hallway - East Wing (I)~
+The large hallway is dark and grim. Several torches have been fastened to the
+thick stone wall, but their flames seem unable to penetrate the blackness. 
+Fire damage has reduced the well-constructed corridor to rubble. Smoke sifts
+through the air, filling the hallway with its sharp odor. Stones and pieces of
+brick from the damaged walls are strewn over the ground. The floor is covered
+with bloodstains that appear to have been made recently. The blood has
+attracted rodents, which can be spotted scurrying about the hallway in search of
+food.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15657
+D2
+~
+~
+0 0 15655
+S
+#15657
+A Guarded Hallway - East Wing (I)~
+The blackened walls of the corridor cast gloomy shadows over the area. Torches
+have been fastened to the wall, but they do little to alleviate the darkness. 
+The area has suffered badly from recent warfare. The stone walls are badly
+cracked, and there appears to be more brick on the ground than lining the walls.
+Wisps of smoke still linger from the fire that has ravaged the area. The
+hallway makes a sharp turn, extending to the south and east.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15658
+D2
+~
+~
+0 0 15656
+S
+#15658
+A Guarded Hallway - East Wing (I)~
+Wisps of smoke float through the hallway, clouding the corridor in a thick haze.
+Small fires still smolder on the ground, though there appears to be very little
+left to burn. The stone walls have been totally charred, and nothing remains of
+any furniture that was once here but the layer of ash lining the floor. The
+ground is also littered with bricks and stone that have collapsed from the
+damage. Torches have been hung along the walls, but the light is lost behind a
+veil of smoke and shadows. The hallway heads to the west, while a large archway
+leads into a private meeting room to the east.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15659
+D3
+~
+~
+0 0 15657
+S
+#15659
+A Giant Conference Room (I)~
+A large white orb hovering high above shines brightly and provides ample light
+for the massive room. The focal point of the room is a large stone table placed
+in the center of the room. A number of thick armchairs border the table. The
+northern wall is plastered with topographic maps depicting army movements and
+attack strategies. Various reports detailing supplies and armaments are stacked
+on an end table in the southeast corner of the room. A large flag waves proudly
+upon a pole in another corner of the room.
+~
+156 131080 0 0 0 40
+D3
+~
+~
+0 0 15658
+S
+#15660
+A Guarded Hallway - East Wing (I)~
+This part of the hallway appears to be well-guarded, as a number of giant
+soldiers can be spotted patrolling the area. The thick stone walls have been
+badly damaged by recent battles, and bricks lining the walls are cracked and
+charred by fire damage. Smoke still lingers in the air, unable to find an
+escape route, making the air heavy and difficult to breathe. Torches lining the
+hallway are unable to penetrate the shadows created by the large ceiling,
+leaving the corridor with a gloomy countenance.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15655
+D2
+~
+~
+0 0 15661
+S
+#15661
+A Large Anteroom (I)~
+A large white orb hovers high above, casting a bright light throughout the room.
+The anteroom has not been spared by the battles that have occurred in the keep,
+and as such is sparsely decorated. A large banner displaying a coat of arms and
+company motto is hung on the western wall. Several thick steel chairs are
+placed strategically throughout the room, while a large stone bench can be found
+against the southern wall. A large doorway to the east marks the entrance to
+the Captain's private office, while the exit to the north opens into a
+well-guarded hallway.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15660
+D1
+~
+~
+0 0 15662
+S
+#15662
+The Captain's Private Office (I)~
+The large room is lined with thick gray bricks made from stone. The candelabras
+lining the walls are filled with beeswax candles that add a pleasant scent to
+the well-lit room. A large metal desk stacked with papers and maps is the focal
+point of the room. Behind the desk, two crossed swords have been hung for
+display. A metal trunk sits in the southeast corner to store the Captain's
+personal belongings. The only other piece of furniture in the room is a large
+iron table that has been kept clean, with the exception of a wine goblet and an
+empty tray that haven't yet been removed. A set of stairs leads to a smaller
+room above. The only other exit appears to be the anteroom to the west.
+~
+156 131081 0 0 0 40
+D3
+~
+~
+0 0 15661
+D4
+~
+~
+0 0 15663
+S
+#15663
+A Trophy Room (I)~
+The trophy room is a macabre sight. Human heads have been mounted and hung upon
+the wall for show. The heads of military generals, royalty, and dragons, along
+with other equally gruesome trophies, fill almost the entire room. A display
+case has been constructed to hold various pieces of armor, weapons, and jewelry
+that have been looted from noteworthy victims. The contents of the room are
+clearly prized, as each item has been exquisitely cared for and positioned for
+maximum effect. A large hearth and several candelabras provide a comfortable
+amount of light to view the trophies without allowing them to be damaged. A
+stairwell leads down into the Captain's office.
+~
+156 131080 0 0 0 40
+D5
+~
+~
+0 0 15662
+S
+#15664
+The Fire Giants' Keep (I)~
+The keep has been built inside the heart of the mountainside. The black stone
+walls are well-cut and exquisitely crafted. The keep has seen better days, as
+fire and battle seem to have destroyed most of the luxurious belongings and fine
+decorative pieces. The battles could not have occurred too long ago, as the
+stench of smoke and the heat of fires can be felt throughout the corridors. 
+Despite the poor state of repairs, the keep has still maintained a sense of
+grandeur throughout the massive ceilings and wide hallways.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15665
+D2
+~
+~
+0 0 15643
+S
+#15665
+The Fire Giants' Keep (I)~
+This part of the hall is massive, standing almost a hundred feet tall and fifty
+feet wide. The grandeur of the keep is both awe-inspiring and fearsome, for the
+great fortress has been laid to waste by a force that must surely have been
+among the most powerful in history. Silver and gray ashes cover what remains of
+the floorboards, which are warped and burnt to cinders. Tapestries and other
+ornate decorations have been reduced to dust. The hallway is uncomfortably
+warm, and the air is thick with smoke and ash. Steam rising off the wall
+indicates that whatever destroyed the fortress happened recently, as the
+hallways have not yet had time to cool from the fires. A strange glow coming
+from the north is the only source of light for the otherwise dark hallway.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15666
+D2
+~
+~
+0 0 15664
+S
+#15666
+The Fire Giants' Keep (I)~
+Great stone walls line the darkened hallway. Mist rises off the walls, evidence
+of the blistering heat of the keep. The only light visible is a strange glow
+coming from the north. Shadows engulf the area, leaving the room cast in an
+eerie darkness. The air is thick with smoke and heavy to breathe. Ashes
+covering the ground are all that remain of the lavish possessions that once
+filled the corridor. The keep lies completely wasted. Only the most powerful
+army could do such extensive damage to a fortress that was once deemed
+impenetrable. The keep continues to the north and south.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15667
+D2
+~
+~
+0 0 15665
+S
+#15667
+The Fire Giants' Keep (I)~
+The floor of the great keep is covered in ash and soot. The thick stone walls
+are blackened by smoke and warm to the touch. The wooden floorboards are badly
+damaged, making the floor awkward to navigate. Remains of valuable treasures
+and fine pieces of artwork can be seen scattered about the keep, destroyed by
+fires. The air is heavy with smoke that seems to linger about. The keep is
+dark, except for a peculiar glow coming from the north, farther along the
+hallway.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15668
+D2
+~
+~
+0 0 15666
+S
+#15668
+The Fire Giants' Keep (I)~
+Fire and battle have devastated the great keep. Despite the vast amounts of
+damage done to the keep, the large stone walls appear strong and imposing. The
+keep is uncomfortably warm, as recent fires have not yet had time to cool. 
+Smoke and mist fill the dark corridor, making it difficult to see any enemies
+who may be hiding in the shadows. The only light to fill the dark corridor
+comes from a mysterious glow to the north.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15669
+D2
+~
+~
+0 0 15667
+S
+#15669
+The Fire Giants' Keep (I)~
+The enormous keep stands at least a hundred feet high and fifty feet wide. The
+large stone walls cast shadows over the already-darkened room. Fire has
+devastated the keep, leaving little evidence of the many treasures that used to
+adorn the walls. Layers of ash and dust have replaced all the luxuries of the
+keep. A thick haze of smoke and mist from the smoldering remains fills the
+room, making it difficult to spot any enemies who may be lurking in the shadows.
+A large passageway branches off to the west, while the main hall continues to
+the north and south.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15674
+D2
+~
+~
+0 0 15668
+D3
+~
+~
+0 0 15670
+S
+#15670
+A Smoke-Filled Cavern (I)~
+The cavern walls have been chiseled out from the thick stone of the mountain
+within which the keep was built. The cave is extremely large, such that the
+ceiling is eclipsed by shadows. The room is extremely warm, causing
+condensation on the otherwise cool stone. Droplets of water echo loudly as they
+splash against a small puddle that has collected on the ground. Thick black
+smoke rises from the torches fastened to the wall. The light from the torches
+reflects off the wet floor to create an eerie mix of light and shadows. The
+cavern continues to the west, while the main corridor is to the east.
+~
+156 131080 0 0 0 40
+D1
+~
+~
+0 0 15669
+D3
+~
+~
+0 0 15671
+S
+#15671
+A Smoke-Filled Cavern (I)~
+The cavern walls have been carved out from the core of the mountain to create
+this passageway. Iron deposits found in the stone have oxidized, causing the
+walls to take on a deep red color. A thick layer of smoke rises from the
+torches hanging on the wall, adding to the insufferable heat in the area. 
+Specks of minerals embedded in the stone sparkle through the smoke filled
+passageway, causing a vertiginous effect. Droplets of water falling from the
+cavern's ceiling echo loudly as they splash against the wet floor.
+~
+156 131080 0 0 0 40
+D1
+~
+~
+0 0 15670
+D3
+~
+~
+0 0 15672
+S
+#15672
+A Smoke-Filled Cavern (I)~
+The thick stone walls of the cavern are a unique red color, due to the large
+deposits of iron that have oxidized inside the rock. The cavern is warm and
+moist. Torches line the wall, producing a heavy blanket of smoke that clouds
+the hallway. Minerals embedded in the cavern walls flash a brilliant white
+light as they reflect the glow of the torches. The light produces a beautiful
+yet disorienting display, creating the illusion that the room is moving about.
+As condensation collects on the walls, droplets of water splash against the
+floor, producing an eerie echo throughout the area.
+~
+156 131080 0 0 0 40
+D1
+~
+~
+0 0 15671
+D3
+~
+~
+0 0 15673
+S
+#15673
+A Smoke-Filled Cavern (I)~
+Wisps of smoke linger throughout the cavern, creating a thick haze which is
+difficult to see through. The red walls of the cavern seem to sparkle from the
+rich mineral deposits embedded in them. The minerals emit a brilliant white
+light that reflects off the glossy stone and wet floor to create a beautiful yet
+dizzying effect. The pitter-patter of the water droplets falling from the
+ceiling creates booming echoes throughout the cavern as they land on the damp
+floor.
+----Rewrite this to newly constructed hallway.
+Mobs talk and are scared of sounds emanating from rock.
+~
+156 131080 0 0 0 40
+D1
+~
+~
+0 0 15672
+S
+#15674
+The Fire Giants' Keep (I)~
+The stone fortress has been constructed inside the belly of a large
+mountainside. Once thought impenetrable, the keep lies wasted and burned to the
+ground. The blackened walls of the hallway still look sturdy, despite the
+extensive damage to the keep. Several candelabras are mounted on the walls, but
+they remain empty, leaving the room covered in darkness. Ashes and dust cover
+the ground, remnants of what was once a rich and creative art collection. The
+smoke lingers in the air, indicating that whatever destroyed this keep did so
+recently. The thick smoke makes it impossible to see clearly, and one can only
+hope there are no enemies hiding among the smoke and shadows.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15675
+D2
+~
+~
+0 0 15669
+S
+#15675
+The Fire Giants' Keep (I)~
+Mist rises from the black stone walls, evidence of the blistering heat of the
+keep. Recent fires have melted the carpet and burned gaping holes in the
+floorboards, leaving the floor in a state of upheaval and difficult to navigate.
+A thick layer of smoke lingers in the air, adding to the foreboding atmosphere.
+The candelabras mounted on the wall have been left unattended, leaving the room
+in darkness. The only light visible is a strange glow far away in the northern
+end of the hallway.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15676
+D2
+~
+~
+0 0 15674
+S
+#15676
+The Fire Giants' Keep (I)~
+The large stone walls of the keep tower out of sight. The floorboards and
+carpet have been burnt, leaving a layer of dust in their place. The corridor is
+filled with smoke and embers as the contents of the keep continue to smolder. 
+The smoke hangs within the shadows of the darkened hallway to create a
+foreboding ambience. Silver and gray ashes swirl about the air in a dizzying
+display. The smoke and the ash make it difficult to see if enemies are hiding
+in the shadows. A mysterious glow originating somewhere to the north is the
+only light visible.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15677
+D2
+~
+~
+0 0 15675
+S
+#15677
+The Fire Giants' Keep (I)~
+The black stone walls of the keep tower out of sight. The candelabras lining
+the walls are empty, leaving the area in a state of perpetual darkness. The
+darkness creates an atmosphere of foreboding that is enhanced by the thick layer
+of smoke that clouds the hallway. Wisps of smoke float in and out of the
+shadows as if attracted to the darkness. Piles of smoldering ashes are all that
+remain of the luxurious furniture that adorned the hallway. A strange glow can
+be seen down the hall to the north. The main hallway continues to the north and
+south, while a second passageway branches off to the east.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15698
+D1
+~
+~
+0 0 15678
+D2
+~
+~
+0 0 15676
+S
+#15678
+A Corridor Pulsating with Power (I)~
+The thick stone walls seem to pulsate with a magical energy. The cavern glows a
+deep shade of red, then fades to the black stone indigenous to the keep. A
+magical cloud swirls high above in a beautiful display of light and color. The
+floor is laid with intricately cut sandstone tiles that have a soft green glow
+surrounding them. Flaming torches are ensconced along the walls to provide
+light for the large cavern.
+~
+156 131080 0 0 0 40
+D1
+~
+~
+0 0 15679
+D3
+~
+~
+0 0 15677
+S
+#15679
+A Corridor Pulsating with Power (I)~
+A magical cloud cloaks the roof of the cavern from vision. The cloud is
+composed of a multitude of brilliant colors that swirl gracefully in the air. 
+It simultaneously appears both beautiful and dangerous as bursts of energy fray
+from the cloud like a colorful firecracker or a bolt of lighting. The cavern
+walls pulsate, turning a deep shade of red and then fading into inky black
+stone. Torches are ensconced along the walls to light the corridor. The
+well-tiled floor is covered in sandstone that has been stained red.
+~
+156 131080 0 0 0 40
+D1
+~
+~
+0 0 15680
+D3
+~
+~
+0 0 15678
+S
+#15680
+A Corridor Pulsating with Power (I)~
+The thick stone walls of the cavern pulsate with a magical energy. The glow of
+the walls transforms from a deep shade of red to the blackness of night and then
+back to the red again. The floor is covered in finely cut sandstone tiles that
+form an intricate pattern on the ground. A faint green aura emanates from the
+tiles. High above, a magical cloud dances through the air. The cloud is
+composed of a collage of brilliant colors intertwining about to create a
+wondrous vision. The light show is awe-inspiring as the magic cloud swirls
+through the air with dizzying speed and splendor.
+~
+156 131080 0 0 0 40
+D1
+~
+~
+0 0 15681
+D3
+~
+~
+0 0 15679
+S
+#15681
+A Corridor Pulsating With Power (I)~
+The walls of the cavern pulsate, emanating a deep red glow, which then turns to
+darkness. The flames from the torches ensconced in the walls burn brightly in
+contrast to the dark stone. The ground is covered in a patchwork of sandstone
+tiles that form an intricate pattern along the floor. The tiles are surrounded
+by a faint green glow that adds to the mystical ambience of the room. The most
+spectacular sight is the giant magic cloud swirling high above. Bright colors
+shimmer in an astounding display of light that looks both beautiful and deadly.
+Colors burst forth from the cloud like lightning bolts, each one sending an
+electric pulse through the air.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15682
+D2
+~
+~
+0 0 15691
+D3
+~
+~
+0 0 15680
+S
+#15682
+The Entrance to a Giant Laboratory (I)~
+The massive entranceway stands over sixty feet high. Layers of shelves cover
+every inch of the great walls. Rows upon rows of spell ingredients are all
+well-labeled and sealed in glass jars. Thousands of books on arcane knowledge,
+all immaculately kept, fill the shelves. Intricate designs that appear to be
+magical in nature have been drawn on the floor. The entranceway is well-lit by
+a glowing ball of light that hovers high above, casting a brilliant glow across
+the threshold. The laboratory continues to the north, while a pulsating
+corridor is to the south.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15683
+D2
+~
+~
+0 0 15681
+S
+#15683
+A Giant Laboratory in the Keep (I)~
+Glass beakers and flasks sit atop stone counters. Several of the jars are
+resting atop a small but hot flame. These jars glow brightly, giving off
+mystical auras that appear powerful. The potions are of every color, and some
+of them even appear to be changing color as they ferment. Large cupboards
+lining the brick walls are filled with various powders, plant leaves and strange
+items that look magical in nature. Other cupboards contain books listing
+various ingredients and recipes for different spells.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15684
+D1
+~
+~
+0 0 15690
+D2
+~
+~
+0 0 15682
+S
+#15684
+A Giant Laboratory in the Keep (I)~
+The laboratory appears to be quite sophisticated, judging by the amount and
+design of the equipment. Series of tubes connect a plethora of beakers and
+vials together in a complex arrangement that spans the entire room. Magical
+elixirs provide a psychedelic display sitting atop small flames, changing from
+one brilliant color to the next as they are heated. As the potions boil, they
+produce a sweet aroma that drifts through the air. A series of runes and
+talismans have been hung on the wall and ceiling to help focus the powerful and
+delicate magic.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15685
+D1
+~
+~
+0 0 15689
+D2
+~
+~
+0 0 15683
+S
+#15685
+A Giant Laboratory in the Keep (I)~
+The walls of the laboratory are covered in runes, and talismans hang from the
+wall to help focus the intricate spells. The giant lab looks to be quite
+sophisticated, from the collection of equipment running. Dozens of thick stone
+tables are set up throughout the room, each one with a collection of experiments
+on it. Glass beakers set on the tables glow brightly, filling the room with
+rich colors that emanate power. Several of the potions seem to coagulate and
+then move as if the contents were alive.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15686
+D1
+~
+~
+0 0 15688
+D2
+~
+~
+0 0 15684
+S
+#15686
+A Giant Laboratory in the Keep (I)~
+The giant laboratory is an impressive sight. A complex web of tubing transports
+and combines magical liquids that empty into large beakers. Dozens of such jars
+and elixirs rest atop small flames produced from within a stone counter. As
+they are heated, the potions change colors in a vivid display of light and
+texture. The bubbling liquids produce an orange and yellow smoke that softly
+wafts through the air. The powerful elixirs are surrounded by a bright aura
+that somehow appears dangerous. Some of the potions seem to coagulate and move
+as if the contents were alive.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15687
+D2
+~
+~
+0 0 15685
+S
+#15687
+Ifcarius's Private Laboratory (I)~
+A thick black cauldron sits atop a large fire in the center of the room. A
+strange orange mist rises from the cauldron and lingers in the air. The entire
+room seems to crackle with an energy that is practically tangible. The flames
+from the torches flicker wildly, as if fueled by the electricity in the room. 
+Masterfully crafted charms and talismans have been hung from the ceiling to help
+focus the intricate spells being brewed. The charms glow brightly, each one
+surrounded by a strong blue aura that shines with unwavering power.
+~
+156 131081 0 0 0 40
+D2
+~
+~
+0 0 15686
+S
+#15688
+A Giant Laboratory in the Keep (I)~
+A series of talismans and charms have been hung from the walls to help focus the
+intricate magic created in this room. A large latticework of glass tubes curves
+and contorts on top of a thick stone counter. A strange but colorful concoction
+flows through the tubing that pours out into a large beaker set above a hot
+flame. A powerful aura surrounds the elixir, which glows brightly as it
+ferments in the heat. Dozens of such tables are set up throughout the massive
+laboratory. Great care and effort have been put into the brewing of this
+complex formula
+~
+156 131081 0 0 0 40
+D2
+~
+~
+0 0 15689
+D3
+~
+~
+0 0 15685
+S
+#15689
+A Giant Laboratory in the Keep (I)~
+Glass beakers and flasks sit atop stone counters. Several of the jars are
+resting above a small but hot flame. These jars glow brightly, radiating
+magical auras. The potions are of every color, and some of them even appear to
+be changing color as they ferment. A thin layer of yellow and orange steam
+rises from the boiling potions and wafts through the air. A large talisman has
+been drawn on each of the four walls to help focus the delicate magic being
+brewed.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15688
+D2
+~
+~
+0 0 15690
+D3
+~
+~
+0 0 15684
+S
+#15690
+A Giant Laboratory in the Keep (I)~
+A large latticework of glass tubes curves and contorts on top of a thick stone
+counter. A strange but colorful concoction flows through the tubing, pouring
+out into a large beaker set under a hot flame. Dozens of such tables are set up
+throughout the massive laboratory. Great care and effort have been put into the
+brewing of such a complex formula. A thick layer of orange and yellow smoke
+emanates from the beakers holding the elixir. The potion has a strong but
+pleasant smell that wafts throughout the room.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15689
+D3
+~
+~
+0 0 15683
+S
+#15691
+The Entrance to a Giant Library (I)~
+The air is stale and dry in the giant entryway. Several giant pillars are
+dispersed around the room to help support the structure of the cave. The
+pillars have been delicately carved and ornamented with golden leaves. Torches
+have been fastened to the pillars in order to provide ample light for reading.
+The corridor is lined with bookcases that tower overhead. The shelves are made
+of thick oak, stained in a red finish that gives them an air of sophistication.
+The bookcases are stocked, full of ancient volumes and scrolls about mystical
+arts and incantations. The shelves and books are in pristine condition, despite
+being very aged. It appears as if they are protected by a magical spell, as
+each is surrounded by a faint green aura.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15681
+D2
+~
+~
+0 0 15692
+S
+#15692
+A Giant Library in the Keep (I)~
+The flames from the torches crackle in the dry air, providing ample light by
+which to read the numerous texts stored here. A large mahogany table rests in
+the middle of the room, covered in books and scripts in various languages. 
+Massive bookshelves line the walls of the cavernous library, each shelf
+handcrafted from thick oak and stained red to provide elegance to the otherwise
+gloomy library. Each shelf contains hundreds of immensely valuable and ancient
+books, most of which focus on sorcery and mysticism. A magical green aura
+surrounds each of the texts, protecting them from damage and antiquity.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15691
+D1
+~
+~
+0 0 15693
+D2
+~
+~
+0 0 15697
+S
+#15693
+A Giant Library in the Keep (I)~
+The walls of the great library are lined with ornate bookshelves. Each shelf is
+handcrafted from the finest oak and stained with an elegant red dye. The
+exquisite bookcases are a testament to the value of the material they store. 
+Upon the shelves is a collection of exceedingly rare books and manuscripts about
+the nature and use of magic. Each item in this magnificent library has been
+chosen and treated with great care. A faint green aura surrounds each of the
+books, protecting them from damage and aging. A large mahogany table sits in
+the center of the room covered with various scripts.
+~
+156 131081 0 0 0 40
+D2
+~
+~
+0 0 15694
+D3
+~
+~
+0 0 15692
+S
+#15694
+A Giant Library in the Keep (I)~
+The flames from the torches crackle in the dry air. The light they provide
+offers a warm glow by which to explore the massive archives. The library
+appears as if it could be one of the most thorough collections of books ever
+amassed. Most of these texts appear ancient and quite valuable. Despite their
+age, the books are in remarkable condition, as someone has gone to great lengths
+to keep them preserved. The books are stored in custom-made shelves that have
+been ornately decorated and carefully treated. The shelves are extremely
+elegant and are designed to best display the treasured texts.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15693
+D2
+~
+~
+0 0 15695
+D3
+~
+~
+0 0 15697
+S
+#15695
+A Giant Library in the Keep (I)~
+Torches glow brightly in order to create a warm and comfortable atmosphere in
+which to study the ancient texts stored here. The walls of the massive library
+are lined with elegant bookcases. Each case displays hundreds of manuscripts,
+most of which are quite rare and very valuable. The books are in pristine
+condition, protected by a magical spell that emits a faint green aura. In the
+southwest corner of the room lies a small glass casing. The case displays a
+single volume that appears much older than any of the other books in the
+well-stocked library. In a room so full of treasures, this single book seems to
+be valued above all others.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15694
+D3
+~
+~
+0 0 15696
+S
+#15696
+A Giant Library in the Keep (I)~
+The giant library is a veritable treasure trove of ancient lore. The books
+primarily focus around the topics of magic and mysticism. Thousands of books,
+scrolls, manuscripts and even diaries rest atop elegantly carved display cases.
+Most of the books seem quite ancient, dating back hundreds of years and
+traversing many cultural barriers. Despite their antiquity the texts are all in
+pristine condition. A large mahogany table sits in the center of the room to
+provide a comfortable area in which to study. A series of torches have been set
+up around the table to ensure there is ample light by which to read.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15697
+D1
+~
+~
+0 0 15695
+S
+#15697
+A Giant Library in the Keep (I)~
+Giant pillars have been constructed throughout the room to help support the
+structure of the library. The pillars have been delicately carved and
+ornamented with gold leaves. Torches have been fastened to the pillars to
+provide ample light for the library. A great sea of books fills the room from
+wall to wall, with hundreds of ancient texts stacked on the elegantly carved
+shelves that line the walls. The various texts appear to be exceedingly rare,
+and it looks as if this collection might be one of the oldest in existence. A
+large mahogany table sits in the center of the great library, an ideal spot for
+research and reading.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15692
+D1
+~
+~
+0 0 15694
+D2
+~
+~
+0 0 15696
+S
+#15698
+The Fire Giants' Keep (I)~
+Fire has ravaged the once-magnificent keep. The large stone walls are charred
+and badly damaged. The floor is carpeted in ashes and soot where delicately
+woven rugs once lay. Tapestries have been reduced to shreds, and the artwork to
+dust. Smoke fills the hallway, making the air thick and heavy. The candelabras
+hanging on the walls are empty, leaving the hallway shrouded in darkness. The
+smoke and darkness cloud the hallway, making it difficult to spot any enemies
+who may be lurking in the shadows. Through the dust and smoke, a mysterious
+glow appears to the north. The keep also continues to the south.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15699
+D2
+~
+~
+0 0 15677
+S
+#15699
+The Heart of the Keep (I)~
+Located near the center of the mountain, the keep appears to exude power. The
+floor vibrates from a powerful force below. The thick stone walls loom high
+above, casting shadows everywhere. Several fires burn wildly about the area,
+feeding off a source that is entirely unseen. Thick smoke fills the corridor,
+making it difficult to breathe and even harder to see. The mysterious glow can
+be seen coming from the north.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15700
+D2
+~
+~
+0 0 15698
+S
+#15700
+The Heart of the Keep (I)~
+Located inside the very center of the mountain's core, the keep seems to exude a
+mysterious power. The large stone walls of the keep stand tall and cast shadows
+throughout the corridor. The ground seems to shake with fury and vengeance. 
+Smoke and small fires burn off an unseen source, clouding the room and making it
+difficult to see. The keep has been extensively damaged. The floorboards are
+badly burned, and several have even fallen away, leaving a large gap in a
+portion of the floor. A mysterious glow from the north appears to be getting
+stronger, casting a strange blue-green light throughout the smoke-filled room.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15701
+D2
+~
+~
+0 0 15699
+D5
+~
+~
+0 0 15702
+S
+#15701
+The Heart of the Keep (I)~
+The thick stone walls seeming to pulsate with a magical energy. The cavern
+glows a deep shade of red, then fades to the black stone indigenous to the keep.
+A magical cloud swirls high above in a beautiful display of light and color. 
+The floor is laid with intricately cut sandstone tiles that have a soft green
+glow surrounding them. Flaming torches are ensconced along the walls to provide
+light for the large cavern.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15735
+D2
+~
+~
+0 0 15700
+S
+#15702
+A Steep Subterranean Passage (I)~
+The dark passageway lies thirty feet below the main portion of the keep. The
+coarse stone walls and the sloppy architecture suggest the passageway was not
+built as part of the original layout of the keep. The dirt ground is littered
+with debris from the keep above that has fallen through the damaged flooring. 
+The passageway inclines sharply downward, leading farther below the rocky base
+of the mountain. A sturdy iron ladder that has been secured to the wall leads
+upwards, but its passage is impeded by thick wooden boards in the ceiling.
+~
+156 131081 0 0 0 40
+D4
+~
+~
+0 0 15700
+D5
+~
+~
+0 0 15703
+S
+#15703
+A Steep Subterranean Passage (I)~
+A single torch is fastened to the coarse stone wall of the underground tunnel,
+providing a meager amount of light. The tunnel's construction looks relatively
+new, as iron scaffolding lines the walls for added support, and tools are
+scattered about the ground. The passage looks to serve a practical function
+apart from the main portion of the keep, as the design lacks any sort of
+ornamentation or decorative style. The tunnel has been built on a steep incline
+that makes it hard to stay balanced. Rocks and dust cover the hard ground,
+making it even more difficult to gain a sure footing. The incline leads up
+towards the heart of the keep or down below the rocky mountain base on which the
+mighty fortress was built.
+~
+156 131081 0 0 0 40
+D4
+~
+~
+0 0 15702
+D5
+~
+~
+0 0 15704
+S
+#15704
+A Steep Subterranean Passage (I)~
+The passage is deep below the ground's surface. The dark stone walls are jagged
+and coarse. A solitary torch is fastened to the wall, but its flickering flame
+is insufficient to lift the dreariness of the room. The stones and dirt that
+compose the tunnel appear as if they could fall in and collapse at any moment.
+The iron scaffolding that was designed to support the walls has fallen, making
+the area susceptible to a cave-in. The passage has been built so sharply
+inclined as to be almost perpendicular, making it difficult to maintain balance.
+The passage appears to open up a bit further down, as a small yellow light can
+be seen in the distance.
+~
+156 131081 0 0 0 40
+D4
+~
+~
+0 0 15703
+D5
+~
+~
+0 0 15705
+S
+#15705
+A Large Subterranean Chamber (I)~
+The structure of the room suggests a talented builder crafted it. The ceiling
+is more than a hundred feet high, supported by a series of unobtrusive stone
+pillars. Several candle holders hang from the walls and pillars, lighting the
+room. The domed ceiling is painted with an exquisite depiction of the heavens
+and the great gods looking down upon the world in judgement. An intricate mural
+is painted across the upper portion of the walls, depicting the splendor of the
+neighboring volcano. A series of stone tiles have been laid across the floor in
+an elaborate design that appears significant in some way. A small podium sits
+raised in the center of the room. A faint green aura surrounds the entire
+chamber, and seems to have protected the room from the damage the rest of the
+keep has suffered.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15706
+D1
+~
+~
+0 0 15708
+D4
+~
+~
+0 0 15704
+S
+#15706
+A Large Antechamber (I)~
+The antechamber is large but sparsely decorated. Several stone benches circle
+the oval room for guests to sit on. The walls are lined with red stone bricks
+that have been expertly laid. Several shelves have been cut directly into the
+walls of the antechamber. The shelves are stocked with glass containers that
+are filled with various powders, plant leaves and potions. A bright yellow orb
+hovers high above, shining ample light into the room. The chamber floor is
+tiled with fine ivory marble. In the center of the floor, a large arcane symbol
+has been crafted into the tiles and looks both lovely and dangerous. A faint
+green aura surrounds the entire area. Two large archways frame the exits to the
+north and south.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15707
+D2
+~
+~
+0 0 15705
+S
+#15707
+The Inner Chamber (I)~
+The domed ceiling of the inner chamber stands almost a hundred feet high, with
+intricate designs carved into it. The stone walls are thick, but have been cut
+so finely that they appear soft and subtle. The floor is tiled with the finest
+ivory-colored marble in the world. A bright yellow orb hovers high above the
+center of the room, radiating ample light throughout. The chamber was
+constructed on so large a scale and with such grandeur that the current setup
+appears meager and diminutive. The large chamber has been converted into a
+rather modest-looking administrative office. A small metal desk rests in front
+of the north wall of the room, with two iron chairs placed in front of it. The
+only other furnishings are a series of cabinets that appear to be bursting at
+the seams from the abundance of parchments and scrolls stuffed into them. A
+large arched doorway to the south leads to the antechamber.
+~
+156 131081 0 0 0 40
+D2
+~
+~
+0 0 15706
+S
+#15708
+A Dark Passageway (I)~
+The high ceiling is lost in the shadows, making it impossible to judge the
+height of the passageway. Thick gray stones were used to line the walls of the
+tunnel. The air is stagnant and heavy to breathe. The hard dirt floor is cold
+and lifeless. There are torches fastened in brackets several feet up the wall,
+but they seem ineffective in dispelling the gloom that lies further along the
+passageway to the east and to the west.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15709
+D3
+~
+~
+0 0 15705
+S
+#15709
+A Dark Passageway (I)~
+The high ceiling is lost in the shadows, making it impossible to judge the
+height of the passageway. The few torches that line the hallway offer little
+comfort in the way of light. The thick gray stones used to construct the walls
+are strong and well-crafted. Thick iron scaffolding encircles the room, to
+support what appears to be ongoing construction and expansion of the tunnels. 
+The corridor is full of dust that makes the air heavy and difficult to breathe.
+Scores of footprints are embedded into the hard dirt floor. The prints are
+enormously large and gruesome, clearly made by predatory beasts. A chamber
+appears to be to the west, while the dark passageway heads to the north and
+east.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15710
+D1
+~
+~
+0 0 15712
+D3
+~
+~
+0 0 15708
+S
+#15710
+A Dark Passageway (I)~
+Large gray stones compose the thick walls of the passageway. The tunnel is only
+partially built, and the corridor is surrounded with thick iron scaffolding to
+offer additional support to the structure. Large bricks and other building
+materials lie scattered about the ground, covered in a layer of dust. The
+construction of the tunnel looks like a massive undertaking, due to the gigantic
+size of the corridor and its underground location. The roof of the tunnel is
+beyond vision, lost in the shadows high above. Several torches hang on the
+wall, but the light they emit is quickly swallowed by the darkness. The tunnel
+must hold deep importance to whoever ordered its construction, as the job
+requires a painstaking amount of effort and a great deal of expense.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15711
+D2
+~
+~
+0 0 15709
+S
+#15711
+A Dark Passageway (I)~
+This portion of the passageway is incomplete. The walls are made of dirt and
+stone that are being excavated as part of the construction. Large iron
+scaffolding is being erected to prevent the tunnel from collapsing. The job
+looks like an enormous undertaking, especially since the only tools in sight
+appear to be large pickaxes and stone hammers. The construction has left the
+tunnel surrounded by dust and dirt that fill the air and make it difficult to
+breathe. The ground is a patchwork of deep holes, as the tunnel is being
+directed downward. Several torches have been fastened to the wall, but they
+fail to break the darkness of the tunnel.
+~
+156 131081 0 0 0 40
+D3
+~
+~
+0 0 15710
+S
+#15712
+A Dark Passageway (I)~
+The high ceiling is lost in the shadows, making it impossible to judge the
+height of the passageway. Thick gray stones were used to line the walls of the
+tunnel. The air is stagnant and heavy to breathe. The hard dirt floor is cold
+and lifeless. There are torches fastened in brackets several feet up the wall,
+but they seem ineffective in dispelling the gloom that lies further along the
+passageway to the east and to the west.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15713
+D3
+~
+~
+0 0 15709
+S
+#15713
+A Dark Passageway (I)~
+The walls lining the passageway are made from dark gray stones that are both
+thick and sturdy. The hallway is both wide and tall, and could easily
+accommodate a small army marching through it. The air is stale and thick with
+dust. Shadows linger and crawl through the hallway as if guided by a mystical
+force. The hard dirt pathway is covered with giant footprints that have been
+embedded into the ground. The shape and size of the footprints look as if they
+belong to ferocious creatures.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15714
+D3
+~
+~
+0 0 15712
+S
+#15714
+A Dark Passageway (I)~
+The high ceiling is lost in the shadows, making it impossible to judge the
+height of the passageway. The large stone walls lining the tunnel echo each
+sound. The air is stale and filled with dust that seems to permeate the lungs.
+The dirt floor is hard, with few pebbles and rocks to impede movement. Burned
+into the dirt floor are footprints of giant beasts. The footprints look large
+and gruesome, not the impressions of a friendly creature.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15715
+D1
+~
+~
+0 0 15734
+D3
+~
+~
+0 0 15713
+S
+#15715
+A Dark Passageway (I)~
+Torches hang from brackets in the large stone walls. The dirt floor is tightly
+packed and hardened into place. Several giant footprints appear to be burned
+right into the ground. The footprints are as gruesome as they are large. 
+Judging by the size, depth and distance of the prints, whatever made these
+tracks must be a vicious predator. The prints indicate massive creatures with
+sharp grasping claws, monsters that are both powerful and agile. To find one of
+these creatures would be a harrowing experience, and the hallway is lined with
+scores of these prints. The hallway could easily be mistaken for a road, as it
+is large enough for convoys and wagons to pass through. Despite being
+underground, the ceiling of this passageway is high above and lost in the
+shadows.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15716
+D2
+~
+~
+0 0 15714
+S
+#15716
+A Dark Passageway (I)~
+Torches hang from brackets in the stone walls. The large passageway seems to
+devour the light, leaving shadows everywhere. The dirt floor is hard, as if it
+has been baked in the hot sun for many years. Several large footprints have
+been embedded into the hard dirt floor. Any creatures that could leave markings
+that large warrant caution. The hallway is massive, causing the slightest sound
+to send booming echoes throughout.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15717
+D2
+~
+~
+0 0 15715
+S
+#15717
+A Dark Passageway (I)~
+Large stone walls line the passageway. The hallway is both wide and tall, and
+could easily accommodate a small army marching through it. The dirt floor is
+hard and smooth, with few pebbles and rocks to impede movement. The torches
+fastened in brackets high up on the wall seem to cast more shadows than light.
+Scores of giant footprints are embedded into the hard dirt floor. The
+passageway travels to the east and to the west.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15718
+D3
+~
+~
+0 0 15716
+S
+#15718
+A Dark Passageway (I)~
+Large stone walls, a solid dirt floor and a high ceiling make the border for the
+passageway. The hallway is littered with scraps of metal and discarded tools.
+In the center of the passage there is a large iron staircase leading downwards.
+The ornate metal railing encircling the stairwell is in pristine condition and
+looks to be newly renovated. The only other exit is west through the dark
+passageway.
+~
+156 131081 0 0 0 40
+D3
+~
+~
+0 0 15717
+D5
+~
+~
+0 0 15719
+S
+#15719
+An Iron Stairwell (I)~
+The stairwell is extremely steep, and the large iron steps warrant caution. 
+The stairway is exquisitely crafted and has a series of mystical symbols
+delicately carved into the metal steps. The hand railing is equally ornate. 
+Intricate pictures of great battles and powerful wizards are carved from the
+iron. The entire stairwell is surrounded by an eerie green aura.
+~
+156 131081 0 0 0 40
+D4
+~
+~
+0 0 15718
+D5
+~
+~
+0 0 15720
+S
+#15720
+An Intersection of Lava Tunnels (I)~
+Several old lava tunnels meet to create a focal point for this massive cavern.
+The lava has long since receded, but trace amounts of molten rock can still be
+seen in an intricate lattice of cracks and crevices in the wall and ceiling. 
+The glowing lava provides light and heat in the otherwise dank tunnels. A
+staircase leading upwards stands in the center of the intersection. Lava
+tunnels lead to the north, south and east.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15721
+D1
+~
+~
+0 0 15729
+D2
+~
+~
+0 0 15725
+D4
+~
+~
+0 0 15719
+S
+#15721
+A Lava Tunnel (I)~
+The walls are scorched from years of molten lava running through them. Trace
+amounts of glowing lava crawl through crevices in the floor, providing light and
+heat. The tunnel is massive, causing the faintest sound to send a booming echo
+throughout the area. The walls are adorned with mystical symbols that look to
+hold great power and importance for whoever wrote them.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15722
+D2
+~
+~
+0 0 15720
+S
+#15722
+A Lava Tunnel (I)~
+The tunnel walls are blackened and smooth from years of lava flowing through
+them. The flow of the lava has since changed course, but trace amounts still
+flow through a maze of cracks and crevices along the walls, providing light and
+heat for the room. Steam rises from the lava, carrying with it a putrid odor
+thick with sulfur. A series of indistinguishable glyphs adorn the walls.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15723
+D2
+~
+~
+0 0 15721
+S
+#15723
+A Lava Tunnel (I)~
+Though the tunnel has run dry, sulfur still fills the air. Tiny streams of lava
+seep through cracks in the floor and wall. The blackened walls are smooth after
+years of lava eroding them. Gruesome drawings hang from the ceiling, depicting
+violent acts and great battles. A strong draft wafts through the room from
+below, indicating an opening in the tunnels may be nearby. The tunnel also
+continues to the south.
+~
+156 131081 0 0 0 40
+D2
+~
+~
+0 0 15722
+D5
+~
+~
+0 0 15724
+S
+#15724
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+156 131080 0 0 0 40
+D4
+~
+~
+0 0 15723
+S
+#15725
+A Lava Tunnel (I)~
+The tunnel walls are blackened and smooth from years of lava flowing through
+them. The flow of the lava has since changed course, but trace amounts still
+flow through a maze of cracks and crevices along the walls that provide light
+and heat for the room. A series of indistinguishable glyphs adorn the walls. 
+Giant footprints are embedded in a layer of ash that covers the floor.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15720
+D2
+~
+~
+0 0 15726
+S
+#15726
+A Lava Tunnel (I)~
+The lava flow has long since changed course in this massive tunnel, yet small
+amounts still trickle through fissures in the walls and ceilings. The high
+sulfur content in the lava causes it to have an incandescent yellow glow that
+provides heat and light for the room. Giant footprints are embedded in a layer
+of ash that covers the ground. The footprints appear to have been made
+recently.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15725
+D2
+~
+~
+0 0 15727
+S
+#15727
+A Lava Tunnel (I)~
+Though the tunnel has run dry, sulfur still fills the air. Tiny streams of lava
+seep through cracks in the floor and walls. Several inches of greyish ash cover
+the ground. The tunnel is remarkably large, evidence of the size and power of
+the nearby volcano as well as the current inhabitants of the area. A strong
+draft wafts through the room, indicating an opening in the tunnels may be
+nearby. A path leads downward into a large cavern or north through the lava
+tunnel.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15726
+D5
+~
+~
+0 0 15728
+S
+#15728
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+156 131080 0 0 0 40
+D4
+~
+~
+0 0 15727
+S
+#15729
+A Lava Tunnel (I)~
+The walls are scorched from years of molten lava running through them. The area
+reeks of sulfur as trace amounts of glowing lava crawl through crevices in the
+floor, providing light and heat. The tunnel is massive, causing the faintest
+sound to send a booming echo throughout the area. The walls are adorned with
+mystical symbols that look to hold great power and importance for whoever wrote
+them.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15730
+D3
+~
+~
+0 0 15720
+S
+#15730
+A Lava Tunnel (I)~
+The lava flow has long since changed course in this massive tunnel, yet small
+amounts still trickle through fissures in the walls and ceilings. The high
+sulfur content in the lava causes it to have an incandescent yellow glow that
+provides heat and light for the room. The floor and walls are dark and smooth
+as a result of years of lava flowing through the tunnel. A series of talismans
+depicting the destruction of enemies hang from the cavern roof.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15731
+D3
+~
+~
+0 0 15729
+S
+#15731
+A Lava Tunnel (I)~
+The tunnel walls are blackened and smooth from years of lava flowing through
+them. The flow of the lava has since changed course, but trace amounts still
+flow through a maze of cracks and crevices along the walls that provide light
+and heat for the room. A series of indistinguishable glyphs adorn the walls. 
+There is no way to be certain, but the markings look like runes or charms of
+some sort.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15732
+D3
+~
+~
+0 0 15730
+S
+#15732
+A Lava Tunnel (I)~
+Though the tunnel has run dry, sulfur still fills the air. Tiny streams of lava
+seep through cracks in the floor and wall. The tunnel is remarkably large,
+evidence of the size and power of the nearby volcano, as well as the current
+inhabitants of the area. A strong draft wafts through the room, indicating an
+opening in the tunnels may be nearby. The tunnel heads down into a large
+cavern.
+~
+156 131081 0 0 0 40
+D3
+~
+~
+0 0 15731
+D5
+~
+~
+0 0 15733
+S
+#15733
+The Cavern of Creation (I)~
+A strong metal platform is raised inches above a river of hot flowing lava. 
+The platform is surrounded by a blue aura and seems to offer protection from the
+constant barrage of flames bursting up from the fiery river. The lava appears
+to be the nesting ground for a powerful spell that brings forth the terrible
+monsters residing here. Talismans and charms hang from the ceiling, depicting
+the birth of various beasts from the molten river. Many cocoon-like balls rest
+in the riverbed, and the creatures inside the transparent shell can be seen
+taking shape.
+~
+156 131080 0 0 0 40
+D4
+~
+~
+0 0 15732
+S
+#15734
+A Dark Passageway (I)~
+The large stone walls lining the passageway are made from heavy gray stones. 
+Iron scaffolding surrounds the walls, as their construction is incomplete. 
+Tools and various construction materials lie scattered on the floor, rusted and
+ill-kept. There are torches fastened to the walls, but the light they cast is
+engulfed immediately by shadows. The shadows linger in the air and surround the
+area in darkness, as if they were guided by a magical force. The air is stale
+and heavy. The passageway heads west.
+~
+156 131081 0 0 0 40
+D3
+~
+~
+0 0 15714
+S
+#15735
+Deep Within the Keep (I)~
+The hallway is composed of smooth stone walls that are exquisitely cut and
+ornately crafted. The keep is uncomfortably warm, and the area is clouded by
+smoke and small fires that make it difficult to see. There is a door to the
+north that is bordered by two large torches topped with brightly burning flames.
+The door is covered with symbols that look ancient and powerful. A mystical
+blue-green glow originates from behind the door, seeping out through the cracks
+and filling the corridors with its eerie light. Doors to the north and south
+lead off the main hallway.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15736
+D1
+~
+~
+0 0 15796
+D2
+~
+~
+0 0 15701
+D3
+~
+~
+0 0 15740
+S
+#15736
+Before the Unholy Shrine of Power (I)~
+A mystical blue-green mist emanating from the north sets the room aglow. 
+Ancient artifacts hang along the walls in reverence to the great deities. 
+Magnificent statues of the great sorcerers throughout history have been carved
+and displayed throughout the room. The focal point of the room is a large,
+gruesome-looking sacrificial stone. The sacrificial stone is lined with a satyr
+skin blanket and ornamented with satyr horns. The stone table is stained red
+from the numerous sacrifices performed on it. Candles surround the table in a
+ceremonial fashion, with each flame blazing solemnly. A great altar is to the
+north, while private chambers open to the east and west. The exit to the main
+part of the keep is to the south.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15738
+D1
+~
+~
+0 0 15739
+D2
+~
+~
+0 0 15735
+D3
+~
+~
+0 0 15737
+S
+#15737
+The Chamber of Sacrificial Rites (I)~
+A plush red carpet lines the floor of this elegantly decorated chamber. A
+collection of exquisitely carved idols is displayed throughout the room. 
+Ancient runes adorn the walls in an ornamental fashion, each one designed with a
+fine hand and displayed in reverence. Dozens of candles light the room, each
+one resting in a golden candlestick. A series of ceremonial robes are neatly
+folded upon a shelf hanging from the western wall. A small table rests in the
+corner, with a number of items used for personal grooming organized on it. A
+large porcelain basin rests beside the table, filled with holy oil used to
+purify offerings before they are sacrificed.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15736
+S
+#15738
+The Unholy Shrine of Power (I)~
+An altar stands raised atop a dais by the northern wall. A series of candles
+placed along the dais and hung on the walls add to the reverent atmosphere of
+the shrine. The main focal point of the room is a giant statue of the great
+sorcerer Ifcarius that has been raised next to the altar. With its arm
+outstretched, the statue holds a magnificent orb that shines an awesome
+blue-green light that is almost blinding. The glow permeates the room in an
+eerie mist, surrounding each item of the shrine with its power. The walls of
+the shrine are adorned with sacred artifacts that seem to transcend themselves
+as they shimmer in the strange light. Depictions of the mighty deities along
+the walls appear to come to life with the magic of the orb.
+~
+156 131080 0 0 0 40
+D2
+~
+~
+0 0 15736
+S
+#15739
+The Chamber of Veneration and Meditation (I)~
+The room's decorum displays a delicate balance of splendor with humility. 
+Pews, handcrafted from pine, rest atop a lush red carpet that is inlaid with
+fine gold embroidery. Worshippers are able to pay homage to the various stone
+idols that have been exquisitely carved and displayed about the room. A
+plethora of candles set in golden candlesticks cast a warm glow across the room,
+and a small hearth in the northern wall amplifies the warmth of the room. An
+eerie blue-green mist fills the room and seems to permeate every item.
+~
+156 131080 0 0 0 40
+D3
+~
+~
+0 0 15736
+S
+#15740
+Deep Within the Keep (I)~
+The hallway is composed of smooth stone walls that are exquisitely cut and
+ornately crafted. Etched from the dark stone is the image of a wild beast. 
+Fire burns from the animal's nostrils, providing sufficient light for the large
+hallway. The floor is composed of cobblestones interlaced in an intricate
+pattern. Thick brown ivy has grown up from the cracks between the stones,
+covering much of the walls and floors. To ward off predators, the blossoms on
+the ivy spit out small flames that can be quite harmful. The hallway continues
+to the north and east.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15741
+D1
+~
+~
+0 0 15735
+S
+#15741
+A Worn-Down Path in the Giants' Keep (I)~
+The walls of the keep are composed of thick black granite. The image of a
+dragon has been carved into the stone walls. Flames burst out from the dragon's
+nostrils as a source of light for the hallway. The remaining sections of the
+wall are covered in thick brown ivy. The ivy has vibrant red blossoms that can
+be very deadly, as they sporadically release small bursts of flames into the air
+to ward off predators. The floor is a patchwork of cobblestones that are badly
+cracked and in need of repair.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15742
+D2
+~
+~
+0 0 15740
+S
+#15742
+A Worn-Down Path in the Giants' Keep (I)~
+The old cobblestone path has cracked and broken down over the years. Thick
+brown ivy rises up from the ground, encompassing most of the room. The ivy is
+covered with sharp thorns that drip a thick mucus that looks to be poisonous. 
+Bright red blossoms spit out small flames at trespassers who might damage the
+ivy's roots. Hidden behind the layers of ivy are intricate carvings of fierce
+beasts. In one image, a wild boar snorts fire from its nostrils in a furious
+expression of anger that lights the entire area.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15743
+D2
+~
+~
+0 0 15741
+S
+#15743
+A Worn-Down Path in the Giants' Keep (I)~
+Blackened walls line the hallway, etched into the stone of the mountain. The
+darkness that encompasses the hallway seems natural and well-suited here. 
+Images of terrible beasts have been carved into the stone walls. The sculptures
+are expertly crafted and appear as if they may come to life at any moment. The
+eyes of the idols glow red and glimmer with an unworldly power. Thick brown
+vines have grown atop the sculpture, entwining it in manner that looks both
+violent and comfortable. The sharp thorns of the vines add to the fierce and
+menacing appearance of the carvings.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15744
+D2
+~
+~
+0 0 15742
+S
+#15744
+A Worn-Down Path in the Giants' Keep (I)~
+Little remains of a once-elegant cobblestone path. The stones are all shattered
+and broken. Vines of ivy have grown from underneath the stone to overwhelm the
+pathway. The ivy has crawled up the thick stone walls of the mountainous keep,
+attaching itself to the numerous carvings that have been etched into the granite
+walls. The carvings have been expertly crafted and are in exquisite condition
+despite the poor environment. Mythical creatures, fierce and deadly, stand in
+judgement of all who pass through. The eyes of the idols burn with a mystical
+fire that might inspire terror in the bravest soul.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15745
+D2
+~
+~
+0 0 15743
+S
+#15745
+A Worn-Down Path in the Giants' Keep (I)~
+A foreboding darkness fills the worn-out pathway. Mythical creatures carved
+into the stone walls loom over the area, attempting to humble all who pass. 
+Their fiery red eyes burn with indignation, while their stone faces are carved
+with a look of pure contempt. Strings of brown ivy cling to the stone figures,
+violently fastening themselves to each nook along the wall. The ivy's sharp
+thorns provide a hint of the plant's deadly nature. Small bursts of fire shoot
+out from the vine's blossoms to ward off predators. A worn-out path continues
+to the north and south, while a sinister tunnel opens to the west.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15758
+D2
+~
+~
+0 0 15744
+D3
+~
+~
+0 0 15746
+S
+#15746
+A Sloped Tunnel (I)~
+The dark tunnel slopes at a hazardous angle. The sharp incline, along with the
+rocky terrain, makes it difficult to travel at a quick pace. The tunnel is
+composed of thick stone walls that echo each step. The warmth in the tunnel
+causes droplets of condensation to form small puddles on the ground. Ominous
+stalactites hang from the cavern overhead, their razor-sharp tips able to crush
+a person in an instant should they fall. Several vultures can be seen hiding in
+the shadows of the tunnel, awaiting their next feast.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15745
+D3
+~
+~
+0 0 15747
+S
+#15747
+A Sloped Tunnel (I)~
+Torches line the chiseled stone walls of the tunnel. The lights of the flames
+are lost against the darkness that encompasses the tunnel. The sharp incline,
+along with the rocky terrain of the tunnel, warrants cautious movement. Vermin
+can be seen scurrying through the shadows, scavenging for food. A persistent
+dripping sound echoes throughout the tunnel as the droplets of condensation form
+small puddles on the floor. The air is stale this far below ground. A strange
+draft comes from deep within the tunnel and carries with it an unpleasant odor.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15746
+D3
+~
+~
+0 0 15748
+S
+#15748
+A Sloped Tunnel (I)~
+The stone walls of the tunnel are jagged and harsh. Ominous stalactites hang
+from the cavern overhead, their razor-sharp tips able to crush a person in an
+instant should they fall. The ground is wet from the condensation dripping from
+the ceiling. The rocky path is on a steep incline that warrants cautious
+movement. A robust draft coming from the north carries with it an odor that is
+oddly familiar and unthreatening, but also strongly repulsive. Torches lining
+the tunnel wall flicker against the breeze, casting shadows throughout. Vermin
+can be seen scurrying about in the darkness as they scavenge for food.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15749
+D1
+~
+~
+0 0 15747
+S
+#15749
+The Walk of Pain (I)~
+Death fills the area. Corpses have been mounted for display upon the walls,
+using thick iron clamps to suspend the lifeless bodies. The victims were badly
+tortured before they died, as the cadavers are all burned and covered with
+scars. Many of the corpses are so badly mutilated and disfigured it is
+difficult to tell which species they are. Maggots and lice crawl through the
+open orifices, slowly eating away the skin and tissues. The hard floor is
+stained red from the blood that has seeped into the stone, while piles of feces
+rot in the hot tunnel.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15750
+D2
+~
+~
+0 0 15748
+S
+#15750
+The Walk of Pain (I)~
+A loud buzzing sound fills the air from the swarms of insects attracted to the
+pools of dried blood and feces covering the ground. The smell of death wafts
+through the air, as decaying corpses have been mounted to the wall using thick
+iron clamps and metal chains. Maggots and lice infest the bodies, crawling
+through the open orifices in overwhelming numbers. The remains are all
+mutilated and disfigured from the agonizing torture they were subjected to. 
+The bodies are burned and missing various appendages. Many of the bones have
+been broken, and numerous teeth are missing from the skeletal remains.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15751
+D2
+~
+~
+0 0 15749
+S
+#15751
+The Walk of Pain (I)~
+The smell of death fills the air. Corpses hang upon the thick stone walls,
+suspended there by iron restraints and heavy chains. The naked bodies are badly
+tortured, their cadavers burnt and scarred. Many of the corpses were beaten so
+badly that they have been left disfigured and beyond recognition. Vermin crawl
+through the walkway, unabashedly eating the little meat that remains on the
+corpses. Maggots invade the bodies from the inside, crawling through the open
+orifices in search of food. The floor is stained red from the blood that has
+seeped into the stone floor.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15752
+D2
+~
+~
+0 0 15750
+S
+#15752
+The Walk of Pain (I)~
+The putrid stench of death reeks throughout the area. Several corpses have been
+hung upon the wall and left to rot. The naked bodies are all badly burned and
+scarred. Many of the corpses have been disfigured, leaving them without limbs
+or eyes. Swarms of maggots crawl out from the open orifices, eating the bodies
+from the inside out, while the vermin infesting the walkway unabashedly feast on
+the little meat that remains on the decaying corpses. Torches hanging on the
+walls flicker against the darkness, casting shadows across the path.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15753
+D1
+~
+~
+0 0 15754
+D3
+~
+~
+0 0 15751
+S
+#15753
+The Chamber of Enlightenment (I)~
+Thick stone walls enclose the room. Torches flicker against the darkness,
+casting shadows everywhere. A bright light beams down from above towards a
+chair in the center of the room, encircling the chair in its brilliance. Thick
+metal clamps are attached to the arms and legs of the chair to act as
+restraints. Instruments of torture have been mounted on the wall, designed to
+help the misguided find their faith. Large idols stand in the corners of the
+room, looking down upon the chamber in judgement.
+~
+156 131080 0 0 0 40
+D2
+~
+~
+0 0 15752
+S
+#15754
+The Walk of Pain (I)~
+A loud buzzing sound fills the area from the swarms of insects attracted to the
+pools of dried blood and feces covering the floor. Thick chains fastened to the
+walls are used to restrain prisoners. Most of the captives are long since dead,
+their bodies infested with maggots and lice. The corpses all look as if they
+were horribly tortured before they died, as the bodies are covered with scars.
+Many of the bodies are badly burned and are missing appendages or eyes. 
+Torches fastened to the wall flicker against the darkness, casting numerous
+shadows across the walk.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15757
+D1
+~
+~
+0 0 15755
+D3
+~
+~
+0 0 15752
+S
+#15755
+The Walk of Pain (I)~
+The darkened hallway smells of death and decay. A solitary torch flickers
+against the darkness, casting shadows across the walk. The thick stone walls
+bordering the walkway are stained red with the blood of those unlucky enough to
+reside here. A small table can be seen in the corner, holding an array of tools
+designed to inflict pain. Various types of restraints line the walls, many of
+them still holding the remains of the unfortunate victims. Vermin crawl through
+large cracks in the eastern wall, feasting unabashedly off the numerous corpses
+left on display.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15756
+D3
+~
+~
+0 0 15754
+S
+#15756
+The Chamber of Death (I)~
+The air reeks with the smell of decay. The dank room is infested with vermin
+attracted to numerous piles of filth covering the ground. A fire pit fuming
+with hot coals has been constructed in the center of the room. Giant chains
+hang down from above the fireplace, with the charred remains of a corpse
+fastened in them, suspended above the fire. A variety of large stakes and
+knives have been mounted against the walls, clearly used as instruments of
+torture. The stone walls have become stained red over the years from the blood
+that has splattered against them.
+~
+156 131080 0 0 0 40
+D2
+~
+~
+0 0 15755
+S
+#15757
+A Torture Chamber (I)~
+The stone walls of the chamber seem to close in upon themselves. A large table
+sits in the center of the room. A white sphere hovers over the table, casting a
+blinding light around it. The table has several leather straps, used to
+restrain the head, arms, legs and body, fastened to it. The straps look
+well-used, as they are beginning to fray and are covered in blood. Surgical
+instruments rest atop a smaller table off to the side. The instruments are
+blunt and covered with rust and dried blood. Various swords, whips and prods
+can be seen hanging on the walls, ready to be used.
+~
+156 131080 0 0 0 40
+D2
+~
+~
+0 0 15754
+S
+#15758
+A Worn-Down Path in the Giants' Keep (I)~
+Likenesses of mythical creatures have been expertly carved into the stone walls
+of the keep. The statues stand boldly, looking down in judgement at all who
+pass through. A bright red glow emanates from the statues' eyes, which look as
+if they could pierce the soul. Violent spurts of fire are spewed from the
+mouths or nostrils of dragons, lizards and other such bestial carvings. Thick
+vines of brown ivy infest the pathway, latching on and fighting for room in
+which to grow. The ivy's colorful flowers discharge small bursts of flame into
+the air to ward off predators.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15759
+D2
+~
+~
+0 0 15745
+S
+#15759
+A Worn-Down Path in the Giants' Keep (I)~
+Shadows fall across the darkened and decrepit path. The stone walls bordering
+the pathway are made of thick black granite that looms from above. A series of
+sculptures have been expertly carved into the wall, depicting a variety of
+fierce and powerful creatures. The eyes of these creatures have an unworldly
+red glow that might inspire terror in the fiercest soldier. The sculptures have
+all been carved with contemptuous expressions designed to inspire fear and
+humility. Flames spurt out of the creatures' mouths in a terrifying display
+that lights the area.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15760
+D2
+~
+~
+0 0 15758
+S
+#15760
+A Worn-Down Path in the Giants' Keep (I)~
+Tangles of brown vines seem to explode across the worn-down path. Brilliant red
+blossoms flourish from the vines despite the darkness that overwhelms the area.
+Bursts of flame shoot out from the vibrant flowers with alarming power in order
+to ward off predators. Hidden behind the vines are images of powerful creatures
+carved into the stone walls. The eyes of these beasts glow with a supernatural
+light that is penetrating. The creatures' faces are carved with contemptuous
+expressions designed to inspire fear and humility.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15761
+D2
+~
+~
+0 0 15759
+S
+#15761
+A Worn-Down Path in the Giants' Keep (I)~
+Shadows descend along the pathway, bringing with them an eerie darkness. The
+blackness is only broken by bursts of flame created from the blossoms of the
+fire ivy that has grown over the entire pathway. The explosion of ivy across
+the area adds a wild ambience to the old pathway, which is composed of
+broken-down cobblestones and thick granite walls. Mythical creatures carved
+into the stone walls loom over the area, designed to humble all who pass. 
+Their fiery red eyes burn with indignation, while their stone faces are carved
+with a look of pure contempt.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15762
+D2
+~
+~
+0 0 15760
+S
+#15762
+A Worn-Down Path in the Giants' Keep (I)~
+A series of large red eyes looks down across the pathway in stern judgement. 
+The eyes burn with an intensity that is not natural to this world. The faces
+that the eyes belong to are equally frightful. Carved from the black stone
+walls, each face is that of a fierce creature scowling down upon the world. 
+Fire spews from the statues' mouths and nostrils with enough vigor to light the
+entire area. The statues are in remarkably good condition, especially in
+relation to the rest of the pathway. The cobblestones lining the path have worn
+away and cracked. Vines of thick brown ivy have grown out from the ground and
+overtaken most of the walls.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15763
+D2
+~
+~
+0 0 15761
+S
+#15763
+A Worn-Down Path in the Giants' Keep (I)~
+Strange bestial carvings have been etched out of the black granite stone walls.
+Spiteful and angry expressions have been drawn into their faces as they peer
+down upon the pathway. The cobblestone path itself has become cracked and
+broken down over the years. Vines of fire ivy grow wildly across the pathway
+and over the walls. Two large statues draped in elegant jewels and rich
+clothing border a thick iron door to the north. The statues are holding large
+spears that have been crossed to form an arch over the doorway. Two torches
+casting mystical blue flames high into the air border the entryway. The
+worn-down pathway continues to the south and east.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15764
+D1
+~
+~
+0 0 15766
+D2
+~
+~
+0 0 15762
+S
+#15764
+The Antechamber to Ifcarius's Study (I)~
+The antechamber is large and well-kept. A pleasant fire warms the room from a
+small hearth built into the northern wall. A brilliant white orb hovers above
+the room, shining a pleasant light across the area. Several statues have been
+decoratively placed throughout the room. All of the statues are exceptionally
+well-crafted and appear to have a larger significance than the mere decorative
+function. Several comfortable-looking chairs have been placed appropriately
+across the room for waiting guests, and there is a small but elegant table at
+which to meet. A large set of stairs leads upwards into the private study.
+~
+156 131080 0 0 0 40
+D2
+~
+~
+0 0 15763
+D4
+~
+~
+0 0 15765
+S
+#15765
+Ifcarius's Private Study (I)~
+A cloud of sparkling golden dust magically rains down through the study,
+bringing light and warmth to the room. A series of shelves and elegant cases
+cover the walls of this circular chamber. The shelves are filled with rare
+potion ingredients, sacred artifacts, rare manuscripts and other valuable
+treasures that are magnificent to behold. A small table has been placed on the
+north side of the room, along with a pair of comfortable-looking chairs. 
+Behind the desk stands an antique mirror encased in a glimmering silver frame.
+An ancient rune carved into the center of the thick stone floor glows with a
+strong blue aura, radiating power. A large hearth has been constructed in the
+center of the room, its scalding embers sizzling as they burn. A cauldron rests
+inside the hearth, steam rising from the potent mixture brewing within it.
+~
+156 131080 0 0 0 40
+D5
+~
+~
+0 0 15764
+S
+#15766
+A Worn-Down Path in the Giants' Keep (I)~
+The thick granite walls lining the pathway tower high above, completely lost in
+the shadows. Arcane runes are etched upon the surface of the wall, an ancient
+ward of protection in honor of the fire gods. The runes are surrounded by an
+unworldly glow that shimmers against the darkness. Uneven cobblestones compose
+the rugged floor, the surface crumbling due to the amount of vines that grow up
+from beneath. Tiny red blossoms on the ivy spit forth acidic fire, warning off
+predators.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15767
+D3
+~
+~
+0 0 15763
+S
+#15767
+A Worn-Down Path in the Giants' Keep (I)~
+A soft puffing sound fills the corridor as vines of fire ivy ward off their
+enemies with bursts of acidic flame. The brown ivy grows wildly across the
+pathway, seemingly untamed and unattended for quite some time. The thick stone
+walls have exquisite carvings etched into them. The granite has been shaped
+into the images of fierce creatures. Fire spews from the nostrils and mouths of
+these stone beasts, providing light for the otherwise dark hallway.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15768
+D3
+~
+~
+0 0 15766
+S
+#15768
+A Worn-Down Path in the Giants Keep (I)~
+Fiery red eyes look down from above in judgement. The eyes have a piercing look
+filled with contempt and disgust that might make the bravest warrior pause. 
+The eyes belong to carvings that have been etched into the granite walls of the
+Keep. The images are stark and fierce, designed to humble those who walk
+through. Fire spews from the mouths of several of the beasts carved into the
+walls, providing light for the hallway. Vines of fire ivy have exploded across
+the path over the years. The vines entwine around the carvings, wrapping them
+in their sharp thorny stalks, which only adds to the wild look of the area.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15769
+D3
+~
+~
+0 0 15767
+S
+#15769
+A Worn-Down Path in the Giants' Keep (I)~
+Vines of fire ivy grow wildly across the worn-out path. The vine's vibrant red
+flowers shoot small bursts of flame into the air to ward off predators. The
+sharp thorns of the ivy drip a thick acidic mucus onto the ground. The untamed
+vines climb the thick stone walls, entwining themselves around a series of
+granite carvings hanging there. The carvings look fierce and angry. Their
+crooked mouths are shaped with a look of pure contempt. Smoke and fire spew
+from the carvings' nostrils, which only adds to their ferocious appearance.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15770
+D3
+~
+~
+0 0 15768
+S
+#15770
+A Worn-Down Path in the Giants' Keep (I)~
+The cobblestones lining the pathway have become cracked and practically worn
+away. Soft black sand drifts across the ground, filling in the spaces between
+stones. Stalks of fire ivy have grown up from the ground beneath the stone,
+overwhelming the area with their thorny vines. Brilliant red flowers bloom on
+the ivy, each one releasing a small burst of acrid flame into the air to ward
+off predators. The vines grow untamed over the unkempt pathway. The ivy
+entwines itself around expertly crafted stone carvings that have been embedded
+into the walls. The bestial carvings look fierce, with their eyes set ablaze by
+a mystical power. The eyes look down on all who pass through the hallway in
+stern judgement.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15771
+D3
+~
+~
+0 0 15769
+S
+#15771
+A Worn-Down Path in the Giants' Keep (I)~
+The pathway is overgrown with stalks of fire ivy growing wildly about. A
+hissing sound fills the room as the blossoms spit forth bursts of flame. The
+vine's razor-sharp thorns glimmer against the flames, giving additional warning
+of the ivy's deadly nature. Stalks of ivy twist their way along the walls,
+entwining some ancient sculptures in their grasp. The fierce-looking sculptures
+are a tribute to the gods of fire. Smoke and flames spew from the mouths and
+nostrils of the bestial carvings, while the eyes burn with a mystical power that
+is undeniable.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15772
+D3
+~
+~
+0 0 15770
+S
+#15772
+A Worn-Down Path in the Giants' Keep (I)~
+Uneven cobblestones that once made up the path are puzzled together, their
+surfaces worn by decades of use. Stalks of fire ivy grow from the black sand
+beneath the cobblestone, overtaking the area. The ivy grows untamed, climbing
+all over the floor and walls. The ivy's bright red blossoms spit out bursts of
+flame to ward off predators and light up the room. The vines climb atop several
+striking sculptures of the fire gods that have been etched out of the stone
+walls. The carvings' stern faces stare down in judgement of those who pass
+through the path.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15773
+D3
+~
+~
+0 0 15771
+S
+#15773
+A Worn-Down Path in the Giants' Keep (I)~
+The thick stone walls seem to close in along the pathway. Dragon head sconces
+are embedded in the blackened walls, billowing forth rancid flames that light
+the otherwise dismal area. Carved images of ancient lore cover the walls as an
+homage to powerful fire gods. The stark images are made to look even more
+violent by the thorn-covered vines that cling to the walls and entwine around
+the ruins. The sharp thorns on the ivy glisten against the firelight. Bursts
+of acidic fire spurt from the ivy's red blossoms to ward off predators. The
+pathway continues to the west and south.
+~
+156 131081 0 0 0 40
+D2
+~
+~
+0 0 15774
+D3
+~
+~
+0 0 15772
+S
+#15774
+A Worn-Down Path in the Giants' Keep (I)~
+The old cobblestone path has cracked and broken down over the years. A dark
+sand has filled in the cracks and has provided an ideal breeding ground for
+vines of fire ivy to flourish. The thick brown stalks rise up from the ground,
+encompassing most of the room. The ivy is covered with sharp thorns that drip a
+thick mucus that glistens against the firelight. Bright red blossoms spit out
+small flames at trespassers who might damage its roots. Hidden behind the
+layers of ivy are intricate carvings depicting a powerful deity standing in
+judgement over its followers. The carved images depict the deity engulfing the
+followers in a barrage of flames to cleanse them of their sins. Flames shoot
+forth from the mouth of a dragon head sconce that has been hung on the wall to
+light the path.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15773
+D2
+~
+~
+0 0 15775
+S
+#15775
+A Worn-Down Path in the Giants' Keep (I)~
+The cobblestone path has become worn away over the years. A layer of black sand
+fills in the gaps between the broken cobblestones. Thick stalks of fire ivy
+sprout from out of the sand, growing wildly over the ground and up the walls. 
+The fire ivy has bright red blossoms that periodically release bursts of flame
+into the air to protect its roots from predators and trespassers. The vine's
+sharp thorns drop a thick mucus that shimmers against the firelight. Sconces
+shaped like a dragon's head hang along the stone walls, spewing out a mystical
+blue flame that lights the pathway.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15774
+D2
+~
+~
+0 0 15776
+S
+#15776
+A Worn-Down Path in the Giants' Keep (I)~
+Sconces shaped in the image of a dragon's head have been fastened to the
+blackened walls of the keep. Mystical blue flames spew from the dragon's mouth,
+attempting to light the dismal path. The darkness that encompasses the hallway
+seems natural and well-suited here. Images of powerful deities have been carved
+into the stone walls. The sculptures are expertly crafted and appear as if they
+may come to life at any moment. The eyes of the idols glow red and glimmer with
+an unworldly power. Thick brown vines have grown atop the sculpture, entwining
+it in a manner that looks both violent and natural. The sharp thorns of the
+vines add to the fierce and menacing appearance of the carvings.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15775
+D2
+~
+~
+0 0 15777
+S
+#15777
+A Worn-Down Path in the Giants' Keep (I)~
+Black sand covers the old cobblestone path that has worn away over the years. 
+Stalks of fire ivy have exploded from out of the sand, growing along the ground
+and up along the walls. The ivy's brilliant red blossoms spit out bursts of
+flame into the air to help ward off predators. The flames do little to fight
+off the darkness that encompasses the pathway. Through the darkness, a strange
+glow can be seen from within the walls. Ancient glyphs carved into the stone
+project a mystical aura of power into the room.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15776
+D2
+~
+~
+0 0 15778
+S
+#15778
+A Worn-Down Path in the Giants' Keep (I)~
+An eerie darkness has descended upon the old cobblestone path. Sconces, in the
+form of a dragon's head, have been fastened to the walls. A mystical blue fire
+spews from the mouth of the sconces, but does little to lift the darkness. The
+blackness seems only to be broken by a powerful aura emanating from within the
+stone walls lining the pathway. Ancient runes have been carved into the granite
+walls of the keep. The carvings glow with an unworldly light that seems both
+powerful and dangerous. The images carved into the walls depict gruesome acts
+of violence in the guise of righteousness, amidst a sea of flames.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15777
+D2
+~
+~
+0 0 15779
+S
+#15779
+A Worn-Down Path in the Giants' Keep (I)~
+The old cobblestone path is cracked and worn away. Vines of fire ivy have grown
+up from beneath the stone to overwhelm the pathway. Bursts of flame shoot from
+the ivy's bright red blossoms to help ward off predators. The vine's sharp
+thorns glimmer against the firelight, providing a hint of the ivy's deadly
+nature. The ivy has climbed along the walls, wrapping around the stone carvings
+embedded into them. The carvings represent great fire gods, looking down in
+judgement on all who pass through. The eyes of the carvings burn with an
+unworldly fire, and their faces are carved in a menacing scowl. The idols are
+so expertly crafted they look as if they might come alive at any moment.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15778
+D2
+~
+~
+0 0 15780
+S
+#15780
+A Worn-Down Path in the Giants' Keep (I)~
+The blackened walls of the keep seem to rise endlessly above. Carved into the
+granite walls are exquisite statues of the great fire gods. The idols' eyes
+burn with a mystical fire that is penetrating. The rest of the statues' faces
+are carved with a fierce expressions of anger and condemnation. The violent
+features of the carvings are exaggerated by the large thorns on the stalks of
+fire ivy that grow wildly along the walls. The vines entwine around the idols
+in a manner that looks both fierce and fitting. The ivy's brilliant red flowers
+release a burst of flame into the air to ward off trespassers.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15779
+D2
+~
+~
+0 0 15781
+S
+#15781
+A Worn-Down Path in the Giants' Keep (I)~
+Shadows descend along the pathway, bringing with them an eerie darkness. 
+Sconces shaped like a dragon's head spew a mystical blue flame across the
+pathway, but do little to lighten the area. Bursts of flame shoot out from the
+blossoms of the fire ivy that has overgrown the entire area. The explosion of
+ivy across the area adds a wild ambience to the old pathway, composed of
+broken-down cobblestones and thick granite walls. An homage to the great fire
+gods has been carved into the stone walls. The deities are portrayed looking
+down upon the masses in stern judgement, while releasing a sea of flames across
+the landscape to absolve the people of their sins. The portrait glows with a
+mystical power that is not of this world.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15780
+D2
+~
+~
+0 0 15782
+S
+#15782
+A Worn-Down Path in the Giants' Keep (I)~
+The old cobblestone path has become cracked and rugged over the years. Vines of
+fire ivy rise up from beneath the stones to overwhelm the room. The thick brown
+stalks are covered with sharp thorns that drip a thick viscous liquid onto the
+ground. The ivy's bright red blossoms shoot bursts of flame into the air to
+keep trespassers away from its roots. Sconces in the shape of a dragon's head
+have been fastened to the walls to help provide light for the dark pathway. 
+The sconces spew out mystical blue flames that cast an eerie glow over the area.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15781
+D2
+~
+~
+0 0 15783
+S
+#15783
+A Worn-Down Path in the Giants' Keep (I)~
+The old cobblestones composing the pathway have become worn down and cracked
+over the years. Thick stalks of fire ivy have grown up from beneath the broken
+floor to overwhelm the area. The blossoms of the fire ivy spit flames from
+their petals to protect themselves from predators. A thick iron door is to the
+east. A sconce shaped in the form of a dragon's head borders each side of the
+door, spewing out mystical blue flames to light the area. Mounted on the center
+of the door is a carving of a giant volcano. The top of the volcano glows
+brightly, as if the small statue might erupt at any moment.
+~
+156 131080 0 0 0 40
+D0
+~
+~
+0 0 15782
+D1
+~
+~
+0 0 15784
+D2
+~
+~
+0 0 15789
+S
+#15784
+The Grand Entryway to the Throne Room (I)~
+The entryway opens into a large hallway. Brightly colored war banners hang from
+the massive support beams that span the hall. Torches encased in dragon head
+sconces spew flames that light the room. Ancient treasures have been hung on
+the wall for display, while the floor is laid with expansive black marble tiles.
+Etched into the stone tiles is an intricate design that forms with the other
+tiles to create a magnificent symbol carved into the floor. Additional
+treasures are kept in glass cases displayed throughout the hallway. The
+treasures radiate with a magical energy that is almost tangible.
+~
+156 131080 0 0 0 40
+D1
+~
+~
+0 0 15785
+D3
+~
+~
+0 0 15783
+S
+#15785
+The Grand Hallway to the Throne Room (I)~
+This is a richly decorated hallway, befitting a great king. The floor is tiled
+with an exquisite black marble inlaid with silver etchings that come together to
+form a symbolic design in the floor. Moldings of fierce dragons' heads with
+fire spewing from the mouths are fastened to the wall in order to light the
+area. The walls are adorned with large portraits depicting the conquest of the
+lands. Glass cases are displayed throughout the area, filled with magical
+treasures that sparkle in the light. Despite all the riches, the focal point of
+the room is the grand staircase leading upwards to the throne room. The
+stairwell is lined with glowing orbs that cast a divine light over the stairs.
+~
+156 131080 0 0 0 40
+D3
+~
+~
+0 0 15784
+D4
+~
+~
+0 0 15786
+S
+#15786
+The Chamber of Purification (I)~
+The floor and walls of the room are tiled in pure ivory from the horns of a
+satyr and radiate a magical energy. Torches fastened to the walls burn
+brightly, casting a warm glow throughout the otherwise sparse room. A large
+basin rests atop a small but ornate pedestal in the center of the room. The
+jewel-encrusted basin is filled with fragrant oils and flower petals used to
+wash and purify the body before approaching the mighty king. The only other
+decorations are four large statues standing in the corners of the room, looking
+down on all who pass.
+~
+156 131080 0 0 0 40
+D4
+~
+~
+0 0 15787
+D5
+~
+~
+0 0 15785
+S
+#15787
+The Antechamber of the Throne Room (I)~
+The spacious room has clearly been made for a king. A crystal table dominates
+the room, surrounded by comfortable chairs. On top of the table are a
+handcrafted pitcher filled with spiced wine and a group of ruby-studded goblets.
+A collection of sparkling gems and treasures is displayed on various stands
+throughout the room. Additional treasures are mounted on the wall, including a
+sword of dark steel with a gem-covered hilt that radiates black light from its
+blade. The most striking piece in the room is a portrait of the great sorcerer
+Ifcarius posing majestically over the landscape, with his long silvery hair and
+flowing robes swaying in the breeze. A great staircase leads upwards into the
+throne room, while another set of stairs leads down.
+~
+156 131081 0 0 0 40
+D4
+~
+~
+0 0 15788
+D5
+~
+~
+0 0 15786
+S
+#15788
+The Throne Room of the Keep (I)~
+The focal point of the magnificent room is the great throne fastened near the
+northern wall of the room. The majestic throne is raised upon a large dais
+overlooking the entire room. The ornate throne is carved from fine stone and
+inlaid with sapphires and rubies that sparkle with light. Two flaming torches
+mounted upon long stone poles are encased in giant skulls that border the
+throne. Behind the throne is a giant mural of a great volcano towering over the
+landscape. Statues made in the likenesses of the fire gods have been carved
+into the walls of the throne room. The faces of the idols have been shaped with
+an expression of awe as they look down upon the throne.
+~
+156 131080 0 0 0 40
+D5
+~
+~
+0 0 15787
+S
+#15789
+Deep Within the Keep (I)~
+The walls of the keep seem to close in upon themselves, casting numerous shadows
+throughout the area. Torches have been fastened to the stone walls, their
+flames flickering against the darkness. The old cobblestones lining the ground
+have worn away, leaving the path cracked and rugged. Vines of fire ivy grow out
+of the cracks between the stones to overwhelm the area. The stalks cover the
+floor and climb over the walls, entwining around the stone statues. The statues
+pay homage to powerful deities that watch over the keep. The idols' eyes burn
+with a mystical fire as they look down upon the path. The pathway continues to
+the north and west.
+~
+156 131081 0 0 0 40
+D0
+~
+~
+0 0 15783
+D3
+~
+~
+0 0 15790
+S
+#15790
+Deep Within the Keep (I)~
+Thick stone walls border the old cobblestone pathway. The likenesses of fire
+gods have been carved into the stone of the walls. The statues' crooked mouths
+and jagged lines make them look fierce and contemptuous. The ruby eyes glow
+with a mystical energy, looking down upon the path in apparent judgement. 
+Stalks of fire ivy have overwhelmed the room, adding to the wild and untamed
+ambience. Bursts of flame shoot forth from the blossoms of the ivy to help ward
+off trespassers. The flames do little to overcome the shadows haunting the
+pathway.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15789
+D3
+~
+~
+0 0 15791
+S
+#15791
+Deep Within the Keep (I)~
+The old cobblestone path is cracked and broken. Stalks of fire ivy have grown
+between the cracks in the cobblestones and have flourished here. The vines grow
+wildly across the room and up the wall. The ivy's bright red blossoms
+periodically open their petals in order to spit out bursts of flame to keep
+trespassers away from the roots. The ivy's flames provide little light for the
+dark and smoky room. Through the darkness, a set of eyes stares out with a
+penetrating glance. The eyes belong to a granite statue embedded into the stone
+walls, a talisman to watch over the pathway.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15790
+D3
+~
+~
+0 0 15792
+S
+#15792
+Deep Within the Keep (I)~
+The old cobblestones lining the ground have become cracked and worn away. 
+Stalks of fire ivy have grown up from between the cracks to flourish here. 
+Puffing sounds can be heard as the fire ivy's blossoms spit acidic flames into
+the air to ward off predators. The smoke from the flames clouds the hallway,
+making it difficult to see clearly. Sconces in the form of a dragon's head spew
+mystical blue flames across the hallway that cast eerie shadows along the path.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15791
+D3
+~
+~
+0 0 15793
+S
+#15793
+Deep Within the Keep (I)~
+The large stone walls of the keep tower beyond vision. Statues of powerful
+deities have been carved into the granite walls. The statues' faces are carved
+in an angry expression, their mouths twisted and contorted in rage. The eyes on
+the carvings glow with a mystical fire that appears alive. Vines of fire ivy
+grow along the walls, entwining themselves around the statues. The ivy produces
+a brilliant red flower that spits out bursts of flame to protect itself against
+predators. Sconces shaped in the form of a dragon's head spew forth a blue
+flame that lights the hallway.
+~
+156 131080 0 0 0 40
+D1
+~
+~
+0 0 15792
+D3
+~
+~
+0 0 15794
+S
+#15794
+Deep Within the Keep (I)~
+Large stone walls border an old cobblestone path worn away with age. Stalks of
+fire ivy grow up from beneath the cobblestones and spread out across the ground
+and up along the walls. The vines entwine themselves around exquisitely cut
+statues that have been carved right into the stone walls. The statues are
+carved in the image of the great fire gods looking down upon the path with a
+stern expression. The most striking feature of the magnificent carvings are the
+eyes, which seem to burn with an unworldly glow, as if they could come alive at
+any moment.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15793
+D3
+~
+~
+0 0 15795
+S
+#15795
+Deep Within the Keep (I)~
+A patchwork of cobblestone tiles lines the floor. The old stones have been worn
+out with age, and many of them are cracked or eroded. Growing from between the
+spaces of the cobblestones are thick stalks of fire ivy. The ivy produces a
+brilliant red flower that releases bursts of flames into the air to keep
+trespassers away from the roots. The smoke produced from the ivy's flames fills
+the hallway in a hazy mist. Sconces carved in the shape of a dragon's head
+release a mystical blue flame that casts an eerie light across the keep. A fire
+hydra is here, its numerous heads locking in on your position.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15794
+D3
+~
+~
+0 0 15796
+S
+#15796
+Deep Within the Keep (I)~
+The hallway is composed of smooth stone walls that are exquisitely cut and
+ornately crafted. Carved into the walls are images of a great volcano about to
+erupt. The effect of the picture is amplified by the smoke rising from the top
+of the volcano, that fills the area with a cloud of mist that makes it difficult
+to see. A mystical blue-green glow that fills the air seems to be originating
+from somewhere to the west. The floor is a patchwork of old cobblestones that
+have cracked and broken over the years. Stalks of fire ivy have grown from
+beneath the stones to overtake much of the room, adding a wild ambience to the
+area.
+~
+156 131081 0 0 0 40
+D1
+~
+~
+0 0 15795
+D3
+~
+~
+0 0 15735
+S
+$~

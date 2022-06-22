@@ -1,0 +1,1452 @@
+#11200
+Second Level of Marshall's Tomb~
+A large mural of Queen Lita is painted on the floor here. A faint echo flows
+through the room, tickling the hairs on your neck. The look on the face of the
+queen is a sad, burdened by the fact her own child took her life.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11201
+D1
+~
+~
+0 0 11222
+D2
+~
+~
+0 0 11223
+D3
+~
+~
+0 0 11213
+D4
+~
+grate~
+2 11021 11041
+D5
+~
+door~
+2 11213 11242
+S
+#11201
+Second Level of Marshall's Tomb~
+A faint glow bounces off the walls and cascades along the floors, lending a
+gentle touch to the sheer chaos otherwise present here.  Murals of a beautiful
+child cover the walls and floor, each appear to be painstakingly dusted clean.
+Small pots of fragrant flowers have been allowed to rest here, their pungent
+smell filling the hallway.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11202
+D2
+~
+~
+0 0 11200
+S
+#11202
+Second Level of Marshall's Tomb~
+The deep smell of rotting flowers lends a bittersweet environment to the
+hallway.  Small statuettes of a very sad looking child have been set in rows
+along each side of the hallway.  Unlike everything else in the burial chamber,
+the statuettes have been polished to a high shine.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11203
+D2
+~
+~
+0 0 11201
+S
+#11203
+Second Level of Marshall's Tomb~
+The whole room seems to be infused with a soft golden light.  Standing in the
+middle of the hallway, the statue of a gorgeous child with haunted eyes stands
+staring off into infinity.  Small pots of rotting flowers sit at the feet of the
+statue.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11204
+D2
+~
+~
+0 0 11202
+S
+#11204
+Second Level of Marshall's Tomb~
+A large painting on the wall of the queen staring at herself in the mirror.
+A faint smell of death lingers through the room, followed by a cool breeze.
+A few cracks in the wall stem out from behind the painting, on leading all
+the way to the floor.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11214
+D2
+~
+~
+0 0 11203
+D3
+~
+~
+0 0 11205
+D5
+~
+floorboard~
+1 0 11232
+S
+#11205
+Second Level of Marshall's Tomb~
+A golden light fills the room from the southeast, cascading around the corner
+and greeting the dank hallway with cheer.  Small piles of broken pottery have
+been cleared to the side, setting at the feet of dusty candlesticks and
+portraits from long ago.  
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11204
+D3
+~
+~
+0 0 11206
+S
+#11206
+Second Level of Marshall's Tomb~
+A single candle stands here, still burning with an eternal flame enchantment.  
+It's soft light casts eerie shadows along the walls and floors, and scares any
+potential pest away with it's brightness.  The light creates a small relief from
+the heavy feeling of death in the burial chamber.  The southern wall is a small
+alter to a nameless god.  
+~
+112 16 0 0 0 0
+D1
+~
+~
+0 0 11205
+D3
+~
+~
+0 0 11207
+S
+#11207
+Second Level of Marshall's Tomb~
+Faint whispers can be heard from somewhere in the room.  A water drip sounds out
+from a distance and echoes through the dank halls bouncing from corridor to
+corridor, creating a rythmic sound.  A small table sits in the corner with a
+small candle burning in the middle.  
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11206
+D2
+~
+~
+0 0 11208
+D5
+~
+~
+0 0 11233
+S
+#11208
+Second Level of Marshall's Tomb~
+Darkness clouds vision here, pierced by very faint candles to the north and
+south.  Here, the darkness seems far more complete.  The cold air feels heavy
+and oppressive here, pierced by the echoing sound of dripping water.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11207
+D2
+~
+~
+0 0 11209
+S
+#11209
+Second Level of Marshall's Tomb~
+A lonely candle stands here, feebly lighting the hallway.  The darkness seems to
+be closing in on the candle, ready to extinguish it's light at any moment.  
+Echoing waterdrops fill the air, and cold air flows with a faint whistling
+sound.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11208
+D2
+~
+~
+0 0 11210
+S
+#11210
+Second Level of Marshall's Tomb~
+Smooth stone walls have been made to create this dark tomb.  Dripping water
+echoes in the air and cool drafts dance up and down the walkway.  The air is
+heavy with grief and the scent of decay.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11209
+D2
+~
+~
+0 0 11211
+S
+#11211
+Second Level of Marshall's Tomb~
+Smooth stone walls have been made to create this dark tomb.  Dripping water
+echoes in the air and cool drafts dance up and down the walkway.  The air is
+heavy with grief and the scent of decay.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11210
+D1
+~
+~
+0 0 11212
+S
+#11212
+Second Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.  Smooth stone walls have been
+made to create this dark tomb.  Dripping water echoes in the air and cool drafts
+dance up and down the walkway.  The air is heavy with grief and the scent of
+decay.  
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11213
+D3
+~
+~
+0 0 11211
+S
+#11213
+Second Level of Marshall's Tomb~
+Smooth stone walls have been made to create this dark tomb.  Dripping water
+echoes in the air and cool drafts dance up and down the walkway.  The air is
+heavy with grief and the scent of decay.  
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11200
+D3
+~
+~
+0 0 11212
+S
+#11214
+Second Level of Marshall's Tomb~
+The hallway is nearly empty here, save for the dust and a large oblong object
+set against the wall.  The decaying smell of death hangs heavy in the air.  A
+soft glow comes from the hallway off to the southwest, adding a false sense of
+cheerfulness to the halls.  
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11215
+D3
+~
+~
+0 0 11204
+S
+#11215
+Second Level of Marshall's Tomb~
+Large ornate frames stand empty here, their contents hanging in shreds from the
+frames.  Thick moats of dust float in the air, dancing with the last rays of a
+golden light from around a corner down the hallway.  Death is present here,
+causing all who pass to shiver with fear.  
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11216
+D3
+~
+~
+0 0 11214
+S
+#11216
+Second Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.  A cool breeze flows up from
+below through some cracks in the floor.  Portraits of the once powerful mage
+Queen lita adorn the walls here.  One of the portraits depicts the queen and her
+young apprentice prciticing magic in a field somewhere.  
+~
+112 0 0 0 0 0
+D2
+~
+~
+0 0 11217
+D3
+~
+~
+0 0 11215
+D5
+~
+door~
+2 11200 11237
+S
+#11217
+Second Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11216
+D2
+~
+~
+0 0 11218
+S
+#11218
+Second Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11217
+D2
+~
+~
+0 0 11219
+S
+#11219
+Second Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11218
+D2
+~
+~
+0 0 11220
+S
+#11220
+Second Level of Marshall's Tomb~
+Cool drafts of air stir the dust here.  The echoes of distant memories seem to
+scream up from murals along the otherwise bare walls.  A pile of dusty rags has
+been abandoned here, faintly looking like a rat's nest.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11219
+D2
+~
+~
+0 0 11231
+D3
+~
+~
+0 0 11221
+S
+#11221
+Second Level of Marshall's Tomb~
+The unused hallways cling to a decaying smell that wafts up from
+undistinguishable pots along the floor.  Cast off memories lay in piles along
+the walls, tributes to the dead.  Inlaid in the floor are several small images
+of Marshall's family.  
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11220
+D3
+~
+~
+0 0 11222
+S
+#11222
+Second Level of Marshall's Tomb~
+The cold sound of death echoes through the hallsways.  A faint chill hangs heavy
+in the air, stirring cobwebs and shifting the dust.  Candle sticks that once
+housed eternal flames lay unused on the sides of the hallway.  
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11221
+D3
+~
+~
+0 0 11200
+S
+#11223
+Second Level of Marshall's Tomb~
+The hallway here has been decorated with toys and baubles that obviously once
+belong to a child.  Painstaking care has been taken to preserve this area,
+despite the obvious disregard to the rest of the chambers.  The scent of death
+seems faint here, and a golden glow can be seen from the southern hallway.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11200
+D2
+~
+~
+0 0 11224
+S
+#11224
+Second Level of Marshall's Tomb~
+The hallway is filled with a deep sorrow here, and it seems to have depressed
+even the wind to the point of not blowing.  Footprints muddle the dust on the
+floor, and the toys and books strewn about have been cleaned with a loving
+touch.  Along the floor is a depiction of a courtyard in spring, a gorgeous
+child playing amid the flowers with the queen.  It is the only part of the floor
+that is clean, and the colors are as crisp as if it were reality.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11223
+D2
+~
+~
+0 0 11225
+S
+#11225
+Second Level of Marshall's Tomb~
+The hallway curves here, and in the far edge of the room a small altar has been
+built.  It appears to be made of pure gold, and it radiates an unearthly light.
+Atop the altar is a small statue, and behind it a large portrait of a smiling
+child.  The air is heavy with grief, as if someone had just recently departed
+from here to hide their tears.  
+~
+112 16 0 0 0 0
+D0
+~
+~
+0 0 11224
+D1
+~
+~
+0 0 11226
+S
+#11226
+Second Level of Marshall's Tomb~
+A soft glow bathes this area in a calming light, casting long shadows down the
+hallway.  Portraits hang along the southern wall, depicing the life of a noble
+man.  In the pictures close to the end he is accompanied by a beautiful woman
+who's gaze seems to follow any who come close.  Very few pictures contain the
+child who's presence haunts the chambers, and they all look incredibly somber.
+
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11227
+D3
+~
+~
+0 0 11225
+S
+#11227
+Second Level of Marshall's Tomb~
+The sound of dripping water echoes loudly here, as a crack in the ceiling leaks
+out a tiny silver trail of droplettes.  A portrait of a very sad, very beautiful
+woman is hanging on the wall beneath the watery leak, making it appear as if the
+drops are her tears.  A feeling of pure grief brushes over the hallway, causing
+nervous glances over the shoulder--just in case.  
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11228
+D3
+~
+~
+0 0 11226
+S
+#11228
+Second Level of Marshall's Tomb~
+Shadows lurk heavily here, lending a dreamlike quality to the room.  A small
+candle stands on the floor against the wall, emitting a light far too bright for
+the size.  Smaller pictures line the walls, filled with troubled smiles.  
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11229
+D3
+~
+~
+0 0 11227
+S
+#11229
+Second Level of Marshall's Tomb~
+The hallway begins to curve here, leading to another hallway.  The hallow
+echoing sound of water dripping fills the air from the west, bouncing off the
+walls and dancing through the darkness.  Shuffling footsteps can be heard but
+seem to come from just beyond vision range.  The soft whistle of a brisk breeze
+teases the senses from the north.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11230
+D3
+~
+~
+0 0 11228
+S
+#11230
+Second Level of Marshall's Tomb~
+Multitudes of pictures have been leaned against the wall here, their contents
+hidden from view.  Dust covers the portraits long forgotten by the years.  
+Echoing drops of water dance along the walls, seeming to come from somewhere to
+the south.  Abandoned candle holders are bunched along with the portraits, as if
+someone had come through to clear something out of here and left the job
+unfinished.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11231
+D2
+~
+~
+0 0 11229
+S
+#11231
+Second Level of Marshall's Tomb~
+The walls are covered with pictures that have been covered by heavy black cloth.
+A chilling breeze seeks out any breaks in armor, like the touch of death seeking
+life.  Echoing memories haunt this hallway, taunting weary adventurers to
+imagine things lurking in the shadows.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11220
+D2
+~
+~
+0 0 11230
+S
+#11232
+A Chamber Full of Mirrors~
+This room is filled with full size mirrors, creating the image of a million of
+you.  A soft white figure gently floats behind you in the reflections and a cold
+chill climbs your spine.  With a closer look, nothing is there.  
+~
+112 4 0 0 0 0
+D4
+~
+~
+0 0 11204
+S
+#11233
+A Hidden Chamber~
+This chamber is well lit with some form of magic emitting from the floor.  A
+large painting of the queen riding the back of a dragon through a battlefield
+hangs on the east wall.  The field in the painting is littered with charred
+bodies.  
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11235
+D2
+~
+~
+0 0 11234
+D3
+~
+~
+0 0 11236
+D4
+~
+~
+0 0 11207
+D5
+~
+floor~
+2 11201 11245
+S
+#11234
+A Hidden Chamber~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11233
+S
+#11235
+A Hidden Chamber~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D2
+~
+~
+0 0 11233
+S
+#11236
+A Hidden Chamber~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11233
+S
+#11237
+A Hidden Passage~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11238
+D4
+~
+door~
+2 11200 11216
+S
+#11238
+A Hidden Passage~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11240
+D1
+~
+~
+0 0 11239
+D2
+~
+~
+0 0 11241
+D3
+~
+~
+0 0 11237
+S
+#11239
+A Hidden Chamber~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D3
+~
+~
+0 0 11238
+S
+#11240
+A Hidden Chamber~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D2
+~
+~
+0 0 11238
+S
+#11241
+A Hidden Chamber~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11238
+S
+#11242
+A Hidden Passage~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D2
+~
+~
+0 0 11243
+D4
+~
+door~
+2 11213 11200
+S
+#11243
+A Hidden Passage~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11242
+D2
+~
+~
+0 0 11244
+S
+#11244
+A Hidden Passage~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11243
+S
+#11245
+Third Level of Marshall's Tomb~
+You are in an unfinished room.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11246
+D4
+~
+ceiling~
+2 11201 11233
+S
+#11246
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11247
+D3
+~
+~
+0 0 11245
+S
+#11247
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11248
+D2
+~
+~
+0 0 11250
+D3
+~
+~
+0 0 11246
+S
+#11248
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11249
+D3
+~
+~
+0 0 11247
+S
+#11249
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D3
+~
+~
+0 0 11248
+S
+#11250
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11247
+D2
+~
+~
+0 0 11251
+S
+#11251
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11250
+D2
+~
+~
+0 0 11252
+S
+#11252
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11251
+D2
+~
+~
+0 0 11253
+S
+#11253
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11252
+D2
+~
+~
+0 0 11254
+S
+#11254
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11253
+D1
+~
+~
+0 0 11255
+S
+#11255
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11256
+D3
+~
+~
+0 0 11254
+S
+#11256
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11257
+D2
+~
+~
+0 0 11265
+D3
+~
+~
+0 0 11255
+S
+#11257
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11258
+D3
+~
+~
+0 0 11256
+S
+#11258
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11260
+D1
+~
+~
+0 0 11259
+D3
+~
+~
+0 0 11257
+S
+#11259
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D3
+~
+~
+0 0 11258
+D5
+~
+~
+0 0 11270
+S
+#11260
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11261
+D2
+~
+~
+0 0 11258
+S
+#11261
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11262
+D2
+~
+~
+0 0 11260
+S
+#11262
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11263
+D2
+~
+~
+0 0 11261
+S
+#11263
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11264
+D2
+~
+~
+0 0 11262
+S
+#11264
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D2
+~
+~
+0 0 11263
+S
+#11265
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11256
+D2
+~
+~
+0 0 11266
+S
+#11266
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11265
+D2
+~
+~
+0 0 11267
+S
+#11267
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11266
+D1
+~
+~
+0 0 11269
+D3
+~
+~
+0 0 11268
+S
+#11268
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11267
+S
+#11269
+Third Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D3
+~
+~
+0 0 11267
+S
+#11270
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11271
+D4
+~
+~
+0 0 11259
+S
+#11271
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11273
+D1
+~
+~
+0 0 11272
+D2
+~
+~
+0 0 11279
+D3
+~
+~
+0 0 11270
+S
+#11272
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D3
+~
+~
+0 0 11271
+S
+#11273
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11274
+D2
+~
+~
+0 0 11271
+S
+#11274
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11275
+D2
+~
+~
+0 0 11273
+S
+#11275
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11276
+D2
+~
+~
+0 0 11274
+S
+#11276
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11278
+D2
+~
+~
+0 0 11275
+D3
+~
+~
+0 0 11277
+S
+#11277
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11276
+S
+#11278
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D3
+~
+~
+0 0 11276
+S
+#11279
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11271
+D2
+~
+~
+0 0 11280
+S
+#11280
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11279
+D3
+~
+~
+0 0 11281
+S
+#11281
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11280
+D3
+~
+~
+0 0 11282
+S
+#11282
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11281
+D3
+~
+~
+0 0 11283
+S
+#11283
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11282
+D3
+~
+~
+0 0 11284
+S
+#11284
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11283
+D3
+~
+~
+0 0 11285
+S
+#11285
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11286
+D1
+~
+~
+0 0 11284
+S
+#11286
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D2
+~
+~
+0 0 11285
+D3
+~
+~
+0 0 11287
+S
+#11287
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 0 11286
+D3
+~
+~
+0 0 11288
+S
+#11288
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11290
+D1
+~
+~
+0 0 11287
+D2
+~
+door~
+2 11201 11289
+S
+#11289
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+door~
+2 11201 11288
+S
+#11290
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11291
+D2
+~
+~
+0 0 11288
+S
+#11291
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D2
+~
+~
+0 0 11290
+D3
+~
+~
+0 0 11292
+S
+#11292
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11293
+D1
+~
+~
+0 0 11291
+S
+#11293
+Bottom Level of Marshall's Tomb~
+This unfinished room was created by Bluntmaster.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 0 11294
+D2
+~
+~
+0 0 11292
+S
+#11294
+Bottom Level of Marshall's Tomb~
+This room has arack of weapons, mostly hammers and flails. A dusty suit or orcish armor lies crumpled in the corner of the room.
+~
+112 20 0 0 0 0
+D2
+~
+~
+0 0 11293
+S
+#11295
+Marshall's Forge Storage~
+You are in an unfinished room.
+~
+112 0 0 0 0 0
+S
+$~

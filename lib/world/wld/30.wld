@@ -1,0 +1,1058 @@
+#3000
+A Mine Shaft~
+Mine - 5
+    
+   o-o-o        o
+   |   |        |\
+   o o o        1 o
+   |  \|          |
+   o-o o          o-o                o-o-o o-o-o
+      \           | |                 \  |   |
+       o-o        o-o o-o-o-o          o o   o
+          \          \|     |          | |   |
+       1-o-o          o     o          o 2-o-o-o
+                      |     |\         |  \
+                      o-o-o-o o        o-o-o
+                              |         \
+                        o-o-o-o          o
+                        |   |
+                      o-o   o
+                       \    |
+                        2 o-o-o
+This Layout is Complete.
+~
+30 0 0 0 0 0
+D5
+~
+~
+0 0 3001
+S
+#3001
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3002
+D4
+~
+~
+0 0 3000
+S
+#3002
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3003
+D2
+~
+~
+0 0 3001
+S
+#3003
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D2
+~
+~
+0 0 3002
+D3
+~
+~
+0 0 3004
+S
+#3004
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3059
+D1
+~
+~
+0 0 3003
+D3
+~
+~
+0 0 3005
+S
+#3005
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3004
+D2
+~
+~
+0 0 3006
+S
+#3006
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3005
+D2
+~
+~
+0 0 3007
+D3
+~
+~
+0 0 3063
+S
+#3007
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3006
+D1
+~
+~
+0 0 3008
+S
+#3008
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D3
+~
+~
+0 0 3007
+D5
+~
+~
+0 0 3009
+S
+#3009
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3010
+D4
+~
+~
+0 0 3008
+S
+#3010
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3065
+D3
+~
+~
+0 0 3009
+D5
+~
+~
+0 0 3011
+S
+#3011
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D3
+~
+~
+0 0 3012
+D4
+~
+~
+0 0 3010
+S
+#3012
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3011
+D3
+~
+~
+0 0 3013
+S
+#3013
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3014
+D1
+~
+~
+0 0 3012
+D2
+~
+~
+0 0 3069
+S
+#3014
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D2
+~
+~
+0 0 3013
+D5
+~
+~
+0 0 3015
+S
+#3015
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D2
+~
+~
+0 0 3016
+D4
+~
+~
+0 0 3014
+S
+#3016
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3015
+D1
+~
+~
+0 0 3019
+D2
+~
+~
+0 0 3017
+S
+#3017
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3016
+D1
+~
+~
+0 0 3018
+S
+#3018
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3019
+D3
+~
+~
+0 0 3017
+D5
+~
+~
+0 0 3020
+S
+#3019
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D2
+~
+~
+0 0 3018
+D3
+~
+~
+0 0 3016
+S
+#3020
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3021
+D2
+~
+~
+0 0 3029
+D4
+~
+~
+0 0 3018
+S
+#3021
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3020
+S
+#3022
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3023
+D3
+~
+~
+0 0 3021
+S
+#3023
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3024
+D3
+~
+~
+0 0 3022
+S
+#3024
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D2
+~
+~
+0 0 3025
+D3
+~
+~
+0 0 3023
+S
+#3025
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3024
+D2
+~
+~
+0 0 3026
+D5
+~
+~
+0 0 3030
+S
+#3026
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3025
+D3
+~
+~
+0 0 3027
+S
+#3027
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3026
+D3
+~
+~
+0 0 3028
+S
+#3028
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3027
+D3
+~
+~
+0 0 3029
+S
+#3029
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3020
+D1
+~
+~
+0 0 3028
+S
+#3030
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D2
+~
+~
+0 0 3031
+D4
+~
+~
+0 0 3025
+S
+#3031
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3030
+D3
+~
+~
+0 0 3032
+S
+#3032
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3031
+D2
+~
+~
+0 0 3033
+D3
+~
+~
+0 0 3037
+S
+#3033
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3032
+D2
+~
+~
+0 0 3034
+S
+#3034
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3033
+D1
+~
+~
+0 0 3035
+D3
+~
+~
+0 0 3036
+S
+#3035
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D3
+~
+~
+0 0 3034
+S
+#3036
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3034
+S
+#3037
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3032
+D3
+~
+~
+0 0 3038
+S
+#3038
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3037
+D2
+~
+~
+0 0 3039
+S
+#3039
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3038
+D3
+~
+~
+0 0 3040
+S
+#3040
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3039
+D5
+~
+~
+0 0 3041
+S
+#3041
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3049
+D1
+~
+~
+0 0 3042
+D4
+~
+~
+0 0 3040
+D5
+~
+~
+0 0 3058
+S
+#3042
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3043
+D3
+~
+~
+0 0 3041
+S
+#3043
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3045
+D1
+~
+~
+0 0 3044
+D3
+~
+~
+0 0 3042
+S
+#3044
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D3
+~
+~
+0 0 3043
+S
+#3045
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3046
+D2
+~
+~
+0 0 3043
+S
+#3046
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3047
+D2
+~
+~
+0 0 3045
+D3
+~
+~
+0 0 3048
+S
+#3047
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D3
+~
+~
+0 0 3046
+S
+#3048
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3046
+S
+#3049
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3050
+D2
+~
+~
+0 0 3041
+S
+#3050
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D2
+~
+~
+0 0 3049
+D3
+~
+~
+0 0 3051
+S
+#3051
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3050
+D3
+~
+~
+0 0 3052
+S
+#3052
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3051
+D5
+~
+~
+0 0 3053
+S
+#3053
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D2
+~
+~
+0 0 3054
+D4
+~
+~
+0 0 3052
+S
+#3054
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3053
+D2
+~
+~
+0 0 3055
+S
+#3055
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3054
+D1
+~
+~
+0 0 3057
+D5
+~
+~
+0 0 3056
+S
+#3056
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D4
+~
+~
+0 0 3055
+S
+#3057
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3058
+D3
+~
+~
+0 0 3055
+S
+#3058
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D3
+~
+~
+0 0 3057
+D4
+~
+~
+0 0 3041
+S
+#3059
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3060
+D2
+~
+~
+0 0 3004
+S
+#3060
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3061
+D2
+~
+~
+0 0 3059
+D3
+~
+~
+0 0 3062
+S
+#3061
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D3
+~
+~
+0 0 3060
+S
+#3062
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3060
+S
+#3063
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3064
+D1
+~
+~
+0 0 3006
+S
+#3064
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D2
+~
+~
+0 0 3063
+S
+#3065
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3066
+D3
+~
+~
+0 0 3010
+S
+#3066
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3067
+D2
+~
+~
+0 0 3068
+D3
+~
+~
+0 0 3065
+S
+#3067
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D2
+~
+~
+0 0 3066
+S
+#3068
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3066
+S
+#3069
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3013
+D2
+~
+~
+0 0 3070
+S
+#3070
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D0
+~
+~
+0 0 3069
+D1
+~
+~
+0 0 3071
+D3
+~
+~
+0 0 3072
+S
+#3071
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D3
+~
+~
+0 0 3070
+S
+#3072
+New BuildWalk Room~
+This unfinished room was created by Anubis.
+~
+30 0 0 0 0 0
+D1
+~
+~
+0 0 3070
+S
+$~

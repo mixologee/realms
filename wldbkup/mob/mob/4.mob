@@ -1,0 +1,488 @@
+#402
+bat small brown~
+a small brown bat~
+A small brown bat shifts uncomfortably in the light.
+~
+Brown bats inhabit just about anywhere they can get food, usually near woods-
+this one has taken up communal residence in this cave, away from the light.
+~
+8 0 0 0 -2113928792 0 0 0 0 E
+3 15 -1 50d10+30 1d2+0
+0 25000
+8 8 0
+Clss: 2
+E
+#403
+gruet jaws~
+a gruet~
+Screaming wildly, a pair of massive jaws attached to a sickly yellow humanoid body rushes at you out of the darkness!
+~
+This hideous humanoid beast crouches on all fours, gnashing its tooth-lined jaws
+and flailing its large claws hands. The beast before you springs with its small
+but muscled hind quarters and lands atop your chest, attempting to remove your
+head from your torso.
+~
+1048616 0 0 0 1056 0 0 0 0 E
+5 10 3 15d50+75 3d6+25
+0 70000
+8 8 0
+BareHandAttack: 9
+Att1: 9
+Att2: 8
+E
+#405
+avolakia octopus locust worm~
+an avolakia~
+Some horrible, demented blend of an octopus, locust, and annelid towers before you, eyeing the meat on your bones.
+~
+This aberration is among the most disturbing things you have ever laid reluctant
+eyes upon. Its body is that of a segmented worm, oozing poisonous slime, with a
+ring of tentacles and then insect legs running around its body that ends in a
+horrid toothed maw surrounded by soft clawed arms. The avolakia must have
+fallen and become trapped here when it came, following the scent of undead
+flesh. Now it keeps itself alive off of the dead matter on the cave floor. 
+The countless eyes on the ends of its tentacles lock in on your location, and it
+slithers your way, craving fresh meat.
+~
+1075740 0 0 0 18812 0 0 0 -750 E
+20 -10 -5 10d10+500 3d3+5
+0 150000
+8 8 0
+BareHandAttack: 2
+Att1: 2
+Att2: 2
+Att3: 2
+Clss: 5
+E
+#406
+cave centipede~
+a cave centipede~
+A long, armored arachnid with many legs scuttles by, only stopping to chew on your shoelace before moving on.
+~
+A centipede toodles along, minding its own business as it searches for bits of
+detritus to eat. Deviating from the course of its overground cousins, this
+arachnid does not feast on living flesh- nonetheless, it is equipped with
+armored plates and poisonous jaws for self-defense.
+~
+2076 0 0 0 26704 0 0 0 0 E
+10 -10 -8 10d20+100 1d50+10
+0 30000
+8 8 0
+BareHandAttack: 4
+Att1: 10
+Att2: 10
+Att3: 10
+Clss: 2
+E
+#407
+rat pack water~
+a pack of water rats~
+A quivering horde of enormous black rats covers the corpse of a large, unknown mammal.
+~
+Rats rarely cooperate above ground, but they seem to hunt in packs down below.
+Hundreds of rats swarm together, acting as one, hunting down warm, fresh meat
+and subsisting on what they can find in the absence of such delicacies. They
+turn as a mass and swarm up your legs, knawing at your clothes and skin...
+~
+1165372 0 0 0 33554624 0 0 0 -300 E
+9 -20 9 5d100+90 1d25+30
+90 100000
+8 8 0
+BareHandAttack: 4
+Att1: 4
+Att2: 4
+Att3: 4
+Clss: 2
+E
+T 404
+#408
+tentacle mud fiend arm~
+a mud pit fiend~
+A thick brown arm lined with teeth reaches up out of the muck, feeling about for prey in which to lay its eggs.
+~
+It is impossible to know what being this toothed arm belongs to, as it reaches
+up out of the depths of the earth, from where it is hot down below. Your only
+knowledge of such a beast comes from the tails of wandering minstrels, who sing
+of adventurers who have seen a single comrade dragged down into the depths by a
+mud pit fiend, to be the host if its eggs.
+~
+1091642 0 0 0 168821232 0 0 0 -500 E
+20 -30 -2 100d10+200 6d6+30
+200 150000
+8 8 2
+BareHandAttack: 10
+Att1: 10
+Att2: 10
+Att3: 10
+E
+#409
+mouth~
+a bottom-feeder~
+The seagrass waves alluringly, beckoning you closer.
+~
+A genius adaptation to this environment, a kind of plecostomus has developed an
+appearance similar to seagrass so that when it sits in the mud, creating
+illusions to draw prey in with its psionic powers, it can lure fish close enough
+to capture it in its gigantic tooth-filled mouth. If you are close enough to
+see the trick, you are already too late to save yourself.
+~
+1296186 0 0 0 -2078799752 0 0 0 0 E
+15 0 -1 10d10+150 6d7+5
+0 120000
+8 8 0
+BareHandAttack: 7
+Att1: 7
+Att2: 7
+Clss: 7
+E
+#410
+lesser drake ice lizard dragon~
+a lesser frost drake~
+Floating on an orb hewn of ice, this drake somersaults through the air joyously breathing jets of ice.
+~
+Drakes are like small dragons, territorial, fierce, and great lovers of
+treasure. Ice drakes in particular delight in taking up residence in cold
+tunnels, deep underground where they can hide their treasure in peace and
+hopefully get a good healthy meal occasionally, even if this means chasing down
+a wayward adventurer.
+~
+68364570 0 0 0 534908 0 0 0 0 E
+20 -20 -8 50d12+200 6d12+40
+50000 90000
+8 8 1
+BareHandAttack: 4
+Att1: 8
+Att2: 12
+Att3: 9
+Clss: 21
+E
+#411
+ice icy tunnel guardian elemental air water~
+a tunnel guardian from the planes of Air and Water~
+A peculiar elemental hulks here, with two ice treestumps for feet and a misty frost torso.
+~
+Towering overhead, this elemental is like a crossbreed of an air and water
+elemental, most likely born of their close proximity in this cavern. It has two
+solid ice feet shaped like great treestumps, a misty torso of ice shards, and
+two sets of whirling claws made of sharp ice. It stomps your way, intent on
+protecting its birthplace from desecration.
+~
+239674 0 0 0 27132 0 0 0 500 E
+15 -30 -10 100d5+300 5d10+10
+0 100000
+8 8 0
+BareHandAttack: 6
+Att1: 6
+Att2: 12
+Att3: 12
+Clss: 21
+E
+#412
+shaman wandering man~
+a wandering shaman~
+A holy man of the wilderness meditates here, deep in reflection.
+~
+This shaman has probably travelled far and wide across the land- such is the
+nature of a shaman, always moving, never resting for long. This chamber seems
+to be a holy place for the shamans, so a friendly face is always close at hand,
+even this far underground.
+~
+260250 0 0 0 58731000 0 0 0 900 E
+22 13 0 100d50+220 3d3+3
+0 48400
+8 9 1
+Clss: 6
+E
+#413
+hook horror beast trapped~
+a Hook Horror, trapped in ice~
+This birdlike beast waves its hooked hands at you from where it is trapped in the ice.
+~
+It looks unfinished. Somehow a Hook Horror has become trapped in the wall here,
+by its legs. Despite this handicap, it makes due and readily snatches anything
+that enters the room, and isn't about to stop with your party members.
+~
+1050666 0 0 0 2112 0 0 0 -500 E
+21 5 5 16d16+210 7d7+30
+0 75000
+8 8 1
+BareHandAttack: 11
+Att1: 11
+Att2: 11
+Clss: 2
+E
+#415
+undefined~
+the enormous rock lobster~
+This rock shifts suspiciously under your feet.
+~
+This is no rock after all! It's a crustacean that, like most other crustaceans,
+feeds off of dead things. Its rocklike appearance coupled with its peculiar
+location indicates that it intends to make you into a corpse so that you can be
+sufficiently dead and ready to eat.
+~
+81962 0 0 0 96 0 0 0 0 E
+20 14 -10 100d10+200 3d3+25
+0 100000
+8 8 0
+BareHandAttack: 7
+Att1: 13
+Clss: 7
+E
+#416
+ooze bone rolling graveyard~
+a bone ooze~
+A mass of bones hovers before you, suspended in a brownish ooze that rolls slowly towards you.
+~
+This is only a piece of the beast, a massive bone ooze which is appropriately
+also called a rolling graveyard. This name refers to the mass of bones trapped
+within its body, the result of its method of feasting. It first engulfs a
+victim, and then crushes it and rips the bones from its body to get the
+life-sustaining calcium that it needs to survive. Quick, get out, or be rolled
+over and killed!
+~
+1302584 0 0 0 2168 0 0 0 0 E
+25 -30 -5 100d70+250 30d10+100
+500 150000
+8 8 0
+BareHandAttack: 6
+Att1: 6
+Clss: 8
+E
+#417
+ant metal~
+a metallic clockwork ant~
+A gigantic, silver clockwork ant crawls along one wall, sending tremors through the tunnel.
+~
+This clockwork ant is, despite appearances, an elemental of Earth. Every piece
+of its body shines like burnished silver, and all of its joints swirl and twist
+smoothly and silently as it walks. A kind of cold intelligence is reflected in
+its large eyes, and it seems anxious for you to leave.
+~
+-2130646998 15 0 0 134217808 0 0 0 500 E
+31 -40 -10 100d6+310 6d8+40
+1200 11200
+8 8 1
+BareHandAttack: 4
+Att1: 8
+Att2: 8
+Clss: 21
+E
+#418
+woman Cavern Goddess~
+the Cavern Goddess~
+A beautiful woman lies upon the stone slab, gazing at you thoughtfully.
+~
+The Goddess of the Cavern takes on a human form as you draw near, recognizing
+you. She can take any form she wishes, and chooses the form of a beautiful
+woman in which to communicate with you. She lies with a silk sash across her
+waist and her long golden hair falls off the stone almost to the floor. Her
+skin is a pearly white, smooth and warm, enticing in its beauty. Your eyes
+meet, and you feel yourself falling, whisked far away... Perhaps you should
+have known not to gaze long upon a goddess.
+~
+2074 0 0 0 0 0 0 0 1000 E
+41 7 -14 100d100+410 6d6+6
+410 168100
+8 8 2
+E
+#419
+cave lichen~
+a magical cave lichen~
+A clump of lichen clings thickly to one wall, giving off a faint green glow.
+~
+This lichen belongs to the elemental plane of Earth, and resides wherever
+magical residues can be found to eat up. They are a peaceful kind of plant
+life, content to crawl about eating up the residual magic in areas such as this
+subterranean, extraplanar labyrinth.
+~
+528540 0 0 0 526418 0 0 0 0 E
+25 10 -5 100d20+0 4d4+1
+0 62500
+8 8 0
+Clss: 2
+E
+#425
+carnivorous cave fish~
+a carnivorous cave fish~
+A long, armored fish swims swiftly about you, its deadly sharp teeth jutting from its rubbery gray mouth.
+~
+It looks unfinished. This fish is built to kill other fish- it is heavily
+armored, but not impeded by its size, and has many endless rows of small,
+inward-pointing teeth that can pierce scales and latch onto flesh. It lunges
+towards you, sensing a potential meal.
+~
+1050680 0 0 0 0 0 0 0 0 E
+15 -10 -7 5d10+200 4d5+10
+0 90000
+8 8 0
+BareHandAttack: 4
+Att1: 4
+Att2: 4
+Clss: 2
+E
+#426
+bat water fisher~
+a fish-catching bat~
+A large brown bat darts over the water, snatching up minnows to eat.
+~
+It looks unfinished. This bat has large cavernous ears and thick fur, which it
+delights in hiding small fish in to take back to its nest. It wheels about over
+the water, snatching a few minnows and avoiding the larger carnivorous fish
+before soaring into the darkness above.
+~
+269582344 0 0 0 0 0 0 0 0 E
+5 0 0 16d6+100 1d2+5
+0 40000
+8 8 0
+BareHandAttack: 8
+Clss: 2
+E
+#427
+male fish cave blind~
+a flat-headed cave catfish~
+A flat-headed cave catfish swims slowly by with a swish of its tail, drifting just under the surface of the mud.
+~
+This fish is albino white except for its beady, blind eyes on either side of its
+head. It has been designed by nature to be best suited for a life of dining on
+the things that float down from above.
+~
+108702 0 0 0 0 0 0 0 0 E
+7 5 -5 12d12+70 1d6+1
+0 60000
+5 5 0
+BareHandAttack: 10
+Clss: 2
+E
+#428
+small lurker runt~
+a pathetically small lurker~
+A sort of black footrug appears to be gliding slowly towards you.
+~
+The average lurker is a frightening being to behold, and might take a whole
+troop of adventurers to take down- they are one of every spelunker's worst
+nightmare, high on the list. This one isn't even mildly frightening- it is just
+a bit saddening, how small and pathetic it is. It must have been born a runt
+and shunned from its lurker community, left to roam the world and find a safe
+haven to eat things that can't put up a fight. Determined to prove itself, it
+starts gnawing on your foot.
+~
+1048744 0 0 0 134742264 0 0 0 -250 E
+25 0 -5 9d12+250 4d4+4
+0 62500
+8 8 0
+BareHandAttack: 4
+Clss: 14
+E
+#429
+man skelunker crazed Maravid~
+the maddened citydweller, Maravid~
+A man hulks in the corner, fear and insanity burning in his eyes.
+~
+The man has a crazed look in his bloodred eyes, and looks everywhere but at you,
+searching for something. A thick line of foamy drool runs down his chin onto
+the ripped remains of his shirt, hanging out of his armor by a sleeve. He is
+large, obviously strong, and equipped to fight a war. Whatever he came down
+here for, he doesn't seem to have been successful in. Clutched in his hand is a
+tear-stained human skull, with a silver locket wrapped about it.
+~
+1105962 0 0 0 2424 0 0 0 300 E
+25 -50 -5 6d40+500 5d7+50
+250 150000
+8 8 1
+BareHandAttack: 13
+Att1: 13
+Att2: 13
+Att3: 13
+E
+#430
+magpie Accarid's messenger bird~
+Accarid's messenger magpie~
+A very relaxed-looking magpie appears bemused by your arrival.
+~
+Congratulations! You've found me. Please, stay as long as you like, enjoy the
+company of my secretary *wink*, and take this reward for being strong,
+attentive, inquisitive, and determined enough to make it this far.
+~
+4110 0 0 0 27128 0 0 0 0 E
+42 -107 -15 8d8+420 7d7+7
+420 176400
+8 8 1
+BareHandAttack: 8
+Clss: 17
+E
+#431
+secretary sexy woman~
+a sexy secretary~
+A sexy secretary lounges here, idly chewing on a feather quill.
+~
+Other than her curled purple hair and deep, dark eyes, this woman appears to be
+a completely normal, overly sexy human woman. Her job must be very relaxing,
+because she doesn't need to wear makeup or shoes- or much of anything, for that
+matter. The secretary wears a short brown skirt that emphasises her long legs,
+and relaxes in a black sports bra, which makes her decolletage really stand out.
+She looks at you for a moment, smiles, and goes back to her paperwork cataloging
+shiny things.
+~
+4106 0 0 0 0 0 0 0 1000 E
+9 17 4 1d1+90 1d2+1
+90 8100
+8 8 2
+E
+#432
+topaz dragon~
+a topaz crystal dragon~
+You are surprised to see a topaz dragon in such an unusual environment.
+~
+Topaz dragons generally live near the ocean, in a dry cavern- are you that far
+from where the cave began? It appears to be a young adult, as its scales are a
+solid topaz color, but its eyes are still black and the scales have not melded
+together yet. It eyes you curiously, not showing any anger at your presence,
+but judging from the smoke shooting from its nostrils if you prove untrustworthy
+it will gladly make an adventurer-kebab of you.
+~
+68282394 0 0 0 -1073192452 1 0 0 300 E
+41 -60 -14 100d80+410 15d15+90
+556 150000
+8 8 1
+BareHandAttack: 9
+Att1: 3
+Att2: 4
+Att3: 8
+Clss: 21
+E
+#433
+muscled clay miner man~
+a muscled clay miner~
+A large man heaves a pickaxe, breaking great big clumps of clay off to shovel into his bucket.
+~
+This man is brave for being willing to come down here in the darkness and
+collect the precious clay that can be found in these tunnels. A cheerful look
+goes across his face as a large hunk of rich clay breaks free, and he continues
+his work humming merrily.
+~
+526346 0 0 0 33562944 0 0 0 100 E
+15 5 1 15d4+400 2d2+5
+150 40000
+8 8 1
+E
+#448
+zombie lost undead adventurer~
+a lost zombie~
+An adventurer unfortunate enough to have been turned into a zombie floats here listlessly.
+~
+The zombie little resembles the human it once was. The eyes have long since
+been eaten out by fish, and every organ is bloated and grey beyond recognition.
+The finger and toenails are absent, but a few strands of hair remain attached to
+the exposed skull.
+~
+1294394 0 0 0 1703936 0 0 0 0 E
+12 10 9 2d2+120 4d5+10
+120 40000
+8 8 0
+BareHandAttack: 13
+Att1: 4
+Att2: 8
+Clss: 1
+E
+$

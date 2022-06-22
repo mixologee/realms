@@ -1,0 +1,85 @@
+#19900
+guard castle~
+a guard of Castle Cannibis~
+A large man stands guard here.
+~
+A large man who is well armored stands before you.  He has cold eyes and a look
+of concentration on his face.  He must take his job seriously.  
+~
+22600 0 0 0 16 0 0 0 0 E
+20 0 -5 20d50+4000 5d3+20
+1000 350000
+8 8 1
+Clss: 1
+E
+#19901
+servant~
+a servant of Castle Cannibis~
+A servant of the castle runs around frantically getting things done.
+~
+A mixed look of exhaustion and panic cover this mans face.  He seems to have
+been running around like this for some time now.  
+~
+55368 0 0 0 0 0 0 0 0 E
+20 5 9 10d50+3500 2d5+10
+500 250000
+8 8 0
+Clss: 1
+E
+#19902
+maid~
+a maid of Castle Cannibis~
+A lovely, young woman tends to the cleanliness of the castle.
+~
+A lovely, young lady with long brown hair and a black and white maid uniform is
+before you.  She has soft brown eyes and a winning smile.  
+~
+20552 0 0 0 0 0 0 0 500 E
+20 5 10 30d10+3000 5d2+5
+0 225000
+8 8 0
+Clss: 1
+E
+#19903
+guard castle~
+a guard of Castle Sativa~
+A large man stands guard here.
+~
+A large man who is well armored stands before you.  He has cold eyes and a look
+of concentration on his face.  He must take his job seriously.  
+~
+6216 0 0 0 0 0 0 0 0 E
+20 0 7 20d50+4000 5d3+20
+1000 350000
+8 8 1
+Clss: 1
+E
+#19904
+servant~
+a servant of Castle Sativa~
+A servant of the castle runs around frantically getting things done.
+~
+A mixed look of exhaustionand panic cover this mans face.  He seems to have been
+running around like this for some time now.  
+~
+26696 0 0 0 16 0 0 0 0 E
+20 5 9 10d50+3500 2d5+10
+500 250000
+8 8 1
+Clss: 1
+E
+#19905
+maid~
+a maid of Castle Sativa~
+A lovely young woman tends to the leanliness of the castle.
+~
+A lovely young lady with long brown hair and a lblack and white unifrorm is
+before you.  She has soft brown eyes and a winning smile.  
+~
+61512 0 0 0 0 0 0 0 500 E
+20 5 10 30d10+3000 5d2+5
+0 225000
+8 8 2
+Clss: 1
+E
+$

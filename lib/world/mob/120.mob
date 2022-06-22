@@ -1,0 +1,168 @@
+#12000
+behemoth~
+the Behemoth~
+A mammoth beast of lore lumbers through the area, its tusks nearly touching the ground.
+~
+It looks unfinished.
+~
+134217896 0 0 0 2304 0 0 0 -100 E
+50 -80 -8 1000d10+500 10d8+80
+0 250000
+8 8 0
+BareHandAttack: 9
+Att1: 50
+Att2: 50
+Att3: 50
+Clss: 10
+E
+#12001
+apprentice~
+Kain the apprentice~
+A hooded apparition silently walks your way, beginning to cast a spell.
+~
+It looks unfinished.
+~
+42 0 0 0 82296 4 0 0 -1000 E
+45 5 7 9d9+7000 7d7+7
+420 202500
+8 8 1
+BareHandAttack: 8
+Att1: 30
+Clss: 18
+E
+#12002
+thrall~
+an enslaved cleric thrall~
+A very dead cleric stands here against her will.
+~
+It looks unfinished.
+~
+2090 0 0 0 11384 0 0 0 300 E
+35 9 10 7d7+1000 5d5+5
+0 122500
+8 8 2
+BareHandAttack: 13
+Clss: 6
+E
+#12003
+pikeman~
+an enthralled pikeman~
+A long-deceased warrior stands here, permanently entangled with his pike.
+~
+It looks unfinished.
+~
+2312 0 0 0 2424 0 0 0 200 E
+35 -10 -9 10d7+750 5d2+10
+0 122500
+8 8 0
+BareHandAttack: 13
+Clss: 8
+E
+#12004
+footsoldier soldier~
+an undead footsoldier~
+An undead footsoldier trudges wearily across the battlefield for eternity.
+~
+It looks unfinished.
+~
+1050888 0 0 0 2168 80 0 0 190 E
+35 -15 -8 10d10+800 5d5+15
+0 122500
+8 8 0
+BareHandAttack: 13
+Att1: 20
+Att2: 20
+Att3: 20
+Clss: 8
+E
+#12005
+charioteer~
+a deceased charioteer~
+An man in plate armor stays steadfast in his chariot long after death.
+~
+It looks unfinished.
+~
+2312 0 0 0 2424 32 0 0 290 E
+35 -15 -5 10d8+800 5d5+10
+0 122500
+8 8 0
+BareHandAttack: 13
+Clss: 7
+E
+#12006
+archer~
+a fallen archer~
+A fallen archer limps across the marshy earth.
+~
+It looks unfinished.
+~
+2344 0 0 0 2424 0 0 0 275 E
+35 -30 0 7d7+1000 5d5+5
+0 122500
+8 8 0
+BareHandAttack: 13
+Clss: 7
+E
+#12007
+mage~
+a rotten battlemage~
+A robed figure stalks the battlefield, surrounded by spirit flames.
+~
+It looks unfinished.
+~
+1050888 0 0 0 124 512 0 0 200 E
+35 9 0 7d7+600 5d5+5
+0 122500
+8 8 0
+BareHandAttack: 13
+Clss: 5
+E
+#12008
+Darok general man~
+Darok the Ludrix Commander~
+A man noble even in death stands here, ever plotting to recapture his home city.
+~
+It looks unfinished.
+~
+1050888 0 0 0 532736 144 0 0 500 E
+40 -20 -1 8d8+4000 7d4+20
+1670 160000
+8 8 1
+BareHandAttack: 13
+Att1: 24
+Att2: 24
+Att3: 24
+Clss: 11
+E
+#12009
+corpse~
+an emaciated corpse~
+A bloated, ragged corpse floats face-down in its watery grave.
+~
+It looks unfinished.
+~
+42 0 0 0 1572864 1 0 0 -200 E
+20 0 -10 4d4+1000 20d3+100
+0 40000
+8 8 0
+BareHandAttack: 13
+Att1: 40
+Att2: 50
+Att3: 30
+Clss: 1
+E
+#12010
+wight~
+a barrow wight~
+A strange humanoid hobbles around the graves, muttering incoherently.
+~
+It looks unfinished.
+~
+1089576 0 0 0 537413752 0 0 0 -500 E
+34 9 0 6d6+2000 5d5+5
+1260 115600
+8 8 0
+BareHandAttack: 14
+Clss: 5
+E
+$
